@@ -1,153 +1,219 @@
 // Slime AI — Auto-generated news data
-// Generated: 2026-09-27T20:47:21.524102+00:00
+// Generated: 2026-09-28T03:21:41.362740+00:00
 const NEWS_DATA = [
+  { day: '2026-09-28', items: [
+    {
+      id: 58818,
+      zh: { title: 'SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL', desc: '' },
+      ja: { title: 'SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL', desc: '' },
+      en: { title: 'SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 81,
+      tags: ["product"], url: 'https://huggingface.co/papers/2609.29050'
+    },
+    {
+      id: 37552,
+      zh: { title: 'InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data', desc: '' },
+      ja: { title: 'InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data', desc: '' },
+      en: { title: 'InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 68,
+      tags: ["model"], url: 'https://huggingface.co/papers/2609.31394'
+    },
+    {
+      id: 75917,
+      zh: { title: 'Game Arena: Strategic 大语言模型 Evaluation in Competitive Environments', desc: '' },
+      ja: { title: 'Game Arena: Strategic 大規模言語モデル Evaluation in Competitive Environments', desc: '' },
+      en: { title: 'Game Arena: Strategic LLM Evaluation in Competitive Environments', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 86,
+      tags: ["model"], url: 'https://huggingface.co/papers/2609.31473'
+    },
+    {
+      id: 95654,
+      zh: { title: 'FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders', desc: '' },
+      ja: { title: 'FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders', desc: '' },
+      en: { title: 'FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 69,
+      tags: ["coding"], url: 'https://huggingface.co/papers/2609.31620'
+    },
+    {
+      id: 92768,
+      zh: { title: 'Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy', desc: '' },
+      ja: { title: 'Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy', desc: '' },
+      en: { title: 'Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 82,
+      tags: ["policy"], url: 'https://huggingface.co/papers/2609.28660'
+    },
+    {
+      id: 38602,
+      zh: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
+      ja: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
+      en: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 71,
+      tags: ["model"], url: 'https://huggingface.co/papers/2609.28603'
+    },
+    {
+      id: 30549,
+      zh: { title: 'RGBD20K: A Large-Scale 基准 for RGB-D Semantic Segmentation', desc: '' },
+      ja: { title: 'RGBD20K: A Large-Scale ベンチマーク for RGB-D Semantic Segmentation', desc: '' },
+      en: { title: 'RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 65,
+      tags: ["paper"], url: 'https://huggingface.co/papers/2609.29028'
+    },
+    {
+      id: 60167,
+      zh: { title: 'AV-GRPO: Modality-Anchored Decoupling 扩散 强化学习 for Joint Audio-Video Generation', desc: '' },
+      ja: { title: 'AV-GRPO: Modality-Anchored Decoupling 拡散 強化学習 for Joint Audio-Video Generation', desc: '' },
+      en: { title: 'AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 66,
+      tags: ["multimodal", "video", "speech"], url: 'https://huggingface.co/papers/2609.29816'
+    },
+    {
+      id: 71971,
+      zh: { title: 'Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in 大语言模型s', desc: '' },
+      ja: { title: 'Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in 大規模言語モデルs', desc: '' },
+      en: { title: 'Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 71,
+      tags: ["model"], url: 'https://huggingface.co/papers/2609.29845'
+    },
+    {
+      id: 32488,
+      zh: { title: 'Just Ask Jev: 强化学习 for Calibrated Decisions as a Zero-Shot Detector of AI 对齐 FAIlures', desc: '' },
+      ja: { title: 'Just Ask Jev: 強化学習 for Calibrated Decisions as a Zero-Shot Detector of AI アライメント FAIlures', desc: '' },
+      en: { title: 'Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures', desc: '' },
+      source: 'Hugging Face', time: '03:21', heat: 86,
+      tags: ["safety"], url: 'https://huggingface.co/papers/2609.29429'
+    },
+    {
+      id: 62395,
+      zh: { title: '量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层', desc: '' },
+      ja: { title: '量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层', desc: '' },
+      en: { title: '量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层', desc: '' },
+      source: '量子位', time: '03:21', heat: 70,
+      tags: ["model"], url: 'https://www.qbitai.com/2026/09/498633.html'
+    },
+    {
+      id: 32598,
+      zh: { title: '量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门', desc: '' },
+      ja: { title: '量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门', desc: '' },
+      en: { title: '量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门', desc: '' },
+      source: '量子位', time: '03:21', heat: 71,
+      tags: ["model"], url: 'https://www.qbitai.com/2026/09/498605.html'
+    },
+    {
+      id: 48240,
+      zh: { title: '又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录', desc: '' },
+      ja: { title: '又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录', desc: '' },
+      en: { title: '又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录', desc: '' },
+      source: '量子位', time: '03:21', heat: 79,
+      tags: ["coding"], url: 'https://www.qbitai.com/2026/09/498584.html'
+    },
+    {
+      id: 99412,
+      zh: { title: '啥题啊能干崩OpenAI最强模型训练…', desc: '' },
+      ja: { title: '啥题啊能干崩OpenAI最强模型训练…', desc: '' },
+      en: { title: '啥题啊能干崩OpenAI最强模型训练…', desc: '' },
+      source: '量子位', time: '03:21', heat: 82,
+      tags: ["deployment"], url: 'https://www.qbitai.com/2026/09/498546.html'
+    },
+    {
+      id: 13481,
+      zh: { title: '索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准', desc: '' },
+      ja: { title: '索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准', desc: '' },
+      en: { title: '索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准', desc: '' },
+      source: '量子位', time: '03:21', heat: 80,
+      tags: ["model", "industry"], url: 'https://www.qbitai.com/2026/09/498478.html'
+    },
+    {
+      id: 14153,
+      zh: { title: 'AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo', desc: '' },
+      ja: { title: 'AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo', desc: '' },
+      en: { title: 'AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo', desc: '' },
+      source: '量子位', time: '03:21', heat: 80,
+      tags: ["paper"], url: 'https://www.qbitai.com/2026/09/498271.html'
+    },
+    {
+      id: 72546,
+      zh: { title: '笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub', desc: '' },
+      ja: { title: '笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub', desc: '' },
+      en: { title: '笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub', desc: '' },
+      source: '量子位', time: '03:21', heat: 84,
+      tags: ["open-source"], url: 'https://www.qbitai.com/2026/09/497624.html'
+    },
+    {
+      id: 72213,
+      zh: { title: '在云栖大会，我终于看懂了米哈游千亿AI野心', desc: '' },
+      ja: { title: '在云栖大会，我终于看懂了米哈游千亿AI野心', desc: '' },
+      en: { title: '在云栖大会，我终于看懂了米哈游千亿AI野心', desc: '' },
+      source: '量子位', time: '03:21', heat: 79,
+      tags: ["model"], url: 'https://www.qbitai.com/2026/09/497613.html'
+    },
+    {
+      id: 64548,
+      zh: { title: '微软 drops Copilot+ branding from its new laptops', desc: '' },
+      ja: { title: 'マイクロソフト drops Copilot+ branding from its new laptops', desc: '' },
+      en: { title: 'Microsoft drops Copilot+ branding from its new laptops', desc: '' },
+      source: 'HN (anthuswilliams)', time: '02:46', heat: 54,
+      tags: ["coding"], url: 'https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding'
+    },
+    {
+      id: 50560,
+      zh: { title: 'Nissan\'s third generation e-POWER powertrAIn', desc: '' },
+      ja: { title: 'Nissan\'s third generation e-POWER powertrAIn', desc: '' },
+      en: { title: 'Nissan\'s third generation e-POWER powertrain', desc: '' },
+      source: 'HN (mroche)', time: '02:31', heat: 53,
+      tags: ["model"], url: 'https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/'
+    },
+    {
+      id: 62931,
+      zh: { title: '"The refrigerator is dead": Samsung\'s AI fridges shut down after update', desc: '' },
+      ja: { title: '"The refrigerator is dead": Samsung\'s AI fridges shut down after update', desc: '' },
+      en: { title: '"The refrigerator is dead": Samsung\'s AI fridges shut down after update', desc: '' },
+      source: 'HN (RachelF)', time: '01:28', heat: 52,
+      tags: ["model"], url: 'https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html'
+    },
+    {
+      id: 71873,
+      zh: { title: 'OpenAI pauses 训练 of latest models after 智能体s probed US Government sites', desc: '' },
+      ja: { title: 'OpenAI pauses トレーニング of latest models after エージェントs probed US Government sites', desc: '' },
+      en: { title: 'OpenAI pauses training of latest models after agents probed US Government sites', desc: '' },
+      source: 'HN (daniel_iversen)', time: '01:20', heat: 55,
+      tags: ["model", "agent", "deployment"], url: 'https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20'
+    },
+  ]},
   { day: '2026-09-27', items: [
     {
-      id: 72945,
+      id: 15160,
+      zh: { title: 'Flux 3 Action: A 7B open-weight world action model for robots', desc: '' },
+      ja: { title: 'Flux 3 Action: A 7B open-weight world action model for robots', desc: '' },
+      en: { title: 'Flux 3 Action: A 7B open-weight world action model for robots', desc: '' },
+      source: 'HN (fourfire)', time: '23:45', heat: 55,
+      tags: ["model", "robotics"], url: 'https://huggingface.co/blog/black-forest-labs/flux-3-action'
+    },
+    {
+      id: 32069,
+      zh: { title: 'Hitachi to double US production of small and medium-sized power Transformers', desc: '' },
+      ja: { title: 'Hitachi to double US production of small and medium-sized power Transformers', desc: '' },
+      en: { title: 'Hitachi to double US production of small and medium-sized power transformers', desc: '' },
+      source: 'HN (JumpCrisscross)', time: '23:27', heat: 61,
+      tags: ["product"], url: 'https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/'
+    },
+    {
+      id: 67308,
       zh: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
       ja: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
       en: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
       source: 'Hugging Face', time: '20:47', heat: 80,
-      tags: ["model"], url: 'https://huggingface.co/papers/2609.28603'
+      tags: ["model"], url: '#'
     },
     {
-      id: 33959,
-      zh: { title: 'RGBD20K: A Large-Scale 基准 for RGB-D Semantic Segmentation', desc: '' },
-      ja: { title: 'RGBD20K: A Large-Scale ベンチマーク for RGB-D Semantic Segmentation', desc: '' },
-      en: { title: 'RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 71,
-      tags: ["paper"], url: 'https://huggingface.co/papers/2609.29028'
+      id: 87391,
+      zh: { title: 'Calling the AI bluff: Adding "Do not guess" cut made-up clAIms from 71% to 20%', desc: '' },
+      ja: { title: 'Calling the AI bluff: Adding "Do not guess" cut made-up clAIms from 71% to 20%', desc: '' },
+      en: { title: 'Calling the AI bluff: Adding "Do not guess" cut made-up claims from 71% to 20%', desc: '' },
+      source: 'HN (FKJ)', time: '17:24', heat: 64,
+      tags: ["model"], url: 'https://earnanhonestdollar.com/bench'
     },
     {
-      id: 43709,
-      zh: { title: 'AV-GRPO: Modality-Anchored Decoupling 扩散 强化学习 for Joint Audio-Video Generation', desc: '' },
-      ja: { title: 'AV-GRPO: Modality-Anchored Decoupling 拡散 強化学習 for Joint Audio-Video Generation', desc: '' },
-      en: { title: 'AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 88,
-      tags: ["multimodal", "video", "speech"], url: 'https://huggingface.co/papers/2609.29816'
-    },
-    {
-      id: 84996,
-      zh: { title: 'Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in 大语言模型s', desc: '' },
-      ja: { title: 'Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in 大規模言語モデルs', desc: '' },
-      en: { title: 'Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 69,
-      tags: ["model"], url: 'https://huggingface.co/papers/2609.29845'
-    },
-    {
-      id: 76098,
-      zh: { title: 'Just Ask Jev: 强化学习 for Calibrated Decisions as a Zero-Shot Detector of AI 对齐 FAIlures', desc: '' },
-      ja: { title: 'Just Ask Jev: 強化学習 for Calibrated Decisions as a Zero-Shot Detector of AI アライメント FAIlures', desc: '' },
-      en: { title: 'Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 67,
-      tags: ["safety"], url: 'https://huggingface.co/papers/2609.29429'
-    },
-    {
-      id: 98209,
-      zh: { title: 'Parts-of-Speech as Emergent Categories in SAE Latent Space', desc: '' },
-      ja: { title: 'Parts-of-Speech as Emergent Categories in SAE Latent Space', desc: '' },
-      en: { title: 'Parts-of-Speech as Emergent Categories in SAE Latent Space', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 84,
-      tags: ["multimodal", "speech"], url: 'https://huggingface.co/papers/2609.29362'
-    },
-    {
-      id: 25505,
-      zh: { title: '编程 智能体s for Generalized Task and Motion Planning Problems', desc: '' },
-      ja: { title: 'コーディング エージェントs for Generalized Task and Motion Planning Problems', desc: '' },
-      en: { title: 'Coding Agents for Generalized Task and Motion Planning Problems', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 83,
-      tags: ["agent", "coding"], url: 'https://huggingface.co/papers/2609.30233'
-    },
-    {
-      id: 99617,
-      zh: { title: 'DeltaWAM: Delta World Action Models for Bimanual Manipulation', desc: '' },
-      ja: { title: 'DeltaWAM: Delta World Action Models for Bimanual Manipulation', desc: '' },
-      en: { title: 'DeltaWAM: Delta World Action Models for Bimanual Manipulation', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 67,
-      tags: ["model"], url: 'https://huggingface.co/papers/2609.28811'
-    },
-    {
-      id: 28875,
-      zh: { title: 'Rufus-AIr: An Open 大语言模型 Post-训练 Recipe', desc: '' },
-      ja: { title: 'Rufus-AIr: An Open 大規模言語モデル Post-トレーニング Recipe', desc: '' },
-      en: { title: 'Rufus-Air: An Open LLM Post-Training Recipe', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 78,
-      tags: ["model", "deployment"], url: 'https://huggingface.co/papers/2609.29421'
-    },
-    {
-      id: 34220,
-      zh: { title: 'Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone', desc: '' },
-      ja: { title: 'Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone', desc: '' },
-      en: { title: 'Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone', desc: '' },
-      source: 'Hugging Face', time: '20:47', heat: 87,
-      tags: ["model"], url: 'https://huggingface.co/papers/2609.23087'
-    },
-    {
-      id: 74739,
-      zh: { title: '量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层', desc: '' },
-      ja: { title: '量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层', desc: '' },
-      en: { title: '量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层', desc: '' },
-      source: '量子位', time: '20:47', heat: 73,
-      tags: ["model"], url: 'https://www.qbitai.com/2026/09/498633.html'
-    },
-    {
-      id: 69575,
-      zh: { title: '量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门', desc: '' },
-      ja: { title: '量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门', desc: '' },
-      en: { title: '量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门', desc: '' },
-      source: '量子位', time: '20:47', heat: 66,
-      tags: ["model"], url: 'https://www.qbitai.com/2026/09/498605.html'
-    },
-    {
-      id: 85375,
-      zh: { title: '又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录', desc: '' },
-      ja: { title: '又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录', desc: '' },
-      en: { title: '又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录', desc: '' },
-      source: '量子位', time: '20:47', heat: 67,
-      tags: ["coding"], url: 'https://www.qbitai.com/2026/09/498584.html'
-    },
-    {
-      id: 47974,
-      zh: { title: '啥题啊能干崩OpenAI最强模型训练…', desc: '' },
-      ja: { title: '啥题啊能干崩OpenAI最强模型训练…', desc: '' },
-      en: { title: '啥题啊能干崩OpenAI最强模型训练…', desc: '' },
-      source: '量子位', time: '20:47', heat: 69,
-      tags: ["deployment"], url: 'https://www.qbitai.com/2026/09/498546.html'
-    },
-    {
-      id: 85449,
-      zh: { title: '索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准', desc: '' },
-      ja: { title: '索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准', desc: '' },
-      en: { title: '索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准', desc: '' },
-      source: '量子位', time: '20:47', heat: 83,
-      tags: ["model", "industry"], url: 'https://www.qbitai.com/2026/09/498478.html'
-    },
-    {
-      id: 99946,
-      zh: { title: 'AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo', desc: '' },
-      ja: { title: 'AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo', desc: '' },
-      en: { title: 'AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo', desc: '' },
-      source: '量子位', time: '20:47', heat: 80,
-      tags: ["paper"], url: 'https://www.qbitai.com/2026/09/498271.html'
-    },
-    {
-      id: 10330,
-      zh: { title: '笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub', desc: '' },
-      ja: { title: '笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub', desc: '' },
-      en: { title: '笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub', desc: '' },
-      source: '量子位', time: '20:47', heat: 73,
-      tags: ["open-source"], url: 'https://www.qbitai.com/2026/09/497624.html'
-    },
-    {
-      id: 37416,
-      zh: { title: '在云栖大会，我终于看懂了米哈游千亿AI野心', desc: '' },
-      ja: { title: '在云栖大会，我终于看懂了米哈游千亿AI野心', desc: '' },
-      en: { title: '在云栖大会，我终于看懂了米哈游千亿AI野心', desc: '' },
-      source: '量子位', time: '20:47', heat: 82,
-      tags: ["model"], url: 'https://www.qbitai.com/2026/09/497613.html'
-    },
-    {
-      id: 88200,
+      id: 56863,
       zh: { title: 'There are no "rogue" AI 智能体s', desc: '' },
       ja: { title: 'There are no "rogue" AI エージェントs', desc: '' },
       en: { title: 'There are no "rogue" AI agents', desc: '' },
@@ -155,23 +221,15 @@ const NEWS_DATA = [
       tags: ["agent"], url: 'https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents'
     },
     {
-      id: 86914,
-      zh: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
-      ja: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
-      en: { title: 'Learning to Discover Interesting Mathematics', desc: '' },
-      source: 'Hugging Face', time: '16:18', heat: 66,
-      tags: ["model"], url: '#'
-    },
-    {
-      id: 39714,
+      id: 19630,
       zh: { title: '分享： TinyAIArena watch AI 智能体s battle it out', desc: '' },
       ja: { title: 'シェア： TinyAIArena watch AI エージェントs battle it out', desc: '' },
       en: { title: 'Show HN: TinyAIArena watch AI agents battle it out', desc: '' },
-      source: 'HN (hp6)', time: '15:51', heat: 89,
+      source: 'HN (hp6)', time: '15:51', heat: 95,
       tags: ["agent"], url: 'https://tinyaiarena.com/'
     },
     {
-      id: 49730,
+      id: 60974,
       zh: { title: 'The Normalization of Inexplicable FAIlures', desc: '' },
       ja: { title: 'The Normalization of Inexplicable FAIlures', desc: '' },
       en: { title: 'The Normalization of Inexplicable Failures', desc: '' },
@@ -179,31 +237,15 @@ const NEWS_DATA = [
       tags: ["model"], url: 'https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html'
     },
     {
-      id: 76539,
+      id: 12581,
       zh: { title: 'FRAGment of oldest known peace treaty found in Turkey', desc: '' },
       ja: { title: 'FRAGment of oldest known peace treaty found in Turkey', desc: '' },
       en: { title: 'Fragment of oldest known peace treaty found in Turkey', desc: '' },
-      source: 'HN (gmays)', time: '14:35', heat: 66,
+      source: 'HN (gmays)', time: '14:35', heat: 85,
       tags: ["model"], url: 'https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey'
     },
     {
-      id: 45734,
-      zh: { title: '"As a Language Model": Chat Template Switches 大语言模型 Self-Referential Voice', desc: '' },
-      ja: { title: '"As a Language Model": Chat Template Switches 大規模言語モデル Self-Referential Voice', desc: '' },
-      en: { title: '"As a Language Model": Chat Template Switches LLM Self-Referential Voice', desc: '' },
-      source: 'HN (yu3zhou4)', time: '10:26', heat: 95,
-      tags: ["model", "speech"], url: 'https://arxiv.org/abs/2609.25021'
-    },
-    {
-      id: 47937,
-      zh: { title: 'Meta Blocks President Lula\'s Facebook Page, CampAIgn Ads 2 Weeks from Election', desc: '' },
-      ja: { title: 'Meta Blocks President Lula\'s Facebook Page, CampAIgn Ads 2 Weeks from Election', desc: '' },
-      en: { title: 'Meta Blocks President Lula\'s Facebook Page, Campaign Ads 2 Weeks from Election', desc: '' },
-      source: 'HN (rbanffy)', time: '08:44', heat: 95,
-      tags: ["model"], url: 'https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/'
-    },
-    {
-      id: 27636,
+      id: 61461,
       zh: { title: 'Unsealed Briefs in Authors’ Case v. 微软/OpenAI', desc: '' },
       ja: { title: 'Unsealed Briefs in Authors’ Case v. マイクロソフト/OpenAI', desc: '' },
       en: { title: 'Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI', desc: '' },
@@ -213,47 +255,23 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-26', items: [
     {
-      id: 64099,
+      id: 24572,
       zh: { title: 'Faster prompt lookup drafting in LLaMA.cpp', desc: '' },
       ja: { title: 'Faster prompt lookup drafting in LLaMA.cpp', desc: '' },
       en: { title: 'Faster prompt lookup drafting in llama.cpp', desc: '' },
       source: 'HN (pptadversary)', time: '19:57', heat: 72,
-      tags: ["model"], url: 'https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/'
-    },
-    {
-      id: 41309,
-      zh: { title: 'Drawgent: 编程 智能体 on a live Excalidraw canvas', desc: '' },
-      ja: { title: 'Drawgent: コーディング エージェント on a live Excalidraw canvas', desc: '' },
-      en: { title: 'Drawgent: Coding agent on a live Excalidraw canvas', desc: '' },
-      source: 'HN (parasitid)', time: '15:56', heat: 95,
       tags: ["model"], url: '#'
     },
     {
-      id: 10336,
-      zh: { title: 'Drawgent: 编程 智能体 on a live Excalidraw canvas', desc: '' },
-      ja: { title: 'Drawgent: コーディング エージェント on a live Excalidraw canvas', desc: '' },
-      en: { title: 'Drawgent: Coding agent on a live Excalidraw canvas', desc: '' },
-      source: 'HN (parasitid)', time: '15:56', heat: 95,
-      tags: ["agent", "coding"], url: 'https://tangled.org/yanndegat.tngl.sh/drawgent'
+      id: 22266,
+      zh: { title: 'Faster prompt lookup drafting in LLaMA.cpp', desc: '' },
+      ja: { title: 'Faster prompt lookup drafting in LLaMA.cpp', desc: '' },
+      en: { title: 'Faster prompt lookup drafting in llama.cpp', desc: '' },
+      source: 'HN (pptadversary)', time: '19:57', heat: 86,
+      tags: ["model"], url: 'https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/'
     },
     {
-      id: 80130,
-      zh: { title: 'How to keep enjoying programming in a world of 大语言模型s', desc: '' },
-      ja: { title: 'How to keep enjoying programming in a world of 大規模言語モデルs', desc: '' },
-      en: { title: 'How to keep enjoying programming in a world of LLMs', desc: '' },
-      source: 'HN (signa11)', time: '09:41', heat: 95,
-      tags: ["model", "tutorial", "coding"], url: 'https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705'
-    },
-    {
-      id: 73470,
-      zh: { title: 'A single function Jev-like wrapper for 大语言模型s, including vision models', desc: '' },
-      ja: { title: 'A single function Jev-like wrapper for 大規模言語モデルs, including vision models', desc: '' },
-      en: { title: 'A single function Jev-like wrapper for LLMs, including vision models', desc: '' },
-      source: 'HN (allanrbo)', time: '04:20', heat: 95,
-      tags: ["model", "product", "multimodal"], url: 'http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html'
-    },
-    {
-      id: 38682,
+      id: 26085,
       zh: { title: 'An 智能体 used DNS to reach an external chatbot', desc: '' },
       ja: { title: 'An エージェント used DNS to reach an external chatbot', desc: '' },
       en: { title: 'An agent used DNS to reach an external chatbot', desc: '' },
@@ -261,7 +279,7 @@ const NEWS_DATA = [
       tags: ["agent"], url: 'https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/'
     },
     {
-      id: 80068,
+      id: 56550,
       zh: { title: 'Generate fonts where every 大语言模型 Token is the same width', desc: '' },
       ja: { title: 'Generate fonts where every 大規模言語モデル トークン is the same width', desc: '' },
       en: { title: 'Generate fonts where every LLM token is the same width', desc: '' },
@@ -271,59 +289,27 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-25', items: [
     {
-      id: 18707,
+      id: 31350,
       zh: { title: 'OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites', desc: '' },
       ja: { title: 'OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites', desc: '' },
       en: { title: 'OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites', desc: '' },
       source: 'HN (jbegley)', time: '23:22', heat: 61,
       tags: ["model"], url: '#'
     },
-    {
-      id: 17838,
-      zh: { title: 'Revealing the detAIls of how OpenAI 智能体s hacked Hugging Face', desc: '' },
-      ja: { title: 'Revealing the detAIls of how OpenAI エージェントs hacked Hugging Face', desc: '' },
-      en: { title: 'Revealing the details of how OpenAI agents hacked Hugging Face', desc: '' },
-      source: 'HN (specked-citrus)', time: '21:09', heat: 95,
-      tags: ["agent", "open-source"], url: 'https://swarmtraces.org/'
-    },
-    {
-      id: 37414,
-      zh: { title: 'Evolving programming languages in the AI era', desc: '' },
-      ja: { title: 'Evolving programming languages in the AI era', desc: '' },
-      en: { title: 'Evolving programming languages in the AI era', desc: '' },
-      source: 'HN (pjm331)', time: '02:34', heat: 95,
-      tags: ["coding"], url: 'https://dashbit.co/blog/evolving-ai-era'
-    },
   ]},
   { day: '2026-09-24', items: [
     {
-      id: 93132,
+      id: 89673,
       zh: { title: 'Docker releases cloud sandboxes, enabling safe 智能体ic workloads in the cloud', desc: '' },
       ja: { title: 'Docker releases cloud sandboxes, enabling safe エージェントic workloads in the cloud', desc: '' },
       en: { title: 'Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud', desc: '' },
       source: 'HN (pheonixblade9)', time: '22:24', heat: 56,
       tags: ["model"], url: '#'
     },
-    {
-      id: 41504,
-      zh: { title: 'How I changed teaching after AI managed to do all my homework assignments', desc: '' },
-      ja: { title: 'How I changed teaching after AI managed to do all my homework assignments', desc: '' },
-      en: { title: 'How I changed teaching after AI managed to do all my homework assignments', desc: '' },
-      source: 'HN (azhenley)', time: '20:51', heat: 95,
-      tags: ["model"], url: 'https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed'
-    },
-    {
-      id: 57557,
-      zh: { title: 'A searchable library of forgotten public-domAIn film clips from 1915 onward', desc: '' },
-      ja: { title: 'A searchable library of forgotten public-domAIn film clips from 1915 onward', desc: '' },
-      en: { title: 'A searchable library of forgotten public-domain film clips from 1915 onward', desc: '' },
-      source: 'HN (momentmaker)', time: '16:11', heat: 95,
-      tags: ["video"], url: 'https://www.movingimagearchive.com/'
-    },
   ]},
   { day: '2026-09-23', items: [
     {
-      id: 67456,
+      id: 88640,
       zh: { title: 'Stanford violated AI policy after race-swapping students in ad', desc: '' },
       ja: { title: 'Stanford violated AI policy after race-swapping students in ad', desc: '' },
       en: { title: 'Stanford violated AI policy after race-swapping students in ad', desc: '' },
@@ -333,7 +319,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-22', items: [
     {
-      id: 68653,
+      id: 43591,
       zh: { title: 'The new CC, an AI 智能体 built for families', desc: '' },
       ja: { title: 'The new CC, an AI エージェント built for families', desc: '' },
       en: { title: 'The new CC, an AI agent built for families', desc: '' },
@@ -343,7 +329,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-21', items: [
     {
-      id: 63181,
+      id: 98316,
       zh: { title: 'Delta: Highly avAIlable, strongly consistent stoRAGe using chAIn replication (2022)', desc: '' },
       ja: { title: 'Delta: Highly avAIlable, strongly consistent stoRAGe using chAIn replication (2022)', desc: '' },
       en: { title: 'Delta: Highly available, strongly consistent storage using chain replication (2022)', desc: '' },
@@ -353,7 +339,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-20', items: [
     {
-      id: 33556,
+      id: 25855,
       zh: { title: 'Amiga Unix, AgAIn', desc: '' },
       ja: { title: 'Amiga Unix, AgAIn', desc: '' },
       en: { title: 'Amiga Unix, Again', desc: '' },
@@ -363,7 +349,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-19', items: [
     {
-      id: 35839,
+      id: 65152,
       zh: { title: 'Copper-Rs: Live Telemetry Deterministic Twins for Robots', desc: '' },
       ja: { title: 'Copper-Rs: Live Telemetry Deterministic Twins for Robots', desc: '' },
       en: { title: 'Copper-Rs: Live Telemetry Deterministic Twins for Robots', desc: '' },
@@ -373,7 +359,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-18', items: [
     {
-      id: 26496,
+      id: 20555,
       zh: { title: 'Alibaba 开源s AI model that can detect cancer and nearly 150 conditions', desc: '' },
       ja: { title: 'Alibaba オープンソースs AI model that can detect cancer and nearly 150 conditions', desc: '' },
       en: { title: 'Alibaba open-sources AI model that can detect cancer and nearly 150 conditions', desc: '' },
@@ -383,7 +369,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-17', items: [
     {
-      id: 62061,
+      id: 42882,
       zh: { title: 'The FAA\', desc: '' },
       ja: { title: 'The FAA\', desc: '' },
       en: { title: 'The FAA\', desc: '' },
@@ -393,7 +379,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-16', items: [
     {
-      id: 60696,
+      id: 21848,
       zh: { title: 'US interest rates rAIsed for first time in three years', desc: '' },
       ja: { title: 'US interest rates rAIsed for first time in three years', desc: '' },
       en: { title: 'US interest rates raised for first time in three years', desc: '' },
@@ -403,7 +389,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-15', items: [
     {
-      id: 60366,
+      id: 38769,
       zh: { title: 'The Siberian Ice MAIden and the Scythian World', desc: '' },
       ja: { title: 'The Siberian Ice MAIden and the Scythian World', desc: '' },
       en: { title: 'The Siberian Ice Maiden and the Scythian World', desc: '' },
@@ -413,7 +399,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-14', items: [
     {
-      id: 30888,
+      id: 42003,
       zh: { title: 'Anthropic is in regulatory-capture financial loop', desc: '' },
       ja: { title: 'Anthropic is in regulatory-capture financial loop', desc: '' },
       en: { title: 'Anthropic is in regulatory-capture financial loop', desc: '' },
@@ -423,7 +409,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-13', items: [
     {
-      id: 52605,
+      id: 22143,
       zh: { title: 'Due to concerns about malicious applications, GPT2 will not be released (2019)', desc: '' },
       ja: { title: 'Due to concerns about malicious applications, GPT2 will not be released (2019)', desc: '' },
       en: { title: 'Due to concerns about malicious applications, GPT2 will not be released (2019)', desc: '' },
@@ -433,7 +419,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-12', items: [
     {
-      id: 68027,
+      id: 73820,
       zh: { title: '智能体sDock: An IDE designed for 智能体ic AI research', desc: '' },
       ja: { title: 'エージェントsDock: An IDE designed for エージェントic AI research', desc: '' },
       en: { title: 'AgentsDock: An IDE designed for agentic AI research', desc: '' },
@@ -443,7 +429,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-11', items: [
     {
-      id: 33167,
+      id: 35202,
       zh: { title: 'How to Build an AI Software Factory: 智能体s That Open, Review, and Merge PRs', desc: '' },
       ja: { title: 'How to Build an AI Software Factory: エージェントs That Open, Review, and Merge PRs', desc: '' },
       en: { title: 'How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs', desc: '' },
@@ -453,7 +439,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-10', items: [
     {
-      id: 49570,
+      id: 94824,
       zh: { title: 'Anthropic detAIls how Claude was misused for surveillance and weapons', desc: '' },
       ja: { title: 'Anthropic detAIls how Claude was misused for surveillance and weapons', desc: '' },
       en: { title: 'Anthropic details how Claude was misused for surveillance and weapons', desc: '' },
@@ -463,7 +449,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-09', items: [
     {
-      id: 30725,
+      id: 80078,
       zh: { title: 'Trezor\', desc: '' },
       ja: { title: 'Trezor\', desc: '' },
       en: { title: 'Trezor\', desc: '' },
@@ -473,7 +459,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-08', items: [
     {
-      id: 16684,
+      id: 19492,
       zh: { title: '嵌入 a bitmap font in your HyperCard stack', desc: '' },
       ja: { title: '埋め込み a bitmap font in your HyperCard stack', desc: '' },
       en: { title: 'Embedding a bitmap font in your HyperCard stack', desc: '' },
@@ -483,7 +469,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-07', items: [
     {
-      id: 45335,
+      id: 93757,
       zh: { title: 'The smallest edge AI device for local 大语言模型s', desc: '' },
       ja: { title: 'The smallest edge AI device for local 大規模言語モデルs', desc: '' },
       en: { title: 'The smallest edge AI device for local LLMs', desc: '' },
@@ -493,7 +479,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-06', items: [
     {
-      id: 92724,
+      id: 13350,
       zh: { title: 'Pivot to AI 安全, I beg you', desc: '' },
       ja: { title: 'Pivot to AI 安全性, I beg you', desc: '' },
       en: { title: 'Pivot to AI safety, I beg you', desc: '' },
@@ -503,7 +489,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-05', items: [
     {
-      id: 84160,
+      id: 34706,
       zh: { title: 'Chrome agAIn exempts 谷歌 from user site data settings', desc: '' },
       ja: { title: 'Chrome agAIn exempts Google from user site data settings', desc: '' },
       en: { title: 'Chrome again exempts Google from user site data settings', desc: '' },
@@ -513,7 +499,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-04', items: [
     {
-      id: 66957,
+      id: 57591,
       zh: { title: '分享： Moadim.io – A scheduler for 智能体s', desc: '' },
       ja: { title: 'シェア： Moadim.io – A scheduler for エージェントs', desc: '' },
       en: { title: 'Show HN: Moadim.io – A scheduler for agents', desc: '' },
@@ -523,7 +509,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-03', items: [
     {
-      id: 42059,
+      id: 78040,
       zh: { title: 'NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade', desc: '' },
       ja: { title: 'NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade', desc: '' },
       en: { title: 'NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade', desc: '' },
@@ -533,7 +519,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-02', items: [
     {
-      id: 83142,
+      id: 57526,
       zh: { title: 'METR Report on OpenAI / Hugging Face Hacking Incident', desc: '' },
       ja: { title: 'METR Report on OpenAI / Hugging Face Hacking Incident', desc: '' },
       en: { title: 'METR Report on OpenAI / Hugging Face Hacking Incident', desc: '' },
@@ -543,7 +529,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-09-01', items: [
     {
-      id: 50794,
+      id: 23329,
       zh: { title: 'The efficient frontier of 大语言模型 推理', desc: '' },
       ja: { title: 'The efficient frontier of 大規模言語モデル 推論', desc: '' },
       en: { title: 'The efficient frontier of LLM inference', desc: '' },
@@ -553,7 +539,7 @@ const NEWS_DATA = [
   ]},
   { day: '2026-08-31', items: [
     {
-      id: 11364,
+      id: 52668,
       zh: { title: 'How to get a free .arpa domAIn', desc: '' },
       ja: { title: 'How to get a free .arpa domAIn', desc: '' },
       en: { title: 'How to get a free .arpa domain', desc: '' },
@@ -563,21 +549,11 @@ const NEWS_DATA = [
   ]},
   { day: '2026-08-30', items: [
     {
-      id: 22303,
+      id: 76977,
       zh: { title: 'How to build a 扩散 language model', desc: '' },
       ja: { title: 'How to build a 拡散 language model', desc: '' },
       en: { title: 'How to build a diffusion language model', desc: '' },
       source: 'HN (volodia)', time: '23:41', heat: 60,
-      tags: ["model"], url: '#'
-    },
-  ]},
-  { day: '2026-08-29', items: [
-    {
-      id: 69241,
-      zh: { title: 'The Rise and Fall of 智能体 Civilizations', desc: '' },
-      ja: { title: 'The Rise and Fall of エージェント Civilizations', desc: '' },
-      en: { title: 'The Rise and Fall of Agent Civilizations', desc: '' },
-      source: 'HN (consumer451)', time: '23:43', heat: 95,
       tags: ["model"], url: '#'
     },
   ]},

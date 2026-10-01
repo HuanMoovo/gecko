@@ -152,8 +152,9 @@ window.GECKO = window.GECKO || {};
       : "";
     const sources = (ev.sources || []).slice(0, 6).map(sourceChip).join("");
     const entities = (ev.entities || []).slice(0, 4)
-      .map((e) => `<a class="badge" href="#/search?q=${encodeURIComponent(e.name)}">${esc(e.name)}</a>`).join("");
-    const url = ev.main_url || "#/feed";
+      .map((e) => `<a class="badge" href="#/entity/${encodeURIComponent(e.id)}" data-nav>${esc(e.name)}</a>`).join("");
+    const evUrl = ev.event_id ? `#/event/${ev.event_id}` : (ev.main_url || "#/feed");
+    const srcUrl = ev.main_url || "";
     return `<article class="glass card hoverable event-card ${o.cls || ""}">
       <div class="event-top">
         ${badge(eventTypeLabel(ev.event_type), eventTypeCls(ev.event_type))}
@@ -161,11 +162,13 @@ window.GECKO = window.GECKO || {};
         ${ev.trend_state ? badge(stateLabel(ev.trend_state), stateCls(ev.trend_state)) : ""}
         ${ev.tier && ev.tier <= 2 ? badge("T" + ev.tier, "tier1") : ""}
       </div>
-      <h3 class="event-title"><a href="${esc(url)}" target="_blank" rel="noopener">${esc(ev.title || "")}</a></h3>
+      <h3 class="event-title"><a href="${esc(evUrl)}" data-nav>${esc(ev.title || "")}</a></h3>
       ${ev.canonical_description ? `<p class="event-desc">${esc(ev.canonical_description)}</p>` : ""}
       <div class="event-meta">
         <span class="kv">🕒 ${esc(relTime(ev.last_seen_at) || "")}</span>
-        <span class="kv" title="${i18n.t("common.sources")}">📡 ${ev.source_count || (ev.sources || []).length}</span>
+        ${srcUrl ? `<a class="kv hl" href="${esc(srcUrl)}" target="_blank" rel="noopener" title="${esc(i18n.t("common.open"))}">↗ ${esc(i18n.t("common.open"))}</a>` : ""}
+        <span class="kv" title="${i18n.t("common.documents")}">📄 ${ev.source_count || (ev.sources || []).length}</span>
+        <span class="kv" title="${i18n.t("common.sources")}">📡 ${(ev.sources || []).length}</span>
         ${typeof ev.importance_score === "number" ? `<span class="kv">${i18n.t("common.importance")} ${scoreBar(ev.importance_score)}</span>` : ""}
         ${typeof ev.confidence_score === "number" ? `<span class="kv">${i18n.t("common.confidence")} ${ev.confidence_score.toFixed(2)}</span>` : ""}
       </div>

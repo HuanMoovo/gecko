@@ -342,28 +342,43 @@ def extract_entities(title: str, summary: str) -> list[dict]:
 # ============================================================
 # 重要性 / 新颖度 评分
 # ============================================================
-_CONTENT_TYPE_WEIGHT = {"model": 1.0, "paper": 0.75, "repository": 0.7, "product": 0.8,
-                        "news": 0.6, "blog": 0.55, "video": 0.5}
+_CONTENT_TYPE_WEIGHT = C.CONTENT_TYPE_WEIGHT
+
+# 标题信号词（→ 新闻性）。避免把仓库 README 常见词算作信号
+_SIGNAL_WORDS = ("release", "released", "launch", "launched", "announc", "unveil", "introduc",
+                 "发布", "开源", "发表", "上线", "推出", "首个", "first", "record", "突破", "breakthrough")
 
 
 def score_document(doc: dict, org_count: int = 0, text: str = "") -> None:
     """就地计算 importance / novelty / confidence"""
     tier_score = {1: 1.0, 2: 0.8, 3: 0.6, 4: 0.4}.get(doc.get("tier", 4), 0.4)
-    ct = _CONTENT_TYPE_WEIGHT.get(doc.get("content_type", "news"), 0.5)
+    ct = _CONTENT_TYPE_WEIGHT.get(doc.get("content_type", "news"), 0.55)
     ent_boost = min(0.25, 0.05 * len(doc.get("entities", [])))
     cls_conf = doc.get("classification", {}).get("confidence", 0.5)
 
-    # 标题信号：数字 / 发布词 / 突破词
+    # 标题信号
     t = (doc.get("title") or "").lower()
     signal = 0.0
-    for kw in ("release", "launch", "announc", "发布", "开源", "发表", "introduc", "unveil", "breakthrough",
-               "state-of-the-art", "sota", "新", "首个", "first", "record", "突破"):
+    for kw in _SIGNAL_WORDS:
         if kw in t:
-            signal += 0.06
-    signal = min(0.3, signal)
+            signal += 0.05
+    signal = min(0.28, signal)
 
-    importance = min(1.0, 0.30 * tier_score + 0.25 * ct + ent_boost + signal + 0.15 * cls_conf)
-    # 新颖度：与最近内容的语义距离（由 pipeline 用相似度补正）
-    doc["importance_score"] = round(importance, 3)
+    importance = 0.30 * tier_score + 0.25 * ct + ent_boost + signal + 0.15 * cls_conf
+
+    # 仓库新鲜度：新项目加权 / 常青仓库降权（避免 transformers 之类天天霸榜）
+    if doc.get("content_type") == "repository":
+        created = parse_time((doc.get("metadata") or {}).get("created_at"))
+        if created:
+            age_days = (now_utc() - created).days
+            if age_days <= C.REPO_FRESH_DAYS:
+                importance *= 1.18
+            elif age_days >= C.REPO_STALE_DAYS:
+                importance *= 0.70
+    # 论文：同批次数量大，轻微降权
+    elif doc.get("content_type") == "paper":
+        importance *= 0.94
+
+    doc["importance_score"] = round(min(1.0, importance), 3)
     doc["confidence_score"] = round(min(0.98, 0.5 + 0.4 * tier_score + 0.1 * cls_conf), 2)
     doc["novelty_score"] = round(min(1.0, 0.5 + signal + 0.2 * ct), 3)

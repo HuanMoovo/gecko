@@ -21,10 +21,12 @@ if __package__ in (None, ""):  # 支持直接执行
     from scripts.gecko import config as C, store, pipeline, report as report_mod, llm as llm_mod
     from scripts.gecko import connectors
     from scripts.gecko.core import parse_time as _pt
+    from scripts.gecko.core import score_document as _score_document
 else:
     from . import config as C, store, pipeline, report as report_mod, llm as llm_mod
     from . import connectors
     from .core import parse_time as _pt
+    from .core import score_document as _score_document
 
 MAX_DOC_AGE_DAYS = 3          # 只接收最近 3 天发布的文档
 TREND_WINDOW_DAYS = 30        # 趋势计算窗口
@@ -37,6 +39,91 @@ def log(msg: str) -> None:
 
 def load_all_days(n: int) -> list[dict]:
     return store.load_recent_days(n)
+
+
+def _apply_type_caps(docs: list[dict]) -> list[dict]:
+    """按内容类型配额截断（超出部分按重要性保留），控制 arXiv/GitHub 体量"""
+    groups: dict[str, list[dict]] = {}
+    for d in docs:
+        groups.setdefault(d.get("content_type") or "other", []).append(d)
+    out: list[dict] = []
+    dropped = 0
+    for ct, items in groups.items():
+        cap = C.DAILY_TYPE_CAPS.get(ct)
+        if cap and len(items) > cap:
+            items.sort(key=lambda x: -x.get("importance_score", 0))
+            dropped += len(items) - cap
+            items = items[:cap]
+        out.extend(items)
+    if dropped:
+        log(f"type caps: dropped {dropped} low-importance documents")
+    return out
+
+
+def _rescore_all(day_map: dict) -> int:
+    """重算所有文档与事件的重要性评分（评分算法/配置变更后对齐历史数据）"""
+    changed = 0
+    for day in day_map.values():
+        docs_by_id = {d["id"]: d for d in day.get("documents", [])}
+        for doc in docs_by_id.values():
+            before = doc.get("importance_score") or 0
+            _score_document(doc)
+            if abs((doc.get("importance_score") or 0) - before) > 1e-6:
+                changed += 1
+        for ev in day.get("events", []):
+            vals = [docs_by_id[i].get("importance_score", 0)
+                    for i in ev.get("document_ids", []) if i in docs_by_id]
+            if vals:
+                ev["importance_score"] = max(vals)
+                # 事件引用跨天文档时保持保底值
+                ev["importance_score"] = max(ev["importance_score"], 0)
+    if changed:
+        log(f"rescore: {changed} documents re-scored")
+    return changed
+
+
+def _build_rss(days: list[dict], limit: int = 50) -> str:
+    """生成站点级 RSS 2.0（按事件，含原文链接）"""
+    from email.utils import format_datetime
+    from xml.sax.saxutils import escape as xesc
+
+    events: list[dict] = []
+    for day in days:
+        events.extend(day.get("events", []))
+    events.sort(key=lambda e: (e.get("importance_score", 0), e.get("source_count", 0)), reverse=True)
+    site = C.BRAND["site_url"]
+    now = datetime.now(timezone.utc)
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+        "<channel>",
+        f"<title>GECKO · 人工智能前沿信息收集</title>",
+        f"<link>{site}/</link>",
+        f"<description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>",
+        "<language>zh-cn</language>",
+        f"<lastBuildDate>{format_datetime(now)}</lastBuildDate>",
+        f'<atom:link href="{site}/data/feed.xml" rel="self" type="application/rss+xml"/>',
+    ]
+    for ev in events[:limit]:
+        eid = ev.get("event_id", "")
+        link = f"{site}/#/event/{eid}"
+        pub = _pt(ev.get("last_seen_at")) or now
+        desc_bits = [ev.get("canonical_description") or ""]
+        desc_bits.append("来源：" + " · ".join(ev.get("sources", [])[:6]))
+        if ev.get("main_url"):
+            desc_bits.append(f'原文：{ev["main_url"]}')
+        parts += [
+            "<item>",
+            f"<title>{xesc((ev.get('title') or '')[:200])}</title>",
+            f"<link>{xesc(link)}</link>",
+            f'<guid isPermaLink="false">{xesc(eid)}</guid>',
+            f"<pubDate>{format_datetime(pub)}</pubDate>",
+            f"<category>{xesc(ev.get('category') or 'industry')}</category>",
+            f"<description>{xesc(' — '.join(x for x in desc_bits if x))}</description>",
+            "</item>",
+        ]
+    parts += ["</channel>", "</rss>"]
+    return "\n".join(parts)
 
 
 def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_days: int = 14) -> dict:
@@ -91,6 +178,7 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
 
         # ---------- 4. 三层去重 ----------
         kept, dedup_stats = pipeline.dedup(fresh, known_docs)
+        kept = _apply_type_caps(kept)
         log(f"dedup: {dedup_stats}")
         new_docs = kept
 
@@ -145,6 +233,9 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
             if len(docs) > C.MAX_DOCS_PER_DAY:
                 docs.sort(key=lambda x: -x.get("importance_score", 0))
                 d["documents"] = docs[:C.MAX_DOCS_PER_DAY]
+        # 评分算法/配置可能已更新 → 对齐历史数据
+        _rescore_all(day_map)
+        for d in day_map.values():
             d["stats"] = {
                 "documents": len(d.get("documents", [])),
                 "events": len(d.get("events", [])),
@@ -243,6 +334,27 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
         },
     }
     store.save_index(index)
+
+    # ---------- 12. RSS / sitemap / robots ----------
+    rss = _build_rss(load_all_days(7))
+    with open(os.path.join(store.DATA, "feed.xml"), "w", encoding="utf-8") as f:
+        f.write(rss)
+    site = C.BRAND["site_url"]
+    sitemap = "\n".join([
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+        f"  <url><loc>{site}/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>",
+        f"  <url><loc>{site}/#/trends</loc><changefreq>daily</changefreq><priority>0.8</priority></url>",
+        f"  <url><loc>{site}/#/reports</loc><changefreq>daily</changefreq><priority>0.8</priority></url>",
+        f"  <url><loc>{site}/#/feed</loc><changefreq>hourly</changefreq><priority>0.7</priority></url>",
+        "</urlset>",
+    ])
+    with open(os.path.join(store.ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(sitemap)
+    with open(os.path.join(store.ROOT, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(f"User-agent: *\nAllow: /\nSitemap: {site}/sitemap.xml\n")
+    log(f"rss/sitemap/robots written ({len(rss)} bytes feed)")
+
     removed = store.prune_old()
     if removed:
         log(f"pruned {removed} old day shards")

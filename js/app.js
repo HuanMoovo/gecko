@@ -137,7 +137,9 @@
     let name = ROUTES["/" + (parts[0] || "")];
     // /reports/<date>
     if (parts[0] === "reports" && parts[1]) { name = "report"; params.date = parts[1]; }
-    if (parts[0] === "entities" && parts[1]) { name = "research"; params.q = parts[1]; }
+    // /event/<id>  /entity/<id>
+    if (parts[0] === "event" && parts[1]) { name = "event"; params.id = parts[1]; }
+    if (parts[0] === "entity" && parts[1]) { name = "entity"; params.id = parts[1]; }
     if (!name) name = ROUTES["/" + parts.slice(0, 1).join("")] || "home";
     return { name, params, raw: h };
   }
@@ -158,6 +160,8 @@
     ask: () => window.GECKO.views.ask,
     deep: () => window.GECKO.views.ask,
     search: () => window.GECKO.views.searchView,
+    event: () => window.GECKO.views.detail,
+    entity: () => window.GECKO.views.detail,
   };
 
   let navToken = 0;

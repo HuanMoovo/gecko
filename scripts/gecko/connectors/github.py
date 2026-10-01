@@ -55,6 +55,7 @@ def fetch() -> list[dict]:
                     "language": r.get("language"), "topics": topics[:8],
                     "license": ((r.get("license") or {}) or {}).get("spdx_id"),
                     "pushed_at": r.get("pushed_at"),
+                    "created_at": r.get("created_at"),
                 },
             )
     out = list(docs.values())

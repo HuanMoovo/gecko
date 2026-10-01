@@ -3,11 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="GECKO · AI Frontier Intelligence Platform — AI 前沿情报聚合、事件追踪、趋势雷达与每日智能报告">
+  <title>GECKO · 人工智能前沿信息收集</title>
+  <meta name="description" content="GECKO 人工智能前沿信息收集 — 聚合论文、模型发布、开源项目与行业动态，自动去重、事件聚类、趋势计算，每日生成带证据链的中英日三语情报报告。">
+  <meta name="keywords" content="AI,人工智能,大模型,LLM,Agent,论文,arXiv,开源,趋势,情报,日报">
   <meta name="theme-color" content="#070b12">
-  <title>GECKO · AI Frontier Intelligence</title>
+  <link rel="canonical" href="https://HuanMoovo.github.io/gecko/">
+
+  <!-- Open Graph / 分享预览 -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="GECKO">
+  <meta property="og:title" content="GECKO · 人工智能前沿信息收集">
+  <meta property="og:description" content="AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）">
+  <meta property="og:url" content="https://HuanMoovo.github.io/gecko/">
+  <meta property="og:image" content="https://HuanMoovo.github.io/gecko/images/og-cover.png">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="ja_JP">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="GECKO · 人工智能前沿信息收集">
+  <meta name="twitter:description" content="AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）">
+  <meta name="twitter:image" content="https://HuanMoovo.github.io/gecko/images/og-cover.png">
+
   <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="GECKO · AI Frontier Feed" href="data/feed.xml">
   <link rel="stylesheet" href="css/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "GECKO · 人工智能前沿信息收集",
+    "alternateName": "GECKO AI Frontier Intelligence",
+    "url": "https://HuanMoovo.github.io/gecko/",
+    "description": "AI 前沿情报聚合：论文、模型发布、开源项目与行业动态，自动去重、事件聚类、趋势计算与每日智能报告。",
+    "inLanguage": ["zh-CN", "en", "ja"],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://HuanMoovo.github.io/gecko/#/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 </head>
@@ -77,6 +112,8 @@
         <span class="dot">·</span>
         <a href="#/sources" data-nav data-i18n="footer.sources">来源健康</a>
         <span class="dot">·</span>
+        <a href="data/feed.xml" target="_blank" rel="noopener">RSS</a>
+        <span class="dot">·</span>
         <a href="#/about" data-nav data-i18n="footer.about">关于与数据说明</a>
         <span class="dot">·</span>
         <a href="https://github.com/HuanMoovo" target="_blank" rel="noopener">GitHub</a>
@@ -105,6 +142,7 @@
   <script src="js/views-lib.js"></script>
   <script src="js/views-report.js"></script>
   <script src="js/views-ask.js"></script>
+  <script src="js/views-detail.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

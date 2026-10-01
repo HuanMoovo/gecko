@@ -4,9 +4,9 @@
 
 <img src="images/gecko-logo.svg" width="130" alt="GECKO" />
 
-# GECKO · AI Frontier Intelligence Platform
+# 人工智能前沿信息收集
 
-**把海量 AI 信息，压缩成可追踪、可验证的技术情报**
+**GECKO · AI Frontier Intelligence Platform** — 把海量 AI 信息，压缩成可追踪、可验证的技术情报
 
 论文 · 模型发布 · 开源项目 · 官方博客 · 行业动态 —— 自动去重、事件聚类、实体关联、趋势计算，
 每日生成带证据链的中英日三语情报报告。

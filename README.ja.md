@@ -4,9 +4,9 @@
 
 <img src="images/gecko-logo.svg" width="130" alt="GECKO" />
 
-# GECKO · AI Frontier Intelligence Platform
+# AIフロンティア情報収集
 
-**膨大なAI情報を、追跡可能で検証できる技術インテリジェンスへ**
+**GECKO · AI Frontier Intelligence Platform** — 膨大なAI情報を、追跡可能で検証できる技術インテリジェンスへ
 
 論文・モデル発表・オープンソースプロジェクト・公式ブログ・業界ニュースを自動で
 重複排除・イベントクラスタリング・エンティティ関連付け・トレンド計算し、

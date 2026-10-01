@@ -4,9 +4,9 @@
 
 <img src="images/gecko-logo.svg" width="130" alt="GECKO" />
 
-# GECKO · AI Frontier Intelligence Platform
+# AI Frontier Intelligence Collection
 
-**Turn the AI firehose into trackable, verifiable technical intelligence**
+**GECKO · AI Frontier Intelligence Platform** — Turn the AI firehose into trackable, verifiable technical intelligence
 
 Papers · model releases · open-source projects · official blogs · industry news — automatically
 deduplicated, clustered into events, linked into entities, and scored into daily intelligence

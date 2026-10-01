@@ -86,6 +86,8 @@ def build_report(date: str, days_window: list[dict], trends: dict, prev_trends: 
         headlines.append({
             "event_id": e["event_id"],
             "title": e["title"],
+            "title_i18n": None,          # LLM 增强时填充 {zh,en,ja}
+            "description_i18n": None,
             "event_type": e.get("event_type"),
             "category": e.get("category"),
             "description": (e.get("canonical_description") or "")[:300],
@@ -216,22 +218,37 @@ def build_report(date: str, days_window: list[dict], trends: dict, prev_trends: 
             "status": "auto",
             "checked_at": iso(now_utc()),
             "citation_coverage": round(len([h for h in headlines if h.get("evidence")]) / max(1, len(headlines)), 2),
-            "note": "关键结论已绑定来源；单来源结论标记为 single_source。",
+            "note": {
+                "zh": "关键结论已绑定来源；单来源结论标记为 single_source。",
+                "en": "Key conclusions are bound to sources; single-source claims are marked.",
+                "ja": "主要な結論は出典に紐付けられ、単一ソースの結論は明示されています。",
+            },
         },
     }
 
-    # 规则版导语（LLM 不可用时的兜底）
-    if headlines:
-        rising_names = "、".join([r["label"].get("zh") or r["topic"] for r in rising[:3]]) or "—"
-        report["intro"] = (
-            f"过去 24 小时共收录 {stats['documents']} 条信息，形成 {stats['events']} 个事件，"
-            f"其中 {stats['tier1_docs']} 条来自官方与研究机构。"
-            f"今日焦点：{headlines[0]['title'][:60]}。"
-            f"上升方向：{rising_names}。"
-        )
+    # 规则版导语（三语，LLM 不可用时的兜底）
+    report["intro"] = {lang: _rule_intro(lang, stats, headlines, rising) for lang in ("zh", "en", "ja")}
     return report
 
 
+def _rule_intro(lang: str, stats: dict, headlines: list[dict], rising: list[dict]) -> str:
+    if not headlines:
+        return ""
+    names = [(r.get("label") or {}).get(lang) or (r.get("label") or {}).get("zh") or r.get("topic") for r in rising[:3]]
+    focus = (headlines[0].get("title") or "")[:70]
+    if lang == "en":
+        return (f"{stats['documents']} items were collected in the past 24 hours, forming {stats['events']} events, "
+                f"of which {stats['tier1_docs']} came from official and research sources. "
+                f"Today's focus: {focus}. Rising areas: {', '.join(names) or '—'}.")
+    if lang == "ja":
+        return (f"過去24時間で {stats['documents']} 件を収集し、{stats['events']} 件のイベントに整理しました。"
+                f"うち {stats['tier1_docs']} 件は公式・研究機関由来です。"
+                f"本日の注目：{focus}。上昇中の領域：{'、'.join(names) or '—'}。")
+    return (f"过去 24 小时共收录 {stats['documents']} 条信息，形成 {stats['events']} 个事件，"
+            f"其中 {stats['tier1_docs']} 条来自官方与研究机构。"
+            f"今日焦点：{focus}。上升方向：{'、'.join(names) or '—'}。")
+
+
 def attach_llm(report: dict) -> None:
-    """LLM 可选润色（intro）。"""
-    llm_mod.polish_report_intro(report)
+    """LLM 可选增强：三语导语 + 头条标题三语译文。"""
+    llm_mod.enhance_report_multilingual(report)

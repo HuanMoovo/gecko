@@ -13,8 +13,8 @@ BRAND = {
     "name": "GECKO",
     "full_name": "GECKO · AI Frontier Intelligence",
     "tagline": {"zh": "AI 前沿情报平台", "en": "AI Frontier Intelligence Platform", "ja": "AIフロンティア・インテリジェンス"},
-    "site_url": "https://HuanMoovo.github.io/slime-ai",
-    "repo": "HuanMoovo/slime-ai",
+    "site_url": "https://HuanMoovo.github.io/gecko",
+    "repo": "HuanMoovo/gecko",
 }
 
 # 数据保留策略

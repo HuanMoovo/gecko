@@ -86,22 +86,53 @@ def summarize_docs(docs: list[dict], limit: int | None = None) -> int:
         return 0
 
 
-def polish_report_intro(report: dict) -> bool:
-    """日报导语润色（可选）"""
+def enhance_report_multilingual(report: dict) -> bool:
+    """
+    一次调用生成：三语导语 + 头条标题三语译文。
+    写入 report["intro"] = {zh,en,ja} 与 headlines[i]["title_i18n"] = {zh,en,ja}
+    """
     if not available():
         return False
-    headlines = [h.get("title") for h in report.get("headlines", [])[:5]]
-    trend_up = [t["label"].get("zh") or t["topic"] for t in report.get("trend_changes", {}).get("rising", [])[:4]]
+    heads = []
+    for i, h in enumerate(report.get("headlines", [])[:6]):
+        heads.append({"i": i, "title": h.get("title", "")[:200],
+                      "desc": (h.get("description") or "")[:200]})
+    if not heads:
+        return False
+    rising = [(t.get("label") or {}).get("zh") or t.get("topic") for t in
+              (report.get("trend_changes", {}).get("rising") or [])[:4]]
     prompt = (
-        f"以下是 {report['date']} 的 AI 前沿情报要点（JSON）。请写一段 80-120 字的中文导语，"
-        "概括今天的核心变化，语气克制专业，不要夸张、不要用感叹号、不编造数字。直接输出导语文本。\n\n"
-        + json.dumps({"headlines": headlines, "rising_topics": trend_up,
-                      "stats": report.get("stats")}, ensure_ascii=False)
+        f"你是 AI 前沿情报编辑。下面是 {report.get('date')} 的日报数据（JSON）。请完成两件事：\n"
+        "1) 写三语导语（中文 80-120 字 / 英文 60-100 词 / 日文 100-150 字）：概括今天最值得关注的 2-3 个技术变化，"
+        "语言克制、专业、不加感叹号、不编造数字；\n"
+        "2) 为每条头条标题给出 中(zh)/英(en)/日(ja) 三种语言版本：忠实原意、简洁，专有名词（公司名、模型名、基准名）保留原文写法；"
+        "若原标题已是该语言则原样保留。\n\n"
+        "只返回 JSON，不要多余文字：\n"
+        '{"intro": {"zh": "...", "en": "...", "ja": "..."}, '
+        '"headlines": [{"i": 0, "zh": "...", "en": "...", "ja": "..."}]}\n\n'
+        f"数据：{json.dumps({'headlines': heads, 'rising_topics': rising, 'stats': report.get('stats')}, ensure_ascii=False)}"
     )
     out = _chat([{"role": "system", "content": SYSTEM_GUARD}, {"role": "user", "content": prompt}],
-                max_tokens=400, temperature=0.4)
-    if out:
-        report["intro"] = out.strip()[:400]
-        report["intro_source"] = "llm"
+                max_tokens=C.LLM["max_report_tokens"], temperature=0.35)
+    if not out:
+        return False
+    try:
+        s = out.strip()
+        if s.startswith("```"):
+            s = s.split("```")[1]
+            s = s[4:] if s.startswith("json") else s
+        data = json.loads(s)
+        intro = data.get("intro") or {}
+        if isinstance(intro, dict) and any(intro.values()):
+            report["intro"] = {k: (intro.get(k) or "").strip()[:600] for k in ("zh", "en", "ja")}
+            report["intro_source"] = "llm"
+        for item in data.get("headlines") or []:
+            idx = int(item.get("i", -1))
+            if 0 <= idx < len(report["headlines"]):
+                tri = {k: (item.get(k) or "").strip()[:220] for k in ("zh", "en", "ja")}
+                if any(tri.values()):
+                    report["headlines"][idx]["title_i18n"] = tri
         return True
-    return False
+    except Exception as e:  # noqa: BLE001
+        print(f"  [llm] multilingual report parse failed: {e}")
+        return False

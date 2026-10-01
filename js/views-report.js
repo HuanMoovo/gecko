@@ -5,6 +5,9 @@
   const { i18n, ui, api } = window.GECKO;
   window.GECKO.views = window.GECKO.views || {};
 
+  /** 本地化字段：字符串直接返回，{zh,en,ja} 对象按当前语言取 */
+  const loc = (v) => (v && typeof v === "object" ? i18n.label(v) : v);
+
   function docBriefRow(d) {
     const meta = d.metadata || {};
     const extra = [];
@@ -38,7 +41,7 @@
         ${h.category ? ui.badge(ui.catLabel(h.category), ui.catCls(h.category)) : ""}
         ${h.trend_state ? ui.badge(ui.stateLabel(h.trend_state), ui.stateCls(h.trend_state)) : ""}
       </div>
-      <h3 class="headline-title">${h.url ? `<a href="${ui.esc(h.url)}" target="_blank" rel="noopener">${ui.esc(h.title)}</a>` : ui.esc(h.title)}</h3>
+      <h3 class="headline-title">${h.url ? `<a href="${ui.esc(h.url)}" target="_blank" rel="noopener">${ui.esc(loc(h.title_i18n) || h.title)}</a>` : ui.esc(loc(h.title_i18n) || h.title)}</h3>
       ${h.description ? `<div class="kv" style="display:block;margin:6px 0">${ui.esc(h.description)}</div>` : ""}
       <div class="event-meta" style="margin:8px 0">
         <span class="kv">📡 ${h.source_count || 0} sources</span>
@@ -77,7 +80,7 @@
           <div>
             <div class="kv"><a href="#/reports" data-nav>← ${ui.esc(i18n.t("report.back"))}</a></div>
             <h1>${ui.esc(i18n.label(rep.title) || rep.id)}</h1>
-            ${rep.intro ? `<div class="report-intro">${ui.esc(rep.intro)}</div>` : ""}
+            ${loc(rep.intro) ? `<div class="report-intro">${ui.esc(loc(rep.intro))}</div>` : ""}
             <div class="kv" style="margin-top:8px">${ui.esc(i18n.t("common.updated"))} ${ui.esc(ui.fmtDateTime(rep.generated_at))}
               ${rep.intro_source === "llm" ? ' · <span class="hl">AI</span>' : ""}</div>
           </div>
@@ -141,7 +144,7 @@
               <div class="row" style="justify-content:space-between"><span class="kv">${ui.esc(i18n.t("report.headlines"))} w/ evidence</span><b class="mono">${Math.round(((rep.verification || {}).citation_coverage || 0) * 100)}%</b></div>
               <div class="row" style="justify-content:space-between"><span class="kv">Claims corroborated</span><b class="mono">${s.corroborated_claims || 0} / ${s.claims || 0}</b></div>
             </div>
-            ${(rep.verification || {}).note ? `<div class="kv" style="display:block;margin-top:8px">${ui.esc(rep.verification.note)}</div>` : ""}
+            ${loc((rep.verification || {}).note) ? `<div class="kv" style="display:block;margin-top:8px">${ui.esc(loc(rep.verification.note))}</div>` : ""}
           </section>
         </div>
       </div>
@@ -172,10 +175,10 @@
         ${list.map((r) => `<a class="glass card hoverable" href="#/reports/${r.date}" data-nav>
           <div class="row" style="justify-content:space-between">
             <span class="badge acc">${ui.esc(r.type || "daily")}</span>
-            <span class="mono kv">${ui.esc(r.date)}</span>
+            <span class="mono kv">${r.headline_i18n ? "🌐 " : ""}${ui.esc(r.date)}</span>
           </div>
-          <div style="font-size:14.5px;font-weight:600;margin:8px 0 6px">${ui.esc(r.headline || i18n.t("reports.title"))}</div>
-          ${r.intro ? `<div class="kv" style="display:block;line-height:1.6">${ui.esc(r.intro.slice(0, 150))}…</div>` : ""}
+          <div style="font-size:14.5px;font-weight:600;margin:8px 0 6px">${ui.esc(loc(r.headline_i18n) || r.headline || i18n.t("reports.title"))}</div>
+          ${loc(r.intro) ? `<div class="kv" style="display:block;line-height:1.6">${ui.esc(String(loc(r.intro)).slice(0, 150))}…</div>` : ""}
           <div class="event-meta" style="margin-top:10px">
             <span class="kv">📄 ${(r.stats || {}).documents || 0}</span>
             <span class="kv">🧩 ${(r.stats || {}).events || 0}</span>

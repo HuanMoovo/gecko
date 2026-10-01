@@ -100,7 +100,13 @@ store.save_trends(trends)
 
 rep = report_mod.build_report(now[:10], [day], trends)
 print(f"  headlines: {len(rep['headlines'])}, claims: {len(rep['claims'])}, sections: {len(rep['sections'])}")
-print(f"  intro: {rep['intro'][:100]}")
+assert isinstance(rep["intro"], dict), "intro should be multilingual dict"
+for _lang in ("zh", "en", "ja"):
+    assert rep["intro"].get(_lang), f"missing intro.{_lang}"
+print(f"  intro.zh: {rep['intro']['zh'][:80]}")
+print(f"  intro.en: {rep['intro']['en'][:80]}")
+print(f"  intro.ja: {rep['intro']['ja'][:80]}")
+assert rep["headlines"][0].get("title_i18n") is None, "title_i18n placeholder should exist"
 if rep["headlines"]:
     h = rep["headlines"][0]
     print(f"  top headline: {h['title'][:70]} | evidence={len(h['evidence'])}")

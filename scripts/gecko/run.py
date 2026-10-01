@@ -186,9 +186,15 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
     store.save_report(today, rep)
     rindex = store.reports_index()
     entries = [r for r in rindex.get("reports", []) if r.get("date") != today]
+    intro_obj = rep.get("intro")
+    intro_store = ({k: (v or "")[:160] for k, v in intro_obj.items()} if isinstance(intro_obj, dict)
+                   else str(intro_obj or "")[:160])
+    head_obj = rep["headlines"][0] if rep.get("headlines") else {}
     entries.insert(0, {"date": today, "type": "daily", "stats": rep["stats"],
-                       "intro": (rep.get("intro") or "")[:160],
-                       "headline": (rep["headlines"][0]["title"] if rep["headlines"] else "")})
+                       "intro": intro_store,
+                       "headline": head_obj.get("title", ""),
+                       "headline_i18n": head_obj.get("title_i18n"),
+                       "intro_source": rep.get("intro_source", "rule")})
     store.save_reports_index({"reports": entries[:400], "updated_at": rep["generated_at"]})
     log(f"report: {today} ({len(rep['headlines'])} headlines, {len(rep['claims'])} claims)")
 

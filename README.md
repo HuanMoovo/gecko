@@ -1,5 +1,7 @@
 <div align="center">
 
+**中文** · [English](README.en.md) · [日本語](README.ja.md)
+
 <img src="images/gecko-logo.svg" width="130" alt="GECKO" />
 
 # GECKO · AI Frontier Intelligence Platform

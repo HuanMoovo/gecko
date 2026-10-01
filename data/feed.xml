@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 16:04:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 16:07:15 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Introducing Claude Sonnet 5.5 on AWS</title>
@@ -64,12 +64,12 @@
 <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated · topics: agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant · ⭐ 73,618 · TypeScript — 来源：github · mit_tr_ai — 原文：https://github.com/ruvnet/ruflo</description>
 </item>
 <item>
-<title>siyuan-note/siyuan — An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作</title>
+<title>OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_93b5541e3323</link>
 <guid isPermaLink="false">evt_93b5541e3323</guid>
-<pubDate>Thu, 01 Oct 2026 13:28:47 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 15:11:10 +0000</pubDate>
 <category>agents</category>
-<description>An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 · topics: agentic-ai, ai-agent, knowledge-base, local-first, markdown, mcp · ⭐ 46,596 · TypeScript — 来源：github — 原文：https://github.com/siyuan-note/siyuan</description>
+<description>来源：github · hackernews — 原文：https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf</description>
 </item>
 <item>
 <title>asgeirtj/system_prompts_leaks — Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-</title>
@@ -144,6 +144,14 @@
 <description>GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/</description>
 </item>
 <item>
+<title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0bf00b70dbd7</link>
+<guid isPermaLink="false">evt_0bf00b70dbd7</guid>
+<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/olmocore3</description>
+</item>
+<item>
 <title>CherryHQ/cherry-studio — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6060aca47b10</link>
 <guid isPermaLink="false">evt_6060aca47b10</guid>
@@ -168,12 +176,12 @@
 <description>Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4, ...) (AAAI 2025). · topics: deepseek, embedding, glm, grpo, internvl, kimi · ⭐ 15,766 · Python — 来源：github — 原文：https://github.com/modelscope/ms-swift</description>
 </item>
 <item>
-<title>Implementing synthetic monitoring using Amazon Nova Act</title>
+<title>How uniopen customized Amazon Nova to their retail moderation policies for production deployment</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_99f407dcb7ba</link>
 <guid isPermaLink="false">evt_99f407dcb7ba</guid>
-<pubDate>Mon, 28 Sep 2026 15:56:32 +0000</pubDate>
-<category>agents</category>
-<description>Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond brittle UI scripts, with a complete sample implementation. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/</description>
+<pubDate>Thu, 01 Oct 2026 15:33:01 +0000</pubDate>
+<category>infrastructure</category>
+<description>See how uniopen, a retail platform from Taiwan's Uni-President Enterprises Group, adapted Amazon Nova 2 Lite to its content-moderation policies using supervised fine-tuning in Amazon SageMaker AI and prompt optimization. Business-relevant evaluation and release gates kept quality in check. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/</description>
 </item>
 <item>
 <title>zhayujie/CowAgent — Open-source personal AI assistant &amp; Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and know</title>
@@ -398,14 +406,6 @@
 <pubDate>Thu, 01 Oct 2026 13:37:21 +0000</pubDate>
 <category>open_source</category>
 <description>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. · topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents · ⭐ 26,637 · Python — 来源：arxiv · github — 原文：https://github.com/deepset-ai/haystack</description>
-</item>
-<item>
-<title>camel-ai/camel — 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1606cfe2c2a9</link>
-<guid isPermaLink="false">evt_1606cfe2c2a9</guid>
-<pubDate>Thu, 01 Oct 2026 04:55:49 +0000</pubDate>
-<category>open_source</category>
-<description>🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org · topics: agent, ai-societies, artificial-intelligence, communicative-ai, cooperative-ai, deep-learning · ⭐ 17,799 · Python — 来源：github — 原文：https://github.com/camel-ai/camel</description>
 </item>
 </channel>
 </rss>

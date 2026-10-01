@@ -245,12 +245,20 @@ ARXIV_CATEGORIES = ["cs.AI", "cs.CL", "cs.LG", "cs.CV", "cs.RO", "cs.NE"]
 ARXIV_MAX_PER_CAT = 40
 
 # GitHub 搜索配置（最近 3 天活跃的热门 AI 仓库）
+# 注意：GitHub Search API 不支持布尔 OR，必须拆分为单主题查询
 GITHUB_SEARCH_QUERIES = [
-    "topic:llm  stars:>800  pushed:>{since}",
-    "topic:ai-agent OR topic:agent  stars:>500  pushed:>{since}",
-    "topic:multimodal OR topic:vision-language  stars:>300  pushed:>{since}",
-    "topic:diffusion-models OR topic:text-to-video  stars:>300  pushed:>{since}",
-    "topic:robotics OR topic:embodied-ai  stars:>200  pushed:>{since}",
+    "topic:llm stars:>1500 pushed:>{since}",
+    "topic:large-language-models stars:>800 pushed:>{since}",
+    "topic:ai-agent stars:>500 pushed:>{since}",
+    "topic:agents stars:>400 pushed:>{since}",
+    "topic:multimodal stars:>300 pushed:>{since}",
+    "topic:vision-language stars:>300 pushed:>{since}",
+    "topic:diffusion-models stars:>300 pushed:>{since}",
+    "topic:text-to-video stars:>300 pushed:>{since}",
+    "topic:robotics stars:>200 pushed:>{since}",
+    "topic:embodied-ai stars:>200 pushed:>{since}",
+    "topic:llm-inference stars:>200 pushed:>{since}",
+    "topic:rag stars:>200 pushed:>{since}",
 ]
 
 # ============================================================

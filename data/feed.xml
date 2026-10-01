@@ -5,15 +5,15 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 16:07:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 20:43:05 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Introducing Claude Sonnet 5.5 on AWS</title>
+<title>Implementing Multi-Environment Access for Claude Platform on AWS</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e0d0bc875e2a</link>
 <guid isPermaLink="false">evt_e0d0bc875e2a</guid>
-<pubDate>Wed, 30 Sep 2026 10:04:12 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 16:32:23 +0000</pubDate>
 <category>foundation_models</category>
-<description>Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started. — 来源：aws_ml · simonwillison · qbitai — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/</description>
+<description>Learn how to configure secure, multi-environment access to Claude Platform on AWS from a single subscription: cross-account SigV4 for AWS workloads, workspace-scoped API keys for developers, and OIDC federation for external environments, with workspace-level isolation in a dedicated AI Services account. — 来源：aws_ml · simonwillison · qbitai — 原文：https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/</description>
 </item>
 <item>
 <title>ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF</title>
@@ -24,12 +24,12 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 952,084 · 收藏 413 — 来源：huggingface · arxiv — 原文：https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF</description>
 </item>
 <item>
-<title>Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances</title>
+<title>Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d679587e6a6f</link>
 <guid isPermaLink="false">evt_d679587e6a6f</guid>
-<pubDate>Wed, 30 Sep 2026 15:21:57 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 17:34:56 +0000</pubDate>
 <category>agents</category>
-<description>Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production pipeline where the agents colocate on one GPU instance, share a filesystem, and hand work to each other to produce a finished track. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/</description>
+<description>Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Amazon EKS). This post shows how NAT's memory subsystem works and how to implement Amazon S3 Vectors as a custom memory provider, using a multi-agent investment research use case. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/</description>
 </item>
 <item>
 <title>NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000</title>
@@ -56,20 +56,20 @@
 <description>Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</description>
 </item>
 <item>
+<title>walkinglabs/learn-harness-engineering — Harness engineering beginner tutorial, from 0 to 1</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_93b5541e3323</link>
+<guid isPermaLink="false">evt_93b5541e3323</guid>
+<pubDate>Thu, 01 Oct 2026 17:50:27 +0000</pubDate>
+<category>open_source</category>
+<description>Harness engineering beginner tutorial, from 0 to 1 · topics: agent, agentic, agentic-ai, ai, ai-agent, ai-agents · ⭐ 17,689 · TypeScript — 来源：github · hackernews — 原文：https://github.com/walkinglabs/learn-harness-engineering</description>
+</item>
+<item>
 <title>ruvnet/ruflo — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build convers</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_991cb8c74834</link>
 <guid isPermaLink="false">evt_991cb8c74834</guid>
 <pubDate>Thu, 01 Oct 2026 13:26:36 +0000</pubDate>
 <category>agents</category>
 <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated · topics: agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant · ⭐ 73,618 · TypeScript — 来源：github · mit_tr_ai — 原文：https://github.com/ruvnet/ruflo</description>
-</item>
-<item>
-<title>OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_93b5541e3323</link>
-<guid isPermaLink="false">evt_93b5541e3323</guid>
-<pubDate>Thu, 01 Oct 2026 15:11:10 +0000</pubDate>
-<category>agents</category>
-<description>来源：github · hackernews — 原文：https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf</description>
 </item>
 <item>
 <title>asgeirtj/system_prompts_leaks — Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-</title>

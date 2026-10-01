@@ -1,0 +1,53 @@
+name: 🦎 GECKO Pipeline — AI Frontier Intelligence
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'      # 每 4 小时增量更新
+  workflow_dispatch:
+    inputs:
+      report_only:
+        description: '仅重建趋势与日报（不抓取）'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gecko-pipeline
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run GECKO pipeline
+        env:
+          # 内置 token：提升 GitHub Search API 限额（未配置 Secrets 时也能运行）
+          GECKO_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 可选：配置后启用 AI 摘要与日报润色（Settings → Secrets → Actions）
+          GECKO_LLM_API_KEY: ${{ secrets.GECKO_LLM_API_KEY }}
+          GECKO_LLM_BASE_URL: ${{ secrets.GECKO_LLM_BASE_URL }}
+          GECKO_LLM_MODEL: ${{ secrets.GECKO_LLM_MODEL }}
+        run: |
+          if [ "${{ inputs.report_only }}" = "true" ]; then
+            python scripts/gecko/run.py --report-only
+          else
+            python scripts/gecko/run.py
+          fi
+
+      - name: Commit & Push
+        run: |
+          git config user.name "GECKO Bot"
+          git config user.email "bot@gecko.intel"
+          git add data/
+          git diff --cached --quiet || git commit -m "🦎 GECKO update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

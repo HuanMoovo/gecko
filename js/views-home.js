@@ -8,18 +8,28 @@
   function heroHtml(idx) {
     const s = (idx && idx.stats) || {};
     const llm = idx && idx.llm_enabled;
+    const stat = (v, label, accent) =>
+      `<div class="stat"><span class="stat-num ${accent ? "accent" : ""}" data-count="${v || 0}">0</span>
+       <span class="stat-label">${ui.esc(label)}</span></div>`;
     return `<section class="hero fade-in">
-      <div class="hero-eyebrow"><span class="pulse-dot"></span>${ui.esc(i18n.t("hero.eyebrow"))}
-        · ${ui.esc(llm ? i18n.t("hero.llm_on") : i18n.t("hero.llm_off"))}</div>
-      <h1><span class="gradient-text">GECKO</span> · ${ui.esc(i18n.t("hero.title"))}</h1>
-      <p class="lead">${ui.esc(i18n.t("hero.lead"))}</p>
-      <div class="hero-stats">
-        ${ui.statBlock(s.documents_total || 0, i18n.t("hero.docs"))}
-        ${ui.statBlock(s.events_total || 0, i18n.t("hero.events"))}
-        ${ui.statBlock(s.documents_today || 0, i18n.t("hero.today"), true)}
-        ${ui.statBlock(s.sources || 0, i18n.t("hero.sources"))}
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <div class="hero-eyebrow"><span class="pulse-dot"></span>${ui.esc(i18n.t("hero.eyebrow"))}
+            · ${ui.esc(llm ? i18n.t("hero.llm_on") : i18n.t("hero.llm_off"))}</div>
+          <h1><span class="gradient-text">GECKO</span> · ${ui.esc(i18n.t("hero.title"))}</h1>
+          <p class="lead">${ui.esc(i18n.t("hero.lead"))}</p>
+          <div class="hero-stats">
+            ${stat(s.documents_total, i18n.t("hero.docs"))}
+            ${stat(s.events_total, i18n.t("hero.events"))}
+            ${stat(s.documents_today, i18n.t("hero.today"), true)}
+            ${stat(s.sources, i18n.t("hero.sources"))}
+          </div>
+          ${idx && idx.updated_at ? `<div class="kv" style="margin-top:14px">⏱ ${ui.esc(i18n.t("hero.updated"))} ${ui.esc(ui.fmtDateTime(idx.updated_at))}</div>` : ""}
+        </div>
+        <div class="hero-3d" id="hero3d" aria-hidden="true">
+          <canvas id="heroCanvas"></canvas>
+        </div>
       </div>
-      ${idx && idx.updated_at ? `<div class="kv" style="margin-top:14px">⏱ ${ui.esc(i18n.t("hero.updated"))} ${ui.esc(ui.fmtDateTime(idx.updated_at))}</div>` : ""}
     </section>`;
   }
 
@@ -84,6 +94,15 @@
           </section>
         </div>
       </div>`;
+
+    // 3D 场景 + 动效（数字滚动 / 卡片倾斜 / 视口显现）
+    if (window.GECKO.initHero3D) window.GECKO.initHero3D();
+    if (window.GECKO.motion) window.GECKO.motion.refresh(el);
+    // CDN 加载失败 / WebGL 不可用 → 收起 3D 容器，保持布局整洁
+    setTimeout(() => {
+      const h3 = el.querySelector("#hero3d");
+      if (h3 && !h3.classList.contains("is-live")) h3.classList.add("is-off");
+    }, 6000);
   }
 
   window.GECKO.views.home = { render };

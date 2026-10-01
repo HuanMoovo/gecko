@@ -187,6 +187,7 @@
     window.scrollTo({ top: 0 });
     try {
       await view.render(viewEl, r.params, r, () => token === navToken);
+      if (token === navToken && window.GECKO.motion) window.GECKO.motion.refresh(viewEl);
     } catch (err) {
       console.error(err);
       if (token === navToken) viewEl.innerHTML = `<div class="empty">${ui.esc(i18n.t("common.fetch_error"))}</div>`;

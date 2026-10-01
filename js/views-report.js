@@ -5,8 +5,27 @@
   const { i18n, ui, api } = window.GECKO;
   window.GECKO.views = window.GECKO.views || {};
 
-  /** 本地化字段：字符串直接返回，{zh,en,ja} 对象按当前语言取 */
-  const loc = (v) => (v && typeof v === "object" ? i18n.label(v) : v);
+  /* 日报独立语言（默认跟随站点语言） */
+  let reportLang = localStorage.getItem("gecko.reportLang") || null;
+  const rl = () => reportLang || i18n.lang || "zh";
+  function setReportLang(lang) {
+    reportLang = lang;
+    localStorage.setItem("gecko.reportLang", lang);
+  }
+
+  /** 本地化字段：字符串直接返回，{zh,en,ja} 对象按日报语言取 */
+  const loc = (v) => {
+    if (!v || typeof v !== "object") return v;
+    return v[rl()] || v.zh || v.en || v.ja || "";
+  };
+
+  function langSwitch() {
+    const langs = [["zh", "中文"], ["en", "English"], ["ja", "日本語"]];
+    return `<div class="row" style="gap:6px" id="reportLangs">
+      ${langs.map(([k, label]) =>
+        `<button class="tab ${rl() === k ? "active" : ""}" data-rlang="${k}">${label}</button>`).join("")}
+    </div>`;
+  }
 
   function docBriefRow(d) {
     const meta = d.metadata || {};
@@ -41,7 +60,8 @@
         ${h.category ? ui.badge(ui.catLabel(h.category), ui.catCls(h.category)) : ""}
         ${h.trend_state ? ui.badge(ui.stateLabel(h.trend_state), ui.stateCls(h.trend_state)) : ""}
       </div>
-      <h3 class="headline-title">${h.url ? `<a href="${ui.esc(h.url)}" target="_blank" rel="noopener">${ui.esc(loc(h.title_i18n) || h.title)}</a>` : ui.esc(loc(h.title_i18n) || h.title)}</h3>
+      <h3 class="headline-title">${h.url ? `<a href="#/event/${h.event_id}" data-nav>${ui.esc(loc(h.title_i18n) || h.title)}</a>` : ui.esc(loc(h.title_i18n) || h.title)}</h3>
+      ${loc(h.narrative_i18n) ? `<div class="event-desc" style="display:block;margin:6px 0;-webkit-line-clamp:unset">${ui.esc(loc(h.narrative_i18n))}</div>` : ""}
       ${h.description ? `<div class="kv" style="display:block;margin:6px 0">${ui.esc(h.description)}</div>` : ""}
       <div class="event-meta" style="margin:8px 0">
         <span class="kv">📡 ${h.source_count || 0} sources</span>
@@ -51,6 +71,42 @@
       ${(h.entities || []).length ? `<div class="chip-row" style="margin-bottom:8px">${h.entities.map((e) => `<span class="badge">${ui.esc(e)}</span>`).join("")}</div>` : ""}
       ${evidenceList(h.evidence)}
     </div>`;
+  }
+
+  /* ---------- 事件时间线（整理的发生的事情） ---------- */
+  function timelineBlock(rep) {
+    const tl = rep.timeline || [];
+    if (!tl.length) return "";
+    const meta = rep.timeline_meta || {};
+    const m = meta[rl()] || meta.zh || {};
+    return `<section class="report-section glass card">
+      <h3>🕒 ${ui.esc(m.title || "Event Timeline")} <span class="count">${tl.length}</span></h3>
+      ${m.sub ? `<div class="kv dim" style="margin:-6px 0 10px">${ui.esc(m.sub)}</div>` : ""}
+      <div class="stack" style="gap:0">
+        ${tl.map((it) => `<div class="doc-row">
+          <div class="doc-main">
+            <div class="doc-sub" style="margin-bottom:3px">
+              <span class="mono">${ui.esc((it.time || it.date || "").slice(5))}</span>
+              ${it.event_type ? ui.badge(ui.eventTypeLabel(it.event_type), ui.eventTypeCls(it.event_type)) : ""}
+              ${it.category ? `<span>${ui.catIcon(it.category)} ${ui.esc(ui.catLabel(it.category))}</span>` : ""}
+            </div>
+            <p class="doc-title"><a href="#/event/${it.event_id}" data-nav>${ui.esc(loc(it.title_i18n) || it.title)}</a></p>
+            ${loc(it.narrative_i18n) ? `<div class="kv" style="display:block">${ui.esc(loc(it.narrative_i18n))}</div>` : ""}
+          </div>
+          <div class="doc-side">
+            <span class="mono kv">${it.source_count || 0} src</span>
+            ${it.url ? `<a class="kv hl" href="${ui.esc(it.url)}" target="_blank" rel="noopener">↗</a>` : ""}
+          </div>
+        </div>`).join("")}
+      </div>
+    </section>`;
+  }
+
+  function bindLangSwitch(el, date) {
+    el.querySelectorAll("[data-rlang]").forEach((b) => b.addEventListener("click", () => {
+      setReportLang(b.dataset.rlang);
+      renderSingle(el, date);
+    }));
   }
 
   function trendChangeRow(r, cls) {
@@ -65,6 +121,7 @@
     el.innerHTML = `<div class="stack">${ui.skeletons(2)}</div>`;
     const rep = await api.report(date);
     if (!rep) { el.innerHTML = ui.emptyState(i18n.t("report.no_report")); return; }
+    bindLangSwitch(el, date);
     const s = rep.stats || {};
     const tc = rep.trend_changes || {};
 
@@ -78,8 +135,9 @@
       <div class="report-head glass">
         <div class="row" style="justify-content:space-between">
           <div>
-            <div class="kv"><a href="#/reports" data-nav>← ${ui.esc(i18n.t("report.back"))}</a></div>
-            <h1>${ui.esc(i18n.label(rep.title) || rep.id)}</h1>
+            <div class="kv" style="margin-bottom:6px"><a href="#/reports" data-nav>← ${ui.esc(i18n.t("report.back"))}</a></div>
+            ${langSwitch()}
+            <h1>${ui.esc(loc(rep.title) || rep.id)}</h1>
             ${loc(rep.intro) ? `<div class="report-intro">${ui.esc(loc(rep.intro))}</div>` : ""}
             <div class="kv" style="margin-top:8px">${ui.esc(i18n.t("common.updated"))} ${ui.esc(ui.fmtDateTime(rep.generated_at))}
               ${rep.intro_source === "llm" ? ' · <span class="hl">AI</span>' : ""}</div>
@@ -97,6 +155,8 @@
         <h3>01 · ${ui.esc(i18n.t("report.headlines"))} <span class="count">${(rep.headlines || []).length}</span></h3>
         ${(rep.headlines || []).map(headlineItem).join("") || ui.emptyState()}
       </section>
+
+      ${timelineBlock(rep)}
 
       <div class="grid dashboard">
         <div class="stack" style="gap:18px">
@@ -191,7 +251,11 @@
 
   window.GECKO.views.reports = {
     render(el, params, route) {
-      if (route && route.name === "report" && params.date) return renderSingle(el, params.date);
+      if (route && route.name === "report" && params.date) {
+        if (params.lang) setReportLang(params.lang);   // 支持 #/reports/<date>?lang=en 分享指定语言
+        return renderSingle(el, params.date);
+      }
+      if (params && params.lang) setReportLang(params.lang);
       return renderList(el);
     },
   };

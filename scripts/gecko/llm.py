@@ -102,14 +102,17 @@ def enhance_report_multilingual(report: dict) -> bool:
     rising = [(t.get("label") or {}).get("zh") or t.get("topic") for t in
               (report.get("trend_changes", {}).get("rising") or [])[:4]]
     prompt = (
-        f"你是 AI 前沿情报编辑。下面是 {report.get('date')} 的日报数据（JSON）。请完成两件事：\n"
+        f"你是 AI 前沿情报编辑。下面是 {report.get('date')} 的日报数据（JSON）。请完成三件事：\n"
         "1) 写三语导语（中文 80-120 字 / 英文 60-100 词 / 日文 100-150 字）：概括今天最值得关注的 2-3 个技术变化，"
         "语言克制、专业、不加感叹号、不编造数字；\n"
         "2) 为每条头条标题给出 中(zh)/英(en)/日(ja) 三种语言版本：忠实原意、简洁，专有名词（公司名、模型名、基准名）保留原文写法；"
-        "若原标题已是该语言则原样保留。\n\n"
+        "若原标题已是该语言则原样保留；\n"
+        "3) 为每条头条写三语「事件整理」叙述（各 2-3 句）：说清楚发生了什么、涉及谁、目前已知的进展或影响。"
+        "只依据给定信息，不编造，语气客观。\n\n"
         "只返回 JSON，不要多余文字：\n"
         '{"intro": {"zh": "...", "en": "...", "ja": "..."}, '
-        '"headlines": [{"i": 0, "zh": "...", "en": "...", "ja": "..."}]}\n\n'
+        '"headlines": [{"i": 0, "zh": "标题", "en": "...", "ja": "...", '
+        '"narrative": {"zh": "整理叙述", "en": "...", "ja": "..."}}]}\n\n'
         f"数据：{json.dumps({'headlines': heads, 'rising_topics': rising, 'stats': report.get('stats')}, ensure_ascii=False)}"
     )
     out = _chat([{"role": "system", "content": SYSTEM_GUARD}, {"role": "user", "content": prompt}],
@@ -132,6 +135,20 @@ def enhance_report_multilingual(report: dict) -> bool:
                 tri = {k: (item.get(k) or "").strip()[:220] for k in ("zh", "en", "ja")}
                 if any(tri.values()):
                     report["headlines"][idx]["title_i18n"] = tri
+                narr = item.get("narrative") or {}
+                if isinstance(narr, dict):
+                    nar = {k: (narr.get(k) or "").strip()[:800] for k in ("zh", "en", "ja")}
+                    if any(nar.values()):
+                        report["headlines"][idx]["narrative_i18n"] = nar
+                        report["headlines"][idx]["narrative_source"] = "llm"
+        # 同步到时间线
+        for item in report.get("timeline", []):
+            for h in report["headlines"]:
+                if h.get("event_id") == item.get("event_id"):
+                    if h.get("title_i18n"):
+                        item["title_i18n"] = h["title_i18n"]
+                    if h.get("narrative_i18n"):
+                        item["narrative_i18n"] = h["narrative_i18n"]
         return True
     except Exception as e:  # noqa: BLE001
         print(f"  [llm] multilingual report parse failed: {e}")

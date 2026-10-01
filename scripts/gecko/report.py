@@ -22,6 +22,69 @@ SECTION_ORDER = [
     ("industry", {"zh": "行业动态", "en": "Industry", "ja": "業界"}),
 ]
 
+# 事件类型标签（三语）
+EVENT_TYPE_LABEL = {
+    "model_release": {"zh": "模型发布", "en": "Model release", "ja": "モデル発表"},
+    "release": {"zh": "发布", "en": "Release", "ja": "リリース"},
+    "paper": {"zh": "论文", "en": "Paper", "ja": "論文"},
+    "project": {"zh": "开源项目", "en": "Project", "ja": "プロジェクト"},
+    "funding": {"zh": "融资", "en": "Funding", "ja": "資金調達"},
+    "policy": {"zh": "政策监管", "en": "Policy", "ja": "政策"},
+    "product": {"zh": "产品", "en": "Product", "ja": "製品"},
+    "news": {"zh": "行业动态", "en": "Industry", "ja": "業界動向"},
+}
+
+_L10N_TEMPLATES = {
+    "zh": {
+        "narrative": "{type} · {orgs} · {n} 个来源报道 · {date} 更新",
+        "narrative_no_org": "{type} · {n} 个来源报道 · {date} 更新",
+        "timeline_title": "今日事件时间线",
+        "timeline_sub": "按发生时间整理的关键事件",
+        "sources_word": "来源",
+    },
+    "en": {
+        "narrative": "{type} · {orgs} · reported by {n} sources · updated {date}",
+        "narrative_no_org": "{type} · reported by {n} sources · updated {date}",
+        "timeline_title": "Today's Event Timeline",
+        "timeline_sub": "Key events in chronological order",
+        "sources_word": "sources",
+    },
+    "ja": {
+        "narrative": "{type} · {orgs} · {n} ソースが報道 · {date} 更新",
+        "narrative_no_org": "{type} · {n} ソースが報道 · {date} 更新",
+        "timeline_title": "本日のイベント年表",
+        "timeline_sub": "発生順に整理した重要イベント",
+        "sources_word": "ソース",
+    },
+}
+
+
+def _event_entities(ev: dict) -> tuple[list[str], list[str], list[str]]:
+    """从事件实体中分离 组织 / 模型 · 概念 / 其他"""
+    ents = ev.get("entities") or []
+    orgs = [e["name"] for e in ents if e.get("type") == "organization"][:3]
+    models = [e["name"] for e in ents if e.get("type") in ("model", "product")][:3]
+    concepts = [e["name"] for e in ents if e.get("type") in ("concept", "benchmark")][:3]
+    return orgs, models, concepts
+
+
+def _narrative_i18n(ev: dict) -> dict:
+    """规则版三语事件整理叙述（结构化、准确，无需 LLM）"""
+    etype = ev.get("event_type") or "news"
+    orgs, models, concepts = _event_entities(ev)
+    n = ev.get("source_count") or len(ev.get("document_ids") or [])
+    date = (ev.get("last_seen_at") or ev.get("first_seen_at") or "")[:10]
+    out = {}
+    for lang in ("zh", "en", "ja"):
+        tpl = _L10N_TEMPLATES[lang]
+        type_label = (EVENT_TYPE_LABEL.get(etype) or {}).get(lang) or etype
+        joined = "、".join(orgs or models or concepts)
+        if joined:
+            out[lang] = tpl["narrative"].format(type=type_label, orgs=joined, n=n, date=date)
+        else:
+            out[lang] = tpl["narrative_no_org"].format(type=type_label, n=n, date=date)
+    return out
+
 
 def _evidence_from_docs(docs: list[dict], limit: int = 6) -> list[dict]:
     ev = []
@@ -88,6 +151,7 @@ def build_report(date: str, days_window: list[dict], trends: dict, prev_trends: 
             "title": e["title"],
             "title_i18n": None,          # LLM 增强时填充 {zh,en,ja}
             "description_i18n": None,
+            "narrative_i18n": _narrative_i18n(e),   # 规则版三语整理叙述
             "event_type": e.get("event_type"),
             "category": e.get("category"),
             "description": (e.get("canonical_description") or "")[:300],
@@ -181,6 +245,27 @@ def build_report(date: str, days_window: list[dict], trends: dict, prev_trends: 
             },
         })
 
+    # ---------- 事件时间线（"整理的发生的事情"）----------
+    tl_events = [e for e in events_24h
+                 if (e.get("source_count") or 0) >= 2 or (e.get("importance_score") or 0) > 0.6]
+    tl_events.sort(key=lambda e: (e.get("first_seen_at") or ""))
+    timeline = [{
+        "time": (ev.get("first_seen_at") or "")[:16].replace("T", " "),
+        "date": (ev.get("first_seen_at") or "")[:10],
+        "event_id": ev.get("event_id"),
+        "event_type": ev.get("event_type"),
+        "category": ev.get("category"),
+        "title": ev.get("title"),
+        "title_i18n": ev.get("title_i18n"),
+        "narrative_i18n": _narrative_i18n(ev),
+        "sources": (ev.get("sources") or [])[:4],
+        "source_count": ev.get("source_count"),
+        "url": ev.get("main_url"),
+    } for ev in tl_events[:24]]
+    timeline_meta = {lang: {"title": _L10N_TEMPLATES[lang]["timeline_title"],
+                            "sub": _L10N_TEMPLATES[lang]["timeline_sub"]}
+                     for lang in ("zh", "en", "ja")}
+
     # ---------- 统计 ----------
     sources_24h = {d.get("source") for d in docs_24h}
     stats = {
@@ -213,6 +298,8 @@ def build_report(date: str, days_window: list[dict], trends: dict, prev_trends: 
         "trend_changes": trend_changes,
         "watchlist": watchlist,
         "claims": claims,
+        "timeline": timeline,
+        "timeline_meta": timeline_meta,
         "stats": stats,
         "verification": {
             "status": "auto",

@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 20:43:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 03:23:54 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Implementing Multi-Environment Access for Claude Platform on AWS</title>
@@ -16,12 +16,20 @@
 <description>Learn how to configure secure, multi-environment access to Claude Platform on AWS from a single subscription: cross-account SigV4 for AWS workloads, workspace-scoped API keys for developers, and OIDC federation for external environments, with workspace-level isolation in a dedicated AI Services account. — 来源：aws_ml · simonwillison · qbitai — 原文：https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/</description>
 </item>
 <item>
-<title>ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF</title>
+<title>How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9128069ece23</link>
+<guid isPermaLink="false">evt_9128069ece23</guid>
+<pubDate>Thu, 01 Oct 2026 23:44:13 +0000</pubDate>
+<category>infrastructure</category>
+<description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</description>
+</item>
+<item>
+<title>DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d4cb33ebf60b</link>
 <guid isPermaLink="false">evt_d4cb33ebf60b</guid>
-<pubDate>Thu, 01 Oct 2026 13:24:43 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 02:41:44 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 952,084 · 收藏 413 — 来源：huggingface · arxiv — 原文：https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 1,891,994 · 收藏 903 — 来源：huggingface · arxiv — 原文：https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF</description>
 </item>
 <item>
 <title>Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors</title>
@@ -30,6 +38,14 @@
 <pubDate>Thu, 01 Oct 2026 17:34:56 +0000</pubDate>
 <category>agents</category>
 <description>Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Amazon EKS). This post shows how NAT's memory subsystem works and how to implement Amazon S3 Vectors as a custom memory provider, using a multi-agent investment research use case. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/</description>
+</item>
+<item>
+<title>Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ceaf2ea83ee9</link>
+<guid isPermaLink="false">evt_ceaf2ea83ee9</guid>
+<pubDate>Thu, 01 Oct 2026 22:06:14 +0000</pubDate>
+<category>agents</category>
+<description>Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/</description>
 </item>
 <item>
 <title>NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000</title>
@@ -54,6 +70,14 @@
 <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
 <category>agents</category>
 <description>Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</description>
+</item>
+<item>
+<title>Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2bf98e720ce1</link>
+<guid isPermaLink="false">evt_2bf98e720ce1</guid>
+<pubDate>Thu, 01 Oct 2026 16:32:07 +0000</pubDate>
+<category>research</category>
+<description>Small open-weight models (2-9B) run on ordinary laptops, but under cloud-scale agent harnesses they rarely complete real tasks: tool prefill overflows the context, self-correction diverges, tool demonstrations loop, and tasks are silently abandoned. We present evidence, from a controlled single-machine comparison and one third-party benchmark, that a substantial share of these failures is attributable to the harness rather than the model. We introduce Mingbird, a local-first agent harness for Windows and Ollama whose ten mechanisms compensate point-by-point for small-model failure forms, three — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02001v1</description>
 </item>
 <item>
 <title>walkinglabs/learn-harness-engineering — Harness engineering beginner tutorial, from 0 to 1</title>
@@ -128,14 +152,6 @@
 <description>Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application. — 来源：aws_ml · reddit_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/</description>
 </item>
 <item>
-<title>Query claims in natural language with Amazon Bedrock Knowledge Bases</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ceaf2ea83ee9</link>
-<guid isPermaLink="false">evt_ceaf2ea83ee9</guid>
-<pubDate>Wed, 30 Sep 2026 15:37:15 +0000</pubDate>
-<category>agents</category>
-<description>This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/</description>
-</item>
-<item>
 <title>Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2abb956bfece</link>
 <guid isPermaLink="false">evt_2abb956bfece</guid>
@@ -200,6 +216,14 @@
 <description>AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents · topics: ai-agent, ai-agent-tools, ai-agents, ai-agents-framework, mcp, mcp-server · ⭐ 24,828 · TypeScript — 来源：hf_blog · github — 原文：https://github.com/activepieces/activepieces</description>
 </item>
 <item>
+<title>Show HN: Breadcrumb, record everything on your mac + context manager for AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b8da10635efb</link>
+<guid isPermaLink="false">evt_b8da10635efb</guid>
+<pubDate>Thu, 01 Oct 2026 17:58:37 +0000</pubDate>
+<category>foundation_models</category>
+<description>Hi HN, I&amp;#x27;m Justin.&lt;p&gt;Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided) and turns it into memory your AI can search. It&amp;#x27;s local and encrypted.&lt;p&gt;You can also teach it rules by talking to it and it makes sure the right rules turn up in the right context. Works with Claude Code &amp;#x2F; Codex &amp;#x2F; Cursor &amp;#x2F; opencode.&lt;p&gt;All of this is exposed to your AI as 30+ MCP tools (here&amp;#x27;s the definitions): &lt;a href="https:&amp;#x2F;&amp;#x2F;innerloop.works&amp;#x2F;breadcrumb&amp;#x2F;mcp" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;innerloop.works&amp;# — 来源：github · hackernews — 原文：https://innerloop.works/breadcrumb</description>
+</item>
+<item>
 <title>open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_18cd9a16bb86</link>
 <guid isPermaLink="false">evt_18cd9a16bb86</guid>
@@ -232,12 +256,12 @@
 <description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. · topics: agent, ai, anthropic, claude-code, compression, context-engineering · ⭐ 74,224 · Python — 来源：github — 原文：https://github.com/headroomlabs-ai/headroom</description>
 </item>
 <item>
-<title>thedotmack/claude-mem — Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b8da10635efb</link>
-<guid isPermaLink="false">evt_b8da10635efb</guid>
-<pubDate>Thu, 01 Oct 2026 09:09:50 +0000</pubDate>
-<category>foundation_models</category>
-<description>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More · topics: ai, ai-agents, ai-memory, anthropic, artificial-intelligence, chromadb · ⭐ 95,075 · TypeScript — 来源：github — 原文：https://github.com/thedotmack/claude-mem</description>
+<title>From Knowledge Access to Source Learning: Developing Source-Specific Competence</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fb0ef305d3be</link>
+<guid isPermaLink="false">evt_fb0ef305d3be</guid>
+<pubDate>Thu, 01 Oct 2026 17:50:16 +0000</pubDate>
+<category>research</category>
+<description>Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organized, while agent-memory systems preserve reusable knowledge from prior interactions, but repeated use of the same source is still largely treated as repeated access rather than an opportunity to progressively improve understanding of that source. We study source learning: developing reusable source-specific competence over a persistent authoritative source. We represent this competence with a persis — 来源：arxiv · github — 原文：https://arxiv.org/abs/2610.02150v1</description>
 </item>
 <item>
 <title>Super-Resolving Unseen Hyperspectral Sensors at Any Scale via Spatial Operators</title>
@@ -246,6 +270,14 @@
 <pubDate>Wed, 30 Sep 2026 17:01:06 +0000</pubDate>
 <category>research</category>
 <description>Achieving cross-sensor generalization and arbitrary-scale reconstruction with a single model remains challenging in hyperspectral super-resolution (HSR). Although recent methods support arbitrary-scale reconstruction, applying them to new sensors or scales beyond the training range often requires additional data and computation to maintain reconstruction quality. To address these challenges, we propose OmniHSR, which predicts band-shared spatial operators rather than spectral values. Cross-Spectral Mapping (CSM) resamples inputs with any number of bands to fixed reference positions and predict — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2609.39926v1</description>
+</item>
+<item>
+<title>DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b23e105fc0b</link>
+<guid isPermaLink="false">evt_8b23e105fc0b</guid>
+<pubDate>Thu, 01 Oct 2026 17:53:09 +0000</pubDate>
+<category>research</category>
+<description>Vision-language models (VLMs) and vision-language-action models (VLAs) have recently driven rapid progress in general-purpose robots, yet most progress has focused on single-robot settings. Extending these capabilities to multi-robot systems remains challenging because robots must coordinate long-horizon behaviors while maintaining reliable, fine-grained execution. We introduce DuoMind, a distributed hierarchical framework for multi-robot coordination through semantic communication. Each robot uses a VLA-based action model for low-level execution and a VLM-based orchestrator for high-level rea — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02161v1</description>
 </item>
 <item>
 <title>Belief-Aware Multi-Agent Path Finding under Map Uncertainty</title>
@@ -264,12 +296,12 @@
 <description>While recent Multimodal Large Language Models (MLLMs) have shown promise in affective computing, their reasoning capabilities are largely confined to short video clips with limited interactions. However, real-world emotions are not merely isolated instantaneous reactions but dynamic and cumulative processes deeply shaped by past experiences and ongoing events. To bridge this gap, we introduce LongEmoBench, a benchmark dedicated to emotion understanding and reasoning in long videos. It assesses progressive capabilities scaling from continuous scene interactions to complex episodic developments. — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40079v1</description>
 </item>
 <item>
-<title>WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b23e105fc0b</link>
-<guid isPermaLink="false">evt_8b23e105fc0b</guid>
-<pubDate>Wed, 30 Sep 2026 17:55:29 +0000</pubDate>
+<title>MoLE: Mixture of Latent Experts for Complementary Visual Reasoning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e1f3af439f6c</link>
+<guid isPermaLink="false">evt_e1f3af439f6c</guid>
+<pubDate>Thu, 01 Oct 2026 15:54:37 +0000</pubDate>
 <category>research</category>
-<description>As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or objects inconsistent with the surrounding scene. Multimodal AI systems, including vision-language models (VLMs) and vision-language-action models (VLAs), have shown potential for automating this task. However, 3D world auditing is complex, requiring the close coupling of two distinct capabilities: action, to navigate the 3D world and search for anomalies system — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40325v1</description>
+<description>Latent visual reasoning equips vision--language models with continuous intermediate states that can process visual evidence without explicit textual reasoning traces or repeated image operations. However, existing methods often allow multiple latent tokens to access the same visual evidence through shared value projections, providing no mechanism for them to extract complementary visual information; simply increasing the latent budget can therefore yield redundant latent representations. We argue that effective latent reasoning should encourage different latent tokens to extract complementary  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01917v1</description>
 </item>
 <item>
 <title>Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training</title>
@@ -278,6 +310,14 @@
 <pubDate>Wed, 30 Sep 2026 17:59:56 +0000</pubDate>
 <category>research</category>
 <description>An unsuccessful LLM agent rollout contains more information than its final reward: the observations available to the agent, the actions it chose, and the environment's responses. Reusing this experience for learning requires identifying a decision to revise and testing a concrete alternative. We introduce the Agent Error Dataset (AED), comprising 50,228 error-diagnosis pairs from 9,961 source tasks across 33 environments, 19 harness families, and 23 policy models in text-based agent systems. We retain source traces and execution metadata to support cross-setting failure analysis and re-diagnos — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40111v1</description>
+</item>
+<item>
+<title>KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4796d8a21ea</link>
+<guid isPermaLink="false">evt_b4796d8a21ea</guid>
+<pubDate>Thu, 01 Oct 2026 17:59:55 +0000</pubDate>
+<category>research</category>
+<description>LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02206v1</description>
 </item>
 <item>
 <title>PMosFM: Preconditioned Manifold Matching for One-Step Physics-Constrained Generation</title>
@@ -294,6 +334,38 @@
 <pubDate>Wed, 30 Sep 2026 17:57:30 +0000</pubDate>
 <category>research</category>
 <description>Self-supervised learning draws inspiration from infant visual development, yet standard training pipelines bear little resemblance to it: images are independently sampled and globally shuffled across epochs. We study self-supervised learning from continuous video streams, where frames are consumed in temporal order using strict sliding-window batches, without global reshuffling or multi-epoch replay. To this end, we construct WT++, a 95-hour urban walking-tour video dataset for streaming pretraining. Combined with a comprehensive evaluation suite we find that contrastive and distillation-based — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40333v1</description>
+</item>
+<item>
+<title>FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_987cf9dd5a5b</link>
+<guid isPermaLink="false">evt_987cf9dd5a5b</guid>
+<pubDate>Thu, 01 Oct 2026 15:15:42 +0000</pubDate>
+<category>research</category>
+<description>Human hand-object demonstrations offer a reusable source of dexterous robot manipulation data, but transferring them across embodiments requires physically feasible retargeting. Existing physics-based approaches face limitations in retargeting success, motion-specific training efficiency, or both. To address these limitations, we introduce FlashDexRetarget, an RL-based framework for high-success, efficient dexterous motion retargeting. To make the demonstrated interaction easier to learn, we combine object point-cloud observations, hand-object distance features, and future trajectory encodings — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01849v1</description>
+</item>
+<item>
+<title>From Reasoning Failures to Composable Video Spatial Intelligence</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7c8eed423fb2</link>
+<guid isPermaLink="false">evt_7c8eed423fb2</guid>
+<pubDate>Thu, 01 Oct 2026 16:31:19 +0000</pubDate>
+<category>research</category>
+<description>Spatial reasoning benchmarks evaluate vision-language models across diverse tasks, but task-level scores do not reveal which underlying capabilities account for success or failure. Each task requires recovering spatial evidence, representing geometry, and reasoning over it. We disentangle these capabilities by comparing predicted and ground-truth spatial context under a shared schema and coordinate contract. This comparison reveals four recurring sources of error: inaccurate perception, missing information in the spatial context, selection of the wrong measurement, and errors in reference fram — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01999v1</description>
+</item>
+<item>
+<title>Counterfactual Auditing of Bias in Open-Source Large Language Models for Clinical Triage</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ecadbe8cf88</link>
+<guid isPermaLink="false">evt_2ecadbe8cf88</guid>
+<pubDate>Thu, 01 Oct 2026 16:17:43 +0000</pubDate>
+<category>foundation_models</category>
+<description>Emergency department (ED) triage is a high-stakes prioritization task in which demographic, socioeconomic, and system-context information may improperly influence acuity assignment. Although open-source large language models (LLMs) are increasingly considered for local and privacy-preserving clinical decision support, it remains unclear how counterfactual bias varies across model families, sizes, medical-domain models, and domain-adapted models. We present a comparative counterfactual audit of ten open-source LLMs for pediatric Emergency Severity Index (ESI) prediction. Starting from real and  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01963v1</description>
+</item>
+<item>
+<title>The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7171fbb06c0d</link>
+<guid isPermaLink="false">evt_7171fbb06c0d</guid>
+<pubDate>Thu, 01 Oct 2026 17:59:32 +0000</pubDate>
+<category>research</category>
+<description>While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. In this paper, we take a first step toward systematically studying mathematical understanding in LLMs, from diagnosing its distinct capabilities to leveraging these findings to improve post-training. First, we introduce the notion of Mathematical Primitive to probe structural mathematical understanding and propose \hlei{}, a novel benchmark that evaluates mathematical reasoning — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02191v1</description>
 </item>
 <item>
 <title>Cogentic: Multi-Agent Orchestration for Automated Proof Discovery</title>
@@ -334,78 +406,6 @@
 <pubDate>Wed, 30 Sep 2026 16:02:58 +0000</pubDate>
 <category>research</category>
 <description>Adapting a pretrained generative model to an arbitrary preference expressed as a utility function underlies reward alignment, guided design, and constraint satisfaction, enabling diverse applications. Existing fine-tuning methods trade off generality against computational cost: they either restrict the family class of supported preferences to keep optimization simple or preserve generality at the expense of efficiency. We introduce Fenchel Tilt Flow Control (FTFC), which decouples utility optimization from generative-model fitting. FTFC first optimizes for a target distribution by jointly fitt — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40030v1</description>
-</item>
-<item>
-<title>Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1b0152ae9cf9</link>
-<guid isPermaLink="false">evt_1b0152ae9cf9</guid>
-<pubDate>Wed, 30 Sep 2026 17:32:17 +0000</pubDate>
-<category>research</category>
-<description>Converting free-text radiology reports into structured labels supports cohort building, quality assurance, and monitoring of clinical imaging models, but the strongest label extractors are hosted proprietary models whose use raises privacy, cost, and reproducibility concerns. We asked whether a fine-tuned open-weight model (Gemma-3-12B) can match GPT-4o at multi-label intracranial hemorrhage (ICH) acuity extraction from non-contrast head-CT reports, and which ingredients matter. Using a 2x2 design, we crossed two adaptation strategies (a discriminative classification head, CH; generative instr — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40236v1</description>
-</item>
-<item>
-<title>AutoDataBench: A Data-centric Testbed for Accelerating Auto Research</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4796d8a21ea</link>
-<guid isPermaLink="false">evt_b4796d8a21ea</guid>
-<pubDate>Wed, 30 Sep 2026 16:33:24 +0000</pubDate>
-<category>research</category>
-<description>Existing auto-research benchmarks often entangle multiple sources of improvement, including training frameworks, hyperparameters, compute budgets, and data, making it difficult to attribute why one frontier agent outperforms another to specific research capabilities. In this work, we isolate and systematically evaluate Data Intelligence: an agent's ability to understand, manipulate, and improve the data that shapes model capabilities. We introduce AutoDataBench, a controlled testbed built on a conceptual framework of data intelligence spanning data diagnosis, data organization, and data constr — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40097v1</description>
-</item>
-<item>
-<title>MCD: Causal Distillation of Multimodal In-Context Learning in Large Vision-Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8e54a77b5510</link>
-<guid isPermaLink="false">evt_8e54a77b5510</guid>
-<pubDate>Wed, 30 Sep 2026 15:10:44 +0000</pubDate>
-<category>foundation_models</category>
-<description>Large vision-language models (LVLMs) exhibit strong multimodal in-context learning (ICL) capabilities, yet this ability degrades substantially as model size decreases. Knowledge distillation offers a natural way to bridge this gap, but existing methods primarily align output distributions or hidden representations directly. Such alignment teaches the student what the teacher predicts without revealing which evidence in the complex context causally supports that prediction. Consequently, a student can imitate the teacher's answer while continuing to rely on language priors, prompt structure, or — 来源：arxiv — 原文：https://arxiv.org/abs/2609.39920v1</description>
-</item>
-<item>
-<title>GLARE: Generating Listening Heads with Appropriate Reactions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_257d11d1de4b</link>
-<guid isPermaLink="false">evt_257d11d1de4b</guid>
-<pubDate>Wed, 30 Sep 2026 17:53:47 +0000</pubDate>
-<category>research</category>
-<description>While talking head generation has advanced rapidly, generating natural listener behavior in dyadic conversations, which know when to react, how to react, and with what type of response, remains underexplored. Existing dyadic datasets lack fine-grained listener reaction annotations, and prevailing evaluation metrics inherited from talking-head and video generation measure visual realism rather than whether a listener reacted appropriately. We address these gaps along three aspects. First, we curate a listening-head-specific dataset built from RealTalk and Seamless Interaction, comprising approx — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40317v1</description>
-</item>
-<item>
-<title>StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e9c04ba9632e</link>
-<guid isPermaLink="false">evt_e9c04ba9632e</guid>
-<pubDate>Wed, 30 Sep 2026 17:34:58 +0000</pubDate>
-<category>research</category>
-<description>Mobile robots and vehicles carry synchronized multi-camera rigs, yet many streaming 3D foundation models are designed for monocular input, leaving efficient use of rig geometry a challenge. We present StreamRig, a freeze-and-stream framework that builds causal streaming odometry for calibrated rigs on a frozen multi-view 3D foundation model. The frozen front-end jointly perceives the synchronized views using rig calibration. A Rig-Resampler compresses their features, a CausalBridge applies causal attention with a key-value cache, and a lightweight head regresses rig poses. A periodic re-anchor — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40244v1</description>
-</item>
-<item>
-<title>Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_253498c21c51</link>
-<guid isPermaLink="false">evt_253498c21c51</guid>
-<pubDate>Wed, 30 Sep 2026 13:50:51 +0000</pubDate>
-<category>research</category>
-<description>Planning with learned world models combines online trajectory optimization with learned value and policy functions for high-dimensional control. Because the planner determines the experience used for learning, while the learned critic and actor in turn score and propose future plans, planning and learning form a closed feedback loop. TD-MPC is a prominent instance of this design. Recent policy-constrained variants strengthen one part of the loop by aligning the learned policy with planner behavior. We introduce PL-MPC (Planning-Learning MPC), which additionally modifies critic supervision and  — 来源：arxiv — 原文：https://arxiv.org/abs/2609.39751v1</description>
-</item>
-<item>
-<title>EvE: An Alternate Optimizer to Adam</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_987cf9dd5a5b</link>
-<guid isPermaLink="false">evt_987cf9dd5a5b</guid>
-<pubDate>Mon, 28 Sep 2026 16:55:40 +0000</pubDate>
-<category>research</category>
-<description>Adam and its variants dominate neural network training, but a single run only reveals whether a configuration works well after most of its budget is spent, a poor fit for hyperparameter or architecture search, where configurations must be ranked cheaply and pruned early. We introduce EvE (Evolutionary Explorer), a steady-state, population-of-four differential evolution (DE) optimizer with a targeted Adam fallback: each iteration proposes one candidate via DE, running a short burst of gradient descent only if the DE step fails to improve on the incumbent. Selection is greedy, so on a determinis — 来源：arxiv — 原文：https://arxiv.org/abs/2609.35614v1</description>
-</item>
-<item>
-<title>Towards safety cases for frontier AI training</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cf468ec39dd6</link>
-<guid isPermaLink="false">evt_cf468ec39dd6</guid>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-<category>safety</category>
-<description>Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents — 来源：openai_blog — 原文：https://openai.com/index/towards-safety-cases-for-frontier-ai-training</description>
-</item>
-<item>
-<title>deepset-ai/haystack — Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fb0ef305d3be</link>
-<guid isPermaLink="false">evt_fb0ef305d3be</guid>
-<pubDate>Thu, 01 Oct 2026 13:37:21 +0000</pubDate>
-<category>open_source</category>
-<description>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. · topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents · ⭐ 26,637 · Python — 来源：arxiv · github — 原文：https://github.com/deepset-ai/haystack</description>
 </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 09:33:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 15:29:55 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>NanmiCoder/cc-haha — Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill mar</title>
@@ -24,12 +24,12 @@
 <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</description>
 </item>
 <item>
-<title>orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF</title>
+<title>orcarouter/Qwen3.8-27B-Uncensored-GGUF</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d4cb33ebf60b</link>
 <guid isPermaLink="false">evt_d4cb33ebf60b</guid>
 <pubDate>Fri, 02 Oct 2026 04:19:04 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 205,150 · 收藏 498 — 来源：huggingface · arxiv — 原文：https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 135,289 · 收藏 1,309 — 来源：huggingface · arxiv — 原文：https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF</description>
 </item>
 <item>
 <title>Amazon seeks to offload $8B of Nvidia chips to investors</title>
@@ -46,6 +46,14 @@
 <pubDate>Thu, 01 Oct 2026 22:06:14 +0000</pubDate>
 <category>agents</category>
 <description>Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/</description>
+</item>
+<item>
+<title>calesthio/OpenMontage — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and pr</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e53f91b8c346</link>
+<guid isPermaLink="false">evt_e53f91b8c346</guid>
+<pubDate>Sat, 03 Oct 2026 14:01:16 +0000</pubDate>
+<category>agents</category>
+<description>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · topics: agent, agentic-ai, ai, claude, copilot, cursor · ⭐ 62,615 · Python — 来源：github — 原文：https://github.com/calesthio/OpenMontage</description>
 </item>
 <item>
 <title>NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000</title>
@@ -398,14 +406,6 @@
 <pubDate>Thu, 01 Oct 2026 17:59:32 +0000</pubDate>
 <category>research</category>
 <description>While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. In this paper, we take a first step toward systematically studying mathematical understanding in LLMs, from diagnosing its distinct capabilities to leveraging these findings to improve post-training. First, we introduce the notion of Mathematical Primitive to probe structural mathematical understanding and propose \hlei{}, a novel benchmark that evaluates mathematical reasoning — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02191v1</description>
-</item>
-<item>
-<title>Cogentic: Multi-Agent Orchestration for Automated Proof Discovery</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4bf53d05f599</link>
-<guid isPermaLink="false">evt_4bf53d05f599</guid>
-<pubDate>Wed, 30 Sep 2026 17:55:22 +0000</pubDate>
-<category>research</category>
-<description>We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often insufficient for open problems that require exploring multiple competing conjectures, overcoming subtle technical obstructions, and retaining intermediate progress over a long horizon. Cogentic addresses these challenges through an iterative prove--verify loop in which an orchestrator allocates a population of independent provers across distinct proof directions, subjects their — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40324v1</description>
 </item>
 </channel>
 </rss>

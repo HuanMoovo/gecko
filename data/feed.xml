@@ -5,15 +5,15 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 23:28:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 03:08:48 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Implementing Multi-Environment Access for Claude Platform on AWS</title>
+<title>NanmiCoder/cc-haha — Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill mar</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e0d0bc875e2a</link>
 <guid isPermaLink="false">evt_e0d0bc875e2a</guid>
-<pubDate>Thu, 01 Oct 2026 16:32:23 +0000</pubDate>
-<category>foundation_models</category>
-<description>Learn how to configure secure, multi-environment access to Claude Platform on AWS from a single subscription: cross-account SigV4 for AWS workloads, workspace-scoped API keys for developers, and OIDC federation for external environments, with workspace-level isolation in a dedicated AI Services account. — 来源：aws_ml · simonwillison · qbitai — 原文：https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/</description>
+<pubDate>Thu, 01 Oct 2026 18:49:34 +0000</pubDate>
+<category>agents</category>
+<description>Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access. · topics: agent, ai, ai-agent, anthropic, claude, claude-code · ⭐ 14,841 · TypeScript — 来源：aws_ml · simonwillison · qbitai · github — 原文：https://github.com/NanmiCoder/cc-haha</description>
 </item>
 <item>
 <title>How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
@@ -144,6 +144,14 @@
 <description>Hugging Face 模型 · text-to-image · 下载 217,638 · 收藏 478 — 来源：huggingface — 原文：https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo</description>
 </item>
 <item>
+<title>budtmo/docker-android — Android in docker solution with noVNC supported, video recording, mcp server and AI-agent</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dc09a43815f</link>
+<guid isPermaLink="false">evt_9dc09a43815f</guid>
+<pubDate>Fri, 02 Oct 2026 15:48:26 +0000</pubDate>
+<category>agents</category>
+<description>Android in docker solution with noVNC supported, video recording, mcp server and AI-agent · topics: ai-agent, android, android-emulator, aws, azure, cloud · ⭐ 15,933 · Python — 来源：aws_ml · github — 原文：https://github.com/budtmo/docker-android</description>
+</item>
+<item>
 <title>Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2581f0bea9d2</link>
 <guid isPermaLink="false">evt_2581f0bea9d2</guid>
@@ -158,14 +166,6 @@
 <pubDate>Wed, 30 Sep 2026 18:31:31 +0000</pubDate>
 <category>foundation_models</category>
 <description>Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application. — 来源：aws_ml · reddit_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/</description>
-</item>
-<item>
-<title>Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dc09a43815f</link>
-<guid isPermaLink="false">evt_9dc09a43815f</guid>
-<pubDate>Fri, 02 Oct 2026 15:48:26 +0000</pubDate>
-<category>agents</category>
-<description>The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks through the reference architecture and a deployable AWS CDK sample, using lease compliance as the running example. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/</description>
 </item>
 <item>
 <title>Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI</title>

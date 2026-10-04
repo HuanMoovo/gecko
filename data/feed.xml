@@ -5,15 +5,15 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 04 Oct 2026 03:36:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 10:20:06 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>NanmiCoder/cc-haha — Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill mar</title>
+<title>tt-a1i/archify — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e0d0bc875e2a</link>
 <guid isPermaLink="false">evt_e0d0bc875e2a</guid>
-<pubDate>Thu, 01 Oct 2026 18:49:34 +0000</pubDate>
-<category>agents</category>
-<description>Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access. · topics: agent, ai, ai-agent, anthropic, claude, claude-code · ⭐ 14,841 · TypeScript — 来源：aws_ml · simonwillison · qbitai · github — 原文：https://github.com/NanmiCoder/cc-haha</description>
+<pubDate>Sun, 04 Oct 2026 09:57:12 +0000</pubDate>
+<category>open_source</category>
+<description>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. · topics: agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills, codex · ⭐ 76,908 · JavaScript — 来源：aws_ml · simonwillison · qbitai · github — 原文：https://github.com/tt-a1i/archify</description>
 </item>
 <item>
 <title>How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>

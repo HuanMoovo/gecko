@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 22:34:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 03:36:49 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>NanmiCoder/cc-haha — Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill mar</title>
@@ -88,12 +88,12 @@
 <description>Small open-weight models (2-9B) run on ordinary laptops, but under cloud-scale agent harnesses they rarely complete real tasks: tool prefill overflows the context, self-correction diverges, tool demonstrations loop, and tasks are silently abandoned. We present evidence, from a controlled single-machine comparison and one third-party benchmark, that a substantial share of these failures is attributable to the harness rather than the model. We introduce Mingbird, a local-first agent harness for Windows and Ollama whose ten mechanisms compensate point-by-point for small-model failure forms, three — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02001v1</description>
 </item>
 <item>
-<title>feder-cr/invisible_playwright_mcp — Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt</title>
+<title>MemoriLabs/Memori — Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into stru</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_93b5541e3323</link>
 <guid isPermaLink="false">evt_93b5541e3323</guid>
-<pubDate>Fri, 02 Oct 2026 16:57:34 +0000</pubDate>
-<category>agents</category>
-<description>Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use. · topics: agentic-ai, ai-agent, ai-automation, autonomous-agents, browser, claude-code-plugin · ⭐ 31,749 · Python — 来源：github · hackernews — 原文：https://github.com/feder-cr/invisible_playwright_mcp</description>
+<pubDate>Sat, 03 Oct 2026 01:33:14 +0000</pubDate>
+<category>foundation_models</category>
+<description>Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises. · topics: agent, agent-memory, agenticai, ai, ai-memory, claude-code · ⭐ 17,069 · Python — 来源：github · hackernews — 原文：https://github.com/MemoriLabs/Memori</description>
 </item>
 <item>
 <title>ruvnet/ruflo — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build convers</title>
@@ -144,6 +144,14 @@
 <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. · topics: deepseek, gemma, gemma3, glm, go, golang · ⭐ 181,998 · Go — 来源：github · huggingface — 原文：https://github.com/ollama/ollama</description>
 </item>
 <item>
+<title>gastownhall/beads — Beads - A memory upgrade for your coding agent</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2581f0bea9d2</link>
+<guid isPermaLink="false">evt_2581f0bea9d2</guid>
+<pubDate>Sun, 04 Oct 2026 02:09:14 +0000</pubDate>
+<category>open_source</category>
+<description>Beads - A memory upgrade for your coding agent · topics: agents, claude-code, coding · ⭐ 27,614 · Go — 来源：aws_ml · github — 原文：https://github.com/gastownhall/beads</description>
+</item>
+<item>
 <title>Viggle/Qwen-Image-2.1-viggle-turbo</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b474ccb4ddc6</link>
 <guid isPermaLink="false">evt_b474ccb4ddc6</guid>
@@ -158,14 +166,6 @@
 <pubDate>Fri, 02 Oct 2026 15:48:26 +0000</pubDate>
 <category>agents</category>
 <description>Android in docker solution with noVNC supported, video recording, mcp server and AI-agent · topics: ai-agent, android, android-emulator, aws, azure, cloud · ⭐ 15,933 · Python — 来源：aws_ml · github — 原文：https://github.com/budtmo/docker-android</description>
-</item>
-<item>
-<title>Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2581f0bea9d2</link>
-<guid isPermaLink="false">evt_2581f0bea9d2</guid>
-<pubDate>Fri, 02 Oct 2026 16:22:48 +0000</pubDate>
-<category>foundation_models</category>
-<description>Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gateway, with JWT-based inbound authentication through AWS IAM Identity Center and Amazon Cognito. — 来源：aws_ml · github — 原文：https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/</description>
 </item>
 <item>
 <title>Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1</title>
@@ -248,12 +248,12 @@
 <description>Open-source personal AI assistant &amp; Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. · topics: ai, ai-agent, ai-agents, chatgpt-on-wechat, claude, claude-code · ⭐ 47,199 · Python — 来源：github — 原文：https://github.com/zhayujie/CowAgent</description>
 </item>
 <item>
-<title>activepieces/activepieces — AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI W</title>
+<title>PrefectHQ/fastmcp — 🚀 The fast, Pythonic way to build MCP servers and clients.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_984223f109f3</link>
 <guid isPermaLink="false">evt_984223f109f3</guid>
-<pubDate>Thu, 01 Oct 2026 13:38:13 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 02:24:15 +0000</pubDate>
 <category>agents</category>
-<description>AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents · topics: ai-agent, ai-agent-tools, ai-agents, ai-agents-framework, mcp, mcp-server · ⭐ 24,828 · TypeScript — 来源：hf_blog · github — 原文：https://github.com/activepieces/activepieces</description>
+<description>🚀 The fast, Pythonic way to build MCP servers and clients. · topics: agents, fastmcp, llms, mcp, mcp-clients, mcp-servers · ⭐ 27,965 · Python — 来源：hf_blog · github — 原文：https://github.com/PrefectHQ/fastmcp</description>
 </item>
 <item>
 <title>Show HN: Breadcrumb, record everything on your mac + context manager for AI</title>

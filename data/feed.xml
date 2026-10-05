@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 03:21:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 11:02:51 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>omnigent-ai/omnigent — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a</title>
@@ -24,12 +24,12 @@
 <description>GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</description>
 </item>
 <item>
-<title>orcarouter/Qwen3.8-27B-Uncensored-GGUF</title>
+<title>SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d4cb33ebf60b</link>
 <guid isPermaLink="false">evt_d4cb33ebf60b</guid>
-<pubDate>Fri, 02 Oct 2026 04:19:04 +0000</pubDate>
+<pubDate>Sat, 03 Oct 2026 12:52:36 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 135,289 · 收藏 1,309 — 来源：huggingface · arxiv — 原文：https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 291,404 · 收藏 81 — 来源：huggingface · arxiv — 原文：https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF</description>
 </item>
 <item>
 <title>SceneFactory-3D: Lifting 2D Traffic Scenes into 3D Physical Counterfactuals for Scalable Physically Grounded Safety Evaluation</title>
@@ -304,6 +304,14 @@
 <description>Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organized, while agent-memory systems preserve reusable knowledge from prior interactions, but repeated use of the same source is still largely treated as repeated access rather than an opportunity to progressively improve understanding of that source. We study source learning: developing reusable source-specific competence over a persistent authoritative source. We represent this competence with a persis — 来源：arxiv · github — 原文：https://arxiv.org/abs/2610.02150v1</description>
 </item>
 <item>
+<title>Fed-ADApt: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cb417fd665c7</link>
+<guid isPermaLink="false">evt_cb417fd665c7</guid>
+<pubDate>Fri, 02 Oct 2026 15:47:49 +0000</pubDate>
+<category>research</category>
+<description>Federated learning (FL) enables collaborative training of medical image segmentation models without sharing raw patient data, yet existing approaches assume a homogeneous compute budget across institutions, limiting participation of low-resource sites. We propose Fed-ADApt, a depth-adaptive federated framework for UNet-based segmentation that jointly addresses low-compute training and inference. Fed-ADApt integrates multi-depth supervision with hierarchical depth-wise aggregation, allowing each site to train according to its local compute budget while contributing to a global model that suppor — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2610.03474v1</description>
+</item>
+<item>
 <title>Beyond Trained Models: Compiling GNNs for a Sound Explainer Benchmark</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_987cf9dd5a5b</link>
 <guid isPermaLink="false">evt_987cf9dd5a5b</guid>
@@ -312,12 +320,12 @@
 <description>Explainers for Graph Neural Networks (GNNs) are commonly evaluated by their plausibility, i.e., how well their explanations recover a predefined ground truth, such as a motif planted in the data. This protocol implicitly assumes that a GNN trained on such data relies on the intended motif. Although prior work has questioned this assumption, plausibility remains widespread. First, we show that the assumption is violated on several widely used benchmarks, where, e.g., degree statistics alone suffice to solve the task. Then, we remove this confounder by replacing training with compilation. We ach — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03526v1</description>
 </item>
 <item>
-<title>Super-Resolving Unseen Hyperspectral Sensors at Any Scale via Spatial Operators</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cb417fd665c7</link>
-<guid isPermaLink="false">evt_cb417fd665c7</guid>
-<pubDate>Wed, 30 Sep 2026 17:01:06 +0000</pubDate>
+<title>Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_29a32d905eeb</link>
+<guid isPermaLink="false">evt_29a32d905eeb</guid>
+<pubDate>Fri, 02 Oct 2026 16:15:53 +0000</pubDate>
 <category>research</category>
-<description>Achieving cross-sensor generalization and arbitrary-scale reconstruction with a single model remains challenging in hyperspectral super-resolution (HSR). Although recent methods support arbitrary-scale reconstruction, applying them to new sensors or scales beyond the training range often requires additional data and computation to maintain reconstruction quality. To address these challenges, we propose OmniHSR, which predicts band-shared spatial operators rather than spectral values. Cross-Spectral Mapping (CSM) resamples inputs with any number of bands to fixed reference positions and predict — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2609.39926v1</description>
+<description>On-policy distillation (OPD) has become an important approach to language model post-training. However, despite its performance gains, OPD can also collapse into excessively long and repetitive generation, and the mechanism underlying these divergent outcomes remains poorly understood. We explain these outcomes through a reinforcement learning perspective: the teacher implicitly rewards student behaviors, even those it rarely exhibits itself. From this perspective, our experiments show that OPD improves performance without expanding the student's capabilities. When the implicit reward model is — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03185v1</description>
 </item>
 <item>
 <title>DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication</title>
@@ -344,20 +352,28 @@
 <description>While recent Multimodal Large Language Models (MLLMs) have shown promise in affective computing, their reasoning capabilities are largely confined to short video clips with limited interactions. However, real-world emotions are not merely isolated instantaneous reactions but dynamic and cumulative processes deeply shaped by past experiences and ongoing events. To bridge this gap, we introduce LongEmoBench, a benchmark dedicated to emotion understanding and reasoning in long videos. It assesses progressive capabilities scaling from continuous scene interactions to complex episodic developments. — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40079v1</description>
 </item>
 <item>
-<title>Divergence controls entropy in distillation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_29a32d905eeb</link>
-<guid isPermaLink="false">evt_29a32d905eeb</guid>
-<pubDate>Fri, 02 Oct 2026 16:15:53 +0000</pubDate>
-<category>research</category>
-<description>Distillation has become a core primitive of large language model training, but its properties are not yet well understood. We take an entropic perspective, studying how the entropy of the student depends on the data and the divergence that define the distillation objective. We prove that forward KL inflates the entropy of the student above that of the teacher. Since cross-entropy training is a special case, this yields an identity that we verify quantitatively in pretraining and supervised finetuning. Other divergences come with no such guarantee: reverse KL deflates entropy until the gap betw — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03529v1</description>
-</item>
-<item>
 <title>MoLE: Mixture of Latent Experts for Complementary Visual Reasoning</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e1f3af439f6c</link>
 <guid isPermaLink="false">evt_e1f3af439f6c</guid>
 <pubDate>Thu, 01 Oct 2026 15:54:37 +0000</pubDate>
 <category>research</category>
 <description>Latent visual reasoning equips vision--language models with continuous intermediate states that can process visual evidence without explicit textual reasoning traces or repeated image operations. However, existing methods often allow multiple latent tokens to access the same visual evidence through shared value projections, providing no mechanism for them to extract complementary visual information; simply increasing the latent budget can therefore yield redundant latent representations. We argue that effective latent reasoning should encourage different latent tokens to extract complementary  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01917v1</description>
+</item>
+<item>
+<title>SyntaxBench: A Statistical Diagnostic Framework for Character-Level Reasoning in Large Language Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ecadbe8cf88</link>
+<guid isPermaLink="false">evt_2ecadbe8cf88</guid>
+<pubDate>Fri, 02 Oct 2026 14:02:56 +0000</pubDate>
+<category>research</category>
+<description>Large language models are increasingly used where small syntactic errors matter, yet character-level reasoning is still evaluated mostly through isolated probes and aggregate accuracy. We introduce SyntaxBench, a diagnostic benchmark and statistical evaluation framework for character-level reasoning. It contains five core tasks, character counting, letter containment, palindrome detection, edit distance, and longest-string selection, plus index_to_span, a harder substring-extraction stress test. The five core tasks use paired English and character-length-matched random-string inputs. index_to_ — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03329v1</description>
+</item>
+<item>
+<title>From Patching to Pruning Visual Computation in Vision Language Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_034fec7cc804</link>
+<guid isPermaLink="false">evt_034fec7cc804</guid>
+<pubDate>Fri, 02 Oct 2026 15:27:28 +0000</pubDate>
+<category>research</category>
+<description>Vision language models (VLMs) incur substantial inference cost because every visual token is processed by the attention and MLP projections of every decoder layer, even when token-specific visual computation is unnecessary at many depths. We introduce Patch-to-Prune (P2P), inspired by Mechanistic Interpretability, a training-free framework that converts activation patching from a diagnostic tool into an inference-time computation bypass. P2P performs validation-guided forward and backward layer sweeps to identify decoder regions whose visual-token projection outputs can be replaced by fixed ne — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03389v1</description>
 </item>
 <item>
 <title>Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training</title>
@@ -390,22 +406,6 @@
 <pubDate>Thu, 01 Oct 2026 16:31:19 +0000</pubDate>
 <category>research</category>
 <description>Spatial reasoning benchmarks evaluate vision-language models across diverse tasks, but task-level scores do not reveal which underlying capabilities account for success or failure. Each task requires recovering spatial evidence, representing geometry, and reasoning over it. We disentangle these capabilities by comparing predicted and ground-truth spatial context under a shared schema and coordinate contract. This comparison reveals four recurring sources of error: inaccurate perception, missing information in the spatial context, selection of the wrong measurement, and errors in reference fram — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01999v1</description>
-</item>
-<item>
-<title>Counterfactual Auditing of Bias in Open-Source Large Language Models for Clinical Triage</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ecadbe8cf88</link>
-<guid isPermaLink="false">evt_2ecadbe8cf88</guid>
-<pubDate>Thu, 01 Oct 2026 16:17:43 +0000</pubDate>
-<category>foundation_models</category>
-<description>Emergency department (ED) triage is a high-stakes prioritization task in which demographic, socioeconomic, and system-context information may improperly influence acuity assignment. Although open-source large language models (LLMs) are increasingly considered for local and privacy-preserving clinical decision support, it remains unclear how counterfactual bias varies across model families, sizes, medical-domain models, and domain-adapted models. We present a comparative counterfactual audit of ten open-source LLMs for pediatric Emergency Severity Index (ESI) prediction. Starting from real and  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01963v1</description>
-</item>
-<item>
-<title>The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7171fbb06c0d</link>
-<guid isPermaLink="false">evt_7171fbb06c0d</guid>
-<pubDate>Thu, 01 Oct 2026 17:59:32 +0000</pubDate>
-<category>research</category>
-<description>While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. In this paper, we take a first step toward systematically studying mathematical understanding in LLMs, from diagnosing its distinct capabilities to leveraging these findings to improve post-training. First, we introduce the notion of Mathematical Primitive to probe structural mathematical understanding and propose \hlei{}, a novel benchmark that evaluates mathematical reasoning — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02191v1</description>
 </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 20:10:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 04:06:37 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>omnigent-ai/omnigent — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a</title>
@@ -14,6 +14,14 @@
 <pubDate>Mon, 05 Oct 2026 03:09:40 +0000</pubDate>
 <category>open_source</category>
 <description>Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. · topics: agent-framework, agent-governance, agent-orchestration, agents, ai, ai-agent · ⭐ 10,529 · Python — 来源：aws_ml · simonwillison · qbitai · github — 原文：https://github.com/omnigent-ai/omnigent</description>
+</item>
+<item>
+<title>Introducing GLM 5.3 on Amazon Bedrock</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6596bcd1df8c</link>
+<guid isPermaLink="false">evt_6596bcd1df8c</guid>
+<pubDate>Mon, 05 Oct 2026 23:25:17 +0000</pubDate>
+<category>agents</category>
+<description>GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test with the open-source Strix agent. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/</description>
 </item>
 <item>
 <title>Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases</title>
@@ -144,6 +152,14 @@
 <description>🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/ · topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index · ⭐ 11,616 · Python — 来源：github — 原文：https://github.com/datawhalechina/all-in-rag</description>
 </item>
 <item>
+<title>Measurement-First Auditing of Agentic Leaderboards: Contamination Susceptibility, Matched-Control Re-evaluation, and Scorer Validation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4133c0f517f3</link>
+<guid isPermaLink="false">evt_4133c0f517f3</guid>
+<pubDate>Mon, 05 Oct 2026 05:34:18 +0000</pubDate>
+<category>agents</category>
+<description>Agentic leaderboards increasingly evaluate systems on public benchmarks whose task statements and solution-bearing artifacts can remain accessible. We propose a measurement-first audit framework that distinguishes contamination claims according to the evidence required to support them. It separates three channels that require different evidence: training-time exposure, evaluation-time retrieval, and pipeline/scaffold leakage. Each channel is coded as open, partial, closed, or unknown under a fail-closed rule. Across nine Holistic Agent Leaderboard (HAL) configurations, none of the 27 channel a — 来源：arxiv — 原文：https://arxiv.org/abs/2610.05830v1</description>
+</item>
+<item>
 <title>ollama/ollama — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6af93ea43beb</link>
 <guid isPermaLink="false">evt_6af93ea43beb</guid>
@@ -256,12 +272,12 @@
 <description>Open-source personal AI assistant &amp; Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. · topics: ai, ai-agent, ai-agents, chatgpt-on-wechat, claude, claude-code · ⭐ 47,199 · Python — 来源：github — 原文：https://github.com/zhayujie/CowAgent</description>
 </item>
 <item>
-<title>codewhale-hq/Codewhale — Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues a</title>
+<title>MCP for agent-to-agent comms may be the riskiest protocol you've never heard of</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_984223f109f3</link>
 <guid isPermaLink="false">evt_984223f109f3</guid>
-<pubDate>Mon, 05 Oct 2026 01:57:11 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 22:26:35 +0000</pubDate>
 <category>agents</category>
-<description>Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. · topics: agent-orchestration, ai-agent, cli, coding-agent, local-first, mcp · ⭐ 41,044 · Rust — 来源：hf_blog · github — 原文：https://github.com/codewhale-hq/Codewhale</description>
+<description>Trust gaps in the new protocol spread malicious prompts from one agent to another. — 来源：hf_blog · github · arstechnica_ai — 原文：https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</description>
 </item>
 <item>
 <title>Show HN: Breadcrumb, record everything on your mac + context manager for AI</title>
@@ -304,12 +320,20 @@
 <description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. · topics: agent, ai, anthropic, claude-code, compression, context-engineering · ⭐ 74,224 · Python — 来源：github — 原文：https://github.com/headroomlabs-ai/headroom</description>
 </item>
 <item>
-<title>From Knowledge Access to Source Learning: Developing Source-Specific Competence</title>
+<title>Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_fb0ef305d3be</link>
 <guid isPermaLink="false">evt_fb0ef305d3be</guid>
-<pubDate>Thu, 01 Oct 2026 17:50:16 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 16:52:57 +0000</pubDate>
+<category>agents</category>
+<description>Search agents adapt their queries, yet fixed search interfaces leave candidate processing and evidence presentation outside the agent's direct control. Our trajectory analysis shows that supporting passages can be retrieved yet never delivered to the agent; a same-page oracle intervention shows that changing the returned evidence can reduce subsequent search. We introduce Programmatic Search Agent (PSA), which makes a local executable computation over candidates the unit of a search action. PSA unifies a persistent candidate workspace, flexible primitive composition, and selective evidence pre — 来源：arxiv · github — 原文：https://arxiv.org/abs/2610.06689v1</description>
+</item>
+<item>
+<title>Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_987cf9dd5a5b</link>
+<guid isPermaLink="false">evt_987cf9dd5a5b</guid>
+<pubDate>Mon, 05 Oct 2026 14:35:35 +0000</pubDate>
 <category>research</category>
-<description>Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organized, while agent-memory systems preserve reusable knowledge from prior interactions, but repeated use of the same source is still largely treated as repeated access rather than an opportunity to progressively improve understanding of that source. We study source learning: developing reusable source-specific competence over a persistent authoritative source. We represent this competence with a persis — 来源：arxiv · github — 原文：https://arxiv.org/abs/2610.02150v1</description>
+<description>Spontaneous movement analysis in preterm infants relies increasingly on markerless pose estimation (PE) to derive clinically relevant motion biomarkers directly from video recordings. Training accurate infant PE models requires large sets of manually annotated keypoints, and human annotation is inherently prone to error. Noisy keypoints (i.e., keypoints mislocalized with respect to their true anatomical position) are especially problematic in this clinical setting, since they can propagate as artificial artifacts into the reconstructed joint trajectories. Building on the small-loss hypothesis  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.06423v1</description>
 </item>
 <item>
 <title>Fed-ADApt: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation</title>
@@ -320,12 +344,20 @@
 <description>Federated learning (FL) enables collaborative training of medical image segmentation models without sharing raw patient data, yet existing approaches assume a homogeneous compute budget across institutions, limiting participation of low-resource sites. We propose Fed-ADApt, a depth-adaptive federated framework for UNet-based segmentation that jointly addresses low-compute training and inference. Fed-ADApt integrates multi-depth supervision with hierarchical depth-wise aggregation, allowing each site to train according to its local compute budget while contributing to a global model that suppor — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2610.03474v1</description>
 </item>
 <item>
-<title>Beyond Trained Models: Compiling GNNs for a Sound Explainer Benchmark</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_987cf9dd5a5b</link>
-<guid isPermaLink="false">evt_987cf9dd5a5b</guid>
-<pubDate>Fri, 02 Oct 2026 16:14:19 +0000</pubDate>
+<title>Topology-Conditioned Backdoors: Language Models That Insert Vulnerabilities When They Infer They Are in a Multi-Agent System</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_034fec7cc804</link>
+<guid isPermaLink="false">evt_034fec7cc804</guid>
+<pubDate>Mon, 05 Oct 2026 04:38:58 +0000</pubDate>
+<category>agents</category>
+<description>A language model may behave safely in a single-agent evaluation yet produce vulnerable code when its context suggests that it is part of a multi-agent system. We study this failure mode by fine-tuning Qwen2.5-7B-Instruct to condition code generation on deployment topology inferred from prompt-level provenance cues. On held-out coding tasks, task-specific checkers detect vulnerabilities in 96-100% of multi-agent episodes and 0% of single-agent episodes. An independent bandit analyzer detects vulnerabilities in approximately 67% of multi-agent episodes, covering six of nine vulnerability familie — 来源：arxiv — 原文：https://arxiv.org/abs/2610.05793v1</description>
+</item>
+<item>
+<title>PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d35fef19d8fa</link>
+<guid isPermaLink="false">evt_d35fef19d8fa</guid>
+<pubDate>Mon, 05 Oct 2026 17:58:18 +0000</pubDate>
 <category>research</category>
-<description>Explainers for Graph Neural Networks (GNNs) are commonly evaluated by their plausibility, i.e., how well their explanations recover a predefined ground truth, such as a motif planted in the data. This protocol implicitly assumes that a GNN trained on such data relies on the intended motif. Although prior work has questioned this assumption, plausibility remains widespread. First, we show that the assumption is violated on several widely used benchmarks, where, e.g., degree statistics alone suffice to solve the task. Then, we remove this confounder by replacing training with compilation. We ach — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03526v1</description>
+<description>Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains unclear how accurately current models recover plotted values from real scientific figures, as existing benchmarks rely largely on synthetic charts or cover only a limited range of chart types. We introduce PlotGround, an automated pipeline for building plot digitization benchmarks from real scientific figures and their author-released source data. PlotGround maps figures to source t — 来源：arxiv — 原文：https://arxiv.org/abs/2610.06825v1</description>
 </item>
 <item>
 <title>Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective</title>
@@ -374,38 +406,6 @@
 <pubDate>Fri, 02 Oct 2026 14:02:56 +0000</pubDate>
 <category>research</category>
 <description>Large language models are increasingly used where small syntactic errors matter, yet character-level reasoning is still evaluated mostly through isolated probes and aggregate accuracy. We introduce SyntaxBench, a diagnostic benchmark and statistical evaluation framework for character-level reasoning. It contains five core tasks, character counting, letter containment, palindrome detection, edit distance, and longest-string selection, plus index_to_span, a harder substring-extraction stress test. The five core tasks use paired English and character-length-matched random-string inputs. index_to_ — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03329v1</description>
-</item>
-<item>
-<title>From Patching to Pruning Visual Computation in Vision Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_034fec7cc804</link>
-<guid isPermaLink="false">evt_034fec7cc804</guid>
-<pubDate>Fri, 02 Oct 2026 15:27:28 +0000</pubDate>
-<category>research</category>
-<description>Vision language models (VLMs) incur substantial inference cost because every visual token is processed by the attention and MLP projections of every decoder layer, even when token-specific visual computation is unnecessary at many depths. We introduce Patch-to-Prune (P2P), inspired by Mechanistic Interpretability, a training-free framework that converts activation patching from a diagnostic tool into an inference-time computation bypass. P2P performs validation-guided forward and backward layer sweeps to identify decoder regions whose visual-token projection outputs can be replaced by fixed ne — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03389v1</description>
-</item>
-<item>
-<title>Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0e931e0c1ce7</link>
-<guid isPermaLink="false">evt_0e931e0c1ce7</guid>
-<pubDate>Wed, 30 Sep 2026 17:59:56 +0000</pubDate>
-<category>research</category>
-<description>An unsuccessful LLM agent rollout contains more information than its final reward: the observations available to the agent, the actions it chose, and the environment's responses. Reusing this experience for learning requires identifying a decision to revise and testing a concrete alternative. We introduce the Agent Error Dataset (AED), comprising 50,228 error-diagnosis pairs from 9,961 source tasks across 33 environments, 19 harness families, and 23 policy models in text-based agent systems. We retain source traces and execution metadata to support cross-setting failure analysis and re-diagnos — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40111v1</description>
-</item>
-<item>
-<title>KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4796d8a21ea</link>
-<guid isPermaLink="false">evt_b4796d8a21ea</guid>
-<pubDate>Thu, 01 Oct 2026 17:59:55 +0000</pubDate>
-<category>research</category>
-<description>LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02206v1</description>
-</item>
-<item>
-<title>PMosFM: Preconditioned Manifold Matching for One-Step Physics-Constrained Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_45fc3387a57e</link>
-<guid isPermaLink="false">evt_45fc3387a57e</guid>
-<pubDate>Wed, 30 Sep 2026 17:48:21 +0000</pubDate>
-<category>research</category>
-<description>Physics-constrained generative models aim to generate physical fields that match a target distribution and satisfy prescribed constraints. However, enforcing these constraints often increases sampling costs through iterative corrections or training costs through residual optimization and trajectory unrolling. To address this issue, we introduce \textbf{P}reconditioned \textbf{M}anifold \textbf{o}ne-\textbf{s}tep \textbf{F}low \textbf{M}atching (\textbf{PMosFM}), a preconditioned manifold matching framework for one-step physics-constrained generation. By encoding constraints in a manifold decod — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40287v1</description>
 </item>
 </channel>
 </rss>

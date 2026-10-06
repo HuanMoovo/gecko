@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 06 Oct 2026 04:06:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 14:37:29 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>omnigent-ai/omnigent — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a</title>
@@ -392,20 +392,20 @@
 <description>While recent Multimodal Large Language Models (MLLMs) have shown promise in affective computing, their reasoning capabilities are largely confined to short video clips with limited interactions. However, real-world emotions are not merely isolated instantaneous reactions but dynamic and cumulative processes deeply shaped by past experiences and ongoing events. To bridge this gap, we introduce LongEmoBench, a benchmark dedicated to emotion understanding and reasoning in long videos. It assesses progressive capabilities scaling from continuous scene interactions to complex episodic developments. — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40079v1</description>
 </item>
 <item>
+<title>Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4796d8a21ea</link>
+<guid isPermaLink="false">evt_b4796d8a21ea</guid>
+<pubDate>Mon, 05 Oct 2026 16:07:33 +0000</pubDate>
+<category>agents</category>
+<description>LLM agents increasingly execute complex workflows involving multi-turn reasoning, tool use, and parallel agents. Efficient serving requires decisions that span two layers with complementary information: the agent harness understands workflow dependencies, context lifecycles, and execution objectives, whereas the inference engine observes request queues, KV-cache state, resource pressure, and execution capabilities. Existing interfaces do not systematically connect these views, limiting workflow-aware execution. HEAR, a bidirectional Harness--Engine Pairing protocol for agentic LLM serving. HEA — 来源：arxiv — 原文：https://arxiv.org/abs/2610.06597v1</description>
+</item>
+<item>
 <title>MoLE: Mixture of Latent Experts for Complementary Visual Reasoning</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e1f3af439f6c</link>
 <guid isPermaLink="false">evt_e1f3af439f6c</guid>
 <pubDate>Thu, 01 Oct 2026 15:54:37 +0000</pubDate>
 <category>research</category>
 <description>Latent visual reasoning equips vision--language models with continuous intermediate states that can process visual evidence without explicit textual reasoning traces or repeated image operations. However, existing methods often allow multiple latent tokens to access the same visual evidence through shared value projections, providing no mechanism for them to extract complementary visual information; simply increasing the latent budget can therefore yield redundant latent representations. We argue that effective latent reasoning should encourage different latent tokens to extract complementary  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01917v1</description>
-</item>
-<item>
-<title>SyntaxBench: A Statistical Diagnostic Framework for Character-Level Reasoning in Large Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ecadbe8cf88</link>
-<guid isPermaLink="false">evt_2ecadbe8cf88</guid>
-<pubDate>Fri, 02 Oct 2026 14:02:56 +0000</pubDate>
-<category>research</category>
-<description>Large language models are increasingly used where small syntactic errors matter, yet character-level reasoning is still evaluated mostly through isolated probes and aggregate accuracy. We introduce SyntaxBench, a diagnostic benchmark and statistical evaluation framework for character-level reasoning. It contains five core tasks, character counting, letter containment, palindrome detection, edit distance, and longest-string selection, plus index_to_span, a harder substring-extraction stress test. The five core tasks use paired English and character-length-matched random-string inputs. index_to_ — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03329v1</description>
 </item>
 </channel>
 </rss>

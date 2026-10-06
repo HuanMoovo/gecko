@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 06 Oct 2026 14:37:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 20:42:14 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>omnigent-ai/omnigent — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a</title>
@@ -102,6 +102,14 @@
 <pubDate>Fri, 02 Oct 2026 16:48:49 +0000</pubDate>
 <category>research</category>
 <description>We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficient speakers. Questions are designed to be extremely challenging. Each question targets a concise, publicly verifiable answer whose discovery requires locating obscure evidence, following multi-step clue chains, or inspecting heterogeneous sources such as videos, scanned documents, images, or maps. Easier questions are filtered out by evaluating them with models without internet access to reduce the — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03574v1</description>
+</item>
+<item>
+<title>Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_15fae5de3959</link>
+<guid isPermaLink="false">evt_15fae5de3959</guid>
+<pubDate>Tue, 06 Oct 2026 15:45:42 +0000</pubDate>
+<category>agents</category>
+<description>Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/</description>
 </item>
 <item>
 <title>Supercharge regulated workloads with Claude Code and Amazon Bedrock</title>
@@ -288,6 +296,14 @@
 <description>Hi HN, I&amp;#x27;m Justin.&lt;p&gt;Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided) and turns it into memory your AI can search. It&amp;#x27;s local and encrypted.&lt;p&gt;You can also teach it rules by talking to it and it makes sure the right rules turn up in the right context. Works with Claude Code &amp;#x2F; Codex &amp;#x2F; Cursor &amp;#x2F; opencode.&lt;p&gt;All of this is exposed to your AI as 30+ MCP tools (here&amp;#x27;s the definitions): &lt;a href="https:&amp;#x2F;&amp;#x2F;innerloop.works&amp;#x2F;breadcrumb&amp;#x2F;mcp" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;innerloop.works&amp;# — 来源：github · hackernews — 原文：https://innerloop.works/breadcrumb</description>
 </item>
 <item>
+<title>Advancing computer use with Ironclad</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9964af802e9c</link>
+<guid isPermaLink="false">evt_9964af802e9c</guid>
+<pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+<category>agents</category>
+<description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work. — 来源：openai_blog — 原文：https://openai.com/index/advancing-computer-use-with-ironclad</description>
+</item>
+<item>
 <title>open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_18cd9a16bb86</link>
 <guid isPermaLink="false">evt_18cd9a16bb86</guid>
@@ -390,22 +406,6 @@
 <pubDate>Wed, 30 Sep 2026 17:11:33 +0000</pubDate>
 <category>research</category>
 <description>While recent Multimodal Large Language Models (MLLMs) have shown promise in affective computing, their reasoning capabilities are largely confined to short video clips with limited interactions. However, real-world emotions are not merely isolated instantaneous reactions but dynamic and cumulative processes deeply shaped by past experiences and ongoing events. To bridge this gap, we introduce LongEmoBench, a benchmark dedicated to emotion understanding and reasoning in long videos. It assesses progressive capabilities scaling from continuous scene interactions to complex episodic developments. — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40079v1</description>
-</item>
-<item>
-<title>Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4796d8a21ea</link>
-<guid isPermaLink="false">evt_b4796d8a21ea</guid>
-<pubDate>Mon, 05 Oct 2026 16:07:33 +0000</pubDate>
-<category>agents</category>
-<description>LLM agents increasingly execute complex workflows involving multi-turn reasoning, tool use, and parallel agents. Efficient serving requires decisions that span two layers with complementary information: the agent harness understands workflow dependencies, context lifecycles, and execution objectives, whereas the inference engine observes request queues, KV-cache state, resource pressure, and execution capabilities. Existing interfaces do not systematically connect these views, limiting workflow-aware execution. HEAR, a bidirectional Harness--Engine Pairing protocol for agentic LLM serving. HEA — 来源：arxiv — 原文：https://arxiv.org/abs/2610.06597v1</description>
-</item>
-<item>
-<title>MoLE: Mixture of Latent Experts for Complementary Visual Reasoning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e1f3af439f6c</link>
-<guid isPermaLink="false">evt_e1f3af439f6c</guid>
-<pubDate>Thu, 01 Oct 2026 15:54:37 +0000</pubDate>
-<category>research</category>
-<description>Latent visual reasoning equips vision--language models with continuous intermediate states that can process visual evidence without explicit textual reasoning traces or repeated image operations. However, existing methods often allow multiple latent tokens to access the same visual evidence through shared value projections, providing no mechanism for them to extract complementary visual information; simply increasing the latent budget can therefore yield redundant latent representations. We argue that effective latent reasoning should encourage different latent tokens to extract complementary  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.01917v1</description>
 </item>
 </channel>
 </rss>

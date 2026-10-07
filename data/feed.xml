@@ -5,15 +5,15 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 07 Oct 2026 10:44:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 18:12:48 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>omnigent-ai/omnigent — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a</title>
+<title>feder-cr/invisible_dots — Open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and Claude Cowork. AI agents, each w</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e0d0bc875e2a</link>
 <guid isPermaLink="false">evt_e0d0bc875e2a</guid>
-<pubDate>Mon, 05 Oct 2026 03:09:40 +0000</pubDate>
-<category>open_source</category>
-<description>Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. · topics: agent-framework, agent-governance, agent-orchestration, agents, ai, ai-agent · ⭐ 10,529 · Python — 来源：aws_ml · simonwillison · qbitai · github — 原文：https://github.com/omnigent-ai/omnigent</description>
+<pubDate>Wed, 07 Oct 2026 17:07:02 +0000</pubDate>
+<category>agents</category>
+<description>Open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and Claude Cowork. AI agents, each with a virtual machine on your PC with a desktop, a shell, files, memory and skills that stay, invisible to anti-bots. Any model on OpenRouter. · topics: agent-skills, agentic-ai, ai-agent, ai-agents, ai-assistant, antidetect-browser · ⭐ 31,797 · TypeScript — 来源：aws_ml · simonwillison · qbitai · github — 原文：https://github.com/feder-cr/invisible_dots</description>
 </item>
 <item>
 <title>Introducing GLM 5.3 on Amazon Bedrock</title>
@@ -64,6 +64,14 @@
 <description>Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent supply chain decisioning system and evaluate it with Amazon Bedrock AgentCore Evaluations using built-in, custom, and explainability evaluators. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/</description>
 </item>
 <item>
+<title>Beyond hours saved: Building the business case for agentic automation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ca46a2fab5ba</link>
+<guid isPermaLink="false">evt_ca46a2fab5ba</guid>
+<pubDate>Wed, 07 Oct 2026 15:50:00 +0000</pubDate>
+<category>agents</category>
+<description>The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision quality, and maintenance economics, and to prioritize which workflows to automate first. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/</description>
+</item>
+<item>
 <title>calesthio/OpenMontage — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and pr</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e53f91b8c346</link>
 <guid isPermaLink="false">evt_e53f91b8c346</guid>
@@ -86,6 +94,14 @@
 <pubDate>Mon, 28 Sep 2026 22:13:16 +0000</pubDate>
 <category>foundation_models</category>
 <description>xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/</description>
+</item>
+<item>
+<title>Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7818bdc9321f</link>
+<guid isPermaLink="false">evt_7818bdc9321f</guid>
+<pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
+<category>agents</category>
+<description>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses appeared first on Microsoft Research . — 来源：microsoft_research — 原文：https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</description>
 </item>
 <item>
 <title>From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI</title>
@@ -208,6 +224,14 @@
 <description>Hugging Face 模型 · text-to-image · 下载 217,638 · 收藏 478 — 来源：huggingface — 原文：https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo</description>
 </item>
 <item>
+<title>How Qlik built grounded, enterprise-scale AI with Amazon Bedrock</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_61fcf1bc1cfe</link>
+<guid isPermaLink="false">evt_61fcf1bc1cfe</guid>
+<pubDate>Wed, 07 Oct 2026 15:48:46 +0000</pubDate>
+<category>agents</category>
+<description>Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with cross-Region inference and Amazon Bedrock Guardrails delivers trusted AI at global scale. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/</description>
+</item>
+<item>
 <title>Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_de30779fa5c4</link>
 <guid isPermaLink="false">evt_de30779fa5c4</guid>
@@ -304,6 +328,14 @@
 <description>Hi HN, I&amp;#x27;m Justin.&lt;p&gt;Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided) and turns it into memory your AI can search. It&amp;#x27;s local and encrypted.&lt;p&gt;You can also teach it rules by talking to it and it makes sure the right rules turn up in the right context. Works with Claude Code &amp;#x2F; Codex &amp;#x2F; Cursor &amp;#x2F; opencode.&lt;p&gt;All of this is exposed to your AI as 30+ MCP tools (here&amp;#x27;s the definitions): &lt;a href="https:&amp;#x2F;&amp;#x2F;innerloop.works&amp;#x2F;breadcrumb&amp;#x2F;mcp" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;innerloop.works&amp;# — 来源：github · hackernews — 原文：https://innerloop.works/breadcrumb</description>
 </item>
 <item>
+<title>Muse launches on the iPad</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e679d3ae180e</link>
+<guid isPermaLink="false">evt_e679d3ae180e</guid>
+<pubDate>Wed, 07 Oct 2026 15:37:23 +0000</pubDate>
+<category>agents</category>
+<description>After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support</description>
+</item>
+<item>
 <title>Advancing computer use with Ironclad</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9964af802e9c</link>
 <guid isPermaLink="false">evt_9964af802e9c</guid>
@@ -374,38 +406,6 @@
 <pubDate>Mon, 05 Oct 2026 04:38:58 +0000</pubDate>
 <category>agents</category>
 <description>A language model may behave safely in a single-agent evaluation yet produce vulnerable code when its context suggests that it is part of a multi-agent system. We study this failure mode by fine-tuning Qwen2.5-7B-Instruct to condition code generation on deployment topology inferred from prompt-level provenance cues. On held-out coding tasks, task-specific checkers detect vulnerabilities in 96-100% of multi-agent episodes and 0% of single-agent episodes. An independent bandit analyzer detects vulnerabilities in approximately 67% of multi-agent episodes, covering six of nine vulnerability familie — 来源：arxiv — 原文：https://arxiv.org/abs/2610.05793v1</description>
-</item>
-<item>
-<title>PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d35fef19d8fa</link>
-<guid isPermaLink="false">evt_d35fef19d8fa</guid>
-<pubDate>Mon, 05 Oct 2026 17:58:18 +0000</pubDate>
-<category>research</category>
-<description>Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains unclear how accurately current models recover plotted values from real scientific figures, as existing benchmarks rely largely on synthetic charts or cover only a limited range of chart types. We introduce PlotGround, an automated pipeline for building plot digitization benchmarks from real scientific figures and their author-released source data. PlotGround maps figures to source t — 来源：arxiv — 原文：https://arxiv.org/abs/2610.06825v1</description>
-</item>
-<item>
-<title>Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_29a32d905eeb</link>
-<guid isPermaLink="false">evt_29a32d905eeb</guid>
-<pubDate>Fri, 02 Oct 2026 16:15:53 +0000</pubDate>
-<category>research</category>
-<description>On-policy distillation (OPD) has become an important approach to language model post-training. However, despite its performance gains, OPD can also collapse into excessively long and repetitive generation, and the mechanism underlying these divergent outcomes remains poorly understood. We explain these outcomes through a reinforcement learning perspective: the teacher implicitly rewards student behaviors, even those it rarely exhibits itself. From this perspective, our experiments show that OPD improves performance without expanding the student's capabilities. When the implicit reward model is — 来源：arxiv — 原文：https://arxiv.org/abs/2610.03185v1</description>
-</item>
-<item>
-<title>DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b23e105fc0b</link>
-<guid isPermaLink="false">evt_8b23e105fc0b</guid>
-<pubDate>Thu, 01 Oct 2026 17:53:09 +0000</pubDate>
-<category>research</category>
-<description>Vision-language models (VLMs) and vision-language-action models (VLAs) have recently driven rapid progress in general-purpose robots, yet most progress has focused on single-robot settings. Extending these capabilities to multi-robot systems remains challenging because robots must coordinate long-horizon behaviors while maintaining reliable, fine-grained execution. We introduce DuoMind, a distributed hierarchical framework for multi-robot coordination through semantic communication. Each robot uses a VLA-based action model for low-level execution and a VLM-based orchestrator for high-level rea — 来源：arxiv — 原文：https://arxiv.org/abs/2610.02161v1</description>
-</item>
-<item>
-<title>Belief-Aware Multi-Agent Path Finding under Map Uncertainty</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_18070e3571e3</link>
-<guid isPermaLink="false">evt_18070e3571e3</guid>
-<pubDate>Wed, 30 Sep 2026 17:56:09 +0000</pubDate>
-<category>agents</category>
-<description>Multi-Agent Path Finding (MAPF) aims to find collision-free paths for multiple agents in a shared environment. Classical MAPF assumes that all static obstacles are known in advance, but real-world environments can change unexpectedly due to fallen objects, spills, or other local disturbances. When such changes are spatially correlated, an observation can inform traversability estimates beyond the observed location. Prior approaches address uncertainty in traversability through contingent plans or replanning based on direct observations, but do not leverage this spatial dependence to infer the  — 来源：arxiv — 原文：https://arxiv.org/abs/2609.40269v1</description>
 </item>
 </channel>
 </rss>

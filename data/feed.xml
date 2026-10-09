@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 20:57:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 03:54:59 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Introducing GLM 5.3 on Amazon Bedrock</title>
@@ -40,28 +40,28 @@
 <description>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · topics: agent, agentic-ai, ai, claude, copilot, cursor · ⭐ 62,615 · Python — 来源：github — 原文：https://github.com/calesthio/OpenMontage</description>
 </item>
 <item>
-<title>Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</title>
+<title>Agentic-TTT: Training test-time policy for test-time training</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7818bdc9321f</link>
 <guid isPermaLink="false">evt_7818bdc9321f</guid>
-<pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 14:06:26 +0000</pubDate>
 <category>agents</category>
-<description>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses appeared first on Microsoft Research . — 来源：microsoft_research — 原文：https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</description>
+<description>Test-time training (TTT) adapts an LLM's parameters using signals derived from test inputs, and can make striking improvements in pre-specified settings such as IMO competitions or designated open problems. By turning deployment experience into parameter updates, TTT provides a direct mechanism for model-level self-improvement. Yet TTT is not universally beneficial: each TTT algorithm works in different settings, and applying an ill-suited method could waste test-time compute or even damage model performance. Therefore, such parameter-level self-improvement requires agency: the model must deci — 来源：microsoft_research · arxiv — 原文：https://arxiv.org/abs/2610.12002v1</description>
 </item>
 <item>
-<title>Dataset Pruning from First Principles: A Label-Free Linear Programming Approach</title>
+<title>Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_0d9d5e2b0391</link>
 <guid isPermaLink="false">evt_0d9d5e2b0391</guid>
-<pubDate>Wed, 07 Oct 2026 16:24:50 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 16:39:39 +0000</pubDate>
 <category>research</category>
-<description>Dataset pruning reduces a large training set to a representative subset while preserving model performance. Existing geometry-based methods typically assume that nearby points in embedding space share similar properties. Rather than imposing this assumption, we derive geometric selection criteria by reformulating unbiased subset selection as a variance minimization problem. Unbiasedness ensures that unweighted subset averages recover full-dataset averages in expectation, including losses and gradients at fixed model parameters. Specifically, we characterize a family of unbiased subset selectio — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10347v1</description>
+<description>Streaming 3D reconstruction must preserve evidence from each frame while processing an expanding scene online. Spatial memory is a natural fit because it organizes history by reconstructed 3D location. Yet Point3R uses spatial proximity both to associate a new observation with an existing memory entry and to decide whether to fuse it, conflating co-location with state identity. Because pointers summarize image patches, nearby pointers may encode distinct surfaces, viewpoints, or visibility conditions; averaging them can destroy complementary evidence before later frames disambiguate it. We arg — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12282v1</description>
 </item>
 <item>
-<title>Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic</title>
+<title>MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_15fae5de3959</link>
 <guid isPermaLink="false">evt_15fae5de3959</guid>
-<pubDate>Tue, 06 Oct 2026 15:45:42 +0000</pubDate>
-<category>agents</category>
-<description>Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/</description>
+<pubDate>Thu, 08 Oct 2026 13:45:51 +0000</pubDate>
+<category>research</category>
+<description>Research idea innovation is a fundamental engine of scientific progress, yet it remains difficult to generate and evaluate in a scalable and controllable way. This challenge lies in its inherently open-ended and multi-objective nature, where ideas should balance novelty, plausibility and feasibility. While recent LLM-based approaches have made progress through carefully designed prompts or agent pipelines, they are constrained by predefined, static ideation workflows. To address this limitation, we propose MindFlow, a framework that explicitly formulates ideation as a graph-structured Flow in  — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.11966v1</description>
 </item>
 <item>
 <title>Toward Alignment Scaling Laws: A Framework and First Preregistered Measurements</title>
@@ -80,36 +80,12 @@
 <description>Agentic leaderboards increasingly evaluate systems on public benchmarks whose task statements and solution-bearing artifacts can remain accessible. We propose a measurement-first audit framework that distinguishes contamination claims according to the evidence required to support them. It separates three channels that require different evidence: training-time exposure, evaluation-time retrieval, and pipeline/scaffold leakage. Each channel is coded as open, partial, closed, or unknown under a fail-closed rule. Across nine Holistic Agent Leaderboard (HAL) configurations, none of the 27 channel a — 来源：arxiv — 原文：https://arxiv.org/abs/2610.05830v1</description>
 </item>
 <item>
-<title>Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dc09a43815f</link>
-<guid isPermaLink="false">evt_9dc09a43815f</guid>
-<pubDate>Tue, 06 Oct 2026 17:26:57 +0000</pubDate>
-<category>research</category>
-<description>Many long-horizon agents compact their context on a global rule, usually a token budget, blind to what the agent was doing. We ask whether the agent's recent behaviour predicts when a compaction will hurt. TRACE's public corpus of 590 harness-triggered AppWorld compaction boundaries replays each boundary from a re-executed prefix state under the pre-compaction context and under the summary, and records the burden of the next actions: calls that error or repeat a call already made. We find that pre-boundary history predicts post-compaction harm only weakly. An internally prespecified contrast b — 来源：aws_ml · github · arxiv — 原文：https://arxiv.org/abs/2610.08722v1</description>
-</item>
-<item>
-<title>New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2581f0bea9d2</link>
-<guid isPermaLink="false">evt_2581f0bea9d2</guid>
-<pubDate>Mon, 05 Oct 2026 17:23:19 +0000</pubDate>
-<category>infrastructure</category>
-<description>Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable SageMaker Python SDK v3 code to benchmark, recommend, and compare deployments. — 来源：aws_ml · github — 原文：https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/</description>
-</item>
-<item>
 <title>Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_61fcf1bc1cfe</link>
 <guid isPermaLink="false">evt_61fcf1bc1cfe</guid>
 <pubDate>Thu, 08 Oct 2026 18:33:29 +0000</pubDate>
 <category>agents</category>
 <description>Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/</description>
-</item>
-<item>
-<title>Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_47e3b62765e2</link>
-<guid isPermaLink="false">evt_47e3b62765e2</guid>
-<pubDate>Fri, 02 Oct 2026 15:44:20 +0000</pubDate>
-<category>agents</category>
-<description>Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn reinforcement learning (MTRL) on Amazon SageMaker AI and share the gains we measured in retrieval quality and reliability. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/</description>
 </item>
 <item>
 <title>Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod</title>
@@ -136,28 +112,44 @@
 <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work. — 来源：openai_blog — 原文：https://openai.com/index/advancing-computer-use-with-ironclad</description>
 </item>
 <item>
-<title>Topology-Conditioned Backdoors: Language Models That Insert Vulnerabilities When They Infer They Are in a Multi-Agent System</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_034fec7cc804</link>
-<guid isPermaLink="false">evt_034fec7cc804</guid>
-<pubDate>Mon, 05 Oct 2026 04:38:58 +0000</pubDate>
-<category>agents</category>
-<description>A language model may behave safely in a single-agent evaluation yet produce vulnerable code when its context suggests that it is part of a multi-agent system. We study this failure mode by fine-tuning Qwen2.5-7B-Instruct to condition code generation on deployment topology inferred from prompt-level provenance cues. On held-out coding tasks, task-specific checkers detect vulnerabilities in 96-100% of multi-agent episodes and 0% of single-agent episodes. An independent bandit analyzer detects vulnerabilities in approximately 67% of multi-agent episodes, covering six of nine vulnerability familie — 来源：arxiv — 原文：https://arxiv.org/abs/2610.05793v1</description>
-</item>
-<item>
-<title>PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d35fef19d8fa</link>
-<guid isPermaLink="false">evt_d35fef19d8fa</guid>
-<pubDate>Mon, 05 Oct 2026 17:58:18 +0000</pubDate>
-<category>research</category>
-<description>Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains unclear how accurately current models recover plotted values from real scientific figures, as existing benchmarks rely largely on synthetic charts or cover only a limited range of chart types. We introduce PlotGround, an automated pipeline for building plot digitization benchmarks from real scientific figures and their author-released source data. PlotGround maps figures to source t — 来源：arxiv — 原文：https://arxiv.org/abs/2610.06825v1</description>
-</item>
-<item>
-<title>CoTrace: Data Recipes for Training Terminal Agents with Harness-Model Co-Evolution</title>
+<title>Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2d5db485896a</link>
 <guid isPermaLink="false">evt_2d5db485896a</guid>
-<pubDate>Wed, 07 Oct 2026 17:06:59 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 17:27:53 +0000</pubDate>
 <category>research</category>
-<description>Terminal-agent capability depends jointly on model weights and the runtime harness that formats prompts, binds tools, and handles error recovery. Existing harness-model co-evolution approaches improve both components, yet often treat trajectories produced during harness search as an undifferentiated replay buffer. This practice overlooks that a trajectory's value for model training depends on the harness under which it was generated. To systematically analyze this interface, we establish an alternating co-evolution framework that decouples harness search and policy training through component-w — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10426v1</description>
+<description>Skills, reusable procedural guidance added at inference, can substantially improve LLM downstream performance (Li et al., 2026). Prior work retrieves skills from a bank by semantic relevance, then uses them as inference-time patches or for model distillation. The individual utility of each skill, however, is largely neglected. We first show that, in on-policy distillation where skill-conditioned policies serve as teachers, fewer than 25% of retrieved skills provide useful distillation signals. We then propose SGUID, a method for selecting a compact subset of skills for distillation. SGUID reta — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12367v1</description>
+</item>
+<item>
+<title>Language Models as AI Research World Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_785eef17d021</link>
+<guid isPermaLink="false">evt_785eef17d021</guid>
+<pubDate>Thu, 08 Oct 2026 16:18:54 +0000</pubDate>
+<category>research</category>
+<description>AI research agents automate the cycle of proposing, implementing, and evaluating experiments, opening a path toward recursive self-improvement. Yet their ability to propose experiments outpaces their capacity to execute them in real environments, making outcome prediction a key capability for sustained self-improvement under limited experimental budgets. We investigate language models as Research World Models (RWMs), which predict the outcomes of candidate interventions across research environments. Our evaluation draws on over 2,600 experimental records from nine research environments spannin — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12235v1</description>
+</item>
+<item>
+<title>What 30,000 Hours of Ego-centric Video Does Not Teach</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5737c347a036</link>
+<guid isPermaLink="false">evt_5737c347a036</guid>
+<pubDate>Thu, 08 Oct 2026 17:59:49 +0000</pubDate>
+<category>research</category>
+<description>World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1,000 scene types and 14,000 contributors. Rather than relying on opaque downstream metrics, we directly evaluate agent and object-interaction fidelity on a challenging out-of-distribution benchmark. Increasing training data by 100x improves both, but unevenly: the agent is modeled well, while object fidelity remains far lower and improves slowly. We show that the agent gains ne — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12464v1</description>
+</item>
+<item>
+<title>GenIA: Generative Reconstruction with Test-Time Input Alignment</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e53eb8648a66</link>
+<guid isPermaLink="false">evt_e53eb8648a66</guid>
+<pubDate>Thu, 08 Oct 2026 17:47:26 +0000</pubDate>
+<category>research</category>
+<description>Reconstructing complete 3D object assets from monocular or sparse multi-view observations remains challenging. Generative 3D foundation models can complete object geometry beyond the observed views, but their predictions may not faithfully reproduce the observed geometry, appearance, or pose. We introduce GenIA, a framework for test-time input-aligned generation that grounds SAM3D's generative prior in geometric and photometric observations without retraining the foundation model. We improve object pose by deriving translation and scale from geometry while retaining the learned rotation prior, — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12388v1</description>
+</item>
+<item>
+<title>HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_71fa8135509b</link>
+<guid isPermaLink="false">evt_71fa8135509b</guid>
+<pubDate>Thu, 08 Oct 2026 16:36:39 +0000</pubDate>
+<category>research</category>
+<description>Text-to-SQL models are commonly trained to map questions directly to static queries, whereas real-world database agents operate through stateful, multi-turn interaction with live databases -- inspecting schemas, executing probe queries, diagnosing errors, and revising hypotheses. This creates a critical train-deploy mismatch, as the execution harness that mediates this interaction is introduced only at inference time. To bridge this gap, we propose HarnessSQL, a harness-native post-training framework that preserves the full interaction structure throughout both supervised fine-tuning and reinf — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12274v1</description>
 </item>
 <item>
 <title>Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning</title>
@@ -184,20 +176,44 @@
 <description>Streaming video-language models must decide not only what to answer, but whether the evidence needed for the current question has arrived. Existing systems learn that decision as a separate trigger; we ask whether an unmodified model already computes it. We show that frozen VideoLLMs carry a linearly readable evidence-readiness signal, labelled from timestamped evidence rather than from model output. It decodes in all seven models of a shared byte-identical evaluation (AUROC 0.733-0.905 under the strictest not-ready sampling, where a fitted clock is near chance), and a probe fitted without any — 来源：arxiv — 原文：https://arxiv.org/abs/2610.08560v1</description>
 </item>
 <item>
-<title>Align, Then Correct: Training-Free Two-Stage Low-Rank Compensation for Extremely Quantized Large Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_785eef17d021</link>
-<guid isPermaLink="false">evt_785eef17d021</guid>
-<pubDate>Tue, 06 Oct 2026 11:16:37 +0000</pubDate>
-<category>infrastructure</category>
-<description>Low-rank quantization error compensation (LQEC) recovers the accuracy lost under aggressive weight quantization by attaching a closed-form rank-$r$ adapter beside each frozen quantized weight, without any training. We show that existing compensators are limited by two shared simplifications. They calibrate symmetrically, evaluating the full-precision and compensated weights on the same activation, which yields a compensation target that is inherently high-rank -- so a fixed rank budget captures only a small fraction of it. And they minimize only the second-order term of the loss, although the  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.08164v1</description>
+<title>GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3d9f1e733ac0</link>
+<guid isPermaLink="false">evt_3d9f1e733ac0</guid>
+<pubDate>Thu, 08 Oct 2026 17:39:12 +0000</pubDate>
+<category>research</category>
+<description>Multimodal large language models (MLLMs) often struggle to identify and use geometric relations in diagrams. Recent methods address this challenge by converting geometric entities, relations, and constraints into explicit textual representations for the model to reason over. However, effective formalization is highly non-trivial: on Geometry3K, structure injection fixes 28 errors but introduces 13 new ones among 200 examples. Redundant relations can distract the model, while ambiguous references to diagram elements can lead it to apply constraints incorrectly. This suggests that the key challe — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12391v1</description>
 </item>
 <item>
-<title>The Pushback Paradox: A Two-Probe Diagnostic for Language Model Compliance</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a9bdb4bdd1f0</link>
-<guid isPermaLink="false">evt_a9bdb4bdd1f0</guid>
-<pubDate>Mon, 05 Oct 2026 16:46:42 +0000</pubDate>
+<title>WOVEN: Weaving Visual World Modeling into Multimodal LLMs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_67a7321637b1</link>
+<guid isPermaLink="false">evt_67a7321637b1</guid>
+<pubDate>Thu, 08 Oct 2026 17:52:03 +0000</pubDate>
 <category>foundation_models</category>
-<description>Are language models compliant with user instructions? A model that always complies can be stopped but also exploited, while one that always resists can be neither exploited nor stopped. We contribute an open two-probe benchmark that can place any language model on this spectrum. In the active probe, a user instructs the model to act and accept a lower payoff, which measures exploitability. In the passive probe, the user instructs it to wait and give up a higher payoff, which measures stoppability. The two compliance rates combine into a compliance index $κ$. Applied to twelve language models,  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.06673v1</description>
+<description>Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different models can learn from different supervision sources and reuse across different tasks, with a systematic training recipe. Existing benchmarks document these deficits separately but do not support controlled comparisons across scenes, actions, and reasoning operations. We therefore introduce WOVEN, a traini — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12417v1</description>
+</item>
+<item>
+<title>Examining Social Attribution in LLM Reasoning: A Theory-Guided Probing Methodology</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_036ea8a06f36</link>
+<guid isPermaLink="false">evt_036ea8a06f36</guid>
+<pubDate>Thu, 08 Oct 2026 14:20:06 +0000</pubDate>
+<category>research</category>
+<description>Large language models (LLMs) are increasingly deployed in sociotechnical systems where social attribution, the reasoning process attributing external events to the causes and reasons of agents' social behaviors, plays a critical role. These processes involve judgments of social cause, responsibility, and blame/credit to agents. Although attributional models are well-studied in social psychology and cognition through Attribution Theory, social attribution remains underexplored in AI, particularly LLM social reasoning. This paper provides the first systematic exploration of LLM social attributio — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12022v1</description>
+</item>
+<item>
+<title>VioLA: Learning Generalist Humanoid Control Policies from Human Data</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2d4ef83f8c1d</link>
+<guid isPermaLink="false">evt_2d4ef83f8c1d</guid>
+<pubDate>Thu, 08 Oct 2026 17:57:27 +0000</pubDate>
+<category>robotics</category>
+<description>Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which makes joint-level actions hard to learn. And humanoid demonstrations are scarce, so current humanoid generalist policies do not follow new instructions out of the box and are fine-tuned on teleoperated demonstrations of each task before deployment. Human demonstrations exist in far larger numbers, but a person's motion is not a robot command. We remove both obstacles by changing — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12435v1</description>
+</item>
+<item>
+<title>SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c90b8206a0b9</link>
+<guid isPermaLink="false">evt_c90b8206a0b9</guid>
+<pubDate>Thu, 08 Oct 2026 17:59:20 +0000</pubDate>
+<category>robotics</category>
+<description>Frontier multimodal foundation models (e.g., GPT-6 Astra) have recently shown strong potential for direct robotic control, yet their performance on fine manipulation remains limited. We argue that an important source of failure is not necessarily insufficient policy capability, but insufficient spatial observability, where task-critical spatial relationships may be poorly revealed by the existing physical camera setup. We introduce SpatialHarness, a test-time embodied harness that provides test-time spatial scaffolding for fine robotic manipulation without policy fine-tuning or changes to the  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12457v1</description>
 </item>
 <item>
 <title>Decoupling Exploration from Optimization in RLVR</title>
@@ -254,14 +270,6 @@
 <pubDate>Wed, 07 Oct 2026 16:11:12 +0000</pubDate>
 <category>foundation_models</category>
 <description>Social media is a rich source of real-time public sentiment, but widely used sentiment analysis tools are often applied without understanding their limitations. In this study, we evaluate the inter-rater reliability of three bespoke sentiment analysis tools (TextBlob, VADER, and Twitter-roBERTa-base) and three large language models (LLMs: Qwen3-32B, GPT-OSS-120B, Llama-4-Maverick-17B) against six human raters across 100 tweets. We measured agreement using two statistical measures: Cohen's kappa for pairwise comparisons and Fleiss' kappa for multiple raters. Even among the human raters, our res — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10318v1</description>
-</item>
-<item>
-<title>Training Advisors for LLM Agents from Task Outcomes</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_71fa8135509b</link>
-<guid isPermaLink="false">evt_71fa8135509b</guid>
-<pubDate>Wed, 07 Oct 2026 11:14:26 +0000</pubDate>
-<category>research</category>
-<description>Large language model agents tackle multi-step tasks by interleaving reasoning and tool calls with observations from the environment. Prior work has shown that natural-language feedback can help these agents revise their decisions during task execution. We introduce Caddie, a method for training critics to provide natural-language analysis and advice as agents work through a task. Unlike approaches that rely on step-level labels or reference critiques, Caddie learns from whether the agent ultimately succeeds after receiving the critic's feedback. We optimize the critic through reinforcement lea — 来源：arxiv — 原文：https://arxiv.org/abs/2610.09858v1</description>
 </item>
 <item>
 <title>MIRROR: From Imitation to Internalization in LLM Personalization</title>
@@ -398,14 +406,6 @@
 <pubDate>Tue, 06 Oct 2026 13:10:29 +0000</pubDate>
 <category>research</category>
 <description>Current evaluation of multilingual Large Language Models (LLMs) rests on an implicit Translation-Isomorphism Assumption (TIA): that semantic structures across languages are congruent and mutually mappable without loss of information. We argue that this assumption is not merely violated in practice, but ill-posed in principle for a typologically identifiable class of concepts, including pragmatic markers, honorifics, and diachronically stratified terms. We formalize this failure using a usage-cloud framework, representing concepts as point sets of contextualized embeddings. We define $α$-unalig — 来源：arxiv — 原文：https://arxiv.org/abs/2610.08303v1</description>
-</item>
-<item>
-<title>Co-Evolving Paths and Flows via Path-Flow Alignment</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10d54c8aea11</link>
-<guid isPermaLink="false">evt_10d54c8aea11</guid>
-<pubDate>Tue, 06 Oct 2026 17:24:36 +0000</pubDate>
-<category>research</category>
-<description>We study path-flow alignment as a unified training objective for flow matching. Instead of fixing the interpolation path and learning only the velocity field, we jointly train an endpoint-preserving path network and a flow network using the same alignment loss: the flow learns to match the path velocity, and the path learns to align its velocity to the current flow. Although every fixed learned path defines a valid flow-matching objective, the alignment loss alone is not a reliable criterion for path learning. We identify path overfitting, a failure mode in which the alignment loss decreases w — 来源：arxiv — 原文：https://arxiv.org/abs/2610.08717v1</description>
 </item>
 </channel>
 </rss>

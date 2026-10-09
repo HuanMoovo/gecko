@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 11:03:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 17:47:42 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Introducing GLM 5.3 on Amazon Bedrock</title>
@@ -94,6 +94,14 @@
 <pubDate>Fri, 09 Oct 2026 08:02:25 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · video-to-video · 下载 31,800 · 收藏 372 — 来源：huggingface — 原文：https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA</description>
+</item>
+<item>
+<title>Qwen/Qwen-Image-2.1-Turbo</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7941af6584c4</link>
+<guid isPermaLink="false">evt_7941af6584c4</guid>
+<pubDate>Fri, 09 Oct 2026 14:14:45 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-to-image · 下载 0 · 收藏 205 — 来源：huggingface — 原文：https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo</description>
 </item>
 <item>
 <title>Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod</title>
@@ -398,14 +406,6 @@
 <pubDate>Tue, 06 Oct 2026 16:44:02 +0000</pubDate>
 <category>research</category>
 <description>Background: Biomedical AI can generate plausible explanations without reliably verifying whether each statement is supported by patient-specific evidence. We developed a neuro-semantic verification framework that converts radiomic measurements into addressable evidence records and machine-checkable claims. Methods: UPenn-GBM radiomics were aligned with de novo CaPTk extraction from standardized MRI and expert-validated segmentations in an independent multicenter cohort. The shared space comprised 1,728 features from T1, T1GD, T2, and FLAIR MRI across three tumor regions. Reference-defined sema — 来源：arxiv — 原文：https://arxiv.org/abs/2610.08660v1</description>
-</item>
-<item>
-<title>Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6b4b43d9657a</link>
-<guid isPermaLink="false">evt_6b4b43d9657a</guid>
-<pubDate>Tue, 06 Oct 2026 14:07:43 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) have demonstrated strong capabilities in question answering, yet they still frequently suffer from hallucinations on knowledge-intensive tasks. Knowledge graphs (KGs) provide LLMs with structured, interpretable, and updatable factual grounding, making them a promising external knowledge source for reliable reasoning. However, existing LLM-guided graph reasoning methods typically rely on hop-wise greedy or beam-style pruning during evidence retrieval. Such local decision processes are inherently myopic: evidence that appears weak near the source may become crucial o — 来源：arxiv — 原文：https://arxiv.org/abs/2610.08388v1</description>
 </item>
 </channel>
 </rss>

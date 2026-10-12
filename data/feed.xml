@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 11:30:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:39:44 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b76487086db</link>
+<guid isPermaLink="false">evt_9b76487086db</guid>
+<pubDate>Mon, 12 Oct 2026 15:50:14 +0000</pubDate>
+<category>foundation_models</category>
+<description>Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/</description>
+</item>
 <item>
 <title>Beyond hours saved: Building the business case for agentic automation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ca46a2fab5ba</link>
@@ -64,6 +72,14 @@
 <description>Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/</description>
 </item>
 <item>
+<title>zai-org/GLM-5.3-Flash</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_adf5d2a9bf24</link>
+<guid isPermaLink="false">evt_adf5d2a9bf24</guid>
+<pubDate>Mon, 12 Oct 2026 12:59:41 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 6,489,462 · 收藏 2,818 — 来源：huggingface — 原文：https://huggingface.co/zai-org/GLM-5.3-Flash</description>
+</item>
+<item>
 <title>akatz-ai/MiniMax-H3-Character-Swap-LoRA</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4f36191fb788</link>
 <guid isPermaLink="false">evt_4f36191fb788</guid>
@@ -72,12 +88,12 @@
 <description>Hugging Face 模型 · video-to-video · 下载 31,800 · 收藏 372 — 来源：huggingface — 原文：https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA</description>
 </item>
 <item>
-<title>Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod</title>
+<title>Deploy decision models with llama.cpp on Amazon SageMaker AI</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d66892423b04</link>
 <guid isPermaLink="false">evt_d66892423b04</guid>
-<pubDate>Thu, 08 Oct 2026 16:20:04 +0000</pubDate>
-<category>infrastructure</category>
-<description>A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for fairness, and namespace-level cost allocation for chargeback. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/</description>
+<pubDate>Mon, 12 Oct 2026 15:51:46 +0000</pubDate>
+<category>foundation_models</category>
+<description>Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/</description>
 </item>
 <item>
 <title>Muse launches on the iPad</title>
@@ -94,6 +110,14 @@
 <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
 <category>agents</category>
 <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work. — 来源：openai_blog — 原文：https://openai.com/index/advancing-computer-use-with-ironclad</description>
+</item>
+<item>
+<title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_12c0d0baba3d</link>
+<guid isPermaLink="false">evt_12c0d0baba3d</guid>
+<pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+<category>infrastructure</category>
+<description>Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […] — 来源：verge_ai — 原文：https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</description>
 </item>
 <item>
 <title>X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</title>
@@ -382,30 +406,6 @@
 <pubDate>Wed, 07 Oct 2026 16:47:17 +0000</pubDate>
 <category>research</category>
 <description>Vision-language-action~(VLA) models have emerged as a promising paradigm for autonomous driving. However, existing VLA models still suffer from a fundamental mismatch: driving actions require precise 3D geometric cues, while visual-language understanding and reasoning are largely conducted in a 2D semantic space. In this paper, we propose GeoCoTDrive, an explicit geometric chain-of-thought framework that grounds geometry in a planning-oriented manner. GeoCoTDrive follows a think with 2D first, drive with dedicated 3D priors paradigm. It first grounds 2D regions corresponding to decision-critic — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10390v1</description>
-</item>
-<item>
-<title>TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e74ea10e3566</link>
-<guid isPermaLink="false">evt_e74ea10e3566</guid>
-<pubDate>Wed, 07 Oct 2026 15:49:41 +0000</pubDate>
-<category>research</category>
-<description>Large-scale egocentric human interaction data is becoming an important source of physical supervision for embodied learning, yet video alone leaves the contact and pressure that characterize physical interaction unrecorded. Recent visual-tactile datasets provide this missing supervision, but their synchronized tactile data remain far smaller in volume than human video. Moreover, the largest resources often merge recordings from different sensors or annotation procedures, which makes the effect of data scale difficult to isolate. We therefore introduce TouchScale, a 500-hour dataset of contact- — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10288v1</description>
-</item>
-<item>
-<title>HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_314294e766ee</link>
-<guid isPermaLink="false">evt_314294e766ee</guid>
-<pubDate>Wed, 07 Oct 2026 17:45:17 +0000</pubDate>
-<category>robotics</category>
-<description>Despite recent advances in humanoid locomotion, controllers optimized for command tracking and robustness tend to produce mechanical gaits, whereas controllers tied to human motion data often fail to generalize to commands outside the data distribution. This work introduces a learning framework that balances these competing objectives to synthesize real-time steerable, robust, and biomimetic locomotion policies from human data. Using an in-house curated locomotion dataset covering diverse speeds and directions, we first learn a natural locomotion prior policy through a teacher-student distilla — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10489v1</description>
-</item>
-<item>
-<title>OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ae86e63918e7</link>
-<guid isPermaLink="false">evt_ae86e63918e7</guid>
-<pubDate>Wed, 07 Oct 2026 16:43:29 +0000</pubDate>
-<category>research</category>
-<description>Tactile feedback provides embodied agents with physical information beyond visual observations, enabling more reliable interaction with the real world. However, despite the rapid progress of vision-tactile-language-action (VTLA) policies, there remains a lack of unified benchmarks for evaluating tactile-enabled robot manipulation across simulation and the real world. To address this gap, we introduce OpenViTac, a visuo-tactile manipulation benchmark for evaluating robot policies across simulation and the real world. OpenViTac organizes contact-rich manipulation into four tactile-relevant capab — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10384v1</description>
 </item>
 </channel>
 </rss>

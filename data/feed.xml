@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 20:55:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 02:57:12 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
@@ -24,30 +24,6 @@
 <description>Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per completed task. We show how to tune the trade-off per request and monitor it in production. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/</description>
 </item>
 <item>
-<title>Beyond hours saved: Building the business case for agentic automation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ca46a2fab5ba</link>
-<guid isPermaLink="false">evt_ca46a2fab5ba</guid>
-<pubDate>Wed, 07 Oct 2026 15:50:00 +0000</pubDate>
-<category>agents</category>
-<description>The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision quality, and maintenance economics, and to prioritize which workflows to automate first. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/</description>
-</item>
-<item>
-<title>Agentic-TTT: Training test-time policy for test-time training</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7818bdc9321f</link>
-<guid isPermaLink="false">evt_7818bdc9321f</guid>
-<pubDate>Thu, 08 Oct 2026 14:06:26 +0000</pubDate>
-<category>agents</category>
-<description>Test-time training (TTT) adapts an LLM's parameters using signals derived from test inputs, and can make striking improvements in pre-specified settings such as IMO competitions or designated open problems. By turning deployment experience into parameter updates, TTT provides a direct mechanism for model-level self-improvement. Yet TTT is not universally beneficial: each TTT algorithm works in different settings, and applying an ill-suited method could waste test-time compute or even damage model performance. Therefore, such parameter-level self-improvement requires agency: the model must deci — 来源：microsoft_research · arxiv — 原文：https://arxiv.org/abs/2610.12002v1</description>
-</item>
-<item>
-<title>SpatialASM: Internalizing Active Mentalization for Spatial Reasoning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0d9d5e2b0391</link>
-<guid isPermaLink="false">evt_0d9d5e2b0391</guid>
-<pubDate>Fri, 09 Oct 2026 16:39:50 +0000</pubDate>
-<category>research</category>
-<description>When solving complex spatial reasoning tasks, ordinary humans naturally revisit the scenes from task-relevant viewpoints and mentally reconstruct the spatial layouts from those viewpoints. But can Large Vision-Language Models (LVLMs) proactively think in the same way? We term this ability Active Spatial Mentalization (ASM), an intrinsic component of visual intelligence that remains substantially underdeveloped in current LVLMs. To bridge this gap, we introduce SpatialASM, a scalable framework to internalize ASM into LVLMs through training-time spatial simulation. SpatialASM employs an allocent — 来源：arxiv — 原文：https://arxiv.org/abs/2610.13832v1</description>
-</item>
-<item>
 <title>Mixture-of-Experts kernel engineering on Amazon SageMaker AI</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ba8a6ffbbe0f</link>
 <guid isPermaLink="false">evt_ba8a6ffbbe0f</guid>
@@ -62,14 +38,6 @@
 <pubDate>Mon, 12 Oct 2026 07:10:55 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · text-to-image · 下载 2,188,658 · 收藏 4,043 — 来源：huggingface — 原文：https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized</description>
-</item>
-<item>
-<title>Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_61fcf1bc1cfe</link>
-<guid isPermaLink="false">evt_61fcf1bc1cfe</guid>
-<pubDate>Thu, 08 Oct 2026 18:33:29 +0000</pubDate>
-<category>agents</category>
-<description>Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/</description>
 </item>
 <item>
 <title>zai-org/GLM-5.3-Flash</title>
@@ -104,14 +72,6 @@
 <description>Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/</description>
 </item>
 <item>
-<title>Muse launches on the iPad</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e679d3ae180e</link>
-<guid isPermaLink="false">evt_e679d3ae180e</guid>
-<pubDate>Wed, 07 Oct 2026 15:37:23 +0000</pubDate>
-<category>agents</category>
-<description>After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support</description>
-</item>
-<item>
 <title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_12c0d0baba3d</link>
 <guid isPermaLink="false">evt_12c0d0baba3d</guid>
@@ -120,20 +80,20 @@
 <description>Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […] — 来源：verge_ai — 原文：https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</description>
 </item>
 <item>
-<title>X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_55e03cff5d82</link>
-<guid isPermaLink="false">evt_55e03cff5d82</guid>
-<pubDate>Fri, 09 Oct 2026 17:34:44 +0000</pubDate>
+<title>GUIDE: Computationally Augmented Consensus for Trustworthy Clinical Practice Guidelines</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_82c5f3fe0888</link>
+<guid isPermaLink="false">evt_82c5f3fe0888</guid>
+<pubDate>Mon, 12 Oct 2026 03:16:18 +0000</pubDate>
 <category>research</category>
-<description>Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agents fulfill benign user requests. Proactively identifying these compositional failures requires systematically exploring diverse cross-service paths. Existing red-teaming methods often simply prompt LLMs to identify potentially harmful paths from task and environment descriptions or decompose harmful objectives specified by humans or LLMs into seemingly benign action combination — 来源：arxiv — 原文：https://arxiv.org/abs/2610.13886v1</description>
+<description>Maintaining up-to-date clinical practice guidelines (CPGs) is essential for evidence-based medicine, but rapid evidence growth and complex expert consensus formation limit timely updates. We developed GUIDE, a multi-agent copilot system for human-AI collaborative guideline generation and updating. GUIDE delegates labor-intensive tasks to specialized AI agents while preserving expert judgment and final arbitration. In 12 NICE ophthalmology datasets, GUIDE achieved 88.85% literature recall, 86.06% alignment in certainty-of-evidence ratings, and 91.67% recommendation agreement, requiring 162.17 m — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16108v1</description>
 </item>
 <item>
-<title>ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_71fa8135509b</link>
-<guid isPermaLink="false">evt_71fa8135509b</guid>
-<pubDate>Fri, 09 Oct 2026 11:09:54 +0000</pubDate>
+<title>When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_036ea8a06f36</link>
+<guid isPermaLink="false">evt_036ea8a06f36</guid>
+<pubDate>Mon, 12 Oct 2026 02:11:43 +0000</pubDate>
 <category>research</category>
-<description>Coding agents are increasingly used to build programs from scratch as software engineers do rather than to resolve issues within a repository or to generate a repository from a given requirements document. However, scalable verifiable training environments that force agents to discover what is required and to decide how the system should be designed remain scarce. Moreover, existing agent workflows also cannot sustain long-horizon development in which the agent explores the reference program before implementation. To address these challenges, we introduce ProgramGym, a framework consisting of  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.13395v1</description>
+<description>Agent evaluation harnesses are software systems that run test suites, generate inputs, and decide outcomes with test oracles. This paper audits such software for reliability defects that score tables cannot reveal. We introduce an oracle-integrity auditing approach with five state-integrity invariants and three known-answer controls. We evaluate it by injecting seven oracle defect classes across two task domains and a synthetic domain. All injected defect classes are detected, and the repaired oracle has no false positives. Applied to an agent benchmark, the audit reveals a reward-function def — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16067v1</description>
 </item>
 <item>
 <title>What 30,000 Hours of Ego-centric Video Does Not Teach</title>
@@ -150,6 +110,54 @@
 <pubDate>Thu, 08 Oct 2026 17:47:26 +0000</pubDate>
 <category>research</category>
 <description>Reconstructing complete 3D object assets from monocular or sparse multi-view observations remains challenging. Generative 3D foundation models can complete object geometry beyond the observed views, but their predictions may not faithfully reproduce the observed geometry, appearance, or pose. We introduce GenIA, a framework for test-time input-aligned generation that grounds SAM3D's generative prior in geometric and photometric observations without retraining the foundation model. We improve object pose by deriving translation and scale from geometry while retaining the learned rotation prior, — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12388v1</description>
+</item>
+<item>
+<title>Correct Choices, Failed Sequences: Choice2Seq Benchmarks Correctness Retention Across Output Interfaces</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2e01704b91f4</link>
+<guid isPermaLink="false">evt_2e01704b91f4</guid>
+<pubDate>Mon, 12 Oct 2026 05:11:37 +0000</pubDate>
+<category>research</category>
+<description>A model may select the correct answer yet fail to construct it through a sequence of local decisions. We introduce Choice2Seq, a diagnostic benchmark that measures correctness retention across complete-answer selection and sequential construction in independent runs on the same problems and candidate sets. Sequence Composition Rate (SCR) measures the fraction of correctly selected items that are also answered correctly through local construction. Jev achieves 97.1% and 99.5% selection accuracy on arithmetic and lexical retrieval, yet retains only 33.0% and 2.1% of those correct choices under s — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16191v1</description>
+</item>
+<item>
+<title>Label-Centric Knowledge Retrieval for Zero-Shot Text Classification</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1946426210c3</link>
+<guid isPermaLink="false">evt_1946426210c3</guid>
+<pubDate>Mon, 12 Oct 2026 05:00:56 +0000</pubDate>
+<category>research</category>
+<description>Flagship large language models (LLMs) offer rich general knowledge and strong reasoning capabilities, but their high inference cost and latency limit their use for large-scale data labeling. We study zero-shot text classification with semantically meaningful labels and task descriptions, without task-specific labeled examples or classifier feedback. We propose \textbf{SLKR} (Semantic Label Knowledge Retrieval), a label-centric retrieval-augmented generation framework that separates offline knowledge construction from lightweight online inference. Offline, a flagship LLM independently generates — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16182v1</description>
+</item>
+<item>
+<title>Uncovering Robustness Weaknesses in LLM Agents via Persona Evolution with Task-Integrity Constraints</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2700264f459f</link>
+<guid isPermaLink="false">evt_2700264f459f</guid>
+<pubDate>Mon, 12 Oct 2026 04:30:20 +0000</pubDate>
+<category>research</category>
+<description>Interactive-agent evaluations commonly rely on standardized LLM-based user simulators that exhibit broadly cooperative behavior, potentially overlooking failures that arise under diverse but realistic user interactions. This can lead to overly optimistic estimates of agent robustness and provide limited failure signals for training agents that generalize across users. Existing approaches largely rely on predefined user behaviors, which may miss agent- or domain-specific weaknesses, while failure-oriented search can reduce task success by invalidating the underlying task rather than exposing ge — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16155v1</description>
+</item>
+<item>
+<title>Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_184ec702b074</link>
+<guid isPermaLink="false">evt_184ec702b074</guid>
+<pubDate>Mon, 12 Oct 2026 01:40:48 +0000</pubDate>
+<category>research</category>
+<description>Existing audio deepfake detection (ADD) methods frequently exhibit limited generalization, as fixed bottleneck architectures fail to adapt to the heterogeneous information densities inherent in diverse spoofing artifacts. Moreover, standard augmentation often leads to a pathological robustness-accuracy trade-off. In this paper, we propose a unified ADD framework to address these challenges. Our approach integrates: (1) an Adaptive Audio Feature Integration (AAFI) module that dynamically selects optimal latent dimensions via a compression pool and a stochastic exploration mechanism, ensuring fl — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16049v1</description>
+</item>
+<item>
+<title>GNFormer: Gaussian Neural Field Transformer for Efficient Camera-based Occupancy Prediction</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f58b0f6a6f7e</link>
+<guid isPermaLink="false">evt_f58b0f6a6f7e</guid>
+<pubDate>Sun, 11 Oct 2026 10:39:58 +0000</pubDate>
+<category>research</category>
+<description>Camera-based occupancy prediction provides geometric and semantic scene understanding for robot perception and has been adopted in autonomous vehicle and UAV perception systems. Gaussian primitives offer a promising alternative by potentially representing only occupied regions, thereby concentrating computation and representational capacity where needed and reducing wasted computation and memory in empty space. However, existing Gaussian-based methods suffer from poor primitive utilization, as ineffective training objectives leave some Gaussians in empty space, while the limited expressiveness — 来源：arxiv — 原文：https://arxiv.org/abs/2610.15522v1</description>
+</item>
+<item>
+<title>Exploring the Limits of Combinatorial Generalization in Embodied Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c2036db3a99</link>
+<guid isPermaLink="false">evt_5c2036db3a99</guid>
+<pubDate>Sun, 11 Oct 2026 07:59:34 +0000</pubDate>
+<category>robotics</category>
+<description>In embodied manipulation, Vision Language Action (VLA) models can execute atomic skills, but long-horizon manipulation requires recombining these skills without demonstrations for every skill combination. The full instruction route treats skill chaining as long-horizon imitation. In a controlled study, full instruction training on limited skill combination sequences reaches 40.0% ordered success on covered combinations but only 7.7% on recombination, suggesting memorization of sequence templates rather than robust skill recombination. We introduce Hierarchical Subtask Execution (HSE), a diagno — 来源：arxiv — 原文：https://arxiv.org/abs/2610.15425v1</description>
 </item>
 <item>
 <title>Can Language Models Play the Wikipedia Game?</title>
@@ -280,14 +288,6 @@
 <description>Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different models can learn from different supervision sources and reuse across different tasks, with a systematic training recipe. Existing benchmarks document these deficits separately but do not support controlled comparisons across scenes, actions, and reasoning operations. We therefore introduce WOVEN, a traini — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12417v1</description>
 </item>
 <item>
-<title>Examining Social Attribution in LLM Reasoning: A Theory-Guided Probing Methodology</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_036ea8a06f36</link>
-<guid isPermaLink="false">evt_036ea8a06f36</guid>
-<pubDate>Thu, 08 Oct 2026 14:20:06 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) are increasingly deployed in sociotechnical systems where social attribution, the reasoning process attributing external events to the causes and reasons of agents' social behaviors, plays a critical role. These processes involve judgments of social cause, responsibility, and blame/credit to agents. Although attributional models are well-studied in social psychology and cognition through Attribution Theory, social attribution remains underexplored in AI, particularly LLM social reasoning. This paper provides the first systematic exploration of LLM social attributio — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12022v1</description>
-</item>
-<item>
 <title>VioLA: Learning Generalist Humanoid Control Policies from Human Data</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2d4ef83f8c1d</link>
 <guid isPermaLink="false">evt_2d4ef83f8c1d</guid>
@@ -304,108 +304,108 @@
 <description>Frontier multimodal foundation models (e.g., GPT-6 Astra) have recently shown strong potential for direct robotic control, yet their performance on fine manipulation remains limited. We argue that an important source of failure is not necessarily insufficient policy capability, but insufficient spatial observability, where task-critical spatial relationships may be poorly revealed by the existing physical camera setup. We introduce SpatialHarness, a test-time embodied harness that provides test-time spatial scaffolding for fine robotic manipulation without policy fine-tuning or changes to the  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.12457v1</description>
 </item>
 <item>
-<title>Decoupling Exploration from Optimization in RLVR</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f1694c59700e</link>
-<guid isPermaLink="false">evt_f1694c59700e</guid>
-<pubDate>Wed, 07 Oct 2026 17:59:26 +0000</pubDate>
-<category>research</category>
-<description>Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10536v1</description>
+<title>Building agents that transact with Anchor Browser and AgentCore payments</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cdd5fd8d1326</link>
+<guid isPermaLink="false">evt_cdd5fd8d1326</guid>
+<pubDate>Tue, 13 Oct 2026 20:10:33 +0000</pubDate>
+<category>agents</category>
+<description>Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/</description>
 </item>
 <item>
-<title>EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f1a6591daca9</link>
-<guid isPermaLink="false">evt_f1a6591daca9</guid>
-<pubDate>Wed, 07 Oct 2026 17:48:02 +0000</pubDate>
+<title>A Reinforcement Learning Framework for Safety-Aware Haptic Shared Control in Surgical Robotics</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ddb08b3e2d78</link>
+<guid isPermaLink="false">evt_ddb08b3e2d78</guid>
+<pubDate>Mon, 12 Oct 2026 03:31:54 +0000</pubDate>
 <category>research</category>
-<description>Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficiently when deciding which code and skill changes to pursue. We introduce EmbodiedRSI, a self-evolving agentic harness that autonomously decides where to explore next and turns the resulting physical inte — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10498v1</description>
+<description>Haptic shared control in surgical robotics combines human-side and robot-side forces at a shared end effector while preserving operator involvement. However, the effects of geometric safety choices on task execution and force coordination remain unclear. We model the interaction as a two-agent cooperative Markov game under centralized training and decentralized execution, comparing learned human control with a task-tuned fixed-impedance baseline. This model-free multi-agent reinforcement learning framework supports joint policy adaptation without requiring a complete analytical interaction mod — 来源：arxiv — 原文：https://arxiv.org/abs/2610.15422v1</description>
 </item>
 <item>
-<title>Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f6270bf30bb3</link>
-<guid isPermaLink="false">evt_f6270bf30bb3</guid>
-<pubDate>Wed, 07 Oct 2026 16:30:59 +0000</pubDate>
-<category>research</category>
-<description>As multimodal large language models (MLLMs) become more capable and widely deployed, concerns about privacy and safety have become increasingly pressing. Machine unlearning offers one approach to addressing these concerns by removing designated information from trained models while preserving unrelated capabilities. However, fragmented implementations and evaluation protocols, incomplete robustness testing, and limited understanding of metric reliability make progress in MLLM unlearning difficult to assess systematically. We introduce Open-MMUnlearning, an open-source, extensible framework tha — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10358v1</description>
+<title>Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model Updating</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c0bf17d4b640</link>
+<guid isPermaLink="false">evt_c0bf17d4b640</guid>
+<pubDate>Thu, 08 Oct 2026 13:41:53 +0000</pubDate>
+<category>infrastructure</category>
+<description>Solving high-dimensional structural model updating problems requires an algorithm capable of navigating complex, non-convex landscapes with correlated parameters. Existing hybrid evolutionary algorithms typically rely on static architectures or fixed switching rules, resulting in disjointed search phases. To address this, this study proposes a Deep Reinforcement Learning-governed dynamic DE-CMAES Orchestration (DRL-DCO) algorithm, in which a Deep Deterministic Policy Gradient (DDPG)-based actor-critic agent continuously governs the evolutionary process as a single, unified system rather than a — 来源：arxiv — 原文：https://arxiv.org/abs/2610.11546v1</description>
 </item>
 <item>
-<title>Performance at What Cost? A Sustainability-Aware Performance Index for Cell and Nucleus Instance Segmentation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_084a26bbd560</link>
-<guid isPermaLink="false">evt_084a26bbd560</guid>
-<pubDate>Wed, 07 Oct 2026 16:12:53 +0000</pubDate>
+<title>Amortized Counterfactual Prediction with Graph Neural Networks</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_29783915253d</link>
+<guid isPermaLink="false">evt_29783915253d</guid>
+<pubDate>Fri, 09 Oct 2026 15:22:18 +0000</pubDate>
 <category>research</category>
-<description>Pretrained models for cell and nuclear instance segmentation differ substantially in architecture, pretraining data and objectives, parameter count, inference strategy, adaptation requirements, postprocessing pipeline, and computational demand. Large pretrained and foundation models are increasingly adopted because of their strong zero-shot capabilities, but their use also imposes greater energy consumption, memory requirements, computational demands, adaptation costs, and operational carbon emissions. Whether these additional demands are justified by meaningful gains in segmentation performan — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10324v1</description>
+<description>Counterfactual inference asks how an observed outcome might have differed under different circumstances, such as whether a patient would have recovered had they received a different treatment. Such questions arise whenever decisions depend on the outcomes of alternatives that were not observed. Answering counterfactual queries generally requires knowledge of the underlying causal structure, which is often unavailable in practice. A common approach is therefore to first estimate the causal graph from observational data and then perform counterfactual inference. However, errors in the estimated  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.13724v1</description>
 </item>
 <item>
-<title>Document-Level Text Simplification in Estonian Using Large Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_17a42f124e9f</link>
-<guid isPermaLink="false">evt_17a42f124e9f</guid>
-<pubDate>Wed, 07 Oct 2026 16:38:26 +0000</pubDate>
+<title>Look Back to Move Forward: Learning to Revisit for Agentic Compositional Image Generation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5cb1940ea836</link>
+<guid isPermaLink="false">evt_5cb1940ea836</guid>
+<pubDate>Mon, 12 Oct 2026 05:59:12 +0000</pubDate>
+<category>agents</category>
+<description>Text-to-image models have made remarkable progress in visual fidelity and instruction following, yet complex compositional generation remains challenging. Existing agentic approaches address this limitation through iterative generation and editing, adapting their actions based on interaction history. However, they typically fix the continuation state (i.e., the image from which refinement proceeds) to the latest image. Since iterative editing is not necessarily monotonic, the agent may continue refining from the latest image even when it has already degraded. In this work, we introduce GenRevi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16224v1</description>
+</item>
+<item>
+<title>Autoregressive Decoding as a Martingale: Characterizing the Stochastic Dynamics of LLM Generation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b7332239e454</link>
+<guid isPermaLink="false">evt_b7332239e454</guid>
+<pubDate>Mon, 12 Oct 2026 01:31:31 +0000</pubDate>
 <category>foundation_models</category>
-<description>Document-level text simplification involves transformations that go beyond sentence-internal edits, addressing discourse coherence, anaphora resolution, and cross-paragraph consistency. Despite advances in sentence-level simplification for high-resource languages, document-level simplification in morphologically rich, low-resource languages such as Estonian remains largely unexplored. This study presents a comprehensive evaluation of five state-of-the-art multilingual large language models (LLMs) for document-level simplification in Estonian. Three prompting strategies are examined: single-pas — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10378v1</description>
+<description>Large language models (LLMs) have achieved remarkable success across a wide range of language tasks. At their core, autoregressive LLMs are conditional probability models that learn to approximate the next-token distribution given the preceding context. Despite this probabilistic nature, the stochastic dynamics of autoregressive decoding have rarely been investigated from a rigorous probabilistic perspective. In this work, we define the per-step prediction error as the difference between the sampled token indicator and the model's conditional predictive distribution, and prove that the cumulat — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16041v1</description>
 </item>
 <item>
-<title>Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2bdd01eef0a8</link>
-<guid isPermaLink="false">evt_2bdd01eef0a8</guid>
-<pubDate>Wed, 07 Oct 2026 16:11:12 +0000</pubDate>
+<title>FlowVLA: Enabling World Dynamics Understanding through Pluggable 3D Flow Learning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cee09bb0b153</link>
+<guid isPermaLink="false">evt_cee09bb0b153</guid>
+<pubDate>Mon, 12 Oct 2026 04:34:14 +0000</pubDate>
+<category>robotics</category>
+<description>Recent advances in 3D reconstruction enable the extraction of temporally consistent 3D motion from RGB observations; however, current Vision-Language-Action (VLA) models still predominantly rely on 2D image-text priors. Therefore, they do not accurately represent the fundamental dynamics of the 3D world associated with physical actions. This over-reliance on static 2D visual cues limits the capacity of VLA models in achieving robust robot manipulation. To address these limitations, we introduce FlowVLA, a reconstruction-guided, pluggable 3D flow learning framework aimed at empowering VLA model — 来源：arxiv — 原文：https://arxiv.org/abs/2610.16160v1</description>
+</item>
+<item>
+<title>Recovering Low-Bit Failures in Vision-Language-Action Policies via Quantization-Conditioned Reinforcement Learning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_41c08dfef2e2</link>
+<guid isPermaLink="false">evt_41c08dfef2e2</guid>
+<pubDate>Sun, 11 Oct 2026 14:56:31 +0000</pubDate>
+<category>research</category>
+<description>Quantization lowers deployment costs of vision-language-action (VLA) policies but can compromise task completion. Across five VLA models and 4,050 real-world trials, we systematically reveal that quantization-aware training (QAT) generally improves on post-training quantization (PTQ) but leaves substantial gaps to full precision (FP) on long-horizon tasks and under visual and semantic shifts, while its imitation-based objective does not explicitly use rollout success or partial completion. To exploit these outcome signals, we introduce Quantization-Conditioned Reinforcement Learning (QCRL), an — 来源：arxiv — 原文：https://arxiv.org/abs/2610.15675v1</description>
+</item>
+<item>
+<title>Look Before You Move: Agent-Interface-Aligned Supervision for Open-World Mobile Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5f03a00e68be</link>
+<guid isPermaLink="false">evt_5f03a00e68be</guid>
+<pubDate>Sun, 11 Oct 2026 12:37:28 +0000</pubDate>
+<category>robotics</category>
+<description>Open-world mobile manipulation requires a robot to find an object, approach it, and move it to a target receptacle from a language instruction. Training vision-language model (VLM) agents for these tasks requires demonstrations of both action selection and active vision. Existing pipelines often convert planned trajectories into high-level action labels, but shortest-path progress provides limited supervision for deciding where to look. We introduce Agent-Interface Data Alignment (AIDA), a data collection pipeline in which a teacher directly selects and executes actions through the deployed ag — 来源：arxiv — 原文：https://arxiv.org/abs/2610.15572v1</description>
+</item>
+<item>
+<title>Vision-Predictor-Action: Towards Efficient Embodied AI via Neuro-Symbolic JEPA Predictors</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8cd1b36bef07</link>
+<guid isPermaLink="false">evt_8cd1b36bef07</guid>
+<pubDate>Sun, 11 Oct 2026 11:59:18 +0000</pubDate>
+<category>robotics</category>
+<description>Vision-Language-Action (VLA) models commonly generate robot actions token by token through Large Language Model (LLM) decoders, causing inference latency to grow with action sequence length and limiting closed-loop control frequency. We present Goal-Conditioned Vision-Predictor-Action (VPA), which replaces autoregressive decoders with a lightweight latent control loop. A shared vision encoder and a frozen text encoder embed observations, goal images, and instructions; a neuro-symbolic selector chooses a discrete skill; a Joint-Embedding Predictive Architecture (JEPA) predictor forecasts the ne — 来源：arxiv — 原文：https://arxiv.org/abs/2610.15556v1</description>
+</item>
+<item>
+<title>Matched-Context Group Policy Optimization for LLM Agent Training</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_48f43fbc6343</link>
+<guid isPermaLink="false">evt_48f43fbc6343</guid>
+<pubDate>Fri, 09 Oct 2026 15:41:37 +0000</pubDate>
+<category>infrastructure</category>
+<description>Training long-horizon language model agents requires assigning credit to intermediate decisions from sparse terminal feedback. Within a finite group of sibling rollouts, useful action comparisons depend on their context, evidence for both alternatives, and how that evidence enters learning. We propose Matched-Context Group Policy Optimization (MCGPO), a procedure for constructing weighted action preferences from already collected trajectories. MCGPO defines comparison contexts with pre-action state summaries and observed rubric progress, annotated by task rules. Two-action support selects amon — 来源：arxiv — 原文：https://arxiv.org/abs/2610.13755v1</description>
+</item>
+<item>
+<title>Not All Dimensions Are Equal: Outlier-Aware Attention Linearization with Grouped Quadratic Kernels</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0c8af202be8f</link>
+<guid isPermaLink="false">evt_0c8af202be8f</guid>
+<pubDate>Fri, 09 Oct 2026 14:40:19 +0000</pubDate>
+<category>research</category>
+<description>Linearizing softmax attention offers a route to efficient Transformer inference, but preserving pretrained attention remains challenging. We identify an important source of approximation error overlooked by standard linearization methods: a small number of outlier dimensions contribute disproportionately to query-key dot products and account for a large fraction of the approximation error. Motivated by this heterogeneity, we propose Outlier-Aware Attention Linearization (OAL), a dimension-aware method for constructing quadratic attention approximations. Starting from a second-order Taylor appr — 来源：arxiv — 原文：https://arxiv.org/abs/2610.13674v1</description>
+</item>
+<item>
+<title>AudioTETRIS: Token Elimination via Transitional Importance Signals for Efficient Audio LLMs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_22d101e1c07f</link>
+<guid isPermaLink="false">evt_22d101e1c07f</guid>
+<pubDate>Fri, 09 Oct 2026 13:49:22 +0000</pubDate>
 <category>foundation_models</category>
-<description>Social media is a rich source of real-time public sentiment, but widely used sentiment analysis tools are often applied without understanding their limitations. In this study, we evaluate the inter-rater reliability of three bespoke sentiment analysis tools (TextBlob, VADER, and Twitter-roBERTa-base) and three large language models (LLMs: Qwen3-32B, GPT-OSS-120B, Llama-4-Maverick-17B) against six human raters across 100 tweets. We measured agreement using two statistical measures: Cohen's kappa for pairwise comparisons and Fleiss' kappa for multiple raters. Even among the human raters, our res — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10318v1</description>
-</item>
-<item>
-<title>MIRROR: From Imitation to Internalization in LLM Personalization</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_99f2f04a7c04</link>
-<guid isPermaLink="false">evt_99f2f04a7c04</guid>
-<pubDate>Wed, 07 Oct 2026 10:10:01 +0000</pubDate>
-<category>research</category>
-<description>The demand for personalized LLMs is shifting from style imitation toward content quality. We investigate whether self-distillation can bridge this gap in existing fine-tuning paradigm. To address this limitation, we introduce MIRROR(Meta- personalization by Internalizing Reference-Revealed On-policy Reflections), a novel self-distillation framework that shifts LLM personalization from imitation toward preference internalization. First, we replace reference-token imitation with reference-revealed on-policy self-distillation, aligning the model's next-token distributions along its own generation — 来源：arxiv — 原文：https://arxiv.org/abs/2610.09795v1</description>
-</item>
-<item>
-<title>ResidualQuant: KV Cache Quantization for Looped Transformers with 2-Bit Residuals</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_13db7f7d2d55</link>
-<guid isPermaLink="false">evt_13db7f7d2d55</guid>
-<pubDate>Wed, 07 Oct 2026 16:40:21 +0000</pubDate>
-<category>research</category>
-<description>Looped Transformers improve parameter efficiency by repeatedly applying shared Transformer blocks over multiple recurrent loops, increasing computational depth without increasing the parameter count. However, KV cache memory still scales with the number of loops, becoming a key memory bottleneck that limits batch size and inference throughput. KV cache quantization can alleviate this bottleneck, but existing methods often suffer substantial accuracy degradation at aggressive low-precision regimes. We observe that looped Transformers offer a unique opportunity: KV states across loops are highly — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10381v1</description>
-</item>
-<item>
-<title>Koopman Observers for Diffusion Acceleration: Correcting Feature Forecasts with Shallow Measurements</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8bd74ecad2a0</link>
-<guid isPermaLink="false">evt_8bd74ecad2a0</guid>
-<pubDate>Wed, 07 Oct 2026 16:35:07 +0000</pubDate>
-<category>research</category>
-<description>Feature caching accelerates diffusion sampling by replacing expensive network evaluations with predictions from previously computed activations. However, forecasts based only on past features cannot directly incorporate changes in the current denoising state. We investigate whether inexpensive, freshly computed features can serve as observations for correcting these predictions. We introduce an observation-corrected Koopman framework for accelerating frozen diffusion models. Using calibration trajectories, we identify finite-dimensional, time-dependent Koopman approximations that jointly descr — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10366v1</description>
-</item>
-<item>
-<title>ORDERS: An Empirical Study of Norm-Rank Aggregation for Personalized Federated Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2ac73fdeaee</link>
-<guid isPermaLink="false">evt_b2ac73fdeaee</guid>
-<pubDate>Wed, 07 Oct 2026 16:31:44 +0000</pubDate>
-<category>research</category>
-<description>Personalized federated learning combines shared representations with client-specific predictors, but the contribution of a server weighting rule can be obscured by local training and evaluation choices. We study ORDERS, a configuration that combines a shared backbone, a private residual adapter and classifier, geometric weights assigned by descending update norm, feature alignment, and private-parameter perturbations. The server computes a weighted sum of updates obtained from the same broadcast model; it does not obtain an additional optimization effect from sequential addition. A fully speci — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10361v1</description>
-</item>
-<item>
-<title>AutoAdapt: Automatic Domain Discovery Enables Low-Cost Extensibility</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bfe8a1ec48e5</link>
-<guid isPermaLink="false">evt_bfe8a1ec48e5</guid>
-<pubDate>Wed, 07 Oct 2026 16:26:57 +0000</pubDate>
-<category>research</category>
-<description>Instruction-tuned models are deployed into environments where domains are heterogeneous and evolve, yet adding new domains or data typically requires costly retraining. We present AutoAdapt, a modular framework that incorporates new domains and data via targeted single-adapter training without modifying other adapters. The framework automatically discovers latent domains, uses them to train per-domain Low-Rank Adaptation (LoRA) adapters independently in parallel and performs parameter-free routing. Across 14 domain-specific benchmarks and GPT-4o pairwise judgements, AutoAdapt achieves parity w — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10349v1</description>
-</item>
-<item>
-<title>ECHO: Embodied Camera Observations of Human Object Carrying</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8d3bed5b8ccb</link>
-<guid isPermaLink="false">evt_8d3bed5b8ccb</guid>
-<pubDate>Wed, 07 Oct 2026 17:15:27 +0000</pubDate>
-<category>research</category>
-<description>Embodied and assistive agents must do more than recognize objects: they must reason about where an object belongs given the layout of an environment and the habits of the people who live in it. Progress on this problem has been limited, in part because no dedicated benchmark or dataset exists to define and evaluate it. Existing RGB-D scan datasets reconstruct static rooms without human activity, while human-object-interaction datasets capture motion without a navigable, fully reconstructed scene or a ground-truth notion of an object's natural destination. We introduce contextual object placeme — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10438v1</description>
-</item>
-<item>
-<title>Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85e3b1a2ce34</link>
-<guid isPermaLink="false">evt_85e3b1a2ce34</guid>
-<pubDate>Wed, 07 Oct 2026 16:47:17 +0000</pubDate>
-<category>research</category>
-<description>Vision-language-action~(VLA) models have emerged as a promising paradigm for autonomous driving. However, existing VLA models still suffer from a fundamental mismatch: driving actions require precise 3D geometric cues, while visual-language understanding and reasoning are largely conducted in a 2D semantic space. In this paper, we propose GeoCoTDrive, an explicit geometric chain-of-thought framework that grounds geometry in a planning-oriented manner. GeoCoTDrive follows a think with 2D first, drive with dedicated 3D priors paradigm. It first grounds 2D regions corresponding to decision-critic — 来源：arxiv — 原文：https://arxiv.org/abs/2610.10390v1</description>
+<description>Large Audio Language Models (LALMs) achieve strong performance on speech-text tasks, but standard audio encoders produce hundreds of tokens for even short audio clips. Because self-attention scales quadratically in sequence length, this inflates inference-time compute substantially. Current training-free token compression methods prune or merge tokens based solely on coarse attention or feature similarity. However, treating audio tokens as generic, isotropic features smooths over spectral transitions, destroying fine-grained phonetic transitions essential for decoding speech. In contrast, spee — 来源：arxiv — 原文：https://arxiv.org/abs/2610.13600v1</description>
 </item>
 </channel>
 </rss>

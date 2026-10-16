@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 08:39:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 15:51:23 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Introducing Reflection Beam: an open-weight model for agentic coding on AWS</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7bd3e3f63e0f</link>
+<guid isPermaLink="false">evt_7bd3e3f63e0f</guid>
+<pubDate>Fri, 16 Oct 2026 15:23:10 +0000</pubDate>
+<category>agents</category>
+<description>Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernetes-native control over distributed GPU infrastructure. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/</description>
+</item>
 <item>
 <title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9b76487086db</link>
@@ -398,14 +406,6 @@
 <pubDate>Thu, 15 Oct 2026 17:52:12 +0000</pubDate>
 <category>research</category>
 <description>One of the first steps of a research pipeline is generating ideas. Large Language Models (LLMs) are increasingly used to automate this step, but most of this work optimizes the quality of individual ideas, while overlooking diversity. In our work, we study document-grounded ideation, focusing on increasing the diversity of LLM generated ideas and ensuring they are high quality. Given prior papers, a model must propose a set of ideas that are each high-quality and clearly distinct from one another, while also being grounded in the input documents. To optimize for this, we propose training with  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22324v1</description>
-</item>
-<item>
-<title>CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e6bafed3643f</link>
-<guid isPermaLink="false">evt_e6bafed3643f</guid>
-<pubDate>Thu, 15 Oct 2026 17:43:47 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) are becoming prevalent in scenarios where honesty is critical. However, despite alignment training, these models still exhibit dishonest behaviour, such as outputting claims that contradict some knowledge or are not supported by what is accessible in context. We introduce Continuous Adversarial Training for Consistent Honesty (CATCH), inspired by a method originally developed to robustly refuse harmful queries. CATCH trains the model towards an honest answer and away from a dishonest one while maintaining the model's capabilities. We evaluate two architectures (Lla — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22292v1</description>
 </item>
 </channel>
 </rss>

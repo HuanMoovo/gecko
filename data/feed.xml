@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 02:30:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 08:39:02 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
@@ -16,12 +16,12 @@
 <description>Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/</description>
 </item>
 <item>
-<title>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF</title>
+<title>nvidia/Qwen3.8-Flash-Next-FP4-Local</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d0b5754fb37f</link>
 <guid isPermaLink="false">evt_d0b5754fb37f</guid>
-<pubDate>Wed, 14 Oct 2026 05:43:38 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 19:45:54 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 1,940,062 · 收藏 1,747 — 来源：huggingface — 原文：https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 438 · 收藏 94 — 来源：huggingface — 原文：https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local</description>
 </item>
 <item>
 <title>Build long-horizon agents with Grok 4.7 on Amazon Bedrock</title>
@@ -136,6 +136,14 @@
 <description>We study how to improve LLM reasoning at inference time without updating model weights or using external reward models. Recent reward-free power-sampling methods define the sequence-level power target $π_α(y\mid x)\propto p_0(y\mid x)^α$, where $α&gt;1$, which increases the relative probability of completions that are already likely under the base model. Existing methods use Metropolis--Hastings or Sequential Monte Carlo (SMC) to approximately sample from this target. However, two challenges arise at different levels. At the target level, full-sequence sharpening can concentrate probability on a  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20483v1</description>
 </item>
 <item>
+<title>Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2ad2ba8c2ca</link>
+<guid isPermaLink="false">evt_b2ad2ba8c2ca</guid>
+<pubDate>Thu, 15 Oct 2026 17:56:17 +0000</pubDate>
+<category>robotics</category>
+<description>Generalist robot policies benefit from large-scale visual pretraining but often struggle with contact-rich dexterous manipulation, where force, compliance, and incipient slip are hard to observe from images. We present Spark-0, a spatially aligned vision-tactile-language-action (VTLA) model that uses touch in two complementary ways. During pretraining, image-space contact maps derived from tactile gloves, together with features from a frozen 3D geometry teacher, supervise the visual tokens; these objectives are removed at inference. In parallel, a tactile pathway encodes regional force histori — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22342v1</description>
+</item>
+<item>
 <title>Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d05dfdd78906</link>
 <guid isPermaLink="false">evt_d05dfdd78906</guid>
@@ -160,14 +168,6 @@
 <description>Scientific taste shapes which research directions researchers pursue, and it varies across individuals. Existing work evaluates research directions along multiple evaluation criteria or models scientific taste using community feedback signals such as citations and reviews, but neither directly captures how individuals translate assessments under the same criteria into different preferences. We model scientific taste as a researcher-specific mapping from criterion-level assessments in a shared, evidence-grounded evaluation space with proposal-visible evidence, to relative preferences. A populat — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19719v1</description>
 </item>
 <item>
-<title>VLA-$Δ$: Learning Physical State Transition for Vision-Language-Action Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2ad2ba8c2ca</link>
-<guid isPermaLink="false">evt_b2ad2ba8c2ca</guid>
-<pubDate>Thu, 15 Oct 2026 05:54:21 +0000</pubDate>
-<category>research</category>
-<description>Vision-language-action (VLA) models transfer semantic knowledge acquired through vision-language pretraining to robot control, achieving strong performance across various benchmarks. However, most VLAs directly map observations to demonstrated actions without explicit supervision of intermediate physical state changes, making them prone to overfitting observation-action correspondences. Some methods introduce intermediate reasoning or future-state prediction in language, visual, or latent spaces to guide action generation, but do not explicitly supervise the physical state transition itself. W — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21306v1</description>
-</item>
-<item>
 <title>Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ca1b0cddc3e1</link>
 <guid isPermaLink="false">evt_ca1b0cddc3e1</guid>
@@ -184,12 +184,44 @@
 <description>Diffusion models (DMs) have steadily demonstrated outstanding performance in high-fidelity, controllable generation across diverse scenarios, following the "pretraining-finetuning" paradigm established in LLMs. Despite these advances, conventional DMs still face critical limitations in sophisticated reasoning, autonomous exploration of generation pathways, and adaptability to complex, human-aligned objectives. Inspired by RLHF's success in LLMs, RL has recently emerged as a pivotal post-training mechanism to iteratively refine DMs through reward-driven trajectory optimization. This paper prese — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21539v1</description>
 </item>
 <item>
+<title>HTN-Orchestrate: A Hierarchical Task Network Framework for Multi-Agent Orchestration</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cf0281a09eb5</link>
+<guid isPermaLink="false">evt_cf0281a09eb5</guid>
+<pubDate>Thu, 15 Oct 2026 16:45:59 +0000</pubDate>
+<category>agents</category>
+<description>Orchestrating multiple agents on a complex task requires reconciling local subtask execution with global task planning. Dynamic dispatch approaches provide execution flexibility but do not explicitly model subtask hierarchies or dependencies, while predefined workflows impose this structure but fix the decomposition before execution begins. Therefore, we introduce HTN-Orchestrate, a two-layer framework that separates these responsibilities through a hierarchical task network (HTN). The Planner maintains subtask hierarchies and dependencies, deferring decomposition until prerequisite results be — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22195v1</description>
+</item>
+<item>
+<title>EMO: A Closed-Loop Test-Time Computation Framework via Alternating Context Optimization and Logits Steering</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d13f87d3d696</link>
+<guid isPermaLink="false">evt_d13f87d3d696</guid>
+<pubDate>Thu, 15 Oct 2026 16:23:55 +0000</pubDate>
+<category>research</category>
+<description>Test-time context optimization adapts frozen language models through textual feedback, but ordinary conditional generation provides no separate control over how strongly to reinforce the distributional changes induced by a context update. We introduce EMO, a training-free framework inspired by expectation--maximization that alternates question-specific context estimation (E-step) and distribution refinement (M-step). The E-step revises a system context using textual gradients from an external judge without access to gold answers. The M-step contrasts next-token distributions under the revised  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22160v1</description>
+</item>
+<item>
+<title>Training-Free On-Policy Distillation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b0e34775189c</link>
+<guid isPermaLink="false">evt_b0e34775189c</guid>
+<pubDate>Thu, 15 Oct 2026 17:15:01 +0000</pubDate>
+<category>research</category>
+<description>On-policy distillation consolidates specialist models into one student at the price of rollouts, teacher passes and gradient steps for every teacher. We show that the consolidation does not need training: with forward passes only, the capabilities of separately tuned specialists can be aggregated into one model that is, on average, more accurate than either specialist alone. When specialists share a base model, distillation has an exact layer-wise solution: each linear layer of the fused model must reproduce every specialist's output on the inputs that specialist receives while reading its own — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22236v1</description>
+</item>
+<item>
 <title>What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_626723da3f35</link>
 <guid isPermaLink="false">evt_626723da3f35</guid>
 <pubDate>Wed, 14 Oct 2026 13:44:30 +0000</pubDate>
 <category>research</category>
 <description>Effective social interaction requires more than fluent responses: agents must reach plans that fit the participants' needs and circumstances. Existing evaluations of social agents mainly rely on LLM judges that rate the conversation, without checking the resulting plan. We introduce HICO-Bench, a benchmark of 180 everyday coordination scenarios, such as resource allocation, scheduling, and authorization, in which two agents with private information converse and then independently record the plan they agreed on. A program checks Feasibility (the two records match and satisfy both participants'  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20195v1</description>
+</item>
+<item>
+<title>Mem4Act: Learning Effective Latent Memory for Long-Horizon Robotic Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2f3877d8ca08</link>
+<guid isPermaLink="false">evt_2f3877d8ca08</guid>
+<pubDate>Thu, 15 Oct 2026 17:51:58 +0000</pubDate>
+<category>robotics</category>
+<description>Long-horizon robotic manipulation fundamentally requires memory: agents must retain task-relevant information from past observations and interactions and use it to guide future actions. Existing approaches typically preserve raw historical observations, compressed visual tokens, or language summaries, but these representations either expose the action policy to increasingly long histories or risk discarding task-relevant temporal, semantic, and perceptual information. We introduce Mem4Act, a framework for learning effective latent memory as a fixed-size representation explicitly optimized for  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22323v1</description>
 </item>
 <item>
 <title>VASPO: Self-Distillation with Privileged Value Estimation</title>
@@ -288,22 +320,6 @@
 <description>Scientific agents must connect research problems, methods, and findings dispersed through narrative articles. We introduce SPRA (Structured Paper Representation for Agents), a paper-level representation of persistent research objects and typed relations. Its empirical-AI profile organizes Problems, Contributions, Components, ExperimentSetups, Measures, and Findings for querying, traversal, and reuse. Selected paper-level citation relations record dependencies, component use, and comparisons with prior work; source locations support verification. We instantiate SPRA across more than one million — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21424v1</description>
 </item>
 <item>
-<title>Bias Control and Injection for Multi-Agent Aggregation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cf0281a09eb5</link>
-<guid isPermaLink="false">evt_cf0281a09eb5</guid>
-<pubDate>Thu, 15 Oct 2026 05:37:49 +0000</pubDate>
-<category>research</category>
-<description>Multi-agent reasoning with large language models (LLMs) raises a central question for collective decision-making: when agents disagree, whose decision should be trusted? Resolving such disagreements is difficult because agents' decisions are susceptible to non-semantic biases such as majority pressure and response-style preferences, which can obscure the quality of the underlying reasoning. Our analysis shows how bias can be both mitigated and exploited: bias control improves initial answer selection, while bias injection elicits decision instability that serves as a reliability signal. Buildi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21290v1</description>
-</item>
-<item>
-<title>ReState: Noise-Level-Aware State Correction for Training-Free Object Removal in Few-Step Diffusion Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d13f87d3d696</link>
-<guid isPermaLink="false">evt_d13f87d3d696</guid>
-<pubDate>Thu, 15 Oct 2026 05:32:49 +0000</pubDate>
-<category>research</category>
-<description>Training-free object removal commonly redirects self-attention away from the target region, but on few-step distilled diffusion models this often leaves object-shaped residuals. We identify a temporal mismatch: a structured prediction forms inside the mask at the first forward, and the short trajectory offers few later chances to revise it, while attention rerouting acts mainly in later steps. Across four distilled backbones, magnitude-matched single-forward interventions show that background-directed state correction affects the final result more than attention rerouting. We therefore propose — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21287v1</description>
-</item>
-<item>
 <title>FocusOPD: Structure-Guided On-Policy Distillation for Diffusion Models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8c9275f6e639</link>
 <guid isPermaLink="false">evt_8c9275f6e639</guid>
@@ -328,84 +344,68 @@
 <description>General-purpose dexterous manipulation requires policies to transfer knowledge from related tasks to new tasks with only a few target demonstrations. Existing benchmarks often provide too many target demonstrations. They also leave the differences between source and target tasks uncontrolled. As a result, they cannot clearly distinguish knowledge transfer from task memorization. Our key insight is the Core-Gen principle. Core tasks are related tasks that share a functional interaction and provide source knowledge, while a Gen task is a novel target within the same functional family that has on — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21180v1</description>
 </item>
 <item>
-<title>ActionOPD: Distilling Decisions, Not Tokens</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b92a0800719</link>
-<guid isPermaLink="false">evt_9b92a0800719</guid>
-<pubDate>Wed, 14 Oct 2026 08:59:08 +0000</pubDate>
-<category>research</category>
-<description>Distilling capable language-model agents into smaller models requires aligning the student's behavior with the teacher's. This raises a fundamental question: at which states and at what granularity should this alignment be performed? Offline imitation provides dense but token-specific supervision and can suffer from state-distribution mismatch. Token-level on-policy distillation (OPD) addresses this mismatch but typically requires teacher token probabilities and compatible tokenization. We argue that semantic actions provide a natural unit of supervision for agent distillation. We introduce Ac — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19820v1</description>
+<title>LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8031ac42ea20</link>
+<guid isPermaLink="false">evt_8031ac42ea20</guid>
+<pubDate>Thu, 15 Oct 2026 17:59:59 +0000</pubDate>
+<category>robotics</category>
+<description>Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings; 2) how they learn single preferences from demonstrations; 3) how efficiently they acquire preferenc — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22372v1</description>
 </item>
 <item>
-<title>One Monitor Does Not Fit All: Formalism-Agnostic Runtime Verification for Agentic AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b207bacacbac</link>
-<guid isPermaLink="false">evt_b207bacacbac</guid>
-<pubDate>Wed, 14 Oct 2026 08:58:24 +0000</pubDate>
+<title>3DCodeVerse: Exploring 3D Worlds as Code</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e6a9003b3d80</link>
+<guid isPermaLink="false">evt_e6a9003b3d80</guid>
+<pubDate>Thu, 15 Oct 2026 17:56:07 +0000</pubDate>
 <category>research</category>
-<description>Agentic AI systems combine model decisions, mutable state, tool calls, and delegation to external agents. Monitoring them requires observations from different execution boundaries, while prevention requires control before an operation produces its effect. We present AgenticRV, a runtime-verification architecture that separates these boundaries from the monitoring formalism. Adapters emit canonical events; each monitor receives its own projection and abstraction; and a decision policy uses normalised verdicts to select a reaction supported by the responsible adapter. We formalise when observati — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19818v1</description>
+<description>We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding harness for spatial reasoning and automated verification, and practical guidance for 3D coding. First, we construct 3DCodeVerse-2M, a large-scale curated dataset of standalone 3D executable code. We build this corpus by collecting open-source data, converting specialized representations, and generating new programs with coding agents. Each program is packaged with the source file — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22341v1</description>
 </item>
 <item>
-<title>ReproBAIT: Can coding agents build their own biological AI tools?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2f3877d8ca08</link>
-<guid isPermaLink="false">evt_2f3877d8ca08</guid>
-<pubDate>Wed, 14 Oct 2026 08:50:11 +0000</pubDate>
+<title>AVC-Reward: Event-Centric Audio-Video Consistency Evaluation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d87a024b9a2f</link>
+<guid isPermaLink="false">evt_d87a024b9a2f</guid>
+<pubDate>Thu, 15 Oct 2026 17:51:56 +0000</pubDate>
 <category>research</category>
-<description>Large language models are increasingly competent at leveraging scientific knowledge and existing computational tools to execute complex workflows. At present, little information exists on their ability to reconstruct tools when given limited descriptions of such tools. We introduce an evaluation titled ReproBAIT (Reproducing Biological AI Tools), which measures the ability of coding agents to design, implement, and train biological AI tools taken from published research across a range of information access conditions. The coding agent is securely sandboxed without internet access and receives  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19810v1</description>
+<description>As joint audio-video generation models become more capable, they can generate audio-visual scenes exhibiting three forms of complexity: multi-event composition, multi-layer audio mixture, and asymmetric cross-modal relations. However, current evaluations largely reuse metrics from earlier simple and unidirectional tasks. They typically evaluate an audio-video clip as a whole and rely on simple predefined relations, making them unsuitable for these increasingly complex scenes. We propose an event-centric evaluation framework that disentangles audio and visual events at the event level, analyzes — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22321v1</description>
 </item>
 <item>
-<title>StateCraft: Augmenting Video World Models with Abstract-State Reasoning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_70a5cfdce457</link>
-<guid isPermaLink="false">evt_70a5cfdce457</guid>
-<pubDate>Wed, 14 Oct 2026 08:39:41 +0000</pubDate>
-<category>research</category>
-<description>Video world models aim to simulate complex environments with realistic appearance and dynamics. Maintaining consistency over long interactions requires tracking past actions and understanding how those actions affect the environment. Video world models can only generate partial observations of the entire world at a time. Remembering past observations alone may not be sufficient in every scenario, as they may no longer reflect the world after a sequence of actions. We introduce a paradigm that decouples a persistent, updatable abstract state from the visual state. The abstract state keeps track — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19795v1</description>
+<title>Learning to Steer LLM Agents and Multi-Agent Systems</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4cd2c601ecb3</link>
+<guid isPermaLink="false">evt_4cd2c601ecb3</guid>
+<pubDate>Thu, 15 Oct 2026 17:51:17 +0000</pubDate>
+<category>agents</category>
+<description>Large language model (LLM)-based agents and multi-agent systems increasingly tackle complex tasks through long-horizon tool use and inter-agent collaboration. However, these systems are prone to deviating from the overall goal as execution unfolds, which wastes execution resources and leads to undesired outcomes, a failure termed goal drift. In this work, we propose a steering agent that supervises execution on the fly and steers the system back on track when drift occurs. The steering agent observes the execution context, deciding when to intervene with a low-cost fast path and how to interve — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22316v1</description>
 </item>
 <item>
-<title>Articulation Upper Bounds for Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4cf718eacf30</link>
-<guid isPermaLink="false">evt_4cf718eacf30</guid>
-<pubDate>Wed, 14 Oct 2026 07:47:31 +0000</pubDate>
+<title>AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cce0501e64a2</link>
+<guid isPermaLink="false">evt_cce0501e64a2</guid>
+<pubDate>Thu, 15 Oct 2026 17:46:37 +0000</pubDate>
 <category>research</category>
-<description>Language captures only a subset of the perceptions, intuitions and intents that form meaning between speakers. What, then, are the limits of language? We take steps towards measuring this in LLMs as follows: for a set of concepts, we measure how well each concept can be transmitted between two LLMs as their capabilities scale. This requires novel measurement tools: (1) optimal messages: we introduce a prompt optimization algorithm that beats existing algorithms by up to 14% on benchmarks and accurately estimates prompt upper bounds. (2) A transmission measure: the sender is asked to label text — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19721v1</description>
+<description>Large language models (LLMs) can generate differential diagnoses for complex cases, but a useful second opinion must also be factually grounded, clinically coherent, actionable, and safe. We developed a multidimensional benchmark using 300 diagnostically resolved NEJM--MedQA cases: 110 for physician reference ratings and Judge calibration and 190 for held-out evaluation. Eight single-model pipelines generated independent role-specific opinions and interactive-consilium reports under free-form and structured clinical-reasoning conditions. A physician-calibrated LLM Judge evaluated 3,040 final r — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22298v1</description>
 </item>
 <item>
-<title>JetSpec++: Foresight Parallel Drafting with Self Refinements</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3e46303403a8</link>
-<guid isPermaLink="false">evt_3e46303403a8</guid>
-<pubDate>Wed, 14 Oct 2026 08:37:27 +0000</pubDate>
+<title>X-RIC: An Agentic RAN-Intelligent Controller Benchmark for Enhancing Reinforcement Learning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c15ff9556643</link>
+<guid isPermaLink="false">evt_c15ff9556643</guid>
+<pubDate>Thu, 15 Oct 2026 17:34:17 +0000</pubDate>
 <category>research</category>
-<description>Speculative decoding's effectiveness is governed by two quantities: the acceptance rate of drafted tokens and the cost of producing them. We show the two objectives can be co-optimized with algorithm-system co-design, and present JetSpec++, which retains a strong learned draft model while hiding its cost almost entirely. JetSpec++ combines three components: intra-block self refinement, which trains the draft model to iteratively correct its own parallel predictions within a block of tokens; inter-block foresight drafting, which begins the next block before the current one is verified; and pipe — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19792v1</description>
+<description>The O-RAN ALLIANCE introduces architectural flexibility through disaggregation and AI-driven control. While the RAN Intelligent Controller (RIC) enables centralized optimization, current AI approaches lack reasoning capabilities and explainability. We propose eXplainable RIC (X-RIC), a novel framework integrating agentic AI into O-RAN architectures. X-RIC combines reactive Reinforcement Learning (RL) with strategic agentic reasoning through: (i) automated Behavioral Cloning (BC) using domain heuristics for sample-efficient training, (ii) a Telecom Language Model (TLM), a transformer-based reas — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22269v1</description>
 </item>
 <item>
-<title>More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_315ae0040a94</link>
-<guid isPermaLink="false">evt_315ae0040a94</guid>
-<pubDate>Wed, 14 Oct 2026 08:36:31 +0000</pubDate>
+<title>Training Reasoning Models to Generate Diverse Scientific Ideas</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1c24870bd902</link>
+<guid isPermaLink="false">evt_1c24870bd902</guid>
+<pubDate>Thu, 15 Oct 2026 17:52:12 +0000</pubDate>
 <category>research</category>
-<description>Self-distillation in agentic reinforcement learning has produced a growing number of methods. However, existing evaluations often reuse published baseline scores under differing experimental conditions, provide few direct comparisons among contemporaneous methods, and give limited attention to training stability and computational cost. These limitations obscure the source of reported gains and the practical strengths and weaknesses of competing methods. Costly agent training further motivates a common basis for comparison. To address these gaps, we compare ten representative methods against GR — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19789v1</description>
+<description>One of the first steps of a research pipeline is generating ideas. Large Language Models (LLMs) are increasingly used to automate this step, but most of this work optimizes the quality of individual ideas, while overlooking diversity. In our work, we study document-grounded ideation, focusing on increasing the diversity of LLM generated ideas and ensuring they are high quality. Given prior papers, a model must propose a set of ideas that are each high-quality and clearly distinct from one another, while also being grounded in the input documents. To optimize for this, we propose training with  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22324v1</description>
 </item>
 <item>
-<title>PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cbd6ee7d116d</link>
-<guid isPermaLink="false">evt_cbd6ee7d116d</guid>
-<pubDate>Wed, 14 Oct 2026 05:29:08 +0000</pubDate>
-<category>infrastructure</category>
-<description>Long-output inference in large language models suffers from severe KV cache memory and bandwidth bottlenecks. While KV cache quantization alleviates this issue, low-bit quantization (e.g., 2-bit) severely degrades model accuracy. Recent mixed-precision key-cache quantization methods mitigate this degradation by allocating higher precision to important key channels, but estimate channel saliency using only key statistics. Through attention logit perturbation analysis at the RoPE channel-pair level, we show that quantization errors in channel pairs with large query--key pair-norm products contri — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19605v1</description>
-</item>
-<item>
-<title>Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_37dae0ca2eaa</link>
-<guid isPermaLink="false">evt_37dae0ca2eaa</guid>
-<pubDate>Wed, 14 Oct 2026 09:24:05 +0000</pubDate>
+<title>CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e6bafed3643f</link>
+<guid isPermaLink="false">evt_e6bafed3643f</guid>
+<pubDate>Thu, 15 Oct 2026 17:43:47 +0000</pubDate>
 <category>research</category>
-<description>In sectors such as energy, aquaculture and chemical processing, the effectiveness of both mechanistic and data-driven models is frequently limited by poor-quality training data, which obscures underlying physical laws and degrades predictive accuracy. Such quality issues commonly manifest as anomalies in the dataset, ranging from sensor faults to process upsets and incorrect operator inputs. While traditional rule-based filtering can remove a subset of the anomalies, it is unable to leverage contextual information stored as unstructured text, such as engineer comments and operational logs that — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19860v1</description>
-</item>
-<item>
-<title>ReGRA: Residual-Gradient Adaptation for Complementary Low-Rank Fine-Tuning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_79d96e0cfa52</link>
-<guid isPermaLink="false">evt_79d96e0cfa52</guid>
-<pubDate>Wed, 14 Oct 2026 07:23:50 +0000</pubDate>
-<category>research</category>
-<description>Low-rank adaptation (LoRA) enables parameter-efficient fine-tuning by learning low-rank weight updates. Increasing rank expands adaptation capacity, but does not guarantee that all learned directions improve downstream performance. In a diagnostic experiment with rank-16 LoRA, we show that retaining only the top singular components achieves the best performance, whereas adding further components degrades it. Motivated by this, we propose Residual-Gradient Adaptation (ReGRA), a two-stage method for making more effective use of a fixed rank budget. After the first stage, ReGRA estimates task gra — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19700v1</description>
+<description>Large language models (LLMs) are becoming prevalent in scenarios where honesty is critical. However, despite alignment training, these models still exhibit dishonest behaviour, such as outputting claims that contradict some knowledge or are not supported by what is accessible in context. We introduce Continuous Adversarial Training for Consistent Honesty (CATCH), inspired by a method originally developed to robustly refuse harmful queries. CATCH trains the model towards an honest answer and away from a dishonest one while maintaining the model's capabilities. We evaluate two architectures (Lla — 来源：arxiv — 原文：https://arxiv.org/abs/2610.22292v1</description>
 </item>
 </channel>
 </rss>

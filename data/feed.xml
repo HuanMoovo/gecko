@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 22:48:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 02:30:08 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Run multi-node inference workloads using Ray LLM Deep Learning Containers</title>
@@ -32,12 +32,12 @@
 <description>Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per completed task. We show how to tune the trade-off per request and monitor it in production. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/</description>
 </item>
 <item>
-<title>Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart</title>
+<title>Muse Spark Open</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_13e122947fca</link>
 <guid isPermaLink="false">evt_13e122947fca</guid>
-<pubDate>Thu, 15 Oct 2026 17:43:35 +0000</pubDate>
-<category>infrastructure</category>
-<description>Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/</description>
+<pubDate>Thu, 15 Oct 2026 17:47:39 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：aws_ml · hn_frontpage — 原文：https://research.meta.ai/blog/muse-spark-open</description>
 </item>
 <item>
 <title>Mixture-of-Experts kernel engineering on Amazon SageMaker AI</title>
@@ -46,14 +46,6 @@
 <pubDate>Tue, 13 Oct 2026 15:17:09 +0000</pubDate>
 <category>infrastructure</category>
 <description>AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating Triton JIT recompilation. Together they deliver up to 10% higher throughput and up to 9% faster Time to First Token on H200 GPUs. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/</description>
-</item>
-<item>
-<title>Comfy-Org/Qwen-Image-2.1</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7941af6584c4</link>
-<guid isPermaLink="false">evt_7941af6584c4</guid>
-<pubDate>Tue, 13 Oct 2026 18:03:56 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · model · 下载 9,798,941 · 收藏 1,118 — 来源：huggingface — 原文：https://huggingface.co/Comfy-Org/Qwen-Image-2.1</description>
 </item>
 <item>
 <title>Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
@@ -72,20 +64,12 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 6,489,462 · 收藏 2,818 — 来源：huggingface — 原文：https://huggingface.co/zai-org/GLM-5.3-Flash</description>
 </item>
 <item>
-<title>akatz-ai/MiniMax-H3-Character-Swap-LoRA</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4f36191fb788</link>
-<guid isPermaLink="false">evt_4f36191fb788</guid>
-<pubDate>Fri, 09 Oct 2026 08:02:25 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · video-to-video · 下载 31,800 · 收藏 372 — 来源：huggingface — 原文：https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA</description>
-</item>
-<item>
-<title>Graph-Enhanced Disease Trajectory Discovery and Temporal Endpoint Forecasting from Longitudinal Electronic Health Records</title>
+<title>What Does History Add? Calendar Controls and Information-Timing Audits for University Trajectory Forecasting</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6e5b8729bedc</link>
 <guid isPermaLink="false">evt_6e5b8729bedc</guid>
-<pubDate>Wed, 14 Oct 2026 17:08:50 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 07:31:19 +0000</pubDate>
 <category>research</category>
-<description>Longitudinal electronic health records (EHRs) can reveal disease-progression structure, while useful forecasting requires leakage-controlled discovery, censor-aware outcomes, and inspectable trajectory evidence. We developed a graph-enhanced framework in MIMIC-IV v3.1 that splits patients before graph construction, learns train-only consecutive-admission transitions, and freezes endpoint-specific branching-motif policies selected on validation data. The final catalog contained 99,527 motifs, and a time-aware Transformer retrieved at most 24 patient-compatible motifs per endpoint through endpoi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20502v1</description>
+<description>We audit the predictive value of historical summaries in a rule-based university trajectory simulator. Seventeen ridge specifications and persistence separate current plans, past-state and past-plan summaries, and calendar-only history-length indicators. Across training, validation and two family-held-out evaluations, we reconstruct 16,750 routes and 804,000 monthly records. On the original 40-family set, six-month history lowers six-step normalized RMSE from 0.159234 to 0.151522, but its difference from a length-only control is -0.000895 (descriptive paired 95% interval [-0.001957,0.000248]). — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21419v1</description>
 </item>
 <item>
 <title>From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA</title>
@@ -112,12 +96,20 @@
 <description>Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […] — 来源：verge_ai — 原文：https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</description>
 </item>
 <item>
-<title>ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models</title>
+<title>Calibration Language Shapes Block-Influence Pruning in Multilingual Language Models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_bc6a48a571cb</link>
 <guid isPermaLink="false">evt_bc6a48a571cb</guid>
-<pubDate>Wed, 14 Oct 2026 17:08:52 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 07:01:55 +0000</pubDate>
+<category>foundation_models</category>
+<description>Block Influence (BI) ranks Transformer blocks for depth pruning from their input-output cosine change, but the ranking depends on the calibration distribution. We study whether English calibration transfers to Indian languages in Qwen2.5-1.5B-Instruct, Llama-3.2-1B, and Gemma-2-2B. English, Hindi, Marathi, and Tamil use disjoint Wikipedia articles for calibration and evaluation; every selector receives the same 150-chunk budget, and Tamil is excluded from multilingual aggregation to test cross-script transfer. Across all three models, late-block BI is 20.7-55.5% higher for the three Indian lan — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21383v1</description>
+</item>
+<item>
+<title>Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_84dc82d60599</link>
+<guid isPermaLink="false">evt_84dc82d60599</guid>
+<pubDate>Thu, 15 Oct 2026 09:47:19 +0000</pubDate>
 <category>research</category>
-<description>Speculative decoding accelerates autoregressive generation by drafting multiple tokens per step, yet feature-based drafters rely on target hidden features whose contextual emphasis may not align with the needs of subsequent draft positions. Hybrid linear attention (HLA) models maintain compact recurrent states that accumulate historical associations, offering an efficient source of complementary context for speculative drafting. We introduce ReaDy, the first speculative decoding method, to the best of our knowledge, to leverage HLA recurrent states for position-specific context retrieval durin — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20503v1</description>
+<description>Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpoint policy shift cannot reveal whether local action preferences evolved consistently during teacher training. The same endpoint shift can result from early and late shifts that reinforce or partially cancel each other. We investigate whether agreement between early and late teacher policy shifts can guide selective transfer. We introduce Waypoint-guided On-Policy Distillation (Waypoint-OPD), which — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21601v1</description>
 </item>
 <item>
 <title>One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness</title>
@@ -126,6 +118,14 @@
 <pubDate>Wed, 14 Oct 2026 17:56:06 +0000</pubDate>
 <category>agents</category>
 <description>Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet make the agent worse at it. Scoring each sample independently means interface randomization only broadens this dependence from a single interface to the training interface distribution, so out-of-distribution perturbations still degrade the agent. We propose Cross-Interface Policy Regularization (CIPR), a self-supervised objective that replaces action names with u — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20576v1</description>
+</item>
+<item>
+<title>Can LLMs Tell Stories Out of Order? A Corpus and Benchmark for Nonlinear Narrative Generation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c82ab319266</link>
+<guid isPermaLink="false">evt_3c82ab319266</guid>
+<pubDate>Thu, 15 Oct 2026 09:18:48 +0000</pubDate>
+<category>research</category>
+<description>Every story has two orders: the order in which its events happen and the order in which they are told. A story is nonlinear when the two differ. We introduce a benchmark of 83 published works that measures whether language models can tell nonlinear stories. For each work, we annotate one list of events in both orders, together with a story graph of causal dependencies, character knowledge, and the questions the telling raises and resolves. Given events in chronological order, all 19 models tell them, on average, more chronologically than the published works do; asked for a specific structure,  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21468v1</description>
 </item>
 <item>
 <title>Decoupled Marginal Sharpening for Training-Free Inference-Time Scaling</title>
@@ -160,12 +160,12 @@
 <description>Scientific taste shapes which research directions researchers pursue, and it varies across individuals. Existing work evaluates research directions along multiple evaluation criteria or models scientific taste using community feedback signals such as citations and reviews, but neither directly captures how individuals translate assessments under the same criteria into different preferences. We model scientific taste as a researcher-specific mapping from criterion-level assessments in a shared, evidence-grounded evaluation space with proposal-visible evidence, to relative preferences. A populat — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19719v1</description>
 </item>
 <item>
-<title>Recovering Reliable Supervision via Critique-Guided On-Policy Distillation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_84dc82d60599</link>
-<guid isPermaLink="false">evt_84dc82d60599</guid>
-<pubDate>Wed, 14 Oct 2026 17:57:01 +0000</pubDate>
+<title>VLA-$Δ$: Learning Physical State Transition for Vision-Language-Action Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2ad2ba8c2ca</link>
+<guid isPermaLink="false">evt_b2ad2ba8c2ca</guid>
+<pubDate>Thu, 15 Oct 2026 05:54:21 +0000</pubDate>
 <category>research</category>
-<description>On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this property the recoverability of the teacher and show it fails on incorrect rollouts: the teacher follows student errors, although it recognizes them. We propose CriticOPD, using error recognition to restore recoverability. The teacher critiques an incorrect rollout, allowing the student to rewrite its solution following the error. The resulting output, including the critique as p — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20572v1</description>
+<description>Vision-language-action (VLA) models transfer semantic knowledge acquired through vision-language pretraining to robot control, achieving strong performance across various benchmarks. However, most VLAs directly map observations to demonstrated actions without explicit supervision of intermediate physical state changes, making them prone to overfitting observation-action correspondences. Some methods introduce intermediate reasoning or future-state prediction in language, visual, or latent spaces to guide action generation, but do not explicitly supervise the physical state transition itself. W — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21306v1</description>
 </item>
 <item>
 <title>Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling</title>
@@ -176,12 +176,12 @@
 <description>Reinforcement learning with verifiable rewards (RLVR) trains language models from checked task outcomes, but assigning a terminal reward to individual reasoning tokens or actions remains difficult. Group-relative methods such as Group Relative Policy Optimization (GRPO) sample several attempts per prompt, but lose their reward-based learning signal when all attempts receive the same outcome. We propose Hindsight-Privileged RLVR (HP-RLVR), a single-rollout method that turns a completed trajectory's own future into token-level update weights. The generating policy snapshot scores each eligible t — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20497v1</description>
 </item>
 <item>
-<title>Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c82ab319266</link>
-<guid isPermaLink="false">evt_3c82ab319266</guid>
-<pubDate>Wed, 14 Oct 2026 11:10:03 +0000</pubDate>
+<title>Reinforcement Learning-driven Diffusion Models: Language, Vision, and Beyond</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3f8d9032ba99</link>
+<guid isPermaLink="false">evt_3f8d9032ba99</guid>
+<pubDate>Thu, 15 Oct 2026 09:05:38 +0000</pubDate>
 <category>research</category>
-<description>Reconstruction of 3D structures using under-ice AUV video footage has been inaccurate, although it is not certain whether this is due to shortcomings in the methods or an inherent deficiency of the capture system. We test four different models for reconstruction on the same Antarctic under-ice AUV video (Icefin, Kamb Ice Stream): classical feature matching SfM, differentiable photometric splatting, volumetric depth fusion, and a pose-free feed-forward foundation model. All four fail, each in a distinct way: near-total registration yielding almost no structure, geometrically broken output despi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19993v1</description>
+<description>Diffusion models (DMs) have steadily demonstrated outstanding performance in high-fidelity, controllable generation across diverse scenarios, following the "pretraining-finetuning" paradigm established in LLMs. Despite these advances, conventional DMs still face critical limitations in sophisticated reasoning, autonomous exploration of generation pathways, and adaptability to complex, human-aligned objectives. Inspired by RLHF's success in LLMs, RL has recently emerged as a pivotal post-training mechanism to iteratively refine DMs through reward-driven trajectory optimization. This paper prese — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21539v1</description>
 </item>
 <item>
 <title>What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds</title>
@@ -208,12 +208,20 @@
 <description>Rapid progress in AI agents and robotics makes it a matter of the near future that humans are served by a team of robots. Such a team will receive several goals at once, each specified in whatever form is convenient for the human, such as a category name, a photo, or a spoken description. Existing benchmarks study multi-agent, multi-modal, and multi-object goal navigation in isolation, and a benchmark that places all three in one episode is missing. To fill this gap, we introduce HM3D-M3. A team of K agents starts at distributed locations in a photorealistic indoor scene and searches for an un — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20121v1</description>
 </item>
 <item>
-<title>Accelerating VLA Inference with Perturbation Informed Execution</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2ad2ba8c2ca</link>
-<guid isPermaLink="false">evt_b2ad2ba8c2ca</guid>
-<pubDate>Wed, 14 Oct 2026 06:31:06 +0000</pubDate>
+<title>MYOPIA: Understanding the Limits of Tree-Based Reasoning in Vision-Language Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bfb812696c46</link>
+<guid isPermaLink="false">evt_bfb812696c46</guid>
+<pubDate>Thu, 15 Oct 2026 09:25:10 +0000</pubDate>
+<category>foundation_models</category>
+<description>Decision trees can make vision-language model (VLM) classification interpretable by replacing a single prediction with a sequence of root-to-leaf questions. However, the accuracy cost of this greedy, non-backtracking procedure remains unclear. We introduce \textbf{MYOPIA}, a benchmark comprising four LLM-generated, human-refined decision trees for GTSRB, MNIST, CIFAR-10, and MSCOCO, together with matched prompts, diagnostic protocols, and an evaluation harness. Across GPT-4o, Qwen-VL Max, and LLaMA-3.2 11B Vision, tree traversal underperforms zero-shot prompting in all 12 dataset--model pairs; — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21573v1</description>
+</item>
+<item>
+<title>First Mathematical Runtime Analyses of Evolutionary Multitask Multi-Objective Optimization</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_27da95cddd0d</link>
+<guid isPermaLink="false">evt_27da95cddd0d</guid>
+<pubDate>Thu, 15 Oct 2026 06:00:18 +0000</pubDate>
 <category>research</category>
-<description>Action-chunking vision-language-action (VLA) models predict sequences of future robot actions. Under fixed-horizon execution, the robot executes a fixedlength prefix of each predicted chunk before invoking the policy again, leaving the remaining predictions unused. For a given number of executed actions, short execution horizons require more policy calls. Extending the execution horizon amortizes policy inference cost over more actions. However, uniformly applying long horizons across episodes can limit opportunities for precise corrections. To address this limitation, we propose PICES (Pertur — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19656v1</description>
+<description>To facilitate the solving of complex problems, evolutionary multitask optimization is regarded as a promising technique due to its capacity for cross-task knowledge transfer. In contrast to empirical evidences, no mathematical runtime support exists for this technique within the domain of multi-objective optimization. In this work, we aim to fill this important gap. We analyze how the representative multiobjective multifactorial evolutionary algorithm (MO-MFEA) covers the Pareto fronts of two bi-objective problems simultaneously. For the two-task problem of maximizing the classic bi-objective  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21311v1</description>
 </item>
 <item>
 <title>Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation</title>
@@ -262,6 +270,62 @@
 <pubDate>Tue, 13 Oct 2026 17:50:22 +0000</pubDate>
 <category>research</category>
 <description>Complex image editing requires faithful task interpretation and accurate execution, but a failed edit does not reveal which responsibility failed. We present DuplexBridge, which uses a unified model's own understanding capability to enhance prompts for its own generation capability, without an external understanding module. A source-grounded bridge specifies targets, final-state changes, and preservation constraints. Understanding is supervised on fidelity to the original request without observing the generated image; generation is supervised on execution of the condition it actually receives. — 来源：arxiv — 原文：https://arxiv.org/abs/2610.18819v1</description>
+</item>
+<item>
+<title>QREF: Improving DeepSearch Agents by Aligning Search with Reasoning via Query Refinement and Evidence Filtering</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_68050f108da4</link>
+<guid isPermaLink="false">evt_68050f108da4</guid>
+<pubDate>Thu, 15 Oct 2026 08:47:44 +0000</pubDate>
+<category>research</category>
+<description>DeepSearch agents achieve strong performance on complex information-seeking tasks through iterative search and reasoning. However, they often issue intent-misaligned, under-constrained, or redundant search queries, resulting in poor evidence coverage and accumulating retrieval noise. To mitigate these limitations, we propose QREF, a plug-and-play Query Refiner and Evidence Filter. Specifically, the Query Refiner rewrites search queries according to the current reasoning intent while ensuring complementary coverage across each search batch. The Evidence Filter retains evidence relevant to both  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21512v1</description>
+</item>
+<item>
+<title>Do Agents Need a New Kind of Paper? SPRA: Structured Paper Representation for Agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b3e35f31d4d6</link>
+<guid isPermaLink="false">evt_b3e35f31d4d6</guid>
+<pubDate>Thu, 15 Oct 2026 07:34:12 +0000</pubDate>
+<category>research</category>
+<description>Scientific agents must connect research problems, methods, and findings dispersed through narrative articles. We introduce SPRA (Structured Paper Representation for Agents), a paper-level representation of persistent research objects and typed relations. Its empirical-AI profile organizes Problems, Contributions, Components, ExperimentSetups, Measures, and Findings for querying, traversal, and reuse. Selected paper-level citation relations record dependencies, component use, and comparisons with prior work; source locations support verification. We instantiate SPRA across more than one million — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21424v1</description>
+</item>
+<item>
+<title>Bias Control and Injection for Multi-Agent Aggregation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cf0281a09eb5</link>
+<guid isPermaLink="false">evt_cf0281a09eb5</guid>
+<pubDate>Thu, 15 Oct 2026 05:37:49 +0000</pubDate>
+<category>research</category>
+<description>Multi-agent reasoning with large language models (LLMs) raises a central question for collective decision-making: when agents disagree, whose decision should be trusted? Resolving such disagreements is difficult because agents' decisions are susceptible to non-semantic biases such as majority pressure and response-style preferences, which can obscure the quality of the underlying reasoning. Our analysis shows how bias can be both mitigated and exploited: bias control improves initial answer selection, while bias injection elicits decision instability that serves as a reliability signal. Buildi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21290v1</description>
+</item>
+<item>
+<title>ReState: Noise-Level-Aware State Correction for Training-Free Object Removal in Few-Step Diffusion Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d13f87d3d696</link>
+<guid isPermaLink="false">evt_d13f87d3d696</guid>
+<pubDate>Thu, 15 Oct 2026 05:32:49 +0000</pubDate>
+<category>research</category>
+<description>Training-free object removal commonly redirects self-attention away from the target region, but on few-step distilled diffusion models this often leaves object-shaped residuals. We identify a temporal mismatch: a structured prediction forms inside the mask at the first forward, and the short trajectory offers few later chances to revise it, while attention rerouting acts mainly in later steps. Across four distilled backbones, magnitude-matched single-forward interventions show that background-directed state correction affects the final result more than attention rerouting. We therefore propose — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21287v1</description>
+</item>
+<item>
+<title>FocusOPD: Structure-Guided On-Policy Distillation for Diffusion Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8c9275f6e639</link>
+<guid isPermaLink="false">evt_8c9275f6e639</guid>
+<pubDate>Thu, 15 Oct 2026 04:45:14 +0000</pubDate>
+<category>research</category>
+<description>Multi-teacher on-policy distillation enables rectified-flow models with diffusion-transformer architectures to combine task-specific capabilities within a single student. However, matching model outputs does not guarantee that their internal representations are aligned, and it remains unclear where and when additional feature supervision is most useful. We analyze the teacher-student feature mismatch across Transformer blocks and denoising timesteps, and find that the mismatch is concentrated in deeper Transformer blocks during early denoising and persists after OPD distillation, indicating in — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21250v1</description>
+</item>
+<item>
+<title>TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4afda04bda96</link>
+<guid isPermaLink="false">evt_4afda04bda96</guid>
+<pubDate>Thu, 15 Oct 2026 08:49:53 +0000</pubDate>
+<category>research</category>
+<description>Language-conditioned humanoid motion generation enables users to create and refine robot movements through natural language. The central challenge is to connect an underspecified request to concrete motion structure that can subsequently be revised relative to an accepted reference. We present TRACE, a generation and editing framework for the Unitree G1 humanoid robot built around typed, measurable kinematic quantities. Our insight is to ground generation conditions in paired training motions and editing goals in the current motion. A language model learns to predict support, root, and hand ev — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21515v1</description>
+</item>
+<item>
+<title>Evo-DexBench: Benchmarking Generalization across Related Tasks for Dexterous Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e13d1d7ac765</link>
+<guid isPermaLink="false">evt_e13d1d7ac765</guid>
+<pubDate>Thu, 15 Oct 2026 03:36:05 +0000</pubDate>
+<category>research</category>
+<description>General-purpose dexterous manipulation requires policies to transfer knowledge from related tasks to new tasks with only a few target demonstrations. Existing benchmarks often provide too many target demonstrations. They also leave the differences between source and target tasks uncontrolled. As a result, they cannot clearly distinguish knowledge transfer from task memorization. Our key insight is the Core-Gen principle. Core tasks are related tasks that share a functional interaction and provide source knowledge, while a Gen task is a novel target within the same functional family that has on — 来源：arxiv — 原文：https://arxiv.org/abs/2610.21180v1</description>
 </item>
 <item>
 <title>ActionOPD: Distilling Decisions, Not Tokens</title>
@@ -336,76 +400,12 @@
 <description>In sectors such as energy, aquaculture and chemical processing, the effectiveness of both mechanistic and data-driven models is frequently limited by poor-quality training data, which obscures underlying physical laws and degrades predictive accuracy. Such quality issues commonly manifest as anomalies in the dataset, ranging from sensor faults to process upsets and incorrect operator inputs. While traditional rule-based filtering can remove a subset of the anomalies, it is unable to leverage contextual information stored as unstructured text, such as engineer comments and operational logs that — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19860v1</description>
 </item>
 <item>
-<title>Energy Consumption Analysis of Discrete Diffusion and Autoregressive Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bfb812696c46</link>
-<guid isPermaLink="false">evt_bfb812696c46</guid>
-<pubDate>Wed, 14 Oct 2026 09:21:13 +0000</pubDate>
-<category>research</category>
-<description>As Large Language Models (LLMs) continue to scale, their energy consumption during inference has become a critical concern. While Autoregressive (AR) models are the industry standard, Diffusion Language Models (DLLMs) have emerged as a promising alternative capable of parallel token generation. In this paper, we perform a comparative energy benchmark of diffusion models (LLaDA-8B, Dream-7B) against AR counterparts (Llama-3.1-8B, Qwen-2.5-7B). We analyze the trade-offs between model architecture, KV-cache optimization, and Joules-per-token efficiency. Our results show that at longer sequences ( — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19855v1</description>
-</item>
-<item>
 <title>ReGRA: Residual-Gradient Adaptation for Complementary Low-Rank Fine-Tuning</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_79d96e0cfa52</link>
 <guid isPermaLink="false">evt_79d96e0cfa52</guid>
 <pubDate>Wed, 14 Oct 2026 07:23:50 +0000</pubDate>
 <category>research</category>
 <description>Low-rank adaptation (LoRA) enables parameter-efficient fine-tuning by learning low-rank weight updates. Increasing rank expands adaptation capacity, but does not guarantee that all learned directions improve downstream performance. In a diagnostic experiment with rank-16 LoRA, we show that retaining only the top singular components achieves the best performance, whereas adding further components degrades it. Motivated by this, we propose Residual-Gradient Adaptation (ReGRA), a two-stage method for making more effective use of a fixed rank budget. After the first stage, ReGRA estimates task gra — 来源：arxiv — 原文：https://arxiv.org/abs/2610.19700v1</description>
-</item>
-<item>
-<title>Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_863840696ea2</link>
-<guid isPermaLink="false">evt_863840696ea2</guid>
-<pubDate>Wed, 14 Oct 2026 17:57:24 +0000</pubDate>
-<category>research</category>
-<description>Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution among vanilla transformer experts, each focused on a different spectral scale. The partition is built from a discrete Hodge Laplacian $L_0=\star_0^{-1} d_0^{\top}\star_1 d_0$, that serves as a fitting layer measuring high-frequency content. A gating mechanism takes the mesh as input and produces the per-vertex weights that recombine the expert outputs. AirFRANS is a steady Rey — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20585v1</description>
-</item>
-<item>
-<title>OrionMoE-v1.0: A Mixture-of-Experts Foundation Model for Tabular In-Context Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_27da95cddd0d</link>
-<guid isPermaLink="false">evt_27da95cddd0d</guid>
-<pubDate>Wed, 14 Oct 2026 16:13:12 +0000</pubDate>
-<category>research</category>
-<description>Tabular foundation models enable in-context learning by predicting unseen observations from a labeled support table without task-specific parameter updates. Despite recent advances, most existing approaches rely on dense architectures that apply the same transformations across features and datasets. We introduce OrionMoE-Small, a compact tabular foundation model that combines distribution-aware representations with dataset-conditioned sparse mixture-of-experts computation. Built on a dual-axis Transformer architecture, OrionMoE-Small selectively activates experts along the feature axis, with r — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20418v1</description>
-</item>
-<item>
-<title>FOLD: Position-Free Far Memory with Local Order for Long-Context Speculative Decoding</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_28595d8d7341</link>
-<guid isPermaLink="false">evt_28595d8d7341</guid>
-<pubDate>Wed, 14 Oct 2026 15:55:10 +0000</pubDate>
-<category>research</category>
-<description>Speculative decoding accelerates LLM generation through lightweight drafting and parallel verification. It is particularly promising for long inputs, where KV-cache access costs can be amortized over multiple accepted tokens. Yet most drafters are trained on short sequences and degrade on long inputs, while long-context training is costly. Existing training-free approaches restrict the context window, rescale positions, or augment recent context with retrieved distant entries. Drafters, however, read target hidden states that already encode contextual and positional information, and their ligh — 来源：arxiv — 原文：https://arxiv.org/abs/2610.20392v1</description>
-</item>
-<item>
-<title>ChunkAct: Action Chunking for Agentic Robotics</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c2c8aed98a34</link>
-<guid isPermaLink="false">evt_c2c8aed98a34</guid>
-<pubDate>Tue, 13 Oct 2026 17:59:57 +0000</pubDate>
-<category>agents</category>
-<description>Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficiency. Every primitive requires a round of LLM reasoning over the full interaction history, so the cost of an episode grows with the number of primitives. We find this reasoning largely redundant: once a sub-goal is chosen, its primitives follow a routine already prescribed by memory. We present Chunk — 来源：arxiv — 原文：https://arxiv.org/abs/2610.18874v1</description>
-</item>
-<item>
-<title>Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4379123af86c</link>
-<guid isPermaLink="false">evt_4379123af86c</guid>
-<pubDate>Tue, 13 Oct 2026 17:59:51 +0000</pubDate>
-<category>agents</category>
-<description>Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvement (RSI). Yet open-source models still struggle on long-horizon tasks, largely for lack of both training data and a working recipe, and scaling both is hard: long, complex tasks are difficult to curate and verify, and their rewards are sparse. We address both. First, we introduce Tev-Gym, the first long-horizon agent training dataset with verifiable, dense, progressive rewards - — 来源：arxiv — 原文：https://arxiv.org/abs/2610.18868v1</description>
-</item>
-<item>
-<title>Unlocking Token Rewards via Training-Free Reward Attribution</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4213cd102e9</link>
-<guid isPermaLink="false">evt_b4213cd102e9</guid>
-<pubDate>Tue, 13 Oct 2026 16:53:27 +0000</pubDate>
-<category>research</category>
-<description>In this paper, we propose an extremely efficient, training-free method to extract token-level reward signals directly from an existing deep reward model. Our core idea is to attribute the overall process reward to individual tokens by estimating each token's influence. This influence is defined as the change in the final macroscopic reward (e.g., the process reward) when a token is replaced with a semantically null token. Naively calculating this influence is computationally infeasible, requiring N forward passes through the PRM for an N-token sequence. We overcome this bottleneck by proposing — 来源：arxiv — 原文：https://arxiv.org/abs/2610.18704v1</description>
-</item>
-<item>
-<title>Knowledge Graphs as Files: An Agent Harness Where Tool Creation and Tool Use Co-Evolve</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f7ff13315d0b</link>
-<guid isPermaLink="false">evt_f7ff13315d0b</guid>
-<pubDate>Tue, 13 Oct 2026 16:00:50 +0000</pubDate>
-<category>research</category>
-<description>Searching text-rich knowledge graphs requires following relations while examining textual evidence. Predefined graph interfaces constrain what evidence agents can access, even when they write code to combine tool calls or process retrieved subgraphs. We propose direct knowledge graph interaction (DKGI), a harness in which language model agents create graph access tools directly over complete node and edge files. The agent writes Python code to follow relations, combine node sets, and select textual evidence, interleaving execution with shell search and file inspection. This lets agents process — 来源：arxiv — 原文：https://arxiv.org/abs/2610.18616v1</description>
 </item>
 </channel>
 </rss>

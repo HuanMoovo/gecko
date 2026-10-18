@@ -35,6 +35,7 @@ window.GECKO = window.GECKO || {};
     index: () => get("index.json"),
     day: (date) => get(`days/${date}.json`),
     trends: () => get("trends.json"),
+    topics: () => get("topics.json"),
     entities: () => get("entities.json"),
     reports: () => get("reports/index.json"),
     report: (date) => get(`reports/${date}.json`),

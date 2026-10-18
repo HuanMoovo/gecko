@@ -106,7 +106,9 @@
             <h3 class="set-h" style="margin-top:20px">${T("RSS 订阅", "RSS feeds", "RSS フィード")}</h3>
             <div class="kv" style="display:block;line-height:2">
               <a class="hl" href="data/feed.xml" target="_blank" rel="noopener">data/feed.xml</a> ·
-              ${T("按事件输出的全站订阅", "event-level feed for the whole site", "イベント単位の全サイトフィード")}<br>
+              ${T("全部事件", "all events", "全イベント")}<br>
+              <a class="hl" href="data/feed-top.xml" target="_blank" rel="noopener">data/feed-top.xml</a> ·
+              ${T("精选：热度 + 多来源", "curated: heat + multi-source", "厳選：熱度＋複数ソース")}<br>
               <a class="hl" href="data/reports/index.json" target="_blank" rel="noopener">${T("报告索引 JSON", "report index", "レポート索引 JSON")}</a> · <a class="hl" href="#/reports" data-nav>${T("日报/周报/月报", "daily / weekly / monthly", "日報・週報・月報")}</a>
             </div>
           </div>

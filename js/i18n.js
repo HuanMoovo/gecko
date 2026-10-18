@@ -10,7 +10,7 @@ window.GECKO = window.GECKO || {};
       "nav.home": "首页", "nav.feed": "信息流", "nav.trends": "趋势雷达", "nav.research": "论文",
       "nav.models": "模型", "nav.projects": "开源", "nav.reports": "日报", "nav.ask": "Ask AI",
       "nav.more": "更多", "nav.organizations": "组织动态", "nav.benchmarks": "基准评测",
-      "nav.favorites": "收藏", "nav.settings": "阅读设置",
+      "nav.favorites": "收藏", "nav.settings": "阅读设置", "nav.topics": "主题",
       "nav.deep": "深度研究", "nav.sources": "来源健康", "nav.about": "关于",
 
       "hero.eyebrow": "AI Frontier Intelligence",
@@ -25,7 +25,7 @@ window.GECKO = window.GECKO || {};
       "sec.by_cat": "分类浏览", "sec.today_docs": "今日文档",
 
       "feed.title": "信息流", "feed.all": "全部", "feed.day": "日期",
-      "feed.sort": "排序", "feed.sort.importance": "重要性", "feed.sort.time": "时间", "feed.sort.sources": "来源数",
+      "feed.sort": "排序", "feed.sort.heat": "按热度", "feed.sort.importance": "重要性", "feed.sort.time": "时间", "feed.sort.sources": "来源数",
       "feed.view.events": "事件", "feed.view.docs": "全部文档", "feed.search.ph": "过滤当前视图…",
       "feed.empty": "这一天还没有数据",
 
@@ -89,7 +89,7 @@ window.GECKO = window.GECKO || {};
       "nav.home": "Home", "nav.feed": "Feed", "nav.trends": "Trends", "nav.research": "Research",
       "nav.models": "Models", "nav.projects": "Open Source", "nav.reports": "Reports", "nav.ask": "Ask AI",
       "nav.more": "More", "nav.organizations": "Organizations", "nav.benchmarks": "Benchmarks",
-      "nav.favorites": "Favorites", "nav.settings": "Reading settings",
+      "nav.favorites": "Favorites", "nav.settings": "Reading settings", "nav.topics": "Topics",
       "nav.deep": "Deep Research", "nav.sources": "Source Health", "nav.about": "About",
 
       "hero.eyebrow": "AI Frontier Intelligence",
@@ -104,7 +104,7 @@ window.GECKO = window.GECKO || {};
       "sec.by_cat": "Browse by Category", "sec.today_docs": "Today's Documents",
 
       "feed.title": "Feed", "feed.all": "All", "feed.day": "Date",
-      "feed.sort": "Sort", "feed.sort.importance": "Importance", "feed.sort.time": "Time", "feed.sort.sources": "Sources",
+      "feed.sort": "Sort", "feed.sort.heat": "Heat", "feed.sort.importance": "Importance", "feed.sort.time": "Time", "feed.sort.sources": "Sources",
       "feed.view.events": "Events", "feed.view.docs": "All documents", "feed.search.ph": "Filter this view…",
       "feed.empty": "No data for this day",
 
@@ -168,7 +168,7 @@ window.GECKO = window.GECKO || {};
       "nav.home": "ホーム", "nav.feed": "フィード", "nav.trends": "トレンド", "nav.research": "論文",
       "nav.models": "モデル", "nav.projects": "OSS", "nav.reports": "レポート", "nav.ask": "Ask AI",
       "nav.more": "もっと", "nav.organizations": "組織", "nav.benchmarks": "ベンチマーク",
-      "nav.favorites": "お気に入り", "nav.settings": "表示設定",
+      "nav.favorites": "お気に入り", "nav.settings": "表示設定", "nav.topics": "トピック",
       "nav.deep": "深掘り調査", "nav.sources": "ソース健全性", "nav.about": "概要",
 
       "hero.eyebrow": "AI Frontier Intelligence",
@@ -183,7 +183,7 @@ window.GECKO = window.GECKO || {};
       "sec.by_cat": "カテゴリ", "sec.today_docs": "今日のドキュメント",
 
       "feed.title": "フィード", "feed.all": "すべて", "feed.day": "日付",
-      "feed.sort": "並び順", "feed.sort.importance": "重要度", "feed.sort.time": "時刻", "feed.sort.sources": "ソース数",
+      "feed.sort": "並び順", "feed.sort.heat": "熱度順", "feed.sort.importance": "重要度", "feed.sort.time": "時刻", "feed.sort.sources": "ソース数",
       "feed.view.events": "イベント", "feed.view.docs": "全ドキュメント", "feed.search.ph": "このビューを絞り込む…",
       "feed.empty": "この日のデータはありません",
 

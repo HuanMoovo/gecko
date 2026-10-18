@@ -245,6 +245,75 @@ def _new_event(doc: dict) -> dict:
     }
 
 
+# ============================================================
+# 热度引擎（HeatScore）
+# ============================================================
+def compute_heat(ev: dict, doc_by_id: dict[str, dict], now=None) -> dict:
+    """按事件计算热度：同一来源只算一次，报道越新权重越高（半衰期衰减）。"""
+    now = now or now_utc()
+    ids = ev.get("document_ids") or []
+    best: dict[str, dict] = {}
+    for i in ids:
+        d = doc_by_id.get(i)
+        if not d:
+            continue
+        src = d.get("source") or "?"
+        ts = parse_time(d.get("published_at") or d.get("discovered_at"))
+        age_h = max(0.0, (now - ts).total_seconds() / 3600.0) if ts else 72.0
+        decay = 0.5 ** (age_h / C.HEAT_HALF_LIFE_HOURS)
+        w = C.HEAT_TIER_WEIGHT.get(d.get("tier", 4), 0.25) * decay
+        prev = best.get(src)
+        if prev is None or w > prev["w"]:
+            best[src] = {"w": w, "age": age_h}
+
+    if not best:
+        return {"heat": 0.0, "heat_sources": 0, "heat_state": "cooling",
+                "heat_newest_h": None, "heat_spark": []}
+
+    raw = sum(v["w"] for v in best.values())
+    newest = min(v["age"] for v in best.values())
+    n_src = len(best)
+
+    state = "cooling"
+    for key in ("surging", "rising", "active", "cooling"):
+        rule = C.HEAT_STATE[key]
+        if newest <= rule["max_age_h"] and n_src >= rule["min_sources"]:
+            state = key
+            break
+
+    # 24 小时分桶（3h 一格），用于卡片火花线
+    spark = [0.0] * 8
+    for v in best.values():
+        idx = min(7, int(v["age"] // 3))
+        spark[7 - idx] += v["w"]
+    spark = [round(x, 2) for x in spark]
+
+    return {
+        "heat": round(raw * C.HEAT_SCALE, 2),
+        "heat_sources": n_src,
+        "heat_state": state,
+        "heat_newest_h": round(newest, 1),
+        "heat_spark": spark,
+    }
+
+
+def apply_heat(days: list[dict]) -> dict:
+    """给所有事件写入热度字段，返回统计。"""
+    doc_by_id: dict[str, dict] = {}
+    for day in days:
+        for d in day.get("documents", []):
+            doc_by_id[d["id"]] = d
+    stats = {"events": 0, "hot": 0, "max": 0.0}
+    for day in days:
+        for ev in day.get("events", []):
+            ev.update(compute_heat(ev, doc_by_id))
+            stats["events"] += 1
+            if (ev.get("heat") or 0) >= 5:
+                stats["hot"] += 1
+            stats["max"] = max(stats["max"], ev.get("heat") or 0)
+    return stats
+
+
 def _trend_state(ev: dict) -> str:
     n = len(ev.get("document_ids", []))
     hrs = hours_since(ev.get("last_seen_at"))

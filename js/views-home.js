@@ -46,6 +46,42 @@
       ${ui.catIcon(c)} ${ui.catLabel(c)} <span class="mono dim">${dist[c]}</span></a>`).join("");
   }
 
+  /** 今日速览：把 24 小时内的事件压成一句话 + 3 条要点 */
+  function hoursAgo(iso) {
+    const t = new Date(iso || 0).getTime();
+    return isNaN(t) || !t ? 999 : (Date.now() - t) / 3600000;
+  }
+
+  function tldrBlock(events, docs, idx) {
+    const fresh = events.filter((e) => hoursAgo(e.first_seen_at || e.last_seen_at) <= 24);
+    const freshDocs = docs.filter((d) => hoursAgo(d.published_at || d.discovered_at) <= 24);
+    const hot = events.filter((e) => (e.heat || 0) >= 1.5).slice(0, 3);
+    const picks = (hot.length ? hot : fresh.slice(0, 3));
+    if (!picks.length && !freshDocs.length) return "";
+
+    const zh = i18n.lang === "zh", ja = i18n.lang === "ja";
+    const lead = zh
+      ? `过去 24 小时新增 ${fresh.length} 个事件、${freshDocs.length} 篇文档，${hot.length} 个进入高热度区间。`
+      : ja
+        ? `過去24時間で ${fresh.length} 件のイベントと ${freshDocs.length} 件の文書が追加され、${hot.length} 件が高熱度に入りました。`
+        : `${fresh.length} events and ${freshDocs.length} documents in the last 24h; ${hot.length} reached high heat.`;
+
+    return `<section class="glass card tldr fade-in">
+      <div class="tldr-head">
+        <span class="tldr-tag">${zh ? "今日速览" : ja ? "今日の要点" : "At a glance"}</span>
+        <span class="kv mono">${ui.esc(ui.fmtDateTime((idx || {}).updated_at))}</span>
+      </div>
+      <p class="tldr-lead">${ui.esc(lead)}</p>
+      <ul class="tldr-list">
+        ${picks.map((e, i) => `<li>
+          <span class="idx mono">${String(i + 1).padStart(2, "0")}</span>
+          <a href="#/event/${e.event_id}" data-nav>${ui.esc((e.title || "").slice(0, 96))}</a>
+          <span class="kv nowrap">🔥 ${(e.heat || 0).toFixed(1)} · 📡 ${e.source_count || 0}</span>
+        </li>`).join("")}
+      </ul>
+    </section>`;
+  }
+
   async function render(el, params, route, alive) {
     el.innerHTML = `<div class="stack">${ui.skeletons(2)}</div>`;
     const idx = await api.index();
@@ -62,10 +98,11 @@
       docsPool = ((day && day.documents) || []).slice();
     }
     const seen = new Set();
+    const rank = (e) => (e.heat || 0) * 3 + (e.importance_score || 0) * 2 + Math.min(3, e.source_count || 0) * 0.2;
     events = events
       .filter((e) => (seen.has(e.event_id) ? false : (seen.add(e.event_id), true)))
-      .sort((a, b) => (b.importance_score || 0) - (a.importance_score || 0));
-    const topEvents = events.filter((e) => (e.source_count || 0) >= 2 || (e.importance_score || 0) > 0.7);
+      .sort((a, b) => rank(b) - rank(a));
+    const topEvents = events.filter((e) => (e.source_count || 0) >= 2 || (e.heat || 0) >= 1.5 || (e.importance_score || 0) > 0.7);
     const headlines = (topEvents.length ? topEvents : events).slice(0, 6);
     const latest = events.slice(0, 12);
     const docs = docsPool
@@ -73,6 +110,7 @@
 
     el.innerHTML = `
       ${heroHtml(idx)}
+      ${tldrBlock(events, docsPool, idx)}
       <div class="grid dashboard" style="margin-top:24px">
         <div class="stack" style="gap:30px">
           <section class="section fade-in">

@@ -23,6 +23,42 @@
       .sort((a, b) => (b.importance_score || 0) - (a.importance_score || 0)).slice(0, 6);
     const timeline = (ev.timeline || []).slice().sort((a, b) => String(a.date || "").localeCompare(String(b.date || "")));
 
+    // 事件综述（规则组装：说清发生了什么、谁在报道、进展跨度）
+    function synthesize() {
+      const n = ev.source_count || evDocs.length || 0;
+      const srcN = (ev.sources || []).length;
+      const first = (ev.first_seen_at || "").slice(0, 10);
+      const last = (ev.last_seen_at || "").slice(0, 10);
+      const span = first && last && first !== last
+        ? Math.max(2, Math.round((new Date(last) - new Date(first)) / 86400000) + 1) : 1;
+      const topSrc = (ev.sources || []).slice(0, 3).join(" · ");
+      const ents = (ev.entities || []).slice(0, 4).map((x) => x.name).filter(Boolean).join("、");
+      const typeLabel = ui.eventTypeLabel(ev.event_type);
+      const catLabel = ev.category ? ui.catLabel(ev.category) : "";
+      const lang = i18n.lang;
+      if (lang === "en") {
+        return `${typeLabel}${catLabel ? ` · ${catLabel}` : ""}. ${n} document${n > 1 ? "s" : ""} from ${srcN} source${srcN > 1 ? "s" : ""}` +
+          `${topSrc ? ` (${topSrc})` : ""}, spanning ${span} day${span > 1 ? "s" : ""} (${first} → ${last}).` +
+          `${ents ? ` Key entities: ${ents}.` : ""}`;
+      }
+      if (lang === "ja") {
+        return `${typeLabel}${catLabel ? `・${catLabel}` : ""}。${srcN}ソースから${n}件の文書` +
+          `${topSrc ? `（${topSrc}）` : ""}、${span}日間（${first} → ${last}）にわたる報道。` +
+          `${ents ? `主要エンティティ：${ents}。` : ""}`;
+      }
+      return `${typeLabel}${catLabel ? ` · ${catLabel}` : ""}。${srcN} 个来源共 ${n} 篇文档` +
+        `${topSrc ? `（${topSrc}）` : ""}，跨度 ${span} 天（${first} → ${last}）。` +
+        `${ents ? `涉及：${ents}。` : ""}`;
+    }
+
+    function tlItems(list) {
+      return (list || []).map((t) => `<li style="margin:8px 0">
+        <span class="t-date">${ui.esc(t.date || "")}</span>
+        ${t.url ? `<a href="${ui.esc(t.url)}" target="_blank" rel="noopener">${ui.esc(t.title || "")}</a>` : ui.esc(t.title || "")}
+        <span class="dim">· ${ui.esc(t.source || "")}${t.tier ? " · T" + t.tier : ""}</span>
+      </li>`).join("");
+    }
+
     el.innerHTML = `<section class="fade-in">
       <div class="kv" style="margin-bottom:12px">
         <a href="#/feed" data-nav>← ${ui.esc(i18n.t("nav.feed"))}</a>
@@ -36,12 +72,18 @@
           ${ev.tier && ev.tier <= 2 ? ui.badge("Tier " + ev.tier, "tier1") : ""}
         </div>
         <h1 style="font-size:clamp(19px,2.6vw,26px);margin:0 0 10px;line-height:1.35">${ui.esc(ev.title)}</h1>
+        <div class="event-synth">
+          <span class="synth-tag">${i18n.lang === "en" ? "Summary" : i18n.lang === "ja" ? "要約" : "整理"}</span>
+          <p>${ui.esc(synthesize())}</p>
+        </div>
         ${ev.canonical_description ? `<p class="event-desc" style="-webkit-line-clamp:unset;display:block">${ui.esc(ev.canonical_description)}</p>` : ""}
 
         <div class="row" style="gap:18px;margin:14px 0">
           <span class="kv">🕒 ${ui.esc((ev.first_seen_at || "").slice(0, 10))} → ${ui.esc((ev.last_seen_at || "").slice(0, 10))}</span>
           <span class="kv">📄 ${ev.source_count || 0} ${i18n.t("common.documents")}</span>
           <span class="kv">📡 ${(ev.sources || []).length} ${i18n.t("common.sources")}</span>
+          ${typeof ev.heat === "number" && ev.heat > 0
+            ? `<span class="kv">🔥 ${ev.heat.toFixed(1)}${ev.heat_state ? ` · ${ui.stateLabel(ev.heat_state)}` : ""}</span>` : ""}
           ${typeof ev.importance_score === "number" ? `<span class="kv">${i18n.t("common.importance")} ${ui.scoreBar(ev.importance_score)}</span>` : ""}
           ${typeof ev.confidence_score === "number" ? `<span class="kv">${i18n.t("common.confidence")} ${ev.confidence_score.toFixed(2)}</span>` : ""}
           ${ev.source_diversity ? `<span class="kv">${i18n.lang === "en" ? "Diversity" : i18n.lang === "ja" ? "多様性" : "来源多样性"} ${(ev.source_diversity || 0).toFixed(2)}</span>` : ""}
@@ -61,14 +103,14 @@
           </section>` : ""}
 
           ${timeline.length ? `<section class="glass card">
-            <h3 style="font-size:15px;margin:0 0 10px">🧭 ${ui.esc(i18n.t("common.timeline"))} <span class="mono dim">${timeline.length}</span></h3>
-            <ul class="timeline-list" style="border-left-color:var(--border-strong)">
-              ${timeline.map((t) => `<li style="margin:8px 0">
-                <span class="t-date">${ui.esc(t.date || "")}</span>
-                ${t.url ? `<a href="${ui.esc(t.url)}" target="_blank" rel="noopener">${ui.esc(t.title || "")}</a>` : ui.esc(t.title || "")}
-                <span class="dim">· ${ui.esc(t.source || "")}${t.tier ? " · T" + t.tier : ""}</span>
-              </li>`).join("")}
-            </ul>
+            <div class="row" style="justify-content:space-between;align-items:center;margin-bottom:10px">
+              <h3 style="font-size:15px;margin:0">🧭 ${ui.esc(i18n.t("common.timeline"))} <span class="mono dim">${timeline.length}</span></h3>
+              <div class="seg" id="tlOrder" style="margin:0">
+                <button class="tab active" data-order="desc">${i18n.lang === "en" ? "Newest" : i18n.lang === "ja" ? "新しい順" : "最新在前"}</button>
+                <button class="tab" data-order="asc">${i18n.lang === "en" ? "Oldest" : i18n.lang === "ja" ? "古い順" : "最早在前"}</button>
+              </div>
+            </div>
+            <ul class="timeline-list" id="tlList" style="border-left-color:var(--border-strong)">${tlItems(timeline.slice().reverse())}</ul>
           </section>` : ""}
         </div>
 
@@ -101,6 +143,17 @@
         await navigator.clipboard.writeText(location.href);
         window.GECKO.app.toast(i18n.t("common.copied"));
       } catch (e) { /* ignore */ }
+    });
+
+    // 时间线排序：最新在前 / 最早在前
+    const tlOrder = el.querySelector("#tlOrder");
+    const tlList = el.querySelector("#tlList");
+    tlOrder && tlOrder.addEventListener("click", (e) => {
+      const b = e.target.closest("[data-order]");
+      if (!b || !tlList) return;
+      tlOrder.querySelectorAll(".tab").forEach((x) => x.classList.toggle("active", x === b));
+      const list = b.dataset.order === "desc" ? timeline.slice().reverse() : timeline.slice();
+      tlList.innerHTML = tlItems(list);
     });
   }
 

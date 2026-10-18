@@ -305,7 +305,7 @@ ${docs || "（无）"}`;
         ${r.events.length ? `<div class="section-head"><h2>🧩 ${ui.esc(i18n.t("common.events"))} <span class="mono dim">${r.events.length}</span></h2></div>
         <div class="grid cols-2" style="margin-bottom:24px">${r.events.map((e) => ui.eventCard(e, { timeline: false })).join("")}</div>` : ""}
         ${r.entities.length ? `<div class="section-head"><h2>🔗 ${ui.esc(i18n.t("common.entities"))}</h2></div>
-        <div class="chip-row" style="margin-bottom:24px">${r.entities.map((e) => `<span class="badge">${ui.esc(e.name)} <b class="mono">${e.doc_count}</b></span>`).join("")}</div>` : ""}
+        <div class="chip-row" style="margin-bottom:24px">${r.entities.map((e) => `<a class="badge" href="#/entity/${encodeURIComponent(e.id)}" data-nav>${ui.esc(e.name)} <b class="mono">${e.doc_count}</b></a>`).join("")}</div>` : ""}
         ${r.docs.length ? `<div class="section-head"><h2>📄 ${ui.esc(i18n.t("common.documents"))} <span class="mono dim">${r.docs.length}</span></h2></div>
         <div class="stack" style="gap:0">${r.docs.map((d) => ui.docRow(d)).join("")}</div>` : ""}`;
     },

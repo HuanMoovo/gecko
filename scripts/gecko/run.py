@@ -19,13 +19,13 @@ from datetime import datetime, timezone, timedelta
 if __package__ in (None, ""):  # 支持直接执行
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
     from scripts.gecko import config as C, store, pipeline, report as report_mod, llm as llm_mod
-    from scripts.gecko import connectors
+    from scripts.gecko import connectors, topics as topics_mod
     from scripts.gecko.core import parse_time as _pt
     from scripts.gecko.core import score_document as _score_document
     from scripts.gecko.core import is_ai_relevant as _is_ai_relevant
 else:
     from . import config as C, store, pipeline, report as report_mod, llm as llm_mod
-    from . import connectors
+    from . import connectors, topics as topics_mod
     from .core import parse_time as _pt
     from .core import score_document as _score_document
     from .core import is_ai_relevant as _is_ai_relevant
@@ -84,27 +84,36 @@ def _rescore_all(day_map: dict) -> int:
     return changed
 
 
-def _build_rss(days: list[dict], limit: int = 50) -> str:
-    """生成站点级 RSS 2.0（按事件，含原文链接）"""
+def _build_rss(days: list[dict], limit: int = 50, *,
+               title: str | None = None, desc: str | None = None,
+               own_path: str = "data/feed.xml",
+               sort_key=None, extra_filter=None) -> str:
+    """生成 RSS 2.0（按事件，含原文链接）。多路复用：全部 / 精选 / 日报。"""
     from email.utils import format_datetime
     from xml.sax.saxutils import escape as xesc
 
     events: list[dict] = []
     for day in days:
         events.extend(day.get("events", []))
-    events.sort(key=lambda e: (e.get("importance_score", 0), e.get("source_count", 0)), reverse=True)
+    if extra_filter:
+        events = [e for e in events if extra_filter(e)]
+    if sort_key:
+        events.sort(key=sort_key, reverse=True)
+    else:
+        events.sort(key=lambda e: (e.get("heat") or 0, e.get("importance_score", 0),
+                                   e.get("source_count", 0)), reverse=True)
     site = C.BRAND["site_url"]
     now = datetime.now(timezone.utc)
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         "<channel>",
-        f"<title>GECKO · 人工智能前沿信息收集</title>",
+        f"<title>{xesc(title or 'GECKO · 人工智能前沿信息收集')}</title>",
         f"<link>{site}/</link>",
-        f"<description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>",
+        f"<description>{xesc(desc or 'AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）')}</description>",
         "<language>zh-cn</language>",
         f"<lastBuildDate>{format_datetime(now)}</lastBuildDate>",
-        f'<atom:link href="{site}/data/feed.xml" rel="self" type="application/rss+xml"/>',
+        f'<atom:link href="{site}/{own_path}" rel="self" type="application/rss+xml"/>',
     ]
     for ev in events[:limit]:
         eid = ev.get("event_id", "")
@@ -255,8 +264,14 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
             store.save_day(d["date"], d)
         log(f"saved {len(day_map)} day shards")
 
-    # ---------- 8. 趋势引擎 ----------
+    # ---------- 7b. 热度引擎（全站排序与 RSS 都依赖它） ----------
     window_days = load_all_days(trend_days)
+    heat_stats = pipeline.apply_heat(window_days)
+    for _d in window_days:
+        store.save_day(_d["date"], _d)
+    log(f"heat: {heat_stats['events']} events · {heat_stats['hot']} hot · max {heat_stats['max']}")
+
+    # ---------- 8. 趋势引擎 ----------
     trends = pipeline.compute_trends(window_days)
     store.save_trends(trends)
     log(f"trends: {len(trends['topics'])} topics, {len(trends['entities'])} entities")
@@ -275,6 +290,14 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
     entities = pipeline.build_entity_index(window_days)
     store.save_entities(entities)
     log(f"entities: {len(entities['entities'])}")
+
+    # ---------- 9b. 主题聚合（方向 / 组织 / 形态） ----------
+    try:
+        topics = topics_mod.build_topics(window_days, trends, entities)
+        store.write_json(os.path.join(store.DATA, "topics.json"), topics)
+        log("topics: " + ", ".join(f"{k}={v}" for k, v in topics["stats"].items()))
+    except Exception as e:  # noqa: BLE001
+        log(f"topics failed: {e}")
 
     # ---------- 10. 日报 ----------
     yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
@@ -385,9 +408,18 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
     store.save_index(index)
 
     # ---------- 12. RSS / sitemap / robots ----------
-    rss = _build_rss(load_all_days(7))
+    week_days = load_all_days(7)
+    rss = _build_rss(week_days)
     with open(os.path.join(store.DATA, "feed.xml"), "w", encoding="utf-8") as f:
         f.write(rss)
+    # 精选：热度 ≥ 3 的多来源事件
+    top_rss = _build_rss(week_days, limit=30,
+                         title="GECKO 精选 · 高热度事件",
+                         desc="按事件热度筛选：独立来源越多越靠前（半衰期 18h）",
+                         own_path="data/feed-top.xml",
+                         extra_filter=lambda e: (e.get("heat") or 0) >= 3 and (e.get("source_count") or 0) >= 2)
+    with open(os.path.join(store.DATA, "feed-top.xml"), "w", encoding="utf-8") as f:
+        f.write(top_rss)
     site = C.BRAND["site_url"]
     sitemap = "\n".join([
         '<?xml version="1.0" encoding="UTF-8"?>',

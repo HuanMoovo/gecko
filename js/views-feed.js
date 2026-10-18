@@ -6,7 +6,12 @@
   window.GECKO.views = window.GECKO.views || {};
 
   const PAGE = 36;
-  const state = { date: null, cat: "all", sort: "importance", view: "events", q: "", page: 1 };
+  const state = { date: null, cat: "all", sort: "heat", view: "events", q: "", page: 1 };
+
+  /** 综合排序：热度为主（按独立来源 + 时间衰减），重要性与来源数兜底 */
+  function rank(e) {
+    return (e.heat || 0) * 3 + (e.importance_score || 0) * 2 + Math.min(3, e.source_count || 0) * 0.2;
+  }
 
   function syncParams(params) {
     if (params.date !== undefined) state.date = params.date || null;
@@ -45,6 +50,7 @@
     }
     if (state.sort === "time") out.sort((a, b) => String(b.last_seen_at).localeCompare(String(a.last_seen_at)));
     else if (state.sort === "sources") out.sort((a, b) => (b.source_count || 0) - (a.source_count || 0));
+    else if (state.sort === "heat") out.sort((a, b) => rank(b) - rank(a));
     else out.sort((a, b) => (b.importance_score || 0) - (a.importance_score || 0));
     return out;
   }
@@ -93,6 +99,7 @@
               <option value="docs" ${state.view === "docs" ? "selected" : ""}>${i18n.t("feed.view.docs")}</option>
             </select>
             <select class="input" id="feedSort">
+              <option value="heat" ${state.sort === "heat" ? "selected" : ""}>${i18n.t("feed.sort.heat")}</option>
               <option value="importance" ${state.sort === "importance" ? "selected" : ""}>${i18n.t("feed.sort.importance")}</option>
               <option value="time" ${state.sort === "time" ? "selected" : ""}>${i18n.t("feed.sort.time")}</option>
               <option value="sources" ${state.sort === "sources" ? "selected" : ""}>${i18n.t("feed.sort.sources")}</option>

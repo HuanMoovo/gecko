@@ -174,6 +174,9 @@ window.GECKO = window.GECKO || {};
         ${srcUrl ? `<a class="kv hl" href="${esc(srcUrl)}" target="_blank" rel="noopener" title="${esc(i18n.t("common.open"))}">↗ ${esc(i18n.t("common.open"))}</a>` : ""}
         <span class="kv" title="${i18n.t("common.documents")}">📄 ${ev.source_count || (ev.sources || []).length}</span>
         <span class="kv" title="${i18n.t("common.sources")}">📡 ${(ev.sources || []).length}</span>
+        ${typeof ev.heat === "number" && ev.heat > 0
+          ? `<span class="kv" title="heat">🔥 ${ev.heat.toFixed(1)}${ev.heat_state ? ` <span class="dim">${stateLabel(ev.heat_state)}</span>` : ""}</span>`
+          : ""}
         ${typeof ev.importance_score === "number" ? `<span class="kv">${i18n.t("common.importance")} ${scoreBar(ev.importance_score)}</span>` : ""}
         ${typeof ev.confidence_score === "number" ? `<span class="kv">${i18n.t("common.confidence")} ${ev.confidence_score.toFixed(2)}</span>` : ""}
       </div>

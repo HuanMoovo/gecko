@@ -119,7 +119,7 @@
     "/research": "research", "/models": "models", "/projects": "projects",
     "/organizations": "organizations", "/benchmarks": "benchmarks",
     "/sources": "sources", "/about": "about",
-    "/favorites": "favorites", "/settings": "settings",
+    "/favorites": "favorites", "/settings": "settings", "/topics": "topics",
     "/reports": "reports", "/ask": "ask", "/deep-research": "deep",
     "/search": "search",
   };
@@ -141,6 +141,7 @@
     // /event/<id>  /entity/<id>
     if (parts[0] === "event" && parts[1]) { name = "event"; params.id = parts[1]; }
     if (parts[0] === "entity" && parts[1]) { name = "entity"; params.id = parts[1]; }
+    if (parts[0] === "topic" && parts[1]) { name = "topic"; params.id = parts[1]; }
     if (!name) name = ROUTES["/" + parts.slice(0, 1).join("")] || "home";
     return { name, params, raw: h };
   }
@@ -165,6 +166,8 @@
     entity: () => window.GECKO.views.detail,
     favorites: () => window.GECKO.views.favorites,
     settings: () => window.GECKO.views.settings,
+    topics: () => window.GECKO.views.topics,
+    topic: () => window.GECKO.views.topic,
   };
 
   let navToken = 0;
@@ -249,7 +252,8 @@
         }
         results.innerHTML = hits.map((h, i) => `
           <div class="search-item" data-idx="${i}" tabindex="0">
-            <div class="si-title">${h.type === "event" ? "🧩 " : h.type === "entity" ? "🔗 " : "📄 "}${ui.esc(h.title)}</div>
+            <div class="si-title">${h.type === "event" ? "🧩 " : h.type === "entity" ? "🔗 " : "📄 "}${highlight(h.title, q)}</div>
+            ${h.snippet ? `<div class="si-snip">${highlight(h.snippet, q)}</div>` : ""}
             <div class="si-sub"><span>${ui.esc(h.sub || "")}</span><span class="mono">${ui.esc(h.meta || "")}</span></div>
           </div>`).join("");
         results.querySelectorAll(".search-item").forEach((el) => {
@@ -266,6 +270,25 @@
     });
   }
 
+  /** 取匹配词附近的片段，用于结果摘要 */
+  function snippet(text, ql, span = 130) {
+    const t = String(text || "");
+    if (!t) return "";
+    const i = t.toLowerCase().indexOf(ql);
+    if (i < 0) return "";
+    const start = Math.max(0, i - 34);
+    const end = Math.min(t.length, start + span);
+    return (start > 0 ? "…" : "") + t.slice(start, end).trim() + (end < t.length ? "…" : "");
+  }
+
+  /** 高亮匹配词（先转义再包 mark） */
+  function highlight(text, q) {
+    const safe = ui.esc(text);
+    const qs = String(q || "").trim().replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    if (!qs) return safe;
+    return safe.replace(new RegExp(qs, "gi"), (m) => `<mark>${m}</mark>`);
+  }
+
   async function search(q, limit) {
     const ql = q.toLowerCase();
     const { docs, events } = await api.searchIndex(14);
@@ -279,19 +302,31 @@
       return 0;
     };
     (events || []).forEach((e) => {
-      const s = scoreText(e.title) * 2 + scoreText(e.canonical_description);
-      if (s > 0) hits.push({ type: "event", title: e.title, sub: (e.sources || []).join(" · "),
-        meta: ui.relTime(e.last_seen_at), href: `#/search?q=${encodeURIComponent(e.title)}`, s: s + (e.importance_score || 0) });
+      const s = scoreText(e.title) * 2 + scoreText(e.canonical_description) + scoreText(e.title_i18n && e.title_i18n.zh);
+      if (s > 0) hits.push({
+        type: "event", title: e.title, sub: (e.sources || []).join(" · "),
+        meta: ui.relTime(e.last_seen_at), href: `#/event/${e.event_id}`,
+        snippet: snippet(e.canonical_description, ql) || snippet((e.title_i18n || {}).zh, ql),
+        s: s + (e.heat || 0) * 0.6 + (e.importance_score || 0),
+      });
     });
     (docs || []).forEach((d) => {
       const s = scoreText(d.title) * 2 + scoreText(d.summary);
-      if (s > 0) hits.push({ type: "doc", title: d.title, sub: d.source,
-        meta: ui.relTime(d.published_at), href: d.url, s: s + (d.importance_score || 0) * 0.5 });
+      if (s > 0) hits.push({
+        type: "doc", title: d.title, sub: d.source,
+        meta: ui.relTime(d.published_at), href: d.url,
+        snippet: snippet(d.summary, ql),
+        s: s + (d.importance_score || 0) * 0.5,
+      });
     });
     ((ents && ents.entities) || []).forEach((e) => {
       const s = scoreText(e.name) * 3;
-      if (s > 0) hits.push({ type: "entity", title: e.name, sub: e.type,
-        meta: `${e.doc_count} docs`, href: `#/search?q=${encodeURIComponent(e.name)}`, s: s + e.doc_count * 0.01 });
+      if (s > 0) hits.push({
+        type: "entity", title: e.name, sub: e.type,
+        meta: `${e.doc_count} docs`, href: `#/entity/${encodeURIComponent(e.id)}`,
+        snippet: (e.recent_titles || []).length ? (e.recent_titles[0].title || "").slice(0, 90) : "",
+        s: s + e.doc_count * 0.01,
+      });
     });
     hits.sort((a, b) => b.s - a.s);
     return hits.slice(0, limit || 20);

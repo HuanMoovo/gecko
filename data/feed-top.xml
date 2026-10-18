@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 15:10:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 18:23:55 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Torvalds use Claude for bottleneck fix, but race discovered</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_18f9fd010555</link>
+<guid isPermaLink="false">evt_18f9fd010555</guid>
+<pubDate>Sun, 18 Oct 2026 16:08:48 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：techcrunch_ai · hackernews — 原文：https://thenewstack.io/torvalds-claude-code-kernel/</description>
+</item>
 <item>
 <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a3f7cd60d423</link>
@@ -22,6 +30,14 @@
 <pubDate>Sun, 18 Oct 2026 14:30:27 +0000</pubDate>
 <category>safety</category>
 <description>来源：hn_frontpage · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</description>
+</item>
+<item>
+<title>Disney agrees to hire the majority of Character.AI’s workforce</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_43409ec21d5a</link>
+<guid isPermaLink="false">evt_43409ec21d5a</guid>
+<pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
+<category>industry</category>
+<description>After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […] — 来源：hn_frontpage · techcrunch_ai — 原文：https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</description>
 </item>
 <item>
 <title>AI agents are coming to Rivian’s cars</title>
@@ -46,14 +62,6 @@
 <pubDate>Sun, 18 Oct 2026 06:50:36 +0000</pubDate>
 <category>industry</category>
 <description>来源：reddit_ml · hackernews — 原文：https://api-docs.deepseek.com/guides/search/</description>
-</item>
-<item>
-<title>What is wrong with AI writing - ICLR edition [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_18f9fd010555</link>
-<guid isPermaLink="false">evt_18f9fd010555</guid>
-<pubDate>Sat, 17 Oct 2026 23:40:03 +0000</pubDate>
-<category>foundation_models</category>
-<description>I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted placebo at none of three, with gains up to about 1.5 not excluded My question for the community is this: how do we call out this type of bad writing? The reason I think it's tricky is that "clearly AI writing" is not the right way to critique - AI "editing" of writing is allowed. We have to be able to — 来源：techcrunch_ai — 原文：https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/</description>
 </item>
 </channel>
 </rss>

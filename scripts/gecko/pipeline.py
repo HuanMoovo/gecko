@@ -267,8 +267,9 @@ def compute_heat(ev: dict, doc_by_id: dict[str, dict], now=None) -> dict:
             best[src] = {"w": w, "age": age_h}
 
     if not best:
-        return {"heat": 0.0, "heat_sources": 0, "heat_state": "cooling",
-                "heat_newest_h": None, "heat_spark": []}
+        return {"heat": 0.0, "heat_sources": 0, "heat_peers": 0, "heat_new_6h": 0,
+                "heat_state": "cooling", "heat_newest_h": None, "heat_oldest_h": None,
+                "heat_peak_hours_ago": None, "heat_spark": []}
 
     raw = sum(v["w"] for v in best.values())
     newest = min(v["age"] for v in best.values())
@@ -288,11 +289,19 @@ def compute_heat(ev: dict, doc_by_id: dict[str, dict], now=None) -> dict:
         spark[7 - idx] += v["w"]
     spark = [round(x, 2) for x in spark]
 
+    fresh_6h = len([v for v in best.values() if v["age"] <= 6])
+    peak_idx = max(range(len(spark)), key=lambda i: spark[i]) if any(spark) else None
+    peak_hours_ago = (len(spark) - 1 - peak_idx) * 3 if peak_idx is not None else None
+
     return {
         "heat": round(raw * C.HEAT_SCALE, 2),
         "heat_sources": n_src,
+        "heat_peers": n_src,               # 参与者（去重后的账号 / 机构）
+        "heat_new_6h": fresh_6h,           # 最近 6 小时新增参与者
         "heat_state": state,
         "heat_newest_h": round(newest, 1),
+        "heat_oldest_h": round(max(v["age"] for v in best.values()), 1),
+        "heat_peak_hours_ago": peak_hours_ago,
         "heat_spark": spark,
     }
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN" data-theme="dark">
+<html lang="zh-CN" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,6 +27,7 @@
   <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
   <link rel="alternate" type="application/rss+xml" title="GECKO · AI Frontier Feed" href="data/feed.xml">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/journal.css">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -63,22 +64,29 @@
       <nav class="main-nav" id="mainNav" aria-label="Main">
         <a href="#/" data-nav data-i18n="nav.home">首页</a>
         <a href="#/feed" data-nav data-i18n="nav.feed">信息流</a>
-        <a href="#/trends" data-nav data-i18n="nav.trends">趋势雷达</a>
+        <a href="#/hot" data-nav data-i18n="nav.hot">热点</a>
         <a href="#/topics" data-nav data-i18n="nav.topics">主题</a>
-        <a href="#/research" data-nav data-i18n="nav.research">论文</a>
-        <a href="#/models" data-nav data-i18n="nav.models">模型</a>
-        <a href="#/projects" data-nav data-i18n="nav.projects">开源</a>
-        <a href="#/reports" data-nav data-i18n="nav.reports">日报</a>
-        <a href="#/ask" data-nav data-i18n="nav.ask">Ask AI</a>
+        <a href="#/daily" data-nav>日报</a>
+        <a href="#/weekly" data-nav>周报</a>
+        <a href="#/monthly" data-nav>月报</a>
+        <a href="#/agent" data-nav data-i18n="nav.agent">Agent</a>
         <div class="nav-more">
           <button class="nav-more-btn" aria-haspopup="true" data-i18n="nav.more">更多</button>
           <div class="nav-more-menu">
+            <a href="#/trends" data-nav data-i18n="nav.trends">趋势雷达</a>
+            <a href="#/research" data-nav data-i18n="nav.research">论文</a>
+            <a href="#/models" data-nav data-i18n="nav.models">模型</a>
+            <a href="#/projects" data-nav data-i18n="nav.projects">开源</a>
             <a href="#/organizations" data-nav data-i18n="nav.organizations">组织动态</a>
             <a href="#/benchmarks" data-nav data-i18n="nav.benchmarks">基准评测</a>
+            <a href="#/ask" data-nav data-i18n="nav.ask">Ask AI</a>
             <a href="#/deep-research" data-nav data-i18n="nav.deep">深度研究</a>
             <a href="#/sources" data-nav data-i18n="nav.sources">来源健康</a>
             <a href="#/favorites" data-nav data-i18n="nav.favorites">收藏</a>
             <a href="#/settings" data-nav data-i18n="nav.settings">阅读设置</a>
+            <a href="#/changelog" data-nav data-i18n="nav.changelog">更新日志</a>
+            <a href="#/terms" data-nav data-i18n="nav.terms">使用规则</a>
+            <a href="#/privacy" data-nav data-i18n="nav.privacy">隐私说明</a>
             <a href="#/about" data-nav data-i18n="nav.about">关于</a>
           </div>
         </div>
@@ -149,6 +157,9 @@
   <script src="js/views-detail.js"></script>
   <script src="js/views-settings.js"></script>
   <script src="js/views-topics.js"></script>
+  <script src="js/views-hot.js"></script>
+  <script src="js/views-item.js"></script>
+  <script src="js/views-static.js"></script>
   <script src="js/motion.js"></script>
   <script src="js/app.js"></script>
 

@@ -262,6 +262,15 @@
     </a>`;
   }
 
+  /** 从 hash 判断当前是日报 / 周报 / 月报专属入口（对应 AIHOT 的 /daily /weekly /monthly） */
+  function kindFromHash() {
+    const h = (location.hash || "").replace(/^#/, "");
+    if (h.startsWith("/weekly")) return "weekly";
+    if (h.startsWith("/monthly")) return "monthly";
+    if (h.startsWith("/daily")) return "daily";
+    return null;
+  }
+
   async function renderList(el) {
     el.innerHTML = `<div class="stack">${ui.skeletons(3)}</div>`;
     const idx = (await api.reports()) || {};
@@ -269,18 +278,31 @@
     const weekly = idx.weekly || [];
     const monthly = idx.monthly || [];
     const label = (zh, en, ja) => (i18n.lang === "en" ? en : i18n.lang === "ja" ? ja : zh);
-    const group = (title, list, kind) => (!list.length ? "" : `
+    const kind = kindFromHash();
+    const group = (title, list, k) => (!list.length ? "" : `
       <section class="section">
         ${ui.sectionHead(title, String(list.length))}
-        <div class="grid cols-3">${list.map((r) => reportCard(r, kind)).join("")}</div>
+        <div class="grid cols-3">${list.map((r) => reportCard(r, k)).join("")}</div>
       </section>`);
 
+    const titles = {
+      daily: [label("AI 日报", "Daily reports", "日報"), label("每日自动生成的情报报告，永久保存", "Auto-generated daily intelligence, kept forever", "毎日自動生成・永続保存")],
+      weekly: [label("AI 周报", "Weekly reports", "週報"), label("本周主线、重要发布与值得回看的讨论", "This week's themes, key releases and discussions worth revisiting", "今週の主线・重要発表・見直す価値のある議論")],
+      monthly: [label("AI 月报", "Monthly reports", "月報"), label("一个月的变化：主线与关键事件回顾", "A month of change: themes and key events", "1か月の変化：主线と重要イベント")],
+    };
+    const head = kind ? titles[kind] : [i18n.t("reports.title"), i18n.t("reports.sub")];
+
+    const body = kind === "weekly" ? group(label("周报", "Weekly Reports", "週報"), weekly, "weekly")
+      : kind === "monthly" ? group(label("月报", "Monthly Reports", "月報"), monthly, "monthly")
+      : kind === "daily" ? group(label("日报", "Daily Reports", "日報"), daily, "daily")
+      : `${group(label("周报", "Weekly Reports", "週報"), weekly, "weekly")}
+         ${group(label("月报", "Monthly Reports", "月報"), monthly, "monthly")}
+         ${group(label("日报", "Daily Reports", "日報"), daily, "daily")}`;
+
     el.innerHTML = `<section class="fade-in">
-      ${ui.sectionHead(i18n.t("reports.title"), i18n.t("reports.sub"))}
+      ${ui.sectionHead(head[0], head[1])}
       <div style="margin-bottom:18px">${langSwitch()}</div>
-      ${group(label("周报", "Weekly Reports", "週報"), weekly, "weekly")}
-      ${group(label("月报", "Monthly Reports", "月報"), monthly, "monthly")}
-      ${group(label("日报", "Daily Reports", "日報"), daily, "daily")}
+      ${body}
     </section>`;
 
     el.querySelectorAll("[data-rlang]").forEach((b) => b.addEventListener("click", () => {

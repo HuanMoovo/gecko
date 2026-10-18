@@ -26,8 +26,36 @@
           </div>
           ${idx && idx.updated_at ? `<div class="kv" style="margin-top:14px">⏱ ${ui.esc(i18n.t("hero.updated"))} ${ui.esc(ui.fmtDateTime(idx.updated_at))}</div>` : ""}
         </div>
-        <div class="hero-3d" id="hero3d" aria-hidden="true">
-          <canvas id="heroCanvas"></canvas>
+        <div class="hero-scene" aria-hidden="true">
+          <span class="blob blob-1"></span>
+          <span class="blob blob-2"></span>
+
+          <div class="photo photo-a"><div class="photo-img"></div><span class="tape tape-blue"></span></div>
+          <div class="photo photo-b"></div>
+          <div class="photo photo-c"></div>
+
+          <div class="photo photo-main" style="z-index:4">
+            <span class="tape tape-top"></span>
+            <div class="photo-img"></div>
+            <div class="photo-cap">GECKO · AI FRONTIER</div>
+          </div>
+
+          <div class="note" style="z-index:3"><b>Today</b>AI 前沿<br>手账 · 每日</div>
+          <div class="paper" style="z-index:2"></div>
+
+          <svg class="scene-star star-1" width="19" height="19" viewBox="0 0 24 24" fill="currentColor" style="z-index:5">
+            <path d="M12 2 L14.2 9.8 L22 12 L14.2 14.2 L12 22 L9.8 14.2 L2 12 L9.8 9.8 Z"/></svg>
+          <svg class="scene-star s2 star-2" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="z-index:5">
+            <path d="M12 2 L14.2 9.8 L22 12 L14.2 14.2 L12 22 L9.8 14.2 L2 12 L9.8 9.8 Z"/></svg>
+          <svg class="scene-star s3 star-3" width="11" height="11" viewBox="0 0 24 24" fill="currentColor" style="z-index:5">
+            <path d="M12 2 L14.2 9.8 L22 12 L14.2 14.2 L12 22 L9.8 14.2 L2 12 L9.8 9.8 Z"/></svg>
+
+          <svg class="scene-curve curve-1" width="190" height="62" viewBox="0 0 190 62" fill="none"
+               stroke="currentColor" stroke-width="1.6" stroke-dasharray="7 9" style="z-index:1">
+            <path d="M2 48 C 34 12, 68 14, 96 38 S 158 58, 188 26"/></svg>
+          <svg class="scene-curve curve-2" width="170" height="56" viewBox="0 0 170 56" fill="none"
+               stroke="currentColor" stroke-width="1.6" stroke-dasharray="6 8" style="z-index:1">
+            <path d="M2 20 C 30 44, 62 44, 90 24 S 146 8, 168 34"/></svg>
         </div>
       </div>
     </section>`;

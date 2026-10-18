@@ -90,7 +90,7 @@
       document.documentElement.setAttribute("data-theme", next);
       localStorage.setItem("gecko.theme", next);
       document.querySelectorAll('meta[name="theme-color"]').forEach((m) =>
-        m.setAttribute("content", next === "dark" ? "#070b12" : "#f5f8fc"));
+        m.setAttribute("content", next === "dark" ? "#0d1a2b" : "#eef5fc"));
     });
   }
 
@@ -119,8 +119,10 @@
     "/research": "research", "/models": "models", "/projects": "projects",
     "/organizations": "organizations", "/benchmarks": "benchmarks",
     "/sources": "sources", "/about": "about",
-    "/favorites": "favorites", "/settings": "settings", "/topics": "topics",
-    "/reports": "reports", "/ask": "ask", "/deep-research": "deep",
+    "/favorites": "favorites", "/settings": "settings", "/topics": "topics", "/hot": "hot",
+ "/agent": "agent", "/terms": "terms", "/privacy": "privacy", "/changelog": "changelog",
+    "/reports": "reports", "/daily": "reports", "/weekly": "reports", "/monthly": "reports",
+    "/ask": "ask", "/deep-research": "deep",
     "/search": "search",
   };
 
@@ -142,6 +144,7 @@
     if (parts[0] === "event" && parts[1]) { name = "event"; params.id = parts[1]; }
     if (parts[0] === "entity" && parts[1]) { name = "entity"; params.id = parts[1]; }
     if (parts[0] === "topic" && parts[1]) { name = "topic"; params.id = parts[1]; }
+    if (parts[0] === "item" && parts[1]) { name = "item"; params.id = parts[1]; }
     if (!name) name = ROUTES["/" + parts.slice(0, 1).join("")] || "home";
     return { name, params, raw: h };
   }
@@ -167,6 +170,12 @@
     favorites: () => window.GECKO.views.favorites,
     settings: () => window.GECKO.views.settings,
     topics: () => window.GECKO.views.topics,
+    hot: () => window.GECKO.views.hot,
+    item: () => window.GECKO.views.item,
+    agent: () => window.GECKO.views.agent,
+    terms: () => window.GECKO.views.terms,
+    privacy: () => window.GECKO.views.privacy,
+    changelog: () => window.GECKO.views.changelog,
     topic: () => window.GECKO.views.topic,
   };
 

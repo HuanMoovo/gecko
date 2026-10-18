@@ -199,7 +199,8 @@ window.GECKO = window.GECKO || {};
     if (doc.author && doc.author.length) extra.push(esc(doc.author.slice(0, 2).join(", ")));
     return `<div class="doc-row">
       <div class="doc-main">
-        <p class="doc-title"><a href="${esc(doc.url || "#")}" target="_blank" rel="noopener">${esc(doc.title || "")}</a></p>
+        <p class="doc-title"><a href="#/item/${esc(doc.id || "")}" data-nav>${esc(doc.title || "")}</a>
+          ${doc.url ? `<a class="doc-ext" href="${esc(doc.url)}" target="_blank" rel="noopener" title="${esc(i18n.t("common.open"))}">↗</a>` : ""}</p>
         <div class="doc-sub">
           <span>${esc(doc.source || "")}</span>
           ${doc.category ? `<span>${catIcon(doc.category)} ${esc(catLabel(doc.category))}</span>` : ""}

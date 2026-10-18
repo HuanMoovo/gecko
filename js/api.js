@@ -72,6 +72,18 @@ window.GECKO = window.GECKO || {};
       return { docs, events, shards };
     },
 
+    /** 按 id 取单篇文档（走搜索索引缓存） */
+    async docById(id) {
+      const idx = await this.searchIndex(21);
+      return ((idx && idx.docs) || []).find((d) => d.id === id) || null;
+    },
+
+    /** 按 id 取单个事件 */
+    async eventById(id) {
+      const idx = await this.searchIndex(21);
+      return ((idx && idx.events) || []).find((e) => e.event_id === id) || null;
+    },
+
     /** 聚合搜索索引（懒构建，缓存） */
     async searchIndex(days = 14) {
       if (memory.has("__search")) return memory.get("__search");

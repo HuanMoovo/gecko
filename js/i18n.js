@@ -10,7 +10,7 @@ window.GECKO = window.GECKO || {};
       "nav.home": "首页", "nav.feed": "信息流", "nav.trends": "趋势雷达", "nav.research": "论文",
       "nav.models": "模型", "nav.projects": "开源", "nav.reports": "日报", "nav.ask": "Ask AI",
       "nav.more": "更多", "nav.organizations": "组织动态", "nav.benchmarks": "基准评测",
-      "nav.favorites": "收藏", "nav.settings": "阅读设置", "nav.topics": "主题",
+      "nav.favorites": "收藏", "nav.settings": "阅读设置", "nav.topics": "主题", "nav.hot": "热点", "nav.agent": "Agent 接入", "nav.changelog": "更新日志", "nav.terms": "使用规则", "nav.privacy": "隐私说明",
       "nav.deep": "深度研究", "nav.sources": "来源健康", "nav.about": "关于",
 
       "hero.eyebrow": "AI Frontier Intelligence",
@@ -89,7 +89,7 @@ window.GECKO = window.GECKO || {};
       "nav.home": "Home", "nav.feed": "Feed", "nav.trends": "Trends", "nav.research": "Research",
       "nav.models": "Models", "nav.projects": "Open Source", "nav.reports": "Reports", "nav.ask": "Ask AI",
       "nav.more": "More", "nav.organizations": "Organizations", "nav.benchmarks": "Benchmarks",
-      "nav.favorites": "Favorites", "nav.settings": "Reading settings", "nav.topics": "Topics",
+      "nav.favorites": "Favorites", "nav.settings": "Reading settings", "nav.topics": "Topics", "nav.hot": "Hot board", "nav.agent": "Agent access", "nav.changelog": "Changelog", "nav.terms": "Terms", "nav.privacy": "Privacy",
       "nav.deep": "Deep Research", "nav.sources": "Source Health", "nav.about": "About",
 
       "hero.eyebrow": "AI Frontier Intelligence",
@@ -168,7 +168,7 @@ window.GECKO = window.GECKO || {};
       "nav.home": "ホーム", "nav.feed": "フィード", "nav.trends": "トレンド", "nav.research": "論文",
       "nav.models": "モデル", "nav.projects": "OSS", "nav.reports": "レポート", "nav.ask": "Ask AI",
       "nav.more": "もっと", "nav.organizations": "組織", "nav.benchmarks": "ベンチマーク",
-      "nav.favorites": "お気に入り", "nav.settings": "表示設定", "nav.topics": "トピック",
+      "nav.favorites": "お気に入り", "nav.settings": "表示設定", "nav.topics": "トピック", "nav.hot": "ホット", "nav.agent": "エージェント接続", "nav.changelog": "更新履歴", "nav.terms": "利用規約", "nav.privacy": "プライバシー",
       "nav.deep": "深掘り調査", "nav.sources": "ソース健全性", "nav.about": "概要",
 
       "hero.eyebrow": "AI Frontier Intelligence",

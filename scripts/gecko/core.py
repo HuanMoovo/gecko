@@ -188,6 +188,29 @@ def title_similarity(t1: str, t2: str) -> float:
 # ============================================================
 # Canonical Document
 # ============================================================
+_REL_CACHE: dict[str, bool] = {}
+
+
+def is_ai_relevant(text: str) -> bool:
+    """社区源相关性守卫：AI 关键词需整词匹配（允许复数），避免 'ai' 命中 said/email。"""
+    t = (text or "").lower()
+    if not t:
+        return False
+    hit = _REL_CACHE.get(t)
+    if hit is not None:
+        return hit
+    for kw in C.AI_KEYWORDS:
+        if " " in kw or "-" in kw:
+            ok = kw in t
+        else:
+            ok = re.search(r"(?<![a-z0-9])" + re.escape(kw) + r"(?:s|es)?(?![a-z0-9])", t) is not None
+        if ok:
+            _REL_CACHE[t] = True
+            return True
+    _REL_CACHE[t] = False
+    return False
+
+
 def make_document(
     *,
     source: str,

@@ -266,6 +266,20 @@ RSS_FEEDS = {
     ],
 }
 
+# 需要 AI 相关性守卫的源（全量抓取、无主题限定的社区首页）
+RELEVANCE_FILTER_SOURCES = {"hn_frontpage", "reddit_ml", "lobsters"}
+
+# AI 相关性关键词（用于社区源过滤；短语与独立词匹配，避免 email/said 之类误判）
+AI_KEYWORDS = (
+    "ai", "artificial intelligence", "llm", "gpt", "claude", "gemini", "llama", "mistral", "qwen",
+    "deepseek", "chatgpt", "openai", "anthropic", "hugging face", "huggingface",
+    "machine learning", "deep learning", "neural", "transformer", "diffusion", "embedding",
+    "fine-tun", "quantiz", "inference", "training", "dataset", "benchmark", "agentic", "agent",
+    "multimodal", "vision language", "vlm", "rag", "rlhf", "reasoning model",
+    "gpu", "cuda", "nvidia", "tensor", "pytorch", "robot", "robotics", "autonomous",
+    "copilot", "prompt", "token", "model weights", "open-weights",
+)
+
 # arXiv 查询配置
 ARXIV_CATEGORIES = ["cs.AI", "cs.CL", "cs.LG", "cs.CV", "cs.RO", "cs.NE"]
 ARXIV_MAX_PER_CAT = 40

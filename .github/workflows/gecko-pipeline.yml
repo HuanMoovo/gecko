@@ -29,6 +29,11 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Clean off-topic community noise
+        # 幂等：只处理历史分片里来自全量社区源（HN 首页等）且不含 AI 关键词的文档
+        continue-on-error: true
+        run: python scripts/clean_noise.py
+
       - name: Run GECKO pipeline
         env:
           # 内置 token：提升 GitHub Search API 限额（未配置 Secrets 时也能运行）

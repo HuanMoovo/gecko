@@ -22,11 +22,13 @@ if __package__ in (None, ""):  # 支持直接执行
     from scripts.gecko import connectors
     from scripts.gecko.core import parse_time as _pt
     from scripts.gecko.core import score_document as _score_document
+    from scripts.gecko.core import is_ai_relevant as _is_ai_relevant
 else:
     from . import config as C, store, pipeline, report as report_mod, llm as llm_mod
     from . import connectors
     from .core import parse_time as _pt
     from .core import score_document as _score_document
+    from .core import is_ai_relevant as _is_ai_relevant
 
 MAX_DOC_AGE_DAYS = 3          # 只接收最近 3 天发布的文档
 TREND_WINDOW_DAYS = 30        # 趋势计算窗口
@@ -167,6 +169,14 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
             if dt is None or dt >= cutoff:
                 fresh.append(d)
         log(f"after age filter: {len(fresh)} (dropped {len(raw_docs) - len(fresh)})")
+
+        # ---------- 2b. 社区源相关性守卫（HN 首页等全量源只保留 AI 相关） ----------
+        guarded = [d for d in fresh
+                   if d.get("source") not in C.RELEVANCE_FILTER_SOURCES
+                   or _is_ai_relevant(d.get("title", "") + " " + (d.get("summary") or ""))]
+        if len(guarded) != len(fresh):
+            log(f"relevance filter: dropped {len(fresh) - len(guarded)} off-topic community docs")
+        fresh = guarded
 
         # ---------- 3. 分类 / 实体 / 评分（先 enrich 再 dedup，实体用于语义去重） ----------
         source_tiers = {k: v.get("tier", 4) for k, v in C.SOURCES.items()}

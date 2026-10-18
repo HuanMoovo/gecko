@@ -5,7 +5,7 @@ from __future__ import annotations
 import os
 import concurrent.futures as cf
 
-from ..core import make_document
+from ..core import is_ai_relevant, make_document
 from ..net import fetch_json
 
 HN = "https://hacker-news.firebaseio.com/v0"
@@ -17,8 +17,7 @@ AI_TERMS = ("ai", "llm", "gpt", "claude", "gemini", "llama", "model", "agent", "
 
 
 def _relevant(title: str) -> bool:
-    t = (title or "").lower()
-    return any(term in t for term in AI_TERMS)
+    return is_ai_relevant(title)
 
 
 def _item(iid: int) -> dict | None:

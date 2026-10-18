@@ -102,7 +102,7 @@ window.GECKO = window.GECKO || {};
 
   /** sparkline SVG */
   function sparkline(values, opts) {
-    const o = Object.assign({ w: 84, h: 22, color: "var(--acc)", fill: true }, opts || {});
+    const o = Object.assign({ w: 84, h: 22, color: "var(--acc-2)", fill: true }, opts || {});
     const v = (values || []).slice(-14);
     if (!v.length) return "";
     const max = Math.max(...v, 1);
@@ -155,12 +155,17 @@ window.GECKO = window.GECKO || {};
       .map((e) => `<a class="badge" href="#/entity/${encodeURIComponent(e.id)}" data-nav>${esc(e.name)}</a>`).join("");
     const evUrl = ev.event_id ? `#/event/${ev.event_id}` : (ev.main_url || "#/feed");
     const srcUrl = ev.main_url || "";
+    const favOn = (window.GECKO.prefs && ev.event_id) ? window.GECKO.prefs.isFav(ev.event_id) : false;
     return `<article class="glass card hoverable event-card ${o.cls || ""}">
       <div class="event-top">
-        ${badge(eventTypeLabel(ev.event_type), eventTypeCls(ev.event_type))}
-        ${ev.category ? badge(`${catIcon(ev.category)} ${catLabel(ev.category)}`, catCls(ev.category)) : ""}
-        ${ev.trend_state ? badge(stateLabel(ev.trend_state), stateCls(ev.trend_state)) : ""}
-        ${ev.tier && ev.tier <= 2 ? badge("T" + ev.tier, "tier1") : ""}
+        <div class="event-badges">
+          ${badge(eventTypeLabel(ev.event_type), eventTypeCls(ev.event_type))}
+          ${ev.category ? badge(`${catIcon(ev.category)} ${catLabel(ev.category)}`, catCls(ev.category)) : ""}
+          ${ev.trend_state ? badge(stateLabel(ev.trend_state), stateCls(ev.trend_state)) : ""}
+          ${ev.tier && ev.tier <= 2 ? badge("T" + ev.tier, "tier1") : ""}
+        </div>
+        ${ev.event_id ? `<button class="fav-btn${favOn ? " on" : ""}" data-fav="${esc(ev.event_id)}"
+          title="${esc(i18n.t("common.favorite"))}" aria-label="${esc(i18n.t("common.favorite"))}">${favOn ? "★" : "☆"}</button>` : ""}
       </div>
       <h3 class="event-title"><a href="${esc(evUrl)}" data-nav>${esc(ev.title || "")}</a></h3>
       ${ev.canonical_description ? `<p class="event-desc">${esc(ev.canonical_description)}</p>` : ""}
@@ -222,7 +227,7 @@ window.GECKO = window.GECKO || {};
         <div class="trend-sub">${sub}${item.region ? " · " + esc(item.region) : ""}</div>
       </div>
       <div class="trend-right">
-        ${sparkline(item.sparkline, { color: item.direction === "down" ? "#fb7185" : "var(--acc)" })}
+        ${sparkline(item.sparkline, { color: item.direction === "down" ? "#c98e93" : "var(--acc-2)" })}
         ${dirArrow(item.direction)}
       </div>
     </div>`;

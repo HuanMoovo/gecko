@@ -336,6 +336,189 @@ def _rule_intro(lang: str, stats: dict, headlines: list[dict], rising: list[dict
             f"今日焦点：{focus}。上升方向：{'、'.join(names) or '—'}。")
 
 
+def build_period(kind: str, days_window: list[dict], trends: dict, prev_trends: dict | None = None) -> dict:
+    """
+    周报 / 月报：从最近 N 天的事件与文档汇编（不重复日报的逐日流水，而是提炼周期要闻）
+    kind: "weekly" | "monthly"
+    """
+    from datetime import datetime as _dt, timezone as _tz, timedelta as _td
+
+    docs: list[dict] = []
+    events: list[dict] = []
+    for day in days_window:
+        docs.extend(day.get("documents", []))
+        events.extend(day.get("events", []))
+
+    now = _dt.now(_tz.utc)
+    span = 7 if kind == "weekly" else 30
+    start_d = (now - _td(days=span - 1)).strftime("%Y-%m-%d")
+    end_d = now.strftime("%Y-%m-%d")
+    if kind == "weekly":
+        isocal = now.isocalendar()
+        key = f"{isocal[0]}-W{isocal[1]:02d}"
+        title = {"zh": f"AI Frontier 周报 · {key}", "en": f"AI Frontier Weekly · {key}", "ja": f"AIフロンティア週報 · {key}"}
+    else:
+        key = now.strftime("%Y-%m")
+        title = {"zh": f"AI Frontier 月报 · {key}", "en": f"AI Frontier Monthly · {key}", "ja": f"AIフロンティア月報 · {key}"}
+
+    # 周期内文档（按发布时间过滤）
+    cutoff = (now - _td(days=span)).strftime("%Y-%m-%dT%H:%M:%S")
+    period_docs = [d for d in docs if (d.get("published_at") or d.get("discovered_at") or "") >= cutoff]
+    period_events = events  # 事件本身已按活跃时间落在分片内
+    fallback = False
+    if not period_docs:
+        # 周期内暂无新数据（采集刚开始或中断）→ 用已有数据汇编，并标记
+        period_docs = docs
+        fallback = True
+
+    # ---------- 要闻 ----------
+    top = sorted(period_events, key=lambda e: ((e.get("importance_score") or 0) * (1 + 0.15 * min(5, e.get("source_count") or 0))),
+                 reverse=True)[:12]
+    doc_by_id = {d["id"]: d for d in docs}
+    headlines = []
+    for e in top:
+        ev_docs = [doc_by_id[i] for i in e.get("document_ids", []) if i in doc_by_id]
+        headlines.append({
+            "event_id": e["event_id"],
+            "title": e["title"],
+            "title_i18n": e.get("title_i18n"),
+            "narrative_i18n": _narrative_i18n(e),
+            "event_type": e.get("event_type"),
+            "category": e.get("category"),
+            "description": (e.get("canonical_description") or "")[:300],
+            "importance_score": e.get("importance_score"),
+            "confidence_score": e.get("confidence_score"),
+            "source_count": e.get("source_count"),
+            "source_diversity": e.get("source_diversity"),
+            "sources": (e.get("sources") or [])[:6],
+            "trend_state": e.get("trend_state"),
+            "entities": [x["name"] for x in (e.get("entities") or [])[:5]],
+            "url": e.get("main_url"),
+            "evidence": _evidence_from_docs(ev_docs) if ev_docs else [
+                {"title": t.get("title"), "url": t.get("url"), "source": t.get("source")}
+                for t in (e.get("timeline") or [])[:5]],
+        })
+
+    # ---------- 按天归集的时间线 ----------
+    by_day: dict[str, list[dict]] = {}
+    for e in period_events:
+        d = (e.get("last_seen_at") or e.get("first_seen_at") or "")[:10]
+        if not d or (not fallback and d < start_d):
+            continue
+        by_day.setdefault(d, []).append(e)
+    timeline = []
+    for d in sorted(by_day.keys(), reverse=True):
+        items = sorted(by_day[d], key=lambda e: -(e.get("importance_score") or 0))[:6]
+        timeline.append({
+            "date": d,
+            "events": [{
+                "event_id": e["event_id"], "title": e["title"], "title_i18n": e.get("title_i18n"),
+                "event_type": e.get("event_type"), "category": e.get("category"),
+                "narrative_i18n": _narrative_i18n(e),
+                "source_count": e.get("source_count"), "url": e.get("main_url"),
+            } for e in items],
+        })
+
+    # ---------- 分类汇编 ----------
+    sections = []
+    for cat, label in SECTION_ORDER:
+        items = [d for d in period_docs if cat in (d.get("categories") or [d.get("category")])]
+        if not items:
+            continue
+        items.sort(key=lambda d: (-(d.get("importance_score") or 0), d.get("tier", 4)))
+        sections.append({"key": cat, "label": label, "count": len(items),
+                         "items": [_doc_brief(d) for d in items[:8]]})
+
+    # ---------- 趋势回顾 ----------
+    def trend_map(t):
+        return {x["topic"]: x for x in (t or {}).get("topics", [])}
+
+    t_now, t_prev = trend_map(trends), trend_map(prev_trends or {})
+    rising = []
+    for topic, item in t_now.items():
+        prev = t_prev.get(topic)
+        delta = item["score"] - (prev["score"] if prev else 0.0)
+        rising.append({"topic": topic, "label": item["label"], "icon": item["icon"],
+                       "score": item["score"], "delta": round(delta, 4),
+                       "direction": item["direction"], "sparkline": item["sparkline"][-14:],
+                       "counts": item["metrics"]["counts"]})
+    rising.sort(key=lambda r: -r["score"])
+
+    # ---------- 统计 ----------
+    stats = {
+        "documents": len(period_docs),
+        "events": len(period_events),
+        "sources": len({d.get("source") for d in period_docs}),
+        "days": len(by_day),
+        "tier1_docs": len([d for d in period_docs if d.get("tier") == 1]),
+        "papers": len([d for d in period_docs if d.get("content_type") == "paper"]),
+        "models": len([d for d in period_docs if d.get("content_type") == "model"]),
+        "repos": len([d for d in period_docs if d.get("content_type") == "repository"]),
+        "claims": 0,
+        "corroborated_claims": 0,
+        "fallback": fallback,
+    }
+
+    report = {
+        "id": f"{kind}-{key}",
+        "type": kind,
+        "key": key,
+        "period": {"start": start_d, "end": end_d, "days": span},
+        "title": title,
+        "generated_at": iso(now_utc()),
+        "intro": None,
+        "intro_source": "rule",
+        "headlines": headlines,
+        "timeline": timeline,
+        "timeline_meta": {lang: {"title": _L10N_TEMPLATES[lang]["timeline_title"],
+                                 "sub": _L10N_TEMPLATES[lang]["timeline_sub"]}
+                          for lang in ("zh", "en", "ja")},
+        "sections": sections,
+        "trend_review": rising[:10],
+        "new_models": [_doc_brief(d) for d in sorted(
+            [x for x in period_docs if x.get("content_type") == "model"],
+            key=lambda x: -(x.get("importance_score") or 0))[:10]],
+        "new_papers": [_doc_brief(d) for d in sorted(
+            [x for x in period_docs if x.get("content_type") == "paper"],
+            key=lambda x: -(x.get("importance_score") or 0))[:10]],
+        "new_projects": [_doc_brief(d) for d in sorted(
+            [x for x in period_docs if x.get("content_type") == "repository"],
+            key=lambda x: -(x.get("importance_score") or 0))[:10]],
+        "new_datasets": [],
+        "trend_changes": {"rising": rising[:6], "cooling": [], "new": []},
+        "watchlist": [],
+        "claims": [],
+        "stats": stats,
+        "verification": {
+            "status": "auto", "checked_at": iso(now_utc()),
+            "citation_coverage": round(len([h for h in headlines if h.get("evidence")]) / max(1, len(headlines)), 2),
+            "note": {"zh": "周期要闻已按重要性 × 来源数排序，均绑定来源证据。",
+                     "en": "Period highlights ranked by importance × sources; each bound to source evidence.",
+                     "ja": "期間の重要ニュースは重要度×ソース数で並べ、出典証拠に紐付けています。"},
+        },
+    }
+
+    # 导语（三语）
+    top_names = [(r.get("label") or {}) for r in rising[:3]]
+    report["intro"] = {}
+    for lang in ("zh", "en", "ja"):
+        names_cn = "、".join([(n.get(lang) or n.get("zh") or "") for n in top_names]).strip("、")
+        names_en = ", ".join([(n.get("en") or n.get("zh") or "") for n in top_names]).strip(", ")
+        if lang == "en":
+            report["intro"][lang] = (
+                f"{stats['documents']} documents and {stats['events']} events over {span} days, "
+                f"from {stats['sources']} sources. Leading areas: {names_en or '—'}.")
+        elif lang == "ja":
+            report["intro"][lang] = (
+                f"{span}日間で {stats['documents']} 件の文書と {stats['events']} 件のイベントを整理しました"
+                f"（{stats['sources']} ソース）。注目領域：{names_cn or '—'}。")
+        else:
+            report["intro"][lang] = (
+                f"过去 {span} 天共收录 {stats['documents']} 篇文档、{stats['events']} 个事件，"
+                f"来自 {stats['sources']} 个来源。重点方向：{names_cn or '—'}。")
+    return report
+
+
 def attach_llm(report: dict) -> None:
     """LLM 可选增强：三语导语 + 头条标题三语译文。"""
     llm_mod.enhance_report_multilingual(report)

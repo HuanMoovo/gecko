@@ -35,7 +35,11 @@ reports (Chinese / English / Japanese) with evidence chains.
 
 | Open Source Center |
 |---|
-| ![Projects](images/screenshots/projects.png) |
+| ![Projects](images/screenshots/projects.png) | ![Weekly](images/screenshots/weekly.png) |
+
+| | |
+|---|---|
+| ![Favorites](images/screenshots/favorites.png) | ![Reading settings](images/screenshots/settings.png) |
 
 ---
 
@@ -122,6 +126,26 @@ Generated automatically every day:
 Retrieval-based Q&A over the local knowledge base (events + documents + entities + timelines);
 every answer **carries citations**. With an LLM API key configured, it produces full syntheses.
 Deep Research mode compiles cross-source evidence briefs.
+
+---
+
+### 9. Daily · Weekly · Monthly reports
+
+| Edition | Content | Refresh |
+|---|---|---|
+| **Daily** | Day's headlines, event timeline, per-section intel, Claim/Evidence | every pipeline run |
+| **Weekly** | 7-day headline digest, day-grouped event timeline, trend review, section stats | rolling, every run |
+| **Monthly** | 30-day digest, same structure as weekly | rolling, every run |
+
+All three editions are **Chinese / English / Japanese** and directly shareable
+(`#/reports/2026-10-18`, `#/reports/weekly-2026-W42`, `#/reports/monthly-2026-10`).
+
+### 10. Favorites & reading settings
+
+- **Favorites** — tap ☆ on any event card; review them at `#/favorites`
+- **Reading settings** — text size (S/M/L) · typeface (sans/serif/mono) · density (comfortable/compact)
+- **Yours alone** — favorites and settings live in `localStorage` only, exportable/importable as JSON, never sent to a server
+- **Feeds** — `data/feed.xml` (event-level RSS), `data/reports/index.json` (report index)
 
 ---
 

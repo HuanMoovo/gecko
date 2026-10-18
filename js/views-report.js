@@ -73,32 +73,40 @@
     </div>`;
   }
 
-  /* ---------- 事件时间线（整理的发生的事情） ---------- */
+  /* ---------- 事件时间线（日报扁平 / 周报月报按天分组） ---------- */
+  function evTimelineRow(it) {
+    return `<div class="doc-row">
+      <div class="doc-main">
+        <div class="doc-sub" style="margin-bottom:3px">
+          ${it.time ? `<span class="mono">${ui.esc(it.time.slice(5))}</span>` : ""}
+          ${it.event_type ? ui.badge(ui.eventTypeLabel(it.event_type), ui.eventTypeCls(it.event_type)) : ""}
+          ${it.category ? `<span>${ui.catIcon(it.category)} ${ui.esc(ui.catLabel(it.category))}</span>` : ""}
+        </div>
+        <p class="doc-title"><a href="#/event/${it.event_id}" data-nav>${ui.esc(loc(it.title_i18n) || it.title)}</a></p>
+        ${loc(it.narrative_i18n) ? `<div class="kv" style="display:block">${ui.esc(loc(it.narrative_i18n))}</div>` : ""}
+      </div>
+      <div class="doc-side">
+        <span class="mono kv">${it.source_count || 0} src</span>
+        ${it.url ? `<a class="kv hl" href="${ui.esc(it.url)}" target="_blank" rel="noopener">↗</a>` : ""}
+      </div>
+    </div>`;
+  }
+
   function timelineBlock(rep) {
     const tl = rep.timeline || [];
     if (!tl.length) return "";
     const meta = rep.timeline_meta || {};
     const m = meta[rl()] || meta.zh || {};
+    const grouped = tl[0] && Array.isArray(tl[0].events);
     return `<section class="report-section glass card">
-      <h3>🕒 ${ui.esc(m.title || "Event Timeline")} <span class="count">${tl.length}</span></h3>
+      <h3>🕒 ${ui.esc(m.title || "Event Timeline")} <span class="count">${grouped ? tl.reduce((a, d) => a + d.events.length, 0) : tl.length}</span></h3>
       ${m.sub ? `<div class="kv dim" style="margin:-6px 0 10px">${ui.esc(m.sub)}</div>` : ""}
-      <div class="stack" style="gap:0">
-        ${tl.map((it) => `<div class="doc-row">
-          <div class="doc-main">
-            <div class="doc-sub" style="margin-bottom:3px">
-              <span class="mono">${ui.esc((it.time || it.date || "").slice(5))}</span>
-              ${it.event_type ? ui.badge(ui.eventTypeLabel(it.event_type), ui.eventTypeCls(it.event_type)) : ""}
-              ${it.category ? `<span>${ui.catIcon(it.category)} ${ui.esc(ui.catLabel(it.category))}</span>` : ""}
-            </div>
-            <p class="doc-title"><a href="#/event/${it.event_id}" data-nav>${ui.esc(loc(it.title_i18n) || it.title)}</a></p>
-            ${loc(it.narrative_i18n) ? `<div class="kv" style="display:block">${ui.esc(loc(it.narrative_i18n))}</div>` : ""}
-          </div>
-          <div class="doc-side">
-            <span class="mono kv">${it.source_count || 0} src</span>
-            ${it.url ? `<a class="kv hl" href="${ui.esc(it.url)}" target="_blank" rel="noopener">↗</a>` : ""}
-          </div>
-        </div>`).join("")}
-      </div>
+      ${grouped
+        ? `<div class="stack" style="gap:16px">${tl.map((day) => `<div>
+            <div class="badge" style="margin-bottom:6px">${ui.esc(day.date)}</div>
+            <div class="stack" style="gap:0">${(day.events || []).map(evTimelineRow).join("")}</div>
+          </div>`).join("")}</div>`
+        : `<div class="stack" style="gap:0">${tl.map(evTimelineRow).join("")}</div>`}
     </section>`;
   }
 
@@ -138,6 +146,8 @@
             <div class="kv" style="margin-bottom:6px"><a href="#/reports" data-nav>← ${ui.esc(i18n.t("report.back"))}</a></div>
             ${langSwitch()}
             <h1>${ui.esc(loc(rep.title) || rep.id)}</h1>
+            ${rep.period ? `<div class="kv" style="margin-bottom:4px">📅 ${ui.esc(rep.period.start)} → ${ui.esc(rep.period.end)}
+              · ${rep.period.days} ${i18n.lang === "en" ? "days" : i18n.lang === "ja" ? "日間" : "天"}</div>` : ""}
             ${loc(rep.intro) ? `<div class="report-intro">${ui.esc(loc(rep.intro))}</div>` : ""}
             <div class="kv" style="margin-top:8px">${ui.esc(i18n.t("common.updated"))} ${ui.esc(ui.fmtDateTime(rep.generated_at))}
               ${rep.intro_source === "llm" ? ' · <span class="hl">AI</span>' : ""}</div>
@@ -146,13 +156,17 @@
             ${ui.statBlock(s.documents || 0, i18n.t("common.documents"))}
             ${ui.statBlock(s.events || 0, i18n.t("common.events"))}
             ${ui.statBlock(s.sources || 0, i18n.t("hero.sources"))}
-            ${ui.statBlock(s.claims || 0, i18n.t("report.claims"))}
+            ${(s.claims || 0) > 0
+              ? ui.statBlock(s.claims, i18n.t("report.claims"))
+              : ui.statBlock(s.days || 0, i18n.lang === "en" ? "Days" : i18n.lang === "ja" ? "日数" : "覆盖天数")}
           </div>
         </div>
       </div>
 
       <section class="report-section">
-        <h3>01 · ${ui.esc(i18n.t("report.headlines"))} <span class="count">${(rep.headlines || []).length}</span></h3>
+        <h3>01 · ${ui.esc(rep.type && rep.type !== "daily"
+          ? (i18n.lang === "en" ? "Period Highlights" : i18n.lang === "ja" ? "期間の重要ニュース" : "本期要闻")
+          : i18n.t("report.headlines"))} <span class="count">${(rep.headlines || []).length}</span></h3>
         ${(rep.headlines || []).map(headlineItem).join("") || ui.emptyState()}
       </section>
 
@@ -189,7 +203,7 @@
           </div>
         </section>
         <div class="stack" style="gap:18px">
-          <section class="glass card">
+          ${(rep.watchlist || []).length ? `<section class="glass card">
             <h3 style="font-size:15px;margin:0 0 10px">👀 ${ui.esc(i18n.t("report.watchlist"))}</h3>
             <div class="stack" style="gap:8px">
               ${(rep.watchlist || []).map((w) => `<div>
@@ -197,7 +211,7 @@
                 <div class="kv"><span class="mono">${w.source_count} src</span><span>${(w.sources || []).slice(0, 4).join(" · ")}</span></div>
               </div>`).join("") || ui.emptyState()}
             </div>
-          </section>
+          </section>` : ""}
           <section class="glass card">
             <h3 style="font-size:15px;margin:0 0 10px">🔎 ${ui.esc(i18n.t("report.verification"))}</h3>
             <div class="stack" style="gap:6px">
@@ -209,8 +223,8 @@
         </div>
       </div>
 
-      <section class="report-section glass card" style="margin-top:18px">
-        <h3>${ui.esc(i18n.t("report.claims"))} <span class="count">${(rep.claims || []).length}</span></h3>
+      ${(rep.claims || []).length ? `<section class="report-section glass card" style="margin-top:18px">
+        <h3>${ui.esc(i18n.t("report.claims"))} <span class="count">${rep.claims.length}</span></h3>
         <div class="grid cols-2">
           ${(rep.claims || []).map((c) => `<div class="claim-box">
             <div class="claim">${ui.esc(c.claim)}</div>
@@ -221,32 +235,58 @@
             ${evidenceList(c.evidence)}
           </div>`).join("") || ui.emptyState()}
         </div>
-      </section>
+      </section>` : ""}
     </section>`;
+  }
+
+  function reportCard(r, kind) {
+    const id = r.id || r.date;
+    const kindLabel = {
+      daily: i18n.lang === "en" ? "Daily" : i18n.lang === "ja" ? "日報" : "日报",
+      weekly: i18n.lang === "en" ? "Weekly" : i18n.lang === "ja" ? "週報" : "周报",
+      monthly: i18n.lang === "en" ? "Monthly" : i18n.lang === "ja" ? "月報" : "月报",
+    }[kind] || kind;
+    const when = r.period ? `${(r.period.start || "").slice(5)} → ${(r.period.end || "").slice(5)}` : (r.date || "");
+    return `<a class="glass card hoverable" href="#/reports/${id}" data-nav>
+      <div class="row" style="justify-content:space-between">
+        <span class="badge ${kind === "daily" ? "acc" : ""}">${kindLabel}${kind !== "daily" && r.key ? " · " + ui.esc(r.key) : ""}</span>
+        <span class="mono kv">${r.headline_i18n ? "🌐 " : ""}${ui.esc(when)}</span>
+      </div>
+      <div style="font-size:14.5px;font-weight:600;margin:8px 0 6px">${ui.esc(loc(r.headline_i18n) || r.headline || i18n.t("reports.title"))}</div>
+      ${loc(r.intro) ? `<div class="kv" style="display:block;line-height:1.6">${ui.esc(String(loc(r.intro)).slice(0, 150))}…</div>` : ""}
+      <div class="event-meta" style="margin-top:10px">
+        <span class="kv">📄 ${(r.stats || {}).documents || 0}</span>
+        <span class="kv">🧩 ${(r.stats || {}).events || 0}</span>
+        <span class="kv">📡 ${(r.stats || {}).sources || 0}</span>
+      </div>
+    </a>`;
   }
 
   async function renderList(el) {
     el.innerHTML = `<div class="stack">${ui.skeletons(3)}</div>`;
-    const idx = await api.reports();
-    const list = (idx && idx.reports) || [];
+    const idx = (await api.reports()) || {};
+    const daily = idx.reports || [];
+    const weekly = idx.weekly || [];
+    const monthly = idx.monthly || [];
+    const label = (zh, en, ja) => (i18n.lang === "en" ? en : i18n.lang === "ja" ? ja : zh);
+    const group = (title, list, kind) => (!list.length ? "" : `
+      <section class="section">
+        ${ui.sectionHead(title, String(list.length))}
+        <div class="grid cols-3">${list.map((r) => reportCard(r, kind)).join("")}</div>
+      </section>`);
+
     el.innerHTML = `<section class="fade-in">
-      ${ui.sectionHead(i18n.t("reports.title"), `${i18n.t("reports.sub")} · ${list.length}`)}
-      <div class="grid cols-3">
-        ${list.map((r) => `<a class="glass card hoverable" href="#/reports/${r.date}" data-nav>
-          <div class="row" style="justify-content:space-between">
-            <span class="badge acc">${ui.esc(r.type || "daily")}</span>
-            <span class="mono kv">${r.headline_i18n ? "🌐 " : ""}${ui.esc(r.date)}</span>
-          </div>
-          <div style="font-size:14.5px;font-weight:600;margin:8px 0 6px">${ui.esc(loc(r.headline_i18n) || r.headline || i18n.t("reports.title"))}</div>
-          ${loc(r.intro) ? `<div class="kv" style="display:block;line-height:1.6">${ui.esc(String(loc(r.intro)).slice(0, 150))}…</div>` : ""}
-          <div class="event-meta" style="margin-top:10px">
-            <span class="kv">📄 ${(r.stats || {}).documents || 0}</span>
-            <span class="kv">🧩 ${(r.stats || {}).events || 0}</span>
-            <span class="kv">📡 ${(r.stats || {}).sources || 0}</span>
-          </div>
-        </a>`).join("") || ui.emptyState()}
-      </div>
+      ${ui.sectionHead(i18n.t("reports.title"), i18n.t("reports.sub"))}
+      <div style="margin-bottom:18px">${langSwitch()}</div>
+      ${group(label("周报", "Weekly Reports", "週報"), weekly, "weekly")}
+      ${group(label("月报", "Monthly Reports", "月報"), monthly, "monthly")}
+      ${group(label("日报", "Daily Reports", "日報"), daily, "daily")}
     </section>`;
+
+    el.querySelectorAll("[data-rlang]").forEach((b) => b.addEventListener("click", () => {
+      setReportLang(b.dataset.rlang);
+      renderList(el);
+    }));
   }
 
   window.GECKO.views.reports = {

@@ -66,7 +66,7 @@
       <div class="grid dashboard" style="margin-top:24px">
         <div class="stack" style="gap:30px">
           <section class="section fade-in">
-            ${ui.sectionHead(i18n.t("sec.headlines"), i18n.t("sec.headlines.sub"), "#/reports", i18n.t("nav.reports"))}
+            ${ui.sectionHead(i18n.t("sec.headlines"), i18n.t("sec.headlines.sub"), "#/reports", i18n.t("common.more"))}
             <div class="grid cols-2">${headlines.map((e) => ui.eventCard(e)).join("") || ui.emptyState()}</div>
           </section>
           <section class="section fade-in">
@@ -76,7 +76,7 @@
         </div>
         <div class="stack" style="gap:22px">
           <section class="glass card fade-in" style="padding:18px">
-            ${ui.sectionHead(i18n.t("sec.trend_radar"), "", "#/trends", i18n.t("nav.trends"))}
+            ${ui.sectionHead(i18n.t("sec.trend_radar"), "", "#/trends", i18n.t("common.more"))}
             <div class="stack" style="gap:2px">${trendRadarHtml(trends)}</div>
           </section>
           <section class="glass card fade-in" style="padding:18px">

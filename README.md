@@ -34,7 +34,11 @@
 
 | 开源项目中心 |
 |---|
-| ![开源](images/screenshots/projects.png) |
+| ![开源](images/screenshots/projects.png) | ![周报](images/screenshots/weekly.png) |
+
+| | |
+|---|---|
+| ![收藏](images/screenshots/favorites.png) | ![阅读设置](images/screenshots/settings.png) |
 
 ---
 
@@ -118,6 +122,23 @@ Confidence:   0.94     Status: corroborated（多来源佐证）
 
 基于本地知识库（事件 + 文档 + 实体 + 时间线）的检索问答，答案**必带引用**；
 配置 LLM API Key 后可生成完整综述。深度研究模式输出跨来源证据简报。
+
+### 9. 日报 · 周报 · 月报
+
+| 期次 | 内容 | 更新 |
+|---|---|---|
+| **日报** | 当日要闻、事件时间线、分节情报、Claim/Evidence | 每次管线运行 |
+| **周报** | 近 7 天要闻汇编、按天归集的事件时间线、趋势回顾、分类统计 | 每次管线运行滚动更新 |
+| **月报** | 近 30 天汇编，结构与周报一致 | 每次管线运行滚动更新 |
+
+三期报告均为**中英日三语**，URL 可直接分享（`#/reports/2026-10-18`、`#/reports/weekly-2026-W42`、`#/reports/monthly-2026-10`）。
+
+### 10. 收藏与阅读设置（AIHOT 式体验）
+
+- **收藏**：任意事件卡右上角 ☆ 一键收藏，`#/favorites` 集中查看
+- **阅读设置**：字号（小/中/大）· 字体（无衬线/衬线/等宽）· 显示密度（舒适/紧凑）
+- **数据自主**：收藏与设置只存在本机 `localStorage`，可**导出 / 导入 JSON** 备份迁移，不经过任何服务器
+- **订阅**：`data/feed.xml`（事件级 RSS）、`data/reports/index.json`（报告索引）
 
 ---
 

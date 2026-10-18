@@ -119,6 +119,7 @@
     "/research": "research", "/models": "models", "/projects": "projects",
     "/organizations": "organizations", "/benchmarks": "benchmarks",
     "/sources": "sources", "/about": "about",
+    "/favorites": "favorites", "/settings": "settings",
     "/reports": "reports", "/ask": "ask", "/deep-research": "deep",
     "/search": "search",
   };
@@ -162,6 +163,8 @@
     search: () => window.GECKO.views.searchView,
     event: () => window.GECKO.views.detail,
     entity: () => window.GECKO.views.detail,
+    favorites: () => window.GECKO.views.favorites,
+    settings: () => window.GECKO.views.settings,
   };
 
   let navToken = 0;
@@ -192,6 +195,23 @@
       console.error(err);
       if (token === navToken) viewEl.innerHTML = `<div class="empty">${ui.esc(i18n.t("common.fetch_error"))}</div>`;
     }
+  }
+
+  /* ---------------- 收藏（全局委托，避免卡片重复绑定） ---------------- */
+  function initFavorites() {
+    document.addEventListener("click", (e) => {
+      const btn = e.target.closest("[data-fav]");
+      if (!btn || !window.GECKO.prefs) return;
+      e.preventDefault();
+      e.stopPropagation();
+      const on = window.GECKO.prefs.toggleFav(btn.dataset.fav);
+      btn.classList.toggle("on", on);
+      btn.textContent = on ? "★" : "☆";
+      btn.animate(
+        [{ transform: "scale(1)" }, { transform: "scale(1.45)" }, { transform: "scale(1)" }],
+        { duration: 280, easing: "cubic-bezier(.22,1,.36,1)" }
+      );
+    });
   }
 
   /* ---------------- 全局搜索 ---------------- */
@@ -308,6 +328,7 @@
     initTheme();
     initLang();
     initSearch();
+    initFavorites();
     initMobileNav();
     initFooter();
     i18n.apply();

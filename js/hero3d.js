@@ -39,14 +39,14 @@ async function init(container, canvas) {
   camera.position.set(0, 0.15, 4.1);
 
   /* ---------- 光照 ---------- */
-  scene.add(new THREE.AmbientLight(0x9ff5d0, 0.55));
-  const key = new THREE.PointLight(0x34d399, 26, 12);
+  scene.add(new THREE.AmbientLight(0xdfe8f2, 0.72));
+  const key = new THREE.PointLight(0xffffff, 32, 13);
   key.position.set(2.4, 2.0, 2.6);
   scene.add(key);
-  const rim = new THREE.PointLight(0x22d3ee, 18, 12);
+  const rim = new THREE.PointLight(0xbfe9dd, 18, 12);
   rim.position.set(-2.6, -1.4, 1.8);
   scene.add(rim);
-  const back = new THREE.PointLight(0xa78bfa, 12, 14);
+  const back = new THREE.PointLight(0x9fb4c9, 14, 14);
   back.position.set(0, 0.6, -3.0);
   scene.add(back);
 
@@ -58,9 +58,9 @@ async function init(container, canvas) {
 
   const ballGeo = new THREE.SphereGeometry(0.52, 64, 64);
   const ballMat = new THREE.MeshPhysicalMaterial({
-    color: 0x07231b, roughness: 0.22, metalness: 0.1,
-    clearcoat: 1.0, clearcoatRoughness: 0.15,
-    emissive: 0x0c3f2e, emissiveIntensity: 0.85,
+    color: 0x0a0c0e, roughness: 0.16, metalness: 0.22,
+    clearcoat: 1.0, clearcoatRoughness: 0.1,
+    emissive: 0x0e2620, emissiveIntensity: 0.55,
   });
   const ball = new THREE.Mesh(ballGeo, ballMat);
   ball.scale.set(1.02, 0.94, 1.0);
@@ -68,7 +68,7 @@ async function init(container, canvas) {
 
   // 虹膜环
   const irisMat = new THREE.MeshStandardMaterial({
-    color: 0x0b3a2b, emissive: 0x1ce8a8, emissiveIntensity: 1.6, roughness: 0.35, metalness: 0.2,
+    color: 0x10161a, emissive: 0xdfeae7, emissiveIntensity: 1.15, roughness: 0.3, metalness: 0.35,
   });
   const iris = new THREE.Mesh(new THREE.TorusGeometry(0.30, 0.028, 24, 96), irisMat);
   iris.rotation.x = Math.PI / 2;
@@ -77,9 +77,9 @@ async function init(container, canvas) {
 
   // 竖瞳（垂直拉伸的黑色胶囊）
   const pupil = new THREE.Mesh(
-    new THREE.CapsuleGeometry(0.052, 0.30, 12, 24),
-    new THREE.MeshStandardMaterial({ color: 0x020604, roughness: 0.15, metalness: 0.4,
-      emissive: 0x03150f, emissiveIntensity: 1.2 })
+    new THREE.CapsuleGeometry(0.044, 0.42, 14, 28),
+    new THREE.MeshStandardMaterial({ color: 0x010203, roughness: 0.12, metalness: 0.5,
+      emissive: 0x061613, emissiveIntensity: 0.9 })
   );
   pupil.position.set(0, 0, 0.47);
   eye.add(pupil);
@@ -99,9 +99,9 @@ async function init(container, canvas) {
     c.width = c.height = 256;
     const g = c.getContext("2d");
     const rad = g.createRadialGradient(128, 128, 0, 128, 128, 128);
-    rad.addColorStop(0, "rgba(52,211,153,0.75)");
-    rad.addColorStop(0.35, "rgba(34,211,238,0.28)");
-    rad.addColorStop(1, "rgba(52,211,153,0)");
+    rad.addColorStop(0, "rgba(255,255,255,0.72)");
+    rad.addColorStop(0.35, "rgba(46,230,166,0.22)");
+    rad.addColorStop(1, "rgba(255,255,255,0)");
     g.fillStyle = rad;
     g.fillRect(0, 0, 256, 256);
     return new THREE.CanvasTexture(c);
@@ -116,8 +116,8 @@ async function init(container, canvas) {
   root.add(eye);
 
   /* ---------- 环绕轨道环 ---------- */
-  const ringMat = new THREE.MeshBasicMaterial({ color: 0x34d399, transparent: true, opacity: 0.35 });
-  const ringMat2 = new THREE.MeshBasicMaterial({ color: 0x22d3ee, transparent: true, opacity: 0.28 });
+  const ringMat = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.30 });
+  const ringMat2 = new THREE.MeshBasicMaterial({ color: 0x9fb4c9, transparent: true, opacity: 0.24 });
   const ring1 = new THREE.Mesh(new THREE.TorusGeometry(1.02, 0.006, 8, 160), ringMat);
   ring1.rotation.set(1.15, 0.35, 0);
   const ring2 = new THREE.Mesh(new THREE.TorusGeometry(1.30, 0.005, 8, 160), ringMat2);
@@ -137,7 +137,7 @@ async function init(container, canvas) {
   }
   const nodeGeo = new THREE.BufferGeometry().setFromPoints(pts);
   const nodeMat = new THREE.PointsMaterial({
-    size: 0.028, color: 0x7df0c8, transparent: true, opacity: 0.85,
+    size: 0.026, color: 0xffffff, transparent: true, opacity: 0.78,
     blending: THREE.AdditiveBlending, depthWrite: false, sizeAttenuation: true,
   });
   const nodes = new THREE.Points(nodeGeo, nodeMat);
@@ -154,7 +154,7 @@ async function init(container, canvas) {
     }
   }
   const lineGeo = new THREE.BufferGeometry().setFromPoints(edges);
-  const lineMat = new THREE.LineBasicMaterial({ color: 0x2ec98f, transparent: true, opacity: 0.14,
+  const lineMat = new THREE.LineBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.11,
     blending: THREE.AdditiveBlending, depthWrite: false });
   const lines = new THREE.LineSegments(lineGeo, lineMat);
   lines.position.y = 0.14;
@@ -171,7 +171,7 @@ async function init(container, canvas) {
   const dustGeo = new THREE.BufferGeometry();
   dustGeo.setAttribute("position", new THREE.BufferAttribute(dustPos, 3));
   const dust = new THREE.Points(dustGeo, new THREE.PointsMaterial({
-    size: 0.02, color: 0x9ef7d4, transparent: true, opacity: 0.5,
+    size: 0.018, color: 0xffffff, transparent: true, opacity: 0.42,
     blending: THREE.AdditiveBlending, depthWrite: false,
   }));
   scene.add(dust);

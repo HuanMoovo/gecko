@@ -289,6 +289,42 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
     store.save_reports_index({"reports": entries[:400], "updated_at": rep["generated_at"]})
     log(f"report: {today} ({len(rep['headlines'])} headlines, {len(rep['claims'])} claims)")
 
+    # ---------- 10b. 周报 / 月报（从日报与事件汇编） ----------
+    try:
+        weekly = report_mod.build_period("weekly", load_all_days(7), trends, prev_trends)
+        store.write_json(os.path.join(store.REPORTS, f"weekly-{weekly['key']}.json"), weekly)
+        monthly = report_mod.build_period("monthly", load_all_days(30), trends, prev_trends)
+        store.write_json(os.path.join(store.REPORTS, f"monthly-{monthly['key']}.json"), monthly)
+        log(f"period reports: {weekly['key']} / {monthly['key']}")
+    except Exception as e:  # noqa: BLE001
+        log(f"period reports failed: {e}")
+
+    def _period_index(kind: str) -> list[dict]:
+        out = []
+        for fn in os.listdir(store.REPORTS):
+            if fn.startswith(kind + "-") and fn.endswith(".json"):
+                data = store._read_json(os.path.join(store.REPORTS, fn), {}) or {}
+                if not data:
+                    continue
+                intro = data.get("intro")
+                out.append({
+                    "id": data.get("id"), "key": data.get("key"), "type": kind,
+                    "period": data.get("period"),
+                    "stats": data.get("stats", {}),
+                    "headline": ((data.get("headlines") or [{}])[0] or {}).get("title", ""),
+                    "intro": {k: (v or "")[:160] for k, v in intro.items()} if isinstance(intro, dict) else "",
+                    "generated_at": data.get("generated_at"),
+                })
+        out.sort(key=lambda x: x.get("key") or "", reverse=True)
+        return out
+
+    store.save_reports_index({
+        "reports": entries[:400],
+        "weekly": _period_index("weekly")[:52],
+        "monthly": _period_index("monthly")[:24],
+        "updated_at": rep["generated_at"],
+    })
+
     # ---------- 11. 索引 ----------
     dates = store.available_dates()
     all_docs_n, all_events_n = 0, 0
@@ -300,7 +336,7 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
         for doc in d.get("documents", []):
             cat = doc.get("category") or "industry"
             cat_counts[cat] = cat_counts.get(cat, 0) + 1
-    source_health = []
+    source_health: list[dict] = []
     for key, cfg in C.SOURCES.items():
         h = health.get(key, {})
         status = "ok" if h and h.get("status") == "ok" else ("error" if h else "idle")
@@ -309,6 +345,8 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
             "status": status, "count": h.get("count", 0), "error": h.get("error"),
             "latency_ms": h.get("latency_ms"),
         })
+    # 抓取次数为空的运行（如 --report-only）回退用当日文档来源数
+    ok_sources = len([s for s in source_health if s["status"] == "ok"])
     index = {
         "updated_at": report_mod.iso(report_mod.now_utc()),
         "brand": C.BRAND,
@@ -319,7 +357,8 @@ def run(report_only: bool = False, trend_days: int = TREND_WINDOW_DAYS, fetch_da
             "events_total": all_events_n,
             "documents_today": len(today_payload.get("documents", [])) if not report_only else
                                len((store.load_day(today) or {}).get("documents", [])),
-            "sources": len([s for s in source_health if s["status"] == "ok"]),
+            "sources": ok_sources or len({x.get("source") for x in
+                                              (store.load_day(today) or {}).get("documents", [])}),
             "category_distribution": cat_counts,
             "trend_topics": [{"topic": t["topic"], "label": t["label"], "icon": t["icon"],
                               "score": t["score"], "direction": t["direction"]}

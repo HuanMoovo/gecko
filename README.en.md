@@ -147,6 +147,14 @@ All three editions are **Chinese / English / Japanese** and directly shareable
 - **Yours alone** — favorites and settings live in `localStorage` only, exportable/importable as JSON, never sent to a server
 - **Feeds** — `data/feed.xml` (event-level RSS), `data/reports/index.json` (report index)
 
+### 11. Heat engine & topic radar
+
+- **HeatScore** — computed per event, not per article: ten posts from one outlet count once, fresher coverage weighs more (18h half-life), first-party sources boosted
+- **Heat states** — surging / rising / active / cooling instead of raw recency
+- **Topic radar** — auto-grouped into 10 directions, 18 organizations and 6 content formats, each with scale, heat, trend line and key events
+- **Ranking** — home headlines and the feed default to `heat × 3 + importance × 2 + sources`
+- **RSS** — `data/feed.xml` (all, by heat), `data/feed-top.xml` (curated: heat ≥ 3 and multi-source)
+
 ---
 
 ## 🏗 Architecture

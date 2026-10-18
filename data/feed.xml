@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 04:23:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 08:27:06 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
@@ -30,6 +30,14 @@
 <pubDate>Sat, 17 Oct 2026 19:22:52 +0000</pubDate>
 <category>industry</category>
 <description>来源：openai_blog — 原文：https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself</description>
+</item>
+<item>
+<title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a4e161bd466</link>
+<guid isPermaLink="false">evt_0a4e161bd466</guid>
+<pubDate>Sun, 18 Oct 2026 06:50:36 +0000</pubDate>
+<category>industry</category>
+<description>来源：reddit_ml · hackernews — 原文：https://api-docs.deepseek.com/guides/search/</description>
 </item>
 <item>
 <title>What is wrong with AI writing - ICLR edition [D]</title>
@@ -104,12 +112,12 @@
 <description>Hugging Face 模型 · model · 下载 12,410 · 收藏 97 — 来源：huggingface — 原文：https://huggingface.co/lodestones/MOSS-Image-SFT-8-steps-dmd</description>
 </item>
 <item>
-<title>突发！DeepSeek新模型发布，超级性价比斩杀一切</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a4e161bd466</link>
-<guid isPermaLink="false">evt_0a4e161bd466</guid>
-<pubDate>Sat, 17 Oct 2026 12:21:09 +0000</pubDate>
-<category>industry</category>
-<description>新版本V4.1-Flash-1017，还开放了自研搜索API — 来源：reddit_ml — 原文：https://www.qbitai.com/2026/10/504067.html</description>
+<title>GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_df762d7be4fa</link>
+<guid isPermaLink="false">evt_df762d7be4fa</guid>
+<pubDate>Sun, 18 Oct 2026 08:23:02 +0000</pubDate>
+<category>foundation_models</category>
+<description>I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology. Setup: pretrained GPT-2 small (124M), NVIDIA A40, fp32 with TF32 off, batch size 1, greedy decoding. Timings are bracketed by torch.cuda.synchronize(), after warmup, using the median of five runs per context length. Correctness: maximum absolute logit difference versus Hugging Face was about 6.1e-5; cached and uncached greedy generation matched  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/</description>
 </item>
 <item>
 <title>Meta removes language that may have allowed it to scrape news sites</title>
@@ -120,6 +128,14 @@
 <description>After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</description>
 </item>
 <item>
+<title>Built a search engine for debugging which is not a wrapper [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_580af5cb62a9</link>
+<guid isPermaLink="false">evt_580af5cb62a9</guid>
+<pubDate>Sun, 18 Oct 2026 05:18:51 +0000</pubDate>
+<category>foundation_models</category>
+<description>TLDR: I built a search engine that reads a bug report (or lets you define it) and points to the exact file (93%) and to the exact function (79.4%) you need to fix. Hey everyone, I recently made a new project while trying to get into RAG and automation. Odin is more than a search engine, all you have to do is paste a public repo URL and link the issue or describe the bug yourself and it downloads, parses and ranks the functions based on the mentioned bug. Why its different than any LLM: It runs mostly in your browser: It uses Tree-sitter (via WebAssembly) and small local models (via WebGPU) so  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1x8uwbg/built_a_search_engine_for_debugging_which_is_not/</description>
+</item>
+<item>
 <title>genkit-ai/genkit — Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_c39031477f53</link>
 <guid isPermaLink="false">evt_c39031477f53</guid>
@@ -128,20 +144,20 @@
 <description>Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google · topics: agents, ai, embedders, genkit, llm, multimodal · ⭐ 6,528 · TypeScript — 来源：hackernews — 原文：https://github.com/genkit-ai/genkit</description>
 </item>
 <item>
+<title>Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d3c35db34ec3</link>
+<guid isPermaLink="false">evt_d3c35db34ec3</guid>
+<pubDate>Sun, 18 Oct 2026 04:33:49 +0000</pubDate>
+<category>agents</category>
+<description>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&amp;#x27;ll throw up a questionnaire that checks if you understand how the code you&amp;#x27;re pushing works. — 来源：hackernews — 原文：https://sphinx-six-theta.vercel.app/</description>
+</item>
+<item>
 <title>Websites are closing their doors to AI agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3744c8a0ebde</link>
 <guid isPermaLink="false">evt_3744c8a0ebde</guid>
 <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
 <category>agents</category>
 <description>Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</description>
-</item>
-<item>
-<title>清华开源！智能体操作系统任务成本降83%，AI记忆可查可改</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4fe2ff3673b9</link>
-<guid isPermaLink="false">evt_4fe2ff3673b9</guid>
-<pubDate>Sat, 17 Oct 2026 12:10:35 +0000</pubDate>
-<category>agents</category>
-<description>整套系统原生支持MCP — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/503935.html</description>
 </item>
 <item>
 <title>智谱新模型，懂法方面全球第一了</title>
@@ -158,6 +174,14 @@
 <pubDate>Fri, 16 Oct 2026 15:23:10 +0000</pubDate>
 <category>agents</category>
 <description>Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernetes-native control over distributed GPU infrastructure. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/</description>
+</item>
+<item>
+<title>清华开源！智能体操作系统任务成本降83%，AI记忆可查可改</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4fe2ff3673b9</link>
+<guid isPermaLink="false">evt_4fe2ff3673b9</guid>
+<pubDate>Sat, 17 Oct 2026 12:10:35 +0000</pubDate>
+<category>agents</category>
+<description>整套系统原生支持MCP — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/503935.html</description>
 </item>
 <item>
 <title>Comfy-Org/MOSS-Image</title>
@@ -208,20 +232,20 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 814 · 收藏 148 — 来源：aws_ml · huggingface — 原文：https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B-NVFP4</description>
 </item>
 <item>
-<title>A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_311fa86942b3</link>
-<guid isPermaLink="false">evt_311fa86942b3</guid>
-<pubDate>Fri, 16 Oct 2026 22:09:10 +0000</pubDate>
-<category>infrastructure</category>
-<description>For the past 4 weeks I’ve been training models of the Drosophila brain to control a car in a drag racing simulator. To make the training watchable, I turned it into a racing league and stream it live on Twitch. How it works Each “pilot” is a fly brain model of ~2,400 neurons [based on: FlyWire connectome / own architecture / spiking network?] Training: [RL algorithm / evolutionary strategy / plasticity rule], 10000000+ episodes so far The best pilots produce “offspring”: the next generation inherits their weights, so the league has dynasties (gen 2, child of the season champion, etc.) Every Gr — 来源：reddit_ml · techcrunch_ai — 原文：https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/</description>
-</item>
-<item>
 <title>Show HN: Gemini 4 Argon plays StarCraft</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_25432b6b093a</link>
 <guid isPermaLink="false">evt_25432b6b093a</guid>
 <pubDate>Fri, 16 Oct 2026 14:18:44 +0000</pubDate>
 <category>foundation_models</category>
 <description>I&amp;#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse — 来源：deepmind_blog · hackernews · hn_frontpage · simonwillison · verge_ai — 原文：https://starskirmish.com/bench/v0-2/</description>
+</item>
+<item>
+<title>A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_311fa86942b3</link>
+<guid isPermaLink="false">evt_311fa86942b3</guid>
+<pubDate>Fri, 16 Oct 2026 22:09:10 +0000</pubDate>
+<category>infrastructure</category>
+<description>For the past 4 weeks I’ve been training models of the Drosophila brain to control a car in a drag racing simulator. To make the training watchable, I turned it into a racing league and stream it live on Twitch. How it works Each “pilot” is a fly brain model of ~2,400 neurons [based on: FlyWire connectome / own architecture / spiking network?] Training: [RL algorithm / evolutionary strategy / plasticity rule], 10000000+ episodes so far The best pilots produce “offspring”: the next generation inherits their weights, so the league has dynasties (gen 2, child of the season champion, etc.) Every Gr — 来源：reddit_ml · techcrunch_ai — 原文：https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/</description>
 </item>
 <item>
 <title>17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]</title>
@@ -382,30 +406,6 @@
 <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
 <category>infrastructure</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/scaling-indic-pretraining</description>
-</item>
-<item>
-<title>tencent/Hy-Memory-30B-A3B</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3da203190003</link>
-<guid isPermaLink="false">evt_3da203190003</guid>
-<pubDate>Fri, 16 Oct 2026 08:12:51 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 82 — 来源：huggingface — 原文：https://huggingface.co/tencent/Hy-Memory-30B-A3B</description>
-</item>
-<item>
-<title>OpenMOSS-Team/MOSS-Image-SFT</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_17421902b216</link>
-<guid isPermaLink="false">evt_17421902b216</guid>
-<pubDate>Fri, 16 Oct 2026 07:48:22 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-to-image · 下载 54 · 收藏 99 — 来源：huggingface — 原文：https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT</description>
-</item>
-<item>
-<title>web-edit 0.1a2</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bd9cf38076e0</link>
-<guid isPermaLink="false">evt_bd9cf38076e0</guid>
-<pubDate>Sat, 17 Oct 2026 13:16:49 +0000</pubDate>
-<category>open_source</category>
-<description>Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a "copy to clipboard" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the resulting logs into a Gist. Tags: projects , pelican-riding-a-bicycle , deepseek — 来源：simonwillison — 原文：https://simonwillison.net/2026/Oct/17/web-edit/</description>
 </item>
 </channel>
 </rss>

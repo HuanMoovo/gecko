@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 04:23:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 08:27:06 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
@@ -30,6 +30,14 @@
 <pubDate>Sat, 17 Oct 2026 19:22:52 +0000</pubDate>
 <category>industry</category>
 <description>来源：openai_blog — 原文：https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself</description>
+</item>
+<item>
+<title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a4e161bd466</link>
+<guid isPermaLink="false">evt_0a4e161bd466</guid>
+<pubDate>Sun, 18 Oct 2026 06:50:36 +0000</pubDate>
+<category>industry</category>
+<description>来源：reddit_ml · hackernews — 原文：https://api-docs.deepseek.com/guides/search/</description>
 </item>
 <item>
 <title>What is wrong with AI writing - ICLR edition [D]</title>
@@ -86,14 +94,6 @@
 <pubDate>Sun, 18 Oct 2026 01:18:50 +0000</pubDate>
 <category>industry</category>
 <description>Comments — 来源：arxiv — 原文：https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day</description>
-</item>
-<item>
-<title>Claude半小时解开密码学悬案，学界集体走偏20年</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2cece74d3796</link>
-<guid isPermaLink="false">evt_2cece74d3796</guid>
-<pubDate>Sat, 17 Oct 2026 12:06:51 +0000</pubDate>
-<category>foundation_models</category>
-<description>谜底指向时间 — 来源：reddit_ml · simonwillison — 原文：https://www.qbitai.com/2026/10/503910.html</description>
 </item>
 </channel>
 </rss>

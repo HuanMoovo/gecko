@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 03:46:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 03:56:16 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Introducing Reflection Beam: an open-weight model for agentic coding on AWS</title>
@@ -53,7 +53,7 @@
 <guid isPermaLink="false">evt_13e122947fca</guid>
 <pubDate>Thu, 15 Oct 2026 17:47:39 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 814 · 收藏 148 — 来源：aws_ml · hn_frontpage · huggingface — 原文：https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B-NVFP4</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 814 · 收藏 148 — 来源：aws_ml · huggingface — 原文：https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B-NVFP4</description>
 </item>
 <item>
 <title>Mixture-of-Experts kernel engineering on Amazon SageMaker AI</title>
@@ -173,7 +173,7 @@
 <guid isPermaLink="false">evt_b6bc6eaa3915</guid>
 <pubDate>Wed, 14 Oct 2026 20:35:09 +0000</pubDate>
 <category>research</category>
-<description>A ReAct-style agent accumulates observations, intermediate results, and failed attempts in a single context. As this context grows, stale and off-path information consumes its limited capacity and obscures relevant evidence, making focused reasoning increasingly difficult. We introduce TreeFlex, a framework in which the agent's own policy decides where to search. The agent records each intermediate state, with a short summary, as a node in a search tree maintained by the harness. The policy is a single language model that acts in two roles. In the Reflection role, it has a global view of the t — 来源：latent_space · arxiv — 原文：https://arxiv.org/abs/2610.20334v1</description>
+<description>A ReAct-style agent accumulates observations, intermediate results, and failed attempts in a single context. As this context grows, stale and off-path information consumes its limited capacity and obscures relevant evidence, making focused reasoning increasingly difficult. We introduce TreeFlex, a framework in which the agent's own policy decides where to search. The agent records each intermediate state, with a short summary, as a node in a search tree maintained by the harness. The policy is a single language model that acts in two roles. In the Reflection role, it has a global view of the t — 来源：arxiv · latent_space — 原文：https://arxiv.org/abs/2610.20334v1</description>
 </item>
 <item>
 <title>Learning Individual Scientific Taste with Privileged Hindsight Distillation</title>

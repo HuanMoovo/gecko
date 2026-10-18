@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 18:23:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 22:07:09 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c03de7cac4a</link>
+<guid isPermaLink="false">evt_9c03de7cac4a</guid>
+<pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
+<category>safety</category>
+<description>来源：hn_frontpage · hackernews · techcrunch_ai — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</description>
+</item>
 <item>
 <title>Torvalds use Claude for bottleneck fix, but race discovered</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_18f9fd010555</link>
@@ -16,20 +24,20 @@
 <description>来源：techcrunch_ai · hackernews — 原文：https://thenewstack.io/torvalds-claude-code-kernel/</description>
 </item>
 <item>
+<title>A woman was arrested in Philly for blocking a delivery robot</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c502e2a015ed</link>
+<guid isPermaLink="false">evt_c502e2a015ed</guid>
+<pubDate>Sun, 18 Oct 2026 18:28:10 +0000</pubDate>
+<category>robotics</category>
+<description>Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […] — 来源：arxiv · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</description>
+</item>
+<item>
 <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a3f7cd60d423</link>
 <guid isPermaLink="false">evt_a3f7cd60d423</guid>
 <pubDate>Sat, 17 Oct 2026 21:00:13 +0000</pubDate>
 <category>industry</category>
 <description>NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […] — 来源：arxiv · verge_ai — 原文：https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</description>
-</item>
-<item>
-<title>Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c03de7cac4a</link>
-<guid isPermaLink="false">evt_9c03de7cac4a</guid>
-<pubDate>Sun, 18 Oct 2026 14:30:27 +0000</pubDate>
-<category>safety</category>
-<description>来源：hn_frontpage · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</description>
 </item>
 <item>
 <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
@@ -46,22 +54,6 @@
 <pubDate>Fri, 16 Oct 2026 20:48:16 +0000</pubDate>
 <category>agents</category>
 <description>We'll likely learn more about how this will work at the company's upcoming "AI &amp; Autonomy Day" event in December. — 来源：arxiv · github · hackernews · hn_frontpage · qbitai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/</description>
-</item>
-<item>
-<title>The math that OpenAI keeps for itself</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7d10f0ddfecf</link>
-<guid isPermaLink="false">evt_7d10f0ddfecf</guid>
-<pubDate>Sat, 17 Oct 2026 19:22:52 +0000</pubDate>
-<category>industry</category>
-<description>来源：openai_blog — 原文：https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself</description>
-</item>
-<item>
-<title>DeepSeek search and fetch – $0.75 per 1000 successful requests</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a4e161bd466</link>
-<guid isPermaLink="false">evt_0a4e161bd466</guid>
-<pubDate>Sun, 18 Oct 2026 06:50:36 +0000</pubDate>
-<category>industry</category>
-<description>来源：reddit_ml · hackernews — 原文：https://api-docs.deepseek.com/guides/search/</description>
 </item>
 </channel>
 </rss>

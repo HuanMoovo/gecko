@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 08:27:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 15:10:30 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Dataset] XiaomiMiMo/MiMo-V2.6-RL-oss</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_824d93271330</link>
+<guid isPermaLink="false">evt_824d93271330</guid>
+<pubDate>Sun, 18 Oct 2026 12:41:01 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 172,249 · 收藏 973 — 来源：huggingface — 原文：https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss</description>
+</item>
 <item>
 <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a3f7cd60d423</link>
@@ -14,6 +22,22 @@
 <pubDate>Sat, 17 Oct 2026 21:00:13 +0000</pubDate>
 <category>industry</category>
 <description>NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […] — 来源：arxiv · verge_ai — 原文：https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</description>
+</item>
+<item>
+<title>Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c03de7cac4a</link>
+<guid isPermaLink="false">evt_9c03de7cac4a</guid>
+<pubDate>Sun, 18 Oct 2026 14:30:27 +0000</pubDate>
+<category>safety</category>
+<description>来源：hn_frontpage · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</description>
+</item>
+<item>
+<title>Alissonerdx/Minimax-H3-ComfyUI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7e629b9d19df</link>
+<guid isPermaLink="false">evt_7e629b9d19df</guid>
+<pubDate>Sun, 18 Oct 2026 02:36:33 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · model · 下载 144,698 · 收藏 456 — 来源：huggingface — 原文：https://huggingface.co/Alissonerdx/Minimax-H3-ComfyUI</description>
 </item>
 <item>
 <title>AI agents are coming to Rivian’s cars</title>
@@ -48,20 +72,20 @@
 <description>I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted placebo at none of three, with gains up to about 1.5 not excluded My question for the community is this: how do we call out this type of bad writing? The reason I think it's tricky is that "clearly AI writing" is not the right way to critique - AI "editing" of writing is allowed. We have to be able to — 来源：techcrunch_ai — 原文：https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/</description>
 </item>
 <item>
-<title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c03de7cac4a</link>
-<guid isPermaLink="false">evt_9c03de7cac4a</guid>
-<pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
-<category>industry</category>
-<description>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year. — 来源：hn_frontpage — 原文：https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</description>
-</item>
-<item>
 <title>deepseek-ai/DeepSeek-V4.1-Flash-1017</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_19819179eb22</link>
 <guid isPermaLink="false">evt_19819179eb22</guid>
 <pubDate>Sat, 17 Oct 2026 08:37:46 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · image-text-to-text · 下载 0 · 收藏 630 — 来源：github — 原文：https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</description>
+</item>
+<item>
+<title>[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_39ebab2a486f</link>
+<guid isPermaLink="false">evt_39ebab2a486f</guid>
+<pubDate>Sun, 18 Oct 2026 11:49:21 +0000</pubDate>
+<category>research</category>
+<description>asmsense is a dataset and a small model (Qwen3-8B + LoRA) for naming and describing functions in stripped binaries. I compiled permissively licensed C projects myself, so every function has its real name and source. Right now it has 228,177 functions from 341 projects, compiled at -O0 through -Os, with English and Turkish descriptions (Chinese is planned). What’s missing is listed step by step on one page: https://asmsense.luxurycashew.com/data/ Code and data: https://github.com/krxi/asmsense In short: other architectures (ARM64, RISC-V, MIPS), GCC/ELF builds (so far everything is clang/Mach-O — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/</description>
 </item>
 <item>
 <title>Meta removes language that raised scraping and AI training concerns</title>
@@ -120,6 +144,14 @@
 <description>I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology. Setup: pretrained GPT-2 small (124M), NVIDIA A40, fp32 with TF32 off, batch size 1, greedy decoding. Timings are bracketed by torch.cuda.synchronize(), after warmup, using the median of five runs per context length. Correctness: maximum absolute logit difference versus Hugging Face was about 6.1e-5; cached and uncached greedy generation matched  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/</description>
 </item>
 <item>
+<title>America's $10T AI infrastructure boom is starting to fray</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b37877df8bb</link>
+<guid isPermaLink="false">evt_0b37877df8bb</guid>
+<pubDate>Sun, 18 Oct 2026 06:46:50 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c</description>
+</item>
+<item>
 <title>Meta removes language that may have allowed it to scrape news sites</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e874f1181e68</link>
 <guid isPermaLink="false">evt_e874f1181e68</guid>
@@ -160,14 +192,6 @@
 <description>Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</description>
 </item>
 <item>
-<title>智谱新模型，懂法方面全球第一了</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_646f744fb164</link>
-<guid isPermaLink="false">evt_646f744fb164</guid>
-<pubDate>Sat, 17 Oct 2026 12:13:45 +0000</pubDate>
-<category>industry</category>
-<description>AI的风还是刮到了法律圈 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/503965.html</description>
-</item>
-<item>
 <title>Introducing Reflection Beam: an open-weight model for agentic coding on AWS</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7bd3e3f63e0f</link>
 <guid isPermaLink="false">evt_7bd3e3f63e0f</guid>
@@ -182,6 +206,14 @@
 <pubDate>Sat, 17 Oct 2026 12:10:35 +0000</pubDate>
 <category>agents</category>
 <description>整套系统原生支持MCP — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/503935.html</description>
+</item>
+<item>
+<title>智谱新模型，懂法方面全球第一了</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_646f744fb164</link>
+<guid isPermaLink="false">evt_646f744fb164</guid>
+<pubDate>Sat, 17 Oct 2026 12:13:45 +0000</pubDate>
+<category>industry</category>
+<description>AI的风还是刮到了法律圈 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/503965.html</description>
 </item>
 <item>
 <title>Comfy-Org/MOSS-Image</title>
@@ -280,20 +312,20 @@
 <description>来源：hackernews — 原文：https://forgemesh.io/blog/pay-per-crawl-every-stack</description>
 </item>
 <item>
-<title>Data centers account for a third of Dutch electricity grid waiting list</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_74a90620097b</link>
-<guid isPermaLink="false">evt_74a90620097b</guid>
-<pubDate>Sat, 17 Oct 2026 17:52:11 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://nltimes.nl/2026/10/16/data-centers-account-nearly-third-dutch-electricity-grid-waiting-list</description>
-</item>
-<item>
 <title>Anthropic says its AI model submitted a false case tip to Philadelphia police</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_68be334cdfbb</link>
 <guid isPermaLink="false">evt_68be334cdfbb</guid>
 <pubDate>Sat, 17 Oct 2026 17:48:41 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213</description>
+</item>
+<item>
+<title>Data centers account for a third of Dutch electricity grid waiting list</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_74a90620097b</link>
+<guid isPermaLink="false">evt_74a90620097b</guid>
+<pubDate>Sat, 17 Oct 2026 17:52:11 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://nltimes.nl/2026/10/16/data-centers-account-nearly-third-dutch-electricity-grid-waiting-list</description>
 </item>
 <item>
 <title>US air traffic controllers to get 2.8% pay raise under FAA deal</title>
@@ -374,38 +406,6 @@
 <pubDate>Thu, 15 Oct 2026 16:12:13 +0000</pubDate>
 <category>industry</category>
 <description>If you have a third.level.name domain, it&amp;#x27;ll get permanently expunged next year. Have you successfully taken steps to migrate away? Did you move to a standard .com domain, or are you taking your chances with another .tld?&lt;p&gt;Personally, I&amp;#x27;m stuck in Microsoft hell because Azure admin emails cannot be changed and support is both uncaring and powerless. — 来源：arxiv · hackernews — 原文：https://news.ycombinator.com/item?id=50089577</description>
-</item>
-<item>
-<title>EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa7c4ec2fa94</link>
-<guid isPermaLink="false">evt_aa7c4ec2fa94</guid>
-<pubDate>Sat, 17 Oct 2026 14:48:25 +0000</pubDate>
-<category>foundation_models</category>
-<description>Hello r/MachineLearning , I wanted to share EpochGo , an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data privacy risks: Traditional agentic ML frameworks rely heavily on cloud APIs (GPT-4), creating recurring costs and risking tabular data leakage (especially critical under enterprise compliance and data protection laws like DPDP/GDPR). 2. LLM hallucinations in mathematical reasoning: LLMs are notorious for failing at linear algebra, hyperparameter optimization, and gradient descent calculations whe — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/</description>
-</item>
-<item>
-<title>90% of US working hours are spent on tasks not covered well by AI benchmarks</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3482f6a12d08</link>
-<guid isPermaLink="false">evt_3482f6a12d08</guid>
-<pubDate>Fri, 16 Oct 2026 17:08:38 +0000</pubDate>
-<category>research</category>
-<description>Comments — 来源：arxiv · hackernews · hn_frontpage — 原文：https://www.mercor.com/research/labor-index/benchmark-map/</description>
-</item>
-<item>
-<title>[Dataset] DeepLethe/FDE-Gym</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c9c6831bd225</link>
-<guid isPermaLink="false">evt_c9c6831bd225</guid>
-<pubDate>Fri, 16 Oct 2026 09:05:33 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 64 · 收藏 41 — 来源：huggingface — 原文：https://huggingface.co/datasets/DeepLethe/FDE-Gym</description>
-</item>
-<item>
-<title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ba4e7337aba2</link>
-<guid isPermaLink="false">evt_ba4e7337aba2</guid>
-<pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-<category>infrastructure</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/scaling-indic-pretraining</description>
 </item>
 </channel>
 </rss>

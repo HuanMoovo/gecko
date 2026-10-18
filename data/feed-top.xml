@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 08:27:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 15:10:30 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
@@ -14,6 +14,14 @@
 <pubDate>Sat, 17 Oct 2026 21:00:13 +0000</pubDate>
 <category>industry</category>
 <description>NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […] — 来源：arxiv · verge_ai — 原文：https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</description>
+</item>
+<item>
+<title>Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c03de7cac4a</link>
+<guid isPermaLink="false">evt_9c03de7cac4a</guid>
+<pubDate>Sun, 18 Oct 2026 14:30:27 +0000</pubDate>
+<category>safety</category>
+<description>来源：hn_frontpage · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</description>
 </item>
 <item>
 <title>AI agents are coming to Rivian’s cars</title>
@@ -46,54 +54,6 @@
 <pubDate>Sat, 17 Oct 2026 23:40:03 +0000</pubDate>
 <category>foundation_models</category>
 <description>I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted placebo at none of three, with gains up to about 1.5 not excluded My question for the community is this: how do we call out this type of bad writing? The reason I think it's tricky is that "clearly AI writing" is not the right way to critique - AI "editing" of writing is allowed. We have to be able to — 来源：techcrunch_ai — 原文：https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/</description>
-</item>
-<item>
-<title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c03de7cac4a</link>
-<guid isPermaLink="false">evt_9c03de7cac4a</guid>
-<pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
-<category>industry</category>
-<description>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year. — 来源：hn_frontpage — 原文：https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</description>
-</item>
-<item>
-<title>deepseek-ai/DeepSeek-V4.1-Flash-1017</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_19819179eb22</link>
-<guid isPermaLink="false">evt_19819179eb22</guid>
-<pubDate>Sat, 17 Oct 2026 08:37:46 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 0 · 收藏 630 — 来源：github — 原文：https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</description>
-</item>
-<item>
-<title>Meta removes language that raised scraping and AI training concerns</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_de2a16e55ebd</link>
-<guid isPermaLink="false">evt_de2a16e55ebd</guid>
-<pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
-<category>infrastructure</category>
-<description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. — 来源：arxiv — 原文：https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</description>
-</item>
-<item>
-<title>nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9ff90121ae16</link>
-<guid isPermaLink="false">evt_9ff90121ae16</guid>
-<pubDate>Fri, 16 Oct 2026 23:54:11 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 674 · 收藏 91 — 来源：nvidia_blog · huggingface — 原文：https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16</description>
-</item>
-<item>
-<title>HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_19adbcc5636f</link>
-<guid isPermaLink="false">evt_19adbcc5636f</guid>
-<pubDate>Sun, 18 Oct 2026 02:16:05 +0000</pubDate>
-<category>open_source</category>
-<description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. · topics: ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning · ⭐ 41,581 · Python — 来源：hackernews · qbitai — 原文：https://github.com/HKUDS/DeepTutor</description>
-</item>
-<item>
-<title>Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f3e441865446</link>
-<guid isPermaLink="false">evt_f3e441865446</guid>
-<pubDate>Sun, 18 Oct 2026 01:18:50 +0000</pubDate>
-<category>industry</category>
-<description>Comments — 来源：arxiv — 原文：https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day</description>
 </item>
 </channel>
 </rss>

@@ -50,15 +50,25 @@
     el.innerHTML = `<div class="stack">${ui.skeletons(2)}</div>`;
     const idx = await api.index();
     if (alive && !alive()) return;
-    const [day, trends] = await Promise.all([api.latestDay(), api.trends()]);
+    // 跨天聚合：单日分片可能因清理或抓取中断而稀疏，用最近 3 天兜底
+    const [collected, trends] = await Promise.all([api.collect(3), api.trends()]);
     if (alive && !alive()) return;
 
-    const events = ((day && day.events) || []).slice()
+    let events = (collected.events || []).slice();
+    let docsPool = (collected.docs || []).slice();
+    if (!events.length || !docsPool.length) {
+      const day = await api.latestDay();
+      events = ((day && day.events) || []).slice();
+      docsPool = ((day && day.documents) || []).slice();
+    }
+    const seen = new Set();
+    events = events
+      .filter((e) => (seen.has(e.event_id) ? false : (seen.add(e.event_id), true)))
       .sort((a, b) => (b.importance_score || 0) - (a.importance_score || 0));
     const topEvents = events.filter((e) => (e.source_count || 0) >= 2 || (e.importance_score || 0) > 0.7);
     const headlines = (topEvents.length ? topEvents : events).slice(0, 6);
     const latest = events.slice(0, 12);
-    const docs = ((day && day.documents) || []).slice()
+    const docs = docsPool
       .sort((a, b) => (b.importance_score || 0) - (a.importance_score || 0)).slice(0, 8);
 
     el.innerHTML = `

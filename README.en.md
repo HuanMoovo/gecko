@@ -155,6 +155,14 @@ All three editions are **Chinese / English / Japanese** and directly shareable
 - **Ranking** — home headlines and the feed default to `heat × 3 + importance × 2 + sources`
 - **RSS** — `data/feed.xml` (all, by heat), `data/feed-top.xml` (curated: heat ≥ 3 and multi-source)
 
+### 12. Page map (mirrors AIHOT)
+
+`#/` home · `#/feed` all items · `#/hot` **hot board** (48h, heat trend + peak, participants, published algorithm) · `#/item/<id>` **single item** · `#/topics` **topic radar** (directions / organizations / formats) · `#/daily` `#/weekly` `#/monthly` report entries · `#/event/<id>` event · `#/agent` **agent access** (endpoints + curl + field contract) · `#/favorites` `#/settings` · `#/changelog` `#/terms` `#/privacy`
+
+### 13. Visual: Japanese journal
+
+Pale-blue "morning mist" palette on graph paper. The hero is a journal desk — polaroid cards, a sticky note, ruled paper, tape, stars and dashed curves, each drifting at its own tempo (6.5–21s, disabled under `prefers-reduced-motion`). Cards are paper-like; a dark "blue night" theme ships too.
+
 ---
 
 ## 🏗 Architecture

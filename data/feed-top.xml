@@ -5,8 +5,24 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 09:28:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 18:03:43 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b66237a31927</link>
+<guid isPermaLink="false">evt_b66237a31927</guid>
+<pubDate>Mon, 19 Oct 2026 15:37:09 +0000</pubDate>
+<category>agents</category>
+<description>At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […] — 来源：nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</description>
+</item>
+<item>
+<title>unclecode/crawl4ai — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself,</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_19adbcc5636f</link>
+<guid isPermaLink="false">evt_19adbcc5636f</guid>
+<pubDate>Mon, 19 Oct 2026 16:13:22 +0000</pubDate>
+<category>open_source</category>
+<description>Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. · topics: ai, ai-agents, crawler, data-extraction, llm, markdown · ⭐ 85,810 · Python — 来源：hackernews · qbitai · github · verge_ai · hn_frontpage · techcrunch_ai — 原文：https://github.com/unclecode/crawl4ai</description>
+</item>
 <item>
 <title>Helicone/helicone — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
@@ -40,6 +56,14 @@
 <description>What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to… — 来源：github · reddit_ml · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/</description>
 </item>
 <item>
+<title>dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_19819179eb22</link>
+<guid isPermaLink="false">evt_19819179eb22</guid>
+<pubDate>Mon, 19 Oct 2026 04:41:46 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 1,813 · 收藏 117 — 来源：github · hn_frontpage · huggingface — 原文：https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8</description>
+</item>
+<item>
 <title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_18f9fd010555</link>
 <guid isPermaLink="false">evt_18f9fd010555</guid>
@@ -62,14 +86,6 @@
 <pubDate>Sun, 18 Oct 2026 14:52:05 +0000</pubDate>
 <category>research</category>
 <description>Hugging Face 数据集 · 下载 3 · 收藏 22 — 来源：arxiv · hackernews · huggingface — 原文：https://huggingface.co/datasets/MaziyarPanahi/Jev-RAG-Claim-Verification-130K</description>
-</item>
-<item>
-<title>DeepSeek V4.1 Flash 1017 (Max)</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_19819179eb22</link>
-<guid isPermaLink="false">evt_19819179eb22</guid>
-<pubDate>Mon, 19 Oct 2026 04:41:46 +0000</pubDate>
-<category>industry</category>
-<description>Comments — 来源：github · hn_frontpage — 原文：https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</description>
 </item>
 </channel>
 </rss>

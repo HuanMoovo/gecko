@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 18:03:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 23:14:19 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9ff90121ae16</link>
+<guid isPermaLink="false">evt_9ff90121ae16</guid>
+<pubDate>Mon, 19 Oct 2026 19:27:08 +0000</pubDate>
+<category>industry</category>
+<description>In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive […] — 来源：nvidia_blog · huggingface · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/</description>
+</item>
 <item>
 <title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b66237a31927</link>
@@ -24,6 +32,46 @@
 <description>Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. · topics: ai, ai-agents, crawler, data-extraction, llm, markdown · ⭐ 85,810 · Python — 来源：hackernews · qbitai · github · verge_ai · hn_frontpage · techcrunch_ai — 原文：https://github.com/unclecode/crawl4ai</description>
 </item>
 <item>
+<title>Amazon SageMaker JumpStart: 2026 year-to-date in review</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fa796824301f</link>
+<guid isPermaLink="false">evt_fa796824301f</guid>
+<pubDate>Mon, 19 Oct 2026 21:14:44 +0000</pubDate>
+<category>open_source</category>
+<description>Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration. — 来源：hackernews · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/</description>
+</item>
+<item>
+<title>Advancing Coding in Low-Resource Programming Languages</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_eece3470089f</link>
+<guid isPermaLink="false">evt_eece3470089f</guid>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration. — 来源：github · openai_blog — 原文：https://openai.com/index/low-resource-programming-languages</description>
+</item>
+<item>
+<title>ReactOS reaches major milestone with NTFS install support</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_43409ec21d5a</link>
+<guid isPermaLink="false">evt_43409ec21d5a</guid>
+<pubDate>Mon, 19 Oct 2026 18:30:56 +0000</pubDate>
+<category>industry</category>
+<description>ReactOS gains NTFS install support with new driver. — 来源：hn_frontpage · techcrunch_ai · arstechnica_ai — 原文：https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/</description>
+</item>
+<item>
+<title>AI agents are coming to Rivian’s cars</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3483c93f4f85</link>
+<guid isPermaLink="false">evt_3483c93f4f85</guid>
+<pubDate>Mon, 19 Oct 2026 18:22:47 +0000</pubDate>
+<category>agents</category>
+<description>We'll likely learn more about how this will work at the company's upcoming "AI &amp; Autonomy Day" event in December. — 来源：arxiv · github · hackernews · hn_frontpage · qbitai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/</description>
+</item>
+<item>
+<title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5fae088110e8</link>
+<guid isPermaLink="false">evt_5fae088110e8</guid>
+<pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
+<category>research</category>
+<description>AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […] — 来源：arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</description>
+</item>
+<item>
 <title>Helicone/helicone — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
 <guid isPermaLink="false">evt_011ceac98040</guid>
@@ -32,12 +80,12 @@
 <description>🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 · topics: agent-monitoring, analytics, evaluation, gpt, langchain, large-language-models · ⭐ 6,228 · TypeScript — 来源：github — 原文：https://github.com/Helicone/helicone</description>
 </item>
 <item>
-<title>Michael-A-Kuykendall/shimmy — ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Sing</title>
+<title>bentoml/OpenLLM — Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a0b6e9911cfc</link>
 <guid isPermaLink="false">evt_a0b6e9911cfc</guid>
-<pubDate>Mon, 19 Oct 2026 00:54:34 +0000</pubDate>
-<category>infrastructure</category>
-<description>⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary. · topics: api-server, command-line-tool, developer-tools, gguf, huggingface, huggingface-models · ⭐ 5,983 · Rust — 来源：arxiv · github — 原文：https://github.com/Michael-A-Kuykendall/shimmy</description>
+<pubDate>Mon, 19 Oct 2026 17:07:51 +0000</pubDate>
+<category>foundation_models</category>
+<description>Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. · topics: bentoml, fine-tuning, llama, llama2, llama3-1, llama3-2 · ⭐ 12,560 · Python — 来源：arxiv · github — 原文：https://github.com/bentoml/OpenLLM</description>
 </item>
 <item>
 <title>gpustack/gpustack — A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances.</title>
@@ -64,28 +112,20 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 1,813 · 收藏 117 — 来源：github · hn_frontpage · huggingface — 原文：https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8</description>
 </item>
 <item>
+<title>Agentic Monitoring</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a5bb32320853</link>
+<guid isPermaLink="false">evt_a5bb32320853</guid>
+<pubDate>Mon, 19 Oct 2026 14:52:04 +0000</pubDate>
+<category>agents</category>
+<description>来源：hn_frontpage · arxiv · hackernews — 原文：https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/</description>
+</item>
+<item>
 <title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_18f9fd010555</link>
 <guid isPermaLink="false">evt_18f9fd010555</guid>
 <pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
 <category>foundation_models</category>
 <description>Comments — 来源：techcrunch_ai · hackernews · hn_frontpage — 原文：https://crystl.dev/guides/tmux-for-ai-agents/</description>
-</item>
-<item>
-<title>newton-physics/newton — An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_681cf7fdb09a</link>
-<guid isPermaLink="false">evt_681cf7fdb09a</guid>
-<pubDate>Sun, 18 Oct 2026 20:43:43 +0000</pubDate>
-<category>open_source</category>
-<description>An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. · topics: newton-physics, nvidia-warp, physics-simulation, robotics · ⭐ 5,804 · Python — 来源：arxiv · github — 原文：https://github.com/newton-physics/newton</description>
-</item>
-<item>
-<title>[Dataset] MaziyarPanahi/Jev-RAG-Claim-Verification-130K</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f389b651fddc</link>
-<guid isPermaLink="false">evt_f389b651fddc</guid>
-<pubDate>Sun, 18 Oct 2026 14:52:05 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 3 · 收藏 22 — 来源：arxiv · hackernews · huggingface — 原文：https://huggingface.co/datasets/MaziyarPanahi/Jev-RAG-Claim-Verification-130K</description>
 </item>
 </channel>
 </rss>

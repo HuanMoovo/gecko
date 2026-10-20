@@ -5,15 +5,23 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 23:14:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 02:52:02 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help</title>
+<title>Nvidia Vera's System Architecture: Pushing Bandwidth</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9ff90121ae16</link>
 <guid isPermaLink="false">evt_9ff90121ae16</guid>
 <pubDate>Mon, 19 Oct 2026 19:27:08 +0000</pubDate>
 <category>industry</category>
-<description>In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive […] — 来源：nvidia_blog · huggingface · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/</description>
+<description>来源：nvidia_blog · huggingface · techcrunch_ai · hackernews — 原文：https://chipsandcheese.com/p/nvidia-veras-system-architecture</description>
+</item>
+<item>
+<title>unclecode/crawl4ai — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself,</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_19adbcc5636f</link>
+<guid isPermaLink="false">evt_19adbcc5636f</guid>
+<pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
+<category>open_source</category>
+<description>Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. · topics: ai, ai-agents, crawler, data-extraction, llm, markdown · ⭐ 85,810 · Python — 来源：hackernews · qbitai · github · verge_ai · hn_frontpage · techcrunch_ai — 原文：https://github.com/unclecode/crawl4ai</description>
 </item>
 <item>
 <title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
@@ -24,20 +32,20 @@
 <description>At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […] — 来源：nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</description>
 </item>
 <item>
-<title>unclecode/crawl4ai — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself,</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_19adbcc5636f</link>
-<guid isPermaLink="false">evt_19adbcc5636f</guid>
-<pubDate>Mon, 19 Oct 2026 16:13:22 +0000</pubDate>
-<category>open_source</category>
-<description>Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. · topics: ai, ai-agents, crawler, data-extraction, llm, markdown · ⭐ 85,810 · Python — 来源：hackernews · qbitai · github · verge_ai · hn_frontpage · techcrunch_ai — 原文：https://github.com/unclecode/crawl4ai</description>
-</item>
-<item>
 <title>Amazon SageMaker JumpStart: 2026 year-to-date in review</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_fa796824301f</link>
 <guid isPermaLink="false">evt_fa796824301f</guid>
 <pubDate>Mon, 19 Oct 2026 21:14:44 +0000</pubDate>
 <category>open_source</category>
 <description>Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration. — 来源：hackernews · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/</description>
+</item>
+<item>
+<title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_248d3aa608b3</link>
+<guid isPermaLink="false">evt_248d3aa608b3</guid>
+<pubDate>Tue, 20 Oct 2026 00:49:40 +0000</pubDate>
+<category>open_source</category>
+<description>If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. — 来源：hackernews · hn_frontpage · techcrunch_ai — 原文：https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</description>
 </item>
 <item>
 <title>Advancing Coding in Low-Resource Programming Languages</title>
@@ -48,12 +56,12 @@
 <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration. — 来源：github · openai_blog — 原文：https://openai.com/index/low-resource-programming-languages</description>
 </item>
 <item>
-<title>ReactOS reaches major milestone with NTFS install support</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_43409ec21d5a</link>
-<guid isPermaLink="false">evt_43409ec21d5a</guid>
-<pubDate>Mon, 19 Oct 2026 18:30:56 +0000</pubDate>
-<category>industry</category>
-<description>ReactOS gains NTFS install support with new driver. — 来源：hn_frontpage · techcrunch_ai · arstechnica_ai — 原文：https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/</description>
+<title>InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a5bb32320853</link>
+<guid isPermaLink="false">evt_a5bb32320853</guid>
+<pubDate>Mon, 19 Oct 2026 14:52:04 +0000</pubDate>
+<category>agents</category>
+<description>Long-horizon human-scene interaction requires coordinated spatial reasoning, physical feasibility, and the ability to recover from compounding execution errors. Text-driven motion models are largely scene-agnostic and lack closed-loop correction, while geometry-conditioned approaches depend on paired scene-motion training or explicit 3D preprocessing that limits generalization to novel layouts and open-vocabulary goals. We present InteractAgent, an agentic multimodal LLM system for long-horizon human-scene interaction that plans, executes, observes, and reflects in a closed loop, using a singl — 来源：hn_frontpage · arxiv · hackernews — 原文：https://arxiv.org/abs/2610.25649v1</description>
 </item>
 <item>
 <title>AI agents are coming to Rivian’s cars</title>
@@ -72,6 +80,46 @@
 <description>AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […] — 来源：arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</description>
 </item>
 <item>
+<title>ReTRACE: Feedback-Guided LLM Agent in a Chemistry Harness for Retrosynthesis Planning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_141841bfba33</link>
+<guid isPermaLink="false">evt_141841bfba33</guid>
+<pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
+<category>foundation_models</category>
+<description>Computer-aided retrosynthesis has advanced through single-step prediction, tree search and route scoring, but complex targets still require judgement over the whole route, where stereochemistry, functional-group compatibility, cost and greenness interact. Here we present \textbf{\mbox{ReTRACE}} (\textbf{RE}trosynthesis with \textbf{T}ool-orchestrated \textbf{R}easoning \textbf{A}nd \textbf{C}ontext-aware \textbf{E}vidence), an agent that places a large language model (LLM) in a chemistry harness that integrates molecular tools, complementary single-step prediction engines, a purchasable starti — 来源：techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2610.24744v1</description>
+</item>
+<item>
+<title>Reconstruction and Discrete-Event Simulation Assessment of an Analytical</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1517b8c87b32</link>
+<guid isPermaLink="false">evt_1517b8c87b32</guid>
+<pubDate>Mon, 19 Oct 2026 08:00:21 +0000</pubDate>
+<category>research</category>
+<description>This article presents an analytical-DES benchmark for intra-aisle robotic picking in automated warehousing. The investigated cycle combines horizontal shuttle travel, tote handling and item picking at storage locations. Simulation results are compared with the analytical formulation of Lerher et al. under the same rack geometry, shuttle-motion, handling and picking conditions, and the same definitions of cycle time and derived item throughput. Reproducing the published analytical tables requires the distance interpretation dES = 1.5 m and dTB = 0 m. The analytical-DES benchmark comprises 180 s — 来源：arxiv — 原文：https://arxiv.org/abs/2610.25967v1</description>
+</item>
+<item>
+<title>CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd2a93e9f7f5</link>
+<guid isPermaLink="false">evt_dd2a93e9f7f5</guid>
+<pubDate>Mon, 19 Oct 2026 07:26:13 +0000</pubDate>
+<category>robotics</category>
+<description>Robot manipulation often depends on short-term cues - such as brief contacts, temporary occlusions, and intermediate object states - that are ambiguous in a single frame and can only be resolved by integrating observations over time. However, injecting historical information solely by enlarging the history window is computationally costly and frequently yields limited gains due to substantial redundancy and task-agnostic, inflexible sampling of observations. We propose CondenseVLA, a multi-frame VLA policy with a learnable decoder-side history condensation module for using short-term visual co — 来源：arxiv — 原文：https://arxiv.org/abs/2610.25927v1</description>
+</item>
+<item>
+<title>Good Judgment, Bad Advice: Decision-Model Controllers Raise Agent Cost Without Improving Success</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2f9d2670fac7</link>
+<guid isPermaLink="false">evt_2f9d2670fac7</guid>
+<pubDate>Mon, 19 Oct 2026 09:08:05 +0000</pubDate>
+<category>research</category>
+<description>Agent scaffolds increasingly delegate small decisions (whether to stop, verify, or change approach) to cheaper models. We ask whether a typed decision model, Jev 1.13, consulted only at deterministic decision points, makes a Claude Sonnet 5.5 terminal agent cheaper without making it worse. In a pre-specified study on Terminal-Bench 2.1, we hold one agent loop fixed and vary only the controller: none, deterministic rules, a small LLM (Claude Haiku 5.5) answering the same questions, Jev, and a placebo that samples Jev's development-phase choice frequencies at the same moments. On 21 held-out tas — 来源：github · reddit_ml · mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.24649v1</description>
+</item>
+<item>
+<title>Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8031ac42ea20</link>
+<guid isPermaLink="false">evt_8031ac42ea20</guid>
+<pubDate>Mon, 19 Oct 2026 06:35:26 +0000</pubDate>
+<category>robotics</category>
+<description>Robotic manipulation is not merely observation-to-action generation, but the realization of task-specified state changes in the physical world. Existing vision-language-action (VLA) methods directly learn observation-to-action mappings, imposing a substantial learning burden due to the gap between semantic understanding and action execution. Although world-action models (WAMs) improve control through future prediction, modeling complete future states wastes capacity on static appearance and action-irrelevant changes. We propose Vision-Language-Delta-Action (VLDA), a paradigm that reformulates  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.25874v1</description>
+</item>
+<item>
 <title>Helicone/helicone — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
 <guid isPermaLink="false">evt_011ceac98040</guid>
@@ -80,52 +128,28 @@
 <description>🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 · topics: agent-monitoring, analytics, evaluation, gpt, langchain, large-language-models · ⭐ 6,228 · TypeScript — 来源：github — 原文：https://github.com/Helicone/helicone</description>
 </item>
 <item>
+<title>OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd61549799e3</link>
+<guid isPermaLink="false">evt_dd61549799e3</guid>
+<pubDate>Mon, 19 Oct 2026 05:51:41 +0000</pubDate>
+<category>research</category>
+<description>Fine industrial robotic manipulation requires 6D pose, scale, and an operation-ready 3D model. Existing industrial pose estimation relies on CAD models, object-specific training data, or stable workcells, limiting use with unseen objects; zero-shot methods suffer from single-view occlusion, generative bias, and scale uncertainty. We present OV-PEAR, an observation-verified framework for 3D reconstruction and pose-scale estimation of unknown industrial objects. Its three-stage object-centric pipeline: (1) segments RGB-D instances and generates object-level 3D hypotheses; (2) anchors them to the — 来源：arxiv — 原文：https://arxiv.org/abs/2610.25840v1</description>
+</item>
+<item>
+<title>Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_665c7641b5b2</link>
+<guid isPermaLink="false">evt_665c7641b5b2</guid>
+<pubDate>Mon, 19 Oct 2026 03:37:38 +0000</pubDate>
+<category>research</category>
+<description>Autonomous driving fundamentally demands dense understanding of visual, semantic, and geometric information, yet existing Vision-Language-Action (VLA) models are typically trained with sparse supervision such as language instructions or trajectory signals. This direct mapping from dense visual observations to sparse representations forces the model to compress or even discard critical scene information essential for safe driving. We argue that this limitation does not stem from insufficient model capacity, but from the lack of explicit mechanisms that encourage the formation of dense world rep — 来源：arxiv — 原文：https://arxiv.org/abs/2610.25734v1</description>
+</item>
+<item>
 <title>bentoml/OpenLLM — Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a0b6e9911cfc</link>
 <guid isPermaLink="false">evt_a0b6e9911cfc</guid>
 <pubDate>Mon, 19 Oct 2026 17:07:51 +0000</pubDate>
 <category>foundation_models</category>
 <description>Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. · topics: bentoml, fine-tuning, llama, llama2, llama3-1, llama3-2 · ⭐ 12,560 · Python — 来源：arxiv · github — 原文：https://github.com/bentoml/OpenLLM</description>
-</item>
-<item>
-<title>gpustack/gpustack — A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ac1c4b9416b5</link>
-<guid isPermaLink="false">evt_ac1c4b9416b5</guid>
-<pubDate>Mon, 19 Oct 2026 01:23:12 +0000</pubDate>
-<category>infrastructure</category>
-<description>A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances. · topics: ascend, cuda, deepseek, distributed-inference, genai, high-performance-inference · ⭐ 5,844 · Python — 来源：hackernews · github — 原文：https://github.com/gpustack/gpustack</description>
-</item>
-<item>
-<title>AI researchers stranded Claude on a virtual desert island. It started to “play.”</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2f9d2670fac7</link>
-<guid isPermaLink="false">evt_2f9d2670fac7</guid>
-<pubDate>Mon, 19 Oct 2026 09:08:05 +0000</pubDate>
-<category>foundation_models</category>
-<description>What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to… — 来源：github · reddit_ml · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/</description>
-</item>
-<item>
-<title>dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_19819179eb22</link>
-<guid isPermaLink="false">evt_19819179eb22</guid>
-<pubDate>Mon, 19 Oct 2026 04:41:46 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 1,813 · 收藏 117 — 来源：github · hn_frontpage · huggingface — 原文：https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8</description>
-</item>
-<item>
-<title>Agentic Monitoring</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a5bb32320853</link>
-<guid isPermaLink="false">evt_a5bb32320853</guid>
-<pubDate>Mon, 19 Oct 2026 14:52:04 +0000</pubDate>
-<category>agents</category>
-<description>来源：hn_frontpage · arxiv · hackernews — 原文：https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/</description>
-</item>
-<item>
-<title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_18f9fd010555</link>
-<guid isPermaLink="false">evt_18f9fd010555</guid>
-<pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
-<category>foundation_models</category>
-<description>Comments — 来源：techcrunch_ai · hackernews · hn_frontpage — 原文：https://crystl.dev/guides/tmux-for-ai-agents/</description>
 </item>
 </channel>
 </rss>

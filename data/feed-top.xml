@@ -5,8 +5,32 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 09:03:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 16:06:59 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Called to serve: Tech, research, and positive impact</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c502e2a015ed</link>
+<guid isPermaLink="false">evt_c502e2a015ed</guid>
+<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+<category>research</category>
+<description>Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech, research, and positive impact appeared first on Microsoft Research . — 来源：arxiv · verge_ai · microsoft_research — 原文：https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/</description>
+</item>
+<item>
+<title>Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_31ded39c9d23</link>
+<guid isPermaLink="false">evt_31ded39c9d23</guid>
+<pubDate>Tue, 20 Oct 2026 15:57:57 +0000</pubDate>
+<category>agents</category>
+<description>The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server, and enforces per-user row and column security end-to-end. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/</description>
+</item>
+<item>
+<title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
+<guid isPermaLink="false">evt_94e7f4f5c0e5</guid>
+<pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
+<category>industry</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/ibm-research/altk-evolve-bc</description>
+</item>
 <item>
 <title>Nvidia Vera's System Architecture: Pushing Bandwidth</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9ff90121ae16</link>
@@ -14,6 +38,22 @@
 <pubDate>Mon, 19 Oct 2026 19:27:08 +0000</pubDate>
 <category>industry</category>
 <description>来源：nvidia_blog · huggingface · techcrunch_ai · hackernews — 原文：https://chipsandcheese.com/p/nvidia-veras-system-architecture</description>
+</item>
+<item>
+<title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_134c1a21491e</link>
+<guid isPermaLink="false">evt_134c1a21491e</guid>
+<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […] — 来源：aws_ml · techcrunch_ai — 原文：https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</description>
+</item>
+<item>
+<title>Length-Independent Stability and $L_2$-Gain Certificates for Chains of Delayed Neural Modules</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bd5487320ad9</link>
+<guid isPermaLink="false">evt_bd5487320ad9</guid>
+<pubDate>Tue, 20 Oct 2026 14:18:37 +0000</pubDate>
+<category>research</category>
+<description>Networks of repeated neural modules with delayed neighbour coupling need stability guarantees for every number of modules, but delay-dependent criteria certify one network at a time and grow with its size. This paper derives stability and $L_2$-gain certificates of length-independent size for open chains and rings of modules of two alternating types with slope-restricted activations. A local and a transmission delay act independently and are only bounded and continuous. A Lyapunov-Krasovskii functional with fixed integration limits and module-local variables that repeat with the module type re — 来源：arxiv · github · verge_ai — 原文：https://arxiv.org/abs/2610.25147v1</description>
 </item>
 <item>
 <title>Small Average Error, Wide Individual Error: General-Purpose LLMs Estimating Energy Intake from Meal Photos in a Feeding Trial</title>
@@ -32,12 +72,36 @@
 <description>Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. · topics: ai, ai-agents, crawler, data-extraction, llm, markdown · ⭐ 85,810 · Python — 来源：hackernews · qbitai · github · verge_ai · hn_frontpage · techcrunch_ai — 原文：https://github.com/unclecode/crawl4ai</description>
 </item>
 <item>
+<title>unsloth/DeepSeek-V4.1-Flash-1017-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_19819179eb22</link>
+<guid isPermaLink="false">evt_19819179eb22</guid>
+<pubDate>Tue, 20 Oct 2026 10:18:03 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 8,171 · 收藏 97 — 来源：github · hn_frontpage · huggingface — 原文：https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF</description>
+</item>
+<item>
+<title>Robotic Physical Comparison of Biologically Motivated and Counterfactual Sensory Arrangements using Biomimetic Skin</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8d01cc7984db</link>
+<guid isPermaLink="false">evt_8d01cc7984db</guid>
+<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+<category>research</category>
+<description>Human skin contains diverse mechanoreceptors, including Merkel cells and Pacinian corpuscles, each localized in specific regions. Although their spatial organization is known to be shaped by molecular signaling and neural induction during development, experimentally examining its functional significance under controlled conditions in living systems remains challenging. In particular, physically comparing alternative receptor arrangements that do not occur biologically is difficult. In this study, we developed a layered biomimetic robotic skin designed to mimic key structural features of human  — 来源：arxiv · techcrunch_ai — 原文：https://arxiv.org/abs/2610.26680v1</description>
+</item>
+<item>
 <title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b66237a31927</link>
 <guid isPermaLink="false">evt_b66237a31927</guid>
 <pubDate>Mon, 19 Oct 2026 15:37:09 +0000</pubDate>
 <category>agents</category>
 <description>At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […] — 来源：nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</description>
+</item>
+<item>
+<title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a4e161bd466</link>
+<guid isPermaLink="false">evt_0a4e161bd466</guid>
+<pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
+<category>industry</category>
+<description>The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns. — 来源：reddit_ml · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</description>
 </item>
 <item>
 <title>Amazon SageMaker JumpStart: 2026 year-to-date in review</title>
@@ -54,6 +118,22 @@
 <pubDate>Tue, 20 Oct 2026 00:49:40 +0000</pubDate>
 <category>open_source</category>
 <description>If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. — 来源：hackernews · hn_frontpage · techcrunch_ai — 原文：https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</description>
+</item>
+<item>
+<title>Deep Pontryagin Learning for Continuous-Time Stochastic Control with Jumps</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0c63a7613017</link>
+<guid isPermaLink="false">evt_0c63a7613017</guid>
+<pubDate>Mon, 19 Oct 2026 17:27:11 +0000</pubDate>
+<category>research</category>
+<description>We develop a deep Pontryagin learning framework for high-dimensional continuous-time stochastic control problems that naturally accommodates jump-diffusions. In contrast to direct policy optimization, which repeatedly differentiates the objective through the entire time-discretized dynamics, our method separates adjoint learning from policy improvement by explicitly incorporating state-sensitivity information from the Pontryagin stochastic maximum principle. For a fixed Markov control, we first compute pathwise adjoint labels by backpropagating the reward through time along simulated state tra — 来源：hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2610.26718v1</description>
+</item>
+<item>
+<title>A visit to Samsung’s massive new semiconductor hub</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3f944698ad9d</link>
+<guid isPermaLink="false">evt_3f944698ad9d</guid>
+<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
+<category>infrastructure</category>
+<description>Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction… — 来源：arxiv · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/</description>
 </item>
 <item>
 <title>Ask HN: How to get the most intelligence out of your agents?</title>
@@ -152,100 +232,20 @@
 <description>Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Feature caching reduces this cost by reusing features across denoising steps. Recent forecasting methods extend this idea by extrapolating features to skipped steps instead of reusing them. However, existing forecasting methods extrapolate the features they predict uniformly, even though the spatial-frequency components of these features change most at different stages of denoising. They also overlo — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26837v1</description>
 </item>
 <item>
+<title>Competing Learning in Hybrid Architectures</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1d98f5077bf3</link>
+<guid isPermaLink="false">evt_1d98f5077bf3</guid>
+<pubDate>Mon, 19 Oct 2026 17:55:55 +0000</pubDate>
+<category>research</category>
+<description>Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high throughput by compressing contextual information into a fixed-size state, but underperform softmax attention in contextual information retrieval. In this paper, we reveal a Competing Learning phenomenon where different kinds of mixers compete to learn the same function, and when any layer learns a function, it suppresses the corresponding learning signal for other layers. Layer — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26830v1</description>
+</item>
+<item>
 <title>Supervised Learning with Quantum Hamiltonian Embeddings</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_25629680353c</link>
 <guid isPermaLink="false">evt_25629680353c</guid>
 <pubDate>Mon, 19 Oct 2026 17:56:44 +0000</pubDate>
 <category>research</category>
 <description>Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, trainability, and efficient inference remain limited. In this work, we introduce quantum Hamiltonian embeddings, a supervised learning framework in which a classical training dataset is encoded into a single effective, parameterized Hamiltonian. Training optimizes the parameters of this data-dependent Hamiltonian, whose approximate ground state defines the classification rule. O — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26833v1</description>
-</item>
-<item>
-<title>MemT-1.0: Towards Memory-Native Evolution</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_83c65cd100d4</link>
-<guid isPermaLink="false">evt_83c65cd100d4</guid>
-<pubDate>Mon, 19 Oct 2026 17:54:35 +0000</pubDate>
-<category>research</category>
-<description>Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Building on Metis, MemT-1.0 employs Gated DeltaNet-2 with a stable token-level memory update mechanism within each turn. We further introduce Mixture-of-Storage to scale native memory capacity. Following a deliberate backbone preparation, we develop a two-stage training pipeline consisting of continued  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26825v1</description>
-</item>
-<item>
-<title>PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_24b2c0e62dde</link>
-<guid isPermaLink="false">evt_24b2c0e62dde</guid>
-<pubDate>Mon, 19 Oct 2026 17:50:59 +0000</pubDate>
-<category>research</category>
-<description>Aerial visual localization is crucial for autonomous drone navigation in urban environments where GNSS signals are often degraded. Lightweight textureless Level-of-Detail (LoD) city models provide a geometric map alternative to textured assets. Existing silhouette-based methods rely on image-space alignment, which can leave different camera poses indistinguishable and favor incorrect poses when segmentation errors distort the building outlines. We present PlanarCityLoc, which moves beyond silhouette overlap by leveraging the planar geometry of building facades and roofs. Following geometry-awa — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26729v1</description>
-</item>
-<item>
-<title>State World Models: Execute the Rules, Generate the Pixels</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2d15fa6bacdd</link>
-<guid isPermaLink="false">evt_2d15fa6bacdd</guid>
-<pubDate>Mon, 19 Oct 2026 17:50:32 +0000</pubDate>
-<category>research</category>
-<description>Existing world models can generate action-conditioned video from a single image. Many focus on camera movement, allowing users to explore the generated scene. However, navigation alone does not ensure that an action follows persistent rules when its outcome depends on state that is invisible in the current frame. We present Stateful Harness, a framework that separates world evolution from video rendering to support stateful and rule-governed interaction. It maintains an evolving world state under specified rules, renders each resulting event with a frozen video model, and uses the generated cl — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26811v1</description>
-</item>
-<item>
-<title>Learning to Refer: Inference-Time Collaboration in Decentralized Federated Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d7b978b1e142</link>
-<guid isPermaLink="false">evt_d7b978b1e142</guid>
-<pubDate>Mon, 19 Oct 2026 17:44:55 +0000</pubDate>
-<category>research</category>
-<description>In decentralized federated learning, heterogeneous clients may develop complementary expertise, yet each query is typically evaluated only by the client where it arrives. To exploit this distributed expertise without global coordination, we formulate inference-time collaboration as budgeted local expert referral, a graph-constrained routing process in which a query can move only between neighboring clients and only visited clients contribute to its final prediction. EdgeDRM implements this framework by learning a density-based routing potential for each client: differences between neighboring  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26800v1</description>
-</item>
-<item>
-<title>Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4999938ccb48</link>
-<guid isPermaLink="false">evt_4999938ccb48</guid>
-<pubDate>Mon, 19 Oct 2026 17:45:43 +0000</pubDate>
-<category>research</category>
-<description>Recent advances in text-to-video generation have enabled high-fidelity single-shot synthesis, yet practical storytelling creation requires multi-shot videos with both strong inter-shot consistency and fine-grained controllability. Existing multi-shot video generation approaches achieve strong consistency but still fall short in controllability. In this paper, we propose Mise-en-Video (MeV), a highly controllable multi-shot video generation framework that allows video creators to conduct staging the multi-shot in the 3D space and then generate the corresponding multi-shot video. To achieve this — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26801v1</description>
-</item>
-<item>
-<title>HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e181547094b0</link>
-<guid isPermaLink="false">evt_e181547094b0</guid>
-<pubDate>Mon, 19 Oct 2026 17:27:38 +0000</pubDate>
-<category>research</category>
-<description>Harness development plays a crucial role in building capable AI agents. Recent approaches improve harnesses through recursive self-improvement (RSI), but their performance gains often come with higher execution costs. We introduce HarnessPro, a label-free method for evolving harnesses to improve task performance while reducing execution cost. In this setting, candidate harnesses are evaluated using LLM-generated tests without access to ground-truth solutions or official tests. Specialized agents diagnose execution trajectories, plan updates with different performance-cost priorities, and imple — 来源：github · openai_blog · arxiv — 原文：https://arxiv.org/abs/2610.26770v1</description>
-</item>
-<item>
-<title>Training with ML-labeled Data via Stochastic First- and Zeroth-Order Optimization</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ffe35be859c</link>
-<guid isPermaLink="false">evt_1ffe35be859c</guid>
-<pubDate>Mon, 19 Oct 2026 17:38:58 +0000</pubDate>
-<category>research</category>
-<description>Training a machine learning (ML) model is an optimization process that typically requires a set of examples with ground-truth labels beforehand. Obtaining these ground truths usually requires laborious human effort and can be costly. The scalability of human labeling becomes a concern when there are a large number of data points that need to be labeled. To address this practical issue, we consider an optimization setting where a subset of samples has ground-truth labels, while the remaining data points were labeled by an ML predictor, which could potentially assign incorrect labels to those po — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26790v1</description>
-</item>
-<item>
-<title>Cooperative Multi-Agent Reinforcement Learning for Market Making on Prediction-Market Order Books</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_770cf17e81af</link>
-<guid isPermaLink="false">evt_770cf17e81af</guid>
-<pubDate>Mon, 19 Oct 2026 17:38:36 +0000</pubDate>
-<category>agents</category>
-<description>A market maker provides liquidity by quoting prices to buy and sell an asset, earning the spread while managing inventory risk. We study market makers trained with multi-agent reinforcement learning on prediction markets, specifically Polymarket, whose thin order books pose distinct challenges. Three challenges underpin this research: adverse selection may cause a policy trained on real data to stop quoting; the consequences of a quote can arrive many steps after the action; and prediction-market L2 data does not identify individual orders needed for simulation. We address these challenges by  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26789v1</description>
-</item>
-<item>
-<title>LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b6ed2ef84a5</link>
-<guid isPermaLink="false">evt_7b6ed2ef84a5</guid>
-<pubDate>Mon, 19 Oct 2026 17:38:05 +0000</pubDate>
-<category>research</category>
-<description>Traditional evaluation benchmarks reduce inherently interconnected scientific knowledge in life sciences into flat lists of questions, disregarding the underlying topological structure of the knowledge. We introduce, the first graph-structured benchmark for life sciences, featuring over 10,000 high-quality multiple-choice questions across medicine, biology, and chemistry. Our approach constructs a weighted evaluation graph using bidirectional matching and semantic similarity algorithms, where nodes represent questions and edge weights capture their semantic relationships. Leveraging this graph — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26787v1</description>
-</item>
-<item>
-<title>Topological Sheaves of Irreducibility: A Theoretical Framework for Multi-Agent Task Obstructions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_446bd5db5501</link>
-<guid isPermaLink="false">evt_446bd5db5501</guid>
-<pubDate>Mon, 19 Oct 2026 17:30:40 +0000</pubDate>
-<category>agents</category>
-<description>Multi-agent systems can differ under identical agents and communication budgets when they support different forms of joint interaction. We introduce Topological Sheaves of Irreducibility (TSI), a sheaf-theoretic framework separating task-level compatibility obstructions from system capability. A task is represented by an interaction complex $K$ and a capacity sheaf $\mathcal{F}$; nonzero $H^n(K;\mathcal{F})$ defines a structural signature, while registered interventions test capability. For cocycle data, cochain realization is solvable exactly when the represented cohomology class vanishes. Ex — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26777v1</description>
-</item>
-<item>
-<title>recAMPLIFY: Large-Scale Pretraining of Recursive Protein Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_565ae4ef4945</link>
-<guid isPermaLink="false">evt_565ae4ef4945</guid>
-<pubDate>Mon, 19 Oct 2026 17:12:55 +0000</pubDate>
-<category>research</category>
-<description>Protein language models (pLMs) are powerful tools for protein annotation and mutation-effect prediction, but progress has largely depended on scaling model size and data, making them expensive and prone to memorization. Test-time scaling offers a complementary path, but methods developed for autoregressive LLMs do not transfer directly: masked encoders lack a generation loop, and amino acids do not verbalize in a reasoning language. Instead, we adapt recursive pretraining to masked pLMs, where a weight-tied Transformer core refines residue-aligned hidden states over an adjustable number of cyc — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26747v1</description>
 </item>
 </channel>
 </rss>

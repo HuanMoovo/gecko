@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 16:06:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 22:51:41 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Called to serve: Tech, research, and positive impact</title>
@@ -16,12 +16,44 @@
 <description>Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech, research, and positive impact appeared first on Microsoft Research . — 来源：arxiv · verge_ai · microsoft_research — 原文：https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/</description>
 </item>
 <item>
-<title>Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore</title>
+<title>Meta pauses Muse sharing after researchers find AI chats on the web</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
+<guid isPermaLink="false">evt_add383da2fc0</guid>
+<pubDate>Tue, 20 Oct 2026 18:07:34 +0000</pubDate>
+<category>research</category>
+<description>Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […] — 来源：arstechnica_ai · verge_ai · techcrunch_ai — 原文：https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</description>
+</item>
+<item>
+<title>AI agents are coming to Rivian’s cars</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3483c93f4f85</link>
+<guid isPermaLink="false">evt_3483c93f4f85</guid>
+<pubDate>Tue, 20 Oct 2026 17:52:50 +0000</pubDate>
+<category>agents</category>
+<description>We'll likely learn more about how this will work at the company's upcoming "AI &amp; Autonomy Day" event in December. — 来源：arxiv · github · hackernews · hn_frontpage · qbitai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/</description>
+</item>
+<item>
+<title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_eece3470089f</link>
+<guid isPermaLink="false">evt_eece3470089f</guid>
+<pubDate>Tue, 20 Oct 2026 18:36:53 +0000</pubDate>
+<category>foundation_models</category>
+<description>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow. — 来源：github · openai_blog · techcrunch_ai — 原文：https://openai.com/index/ted-taylor-restaurant</description>
+</item>
+<item>
+<title>OpenAI acquires Orchestra Bio</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7d10f0ddfecf</link>
+<guid isPermaLink="false">evt_7d10f0ddfecf</guid>
+<pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
+<category>science</category>
+<description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments. — 来源：openai_blog · techcrunch_ai — 原文：https://openai.com/index/openai-to-acquire-orchestra-bio</description>
+</item>
+<item>
+<title>Work management context for AI agents with Smartsheet MCP on AWS</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_31ded39c9d23</link>
 <guid isPermaLink="false">evt_31ded39c9d23</guid>
-<pubDate>Tue, 20 Oct 2026 15:57:57 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:59:07 +0000</pubDate>
 <category>agents</category>
-<description>The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server, and enforces per-user row and column security end-to-end. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/</description>
+<description>The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/</description>
 </item>
 <item>
 <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
@@ -30,6 +62,30 @@
 <pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
 <category>industry</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/ibm-research/altk-evolve-bc</description>
+</item>
+<item>
+<title>Anthropic recorded a staggering $80B net loss in the first half of 2026</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_248d3aa608b3</link>
+<guid isPermaLink="false">evt_248d3aa608b3</guid>
+<pubDate>Tue, 20 Oct 2026 22:27:07 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews · hn_frontpage · techcrunch_ai — 原文：https://twitter.com/Polymarket/status/2112634886070919426</description>
+</item>
+<item>
+<title>Google’s more personalized Gemini AI is heading to your car</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_244831af6248</link>
+<guid isPermaLink="false">evt_244831af6248</guid>
+<pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
+<category>foundation_models</category>
+<description>Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […] — 来源：techcrunch_ai · verge_ai · github · hackernews — 原文：https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</description>
+</item>
+<item>
+<title>Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US &amp; China</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a4e161bd466</link>
+<guid isPermaLink="false">evt_0a4e161bd466</guid>
+<pubDate>Tue, 20 Oct 2026 17:04:21 +0000</pubDate>
+<category>industry</category>
+<description>Western open models strike back — 来源：reddit_ml · hackernews · techcrunch_ai · interconnects — 原文：https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek</description>
 </item>
 <item>
 <title>Nvidia Vera's System Architecture: Pushing Bandwidth</title>
@@ -88,6 +144,22 @@
 <description>Human skin contains diverse mechanoreceptors, including Merkel cells and Pacinian corpuscles, each localized in specific regions. Although their spatial organization is known to be shaped by molecular signaling and neural induction during development, experimentally examining its functional significance under controlled conditions in living systems remains challenging. In particular, physically comparing alternative receptor arrangements that do not occur biologically is difficult. In this study, we developed a layered biomimetic robotic skin designed to mimic key structural features of human  — 来源：arxiv · techcrunch_ai — 原文：https://arxiv.org/abs/2610.26680v1</description>
 </item>
 <item>
+<title>Battle Drones - a vibe coded RTS with audio-based multiplayer</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_94ee2482679f</link>
+<guid isPermaLink="false">evt_94ee2482679f</guid>
+<pubDate>Tue, 20 Oct 2026 19:34:19 +0000</pubDate>
+<category>robotics</category>
+<description>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to "Make it a LOT more fun". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built this v1: the initial prototype v2: full sprites v3: varied terrain v4: the fun update v5: Battle Drones — 来源：github · arxiv · simonwillison — 原文：https://simonwillison.net/2026/Oct/20/battledrones/</description>
+</item>
+<item>
+<title>Benchmarking Bot Detection Systems Against Modern AI Agents in 2026</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cad50617bbdf</link>
+<guid isPermaLink="false">evt_cad50617bbdf</guid>
+<pubDate>Tue, 20 Oct 2026 17:10:31 +0000</pubDate>
+<category>agents</category>
+<description>来源：arxiv · hackernews — 原文：https://research.poh.org/bot-benchmarking-2026/</description>
+</item>
+<item>
 <title>NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b66237a31927</link>
 <guid isPermaLink="false">evt_b66237a31927</guid>
@@ -96,28 +168,12 @@
 <description>At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […] — 来源：nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</description>
 </item>
 <item>
-<title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a4e161bd466</link>
-<guid isPermaLink="false">evt_0a4e161bd466</guid>
-<pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
-<category>industry</category>
-<description>The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns. — 来源：reddit_ml · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</description>
-</item>
-<item>
 <title>Amazon SageMaker JumpStart: 2026 year-to-date in review</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_fa796824301f</link>
 <guid isPermaLink="false">evt_fa796824301f</guid>
 <pubDate>Mon, 19 Oct 2026 21:14:44 +0000</pubDate>
 <category>open_source</category>
 <description>Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration. — 来源：hackernews · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/</description>
-</item>
-<item>
-<title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_248d3aa608b3</link>
-<guid isPermaLink="false">evt_248d3aa608b3</guid>
-<pubDate>Tue, 20 Oct 2026 00:49:40 +0000</pubDate>
-<category>open_source</category>
-<description>If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. — 来源：hackernews · hn_frontpage · techcrunch_ai — 原文：https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</description>
 </item>
 <item>
 <title>Deep Pontryagin Learning for Continuous-Time Stochastic Control with Jumps</title>
@@ -134,118 +190,6 @@
 <pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
 <category>infrastructure</category>
 <description>Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction… — 来源：arxiv · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/</description>
-</item>
-<item>
-<title>Ask HN: How to get the most intelligence out of your agents?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
-<guid isPermaLink="false">evt_011ceac98040</guid>
-<pubDate>Tue, 20 Oct 2026 05:16:08 +0000</pubDate>
-<category>agents</category>
-<description>I often find chatgpt.com has greater &amp;quot;intelligence&amp;quot; than codex.&lt;p&gt;I&amp;#x27;ve found this to be true for the past year or two now, and I was wondering if anyone has found a better solution than copying context to and from chatgpt.com. The &amp;quot;Pro&amp;quot; level (or whatever the max level is at the time) consistently has better insights than the agent, but immensely limited tool calling compared to the agent. Marrying the two of these together unlocks a lot of potential, but I really just want this intelligence to live on my laptop, instead of me being the intermediary. — 来源：github · hackernews — 原文：https://news.ycombinator.com/item?id=50161627</description>
-</item>
-<item>
-<title>WeAct: Dynamic Weight Switching as Agent Actions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_39ebab2a486f</link>
-<guid isPermaLink="false">evt_39ebab2a486f</guid>
-<pubDate>Mon, 19 Oct 2026 17:59:19 +0000</pubDate>
-<category>research</category>
-<description>Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different stages may require different capabilities, yet conventional joint training and static adapter merging maintain a fixed parameter configuration throughout execution. We introduce WeAct (Weight-level Internal Actions), which trains independent capability-specific LoRA adapters over a frozen backbone and adds adapter selection to the agent's action — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2610.26847v1</description>
-</item>
-<item>
-<title>SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_de2a16e55ebd</link>
-<guid isPermaLink="false">evt_de2a16e55ebd</guid>
-<pubDate>Mon, 19 Oct 2026 17:40:21 +0000</pubDate>
-<category>research</category>
-<description>Reasoning models often run into problems without noticing them, even when symptoms are visible in their own text. In humans, metacognition separates monitoring from control: fast, intuitive signals keep watch while slow, deliberate reasoning unfolds and help decide whether to continue, change course, or stop. System One (S1) decision models, such as Jev, are a natural candidate for this role: they return a calibrated probability for a natural-language question about a text in one fast call, yet they are used only as gates before reasoning. We introduce SOMA (System One Metacognitive Awareness) — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26793v1</description>
-</item>
-<item>
-<title>A GPU-Resident Pipeline for Multi-Robot 3D Inspection with Limited Perception</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7fcc55e07b9e</link>
-<guid isPermaLink="false">evt_7fcc55e07b9e</guid>
-<pubDate>Mon, 19 Oct 2026 18:15:18 +0000</pubDate>
-<category>infrastructure</category>
-<description>We present a complete, GPU-resident pipeline for multi-robot 3D inspection of underwater structures. Given a triangle mesh and a fleet of $K$ robots, each carrying a short-range, limited field-of-view camera, the pipeline computes 6-DOF trajectories that jointly cover a target fraction of the surface while minimizing a linearly interpolated makespan/total-cost objective. The joint problem is NP-hard, so we decompose it into five core stages - candidate viewpoint generation, visibility computation, set cover, min-max vehicle routing solved as a mixed integer program (MIP) with lifted Miller-Tuc — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.26106v1</description>
-</item>
-<item>
-<title>Advancing Coding in Low-Resource Programming Languages</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_eece3470089f</link>
-<guid isPermaLink="false">evt_eece3470089f</guid>
-<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-<category>foundation_models</category>
-<description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration. — 来源：github · openai_blog — 原文：https://openai.com/index/low-resource-programming-languages</description>
-</item>
-<item>
-<title>AnyGoal: On World Model Generalization Beyond Expert Rollouts</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6cc51e9d5dba</link>
-<guid isPermaLink="false">evt_6cc51e9d5dba</guid>
-<pubDate>Mon, 19 Oct 2026 17:59:05 +0000</pubDate>
-<category>research</category>
-<description>The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the learned dynamics must behave well beyond the specific state-action combinations observed in expert rollouts. Despite this, the relationship between data coverage, dynamics generalization, and downstream planning performance remains underexplored. We study this relationship through the lens of compositional generalization: can a world model recombine familiar st — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26844v1</description>
-</item>
-<item>
-<title>StebBench: Diagnosing Real-World Procedural Understanding in AI Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5af61ecf5d2b</link>
-<guid isPermaLink="false">evt_5af61ecf5d2b</guid>
-<pubDate>Mon, 19 Oct 2026 17:59:58 +0000</pubDate>
-<category>research</category>
-<description>Evaluating an agent's planning ability remains challenging for open-domain tasks, where verifying procedures through execution is often impractical. Existing evaluations typically assess only the final plan and do not distinguish procedural errors such as missing, incorrect, or misordered actions. We introduce STEPBENCH, a benchmark of 6,885 verified procedures crawled from wikiHow across 81 open-domain categories. From each procedure, we derive 5 diagnostic tasks: four with deterministic answers involving withheld, incorrect, or shuffled steps, and one requiring next-step generation. We addit — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26679v1</description>
-</item>
-<item>
-<title>CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f876f0f4fcca</link>
-<guid isPermaLink="false">evt_f876f0f4fcca</guid>
-<pubDate>Mon, 19 Oct 2026 17:59:49 +0000</pubDate>
-<category>research</category>
-<description>Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distribution (OOD) scenarios, where individual robots may overlook potential risks or make inaccurate predictions. Leveraging cooperation effectively for both prediction and navigation remains a major challenge. We propose CoopUQ, a multi-robot social navigation framework that bridges uncertainty-aware co — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26852v1</description>
-</item>
-<item>
-<title>Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f56b11a29de4</link>
-<guid isPermaLink="false">evt_f56b11a29de4</guid>
-<pubDate>Mon, 19 Oct 2026 17:59:54 +0000</pubDate>
-<category>robotics</category>
-<description>Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to express fine-grained physical dynamics, while latent reasoning models future state evolution but offers limited structure for organizing these dynamics into reusable reasoning primitives. To bridge this gap, we introduce PhysWord, a reasoning-before-acting foundation model built on Physical Words, which use atomic action verbs as shared semantic anchors for continuous representations of physical dynamic — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26854v1</description>
-</item>
-<item>
-<title>Reinforcement Learning with Visually Attributable On-Policy Self-Distillation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7e8c21958d43</link>
-<guid isPermaLink="false">evt_7e8c21958d43</guid>
-<pubDate>Mon, 19 Oct 2026 17:59:56 +0000</pubDate>
-<category>research</category>
-<description>Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic priors, response style, or the privileged view itself. We formalize this phenomenon as privileged-correction contamination: a token-level co — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26856v1</description>
-</item>
-<item>
-<title>Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ead277d7f4a7</link>
-<guid isPermaLink="false">evt_ead277d7f4a7</guid>
-<pubDate>Mon, 19 Oct 2026 17:59:46 +0000</pubDate>
-<category>agents</category>
-<description>Adapting existing manga into coherent animation that stays faithful to the source is a valuable yet challenging task. Existing methods either access the manga mainly through text, losing its characters and art style, or feed manga pages directly into video generation models, which misinterpret the manga's structure and produce incorrect storylines. In this paper, we propose Manga2Animate, a multi-agent framework that grounds every stage of generation in the source manga. We decompose the task into two intermediate representations, an animation script and a visual storyboard. Each representatio — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.26851v1</description>
-</item>
-<item>
-<title>SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f48308f1d398</link>
-<guid isPermaLink="false">evt_f48308f1d398</guid>
-<pubDate>Mon, 19 Oct 2026 17:58:04 +0000</pubDate>
-<category>research</category>
-<description>Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Feature caching reduces this cost by reusing features across denoising steps. Recent forecasting methods extend this idea by extrapolating features to skipped steps instead of reusing them. However, existing forecasting methods extrapolate the features they predict uniformly, even though the spatial-frequency components of these features change most at different stages of denoising. They also overlo — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26837v1</description>
-</item>
-<item>
-<title>Competing Learning in Hybrid Architectures</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1d98f5077bf3</link>
-<guid isPermaLink="false">evt_1d98f5077bf3</guid>
-<pubDate>Mon, 19 Oct 2026 17:55:55 +0000</pubDate>
-<category>research</category>
-<description>Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high throughput by compressing contextual information into a fixed-size state, but underperform softmax attention in contextual information retrieval. In this paper, we reveal a Competing Learning phenomenon where different kinds of mixers compete to learn the same function, and when any layer learns a function, it suppresses the corresponding learning signal for other layers. Layer — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26830v1</description>
-</item>
-<item>
-<title>Supervised Learning with Quantum Hamiltonian Embeddings</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_25629680353c</link>
-<guid isPermaLink="false">evt_25629680353c</guid>
-<pubDate>Mon, 19 Oct 2026 17:56:44 +0000</pubDate>
-<category>research</category>
-<description>Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, trainability, and efficient inference remain limited. In this work, we introduce quantum Hamiltonian embeddings, a supervised learning framework in which a classical training dataset is encoded into a single effective, parameterized Hamiltonian. Training optimizes the parameters of this data-dependent Hamiltonian, whose approximate ground state defines the classification rule. O — 来源：arxiv — 原文：https://arxiv.org/abs/2610.26833v1</description>
 </item>
 </channel>
 </rss>

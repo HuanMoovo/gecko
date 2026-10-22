@@ -5,23 +5,55 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 22 Oct 2026 16:23:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 22:53:56 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>unclecode/crawl4ai — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself,</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_19adbcc5636f</link>
 <guid isPermaLink="false">evt_19adbcc5636f</guid>
-<pubDate>Thu, 22 Oct 2026 15:56:33 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 21:43:46 +0000</pubDate>
 <category>open_source</category>
 <description>Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. · topics: ai, ai-agents, crawler, data-extraction, llm, markdown · ⭐ 85,810 · Python — 来源：hackernews · qbitai · github · verge_ai · hn_frontpage · techcrunch_ai — 原文：https://github.com/unclecode/crawl4ai</description>
 </item>
 <item>
-<title>Beyond tree cover: mapping the world’s forest types</title>
+<title>Build more responsive apps with the Decisions API</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
+<guid isPermaLink="false">evt_4ab93569e260</guid>
+<pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
+<category>industry</category>
+<description>Fast, focused, low-cost decisions for any application. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://openai.com/index/decisions-api</description>
+</item>
+<item>
+<title>Google Pushed AI into Schools–and Even Students Say It's Gone Too Far</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
 <guid isPermaLink="false">evt_6bc0a4e087e6</guid>
-<pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:32:12 +0000</pubDate>
 <category>industry</category>
-<description>A global map categorizing every 10-meter patch of land on Earth into distinct forest types. — 来源：google_ai_blog · hackernews · deepmind_blog · github — 原文：https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</description>
+<description>来源：google_ai_blog · hackernews · deepmind_blog · github — 原文：https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a</description>
+</item>
+<item>
+<title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ccc3219ff3a4</link>
+<guid isPermaLink="false">evt_ccc3219ff3a4</guid>
+<pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
+<category>agents</category>
+<description>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers. — 来源：microsoft_research · techcrunch_ai — 原文：https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</description>
+</item>
+<item>
+<title>Donating Agent Skills to the Agentic AI Foundation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec286bca2454</link>
+<guid isPermaLink="false">evt_ec286bca2454</guid>
+<pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
+<category>agents</category>
+<description>Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an "open standard": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun s — 来源：hackernews · github · simonwillison — 原文：https://simonwillison.net/2026/Oct/22/donating-agent-skills/</description>
+</item>
+<item>
+<title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_95eb6975ad24</link>
+<guid isPermaLink="false">evt_95eb6975ad24</guid>
+<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
+<category>agents</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/microsoft/thinkingbox-training</description>
 </item>
 <item>
 <title>raullenchai/Rapid-MLX — Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built</title>
@@ -32,6 +64,22 @@
 <description>Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights. · topics: anthropic-api, apple-silicon, claude-code, coding-agents, continuous-batching, inference-server · ⭐ 4,018 · Python — 来源：github · verge_ai — 原文：https://github.com/raullenchai/Rapid-MLX</description>
 </item>
 <item>
+<title>Every AI model has the same "controversial" take on humans</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
+<guid isPermaLink="false">evt_85fd077e7c71</guid>
+<pubDate>Thu, 22 Oct 2026 16:08:00 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：arxiv · reddit_ml · github · hn_frontpage — 原文：https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans</description>
+</item>
+<item>
+<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
+<guid isPermaLink="false">evt_4472664e9020</guid>
+<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
+<category>agents</category>
+<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
+</item>
+<item>
 <title>Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4ad89d65a44a</link>
 <guid isPermaLink="false">evt_4ad89d65a44a</guid>
@@ -40,12 +88,60 @@
 <description>Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […] — 来源：nvidia_blog · arxiv — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</description>
 </item>
 <item>
-<title>What FDE means at OpenAI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
-<guid isPermaLink="false">evt_4ab93569e260</guid>
-<pubDate>Thu, 22 Oct 2026 07:05:59 +0000</pubDate>
+<title>Amazon Polly delivers a major upgrade to its Generative engine</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fa796824301f</link>
+<guid isPermaLink="false">evt_fa796824301f</guid>
+<pubDate>Thu, 22 Oct 2026 18:06:35 +0000</pubDate>
+<category>generative</category>
+<description>The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production. — 来源：hackernews · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/</description>
+</item>
+<item>
+<title>How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_762687ac4e57</link>
+<guid isPermaLink="false">evt_762687ac4e57</guid>
+<pubDate>Thu, 22 Oct 2026 18:01:53 +0000</pubDate>
 <category>industry</category>
-<description>What forward deployed engineering means at OpenAI — 来源：openai_blog · qbitai · hn_frontpage — 原文：https://openai.com/index/forward-deployed-engineering-means</description>
+<description>Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/</description>
+</item>
+<item>
+<title>Announcing new ways to customize models with SageMaker AI, without managing GPUs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_418ae447f600</link>
+<guid isPermaLink="false">evt_418ae447f600</guid>
+<pubDate>Thu, 22 Oct 2026 18:00:04 +0000</pubDate>
+<category>infrastructure</category>
+<description>Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/</description>
+</item>
+<item>
+<title>Deploy AI in a HIPAA-eligible environment with Amazon Quick</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
+<guid isPermaLink="false">evt_1fc68e0e835e</guid>
+<pubDate>Thu, 22 Oct 2026 17:48:22 +0000</pubDate>
+<category>agents</category>
+<description>Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare environment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/</description>
+</item>
+<item>
+<title>Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2e13c1358e10</link>
+<guid isPermaLink="false">evt_2e13c1358e10</guid>
+<pubDate>Thu, 22 Oct 2026 17:45:58 +0000</pubDate>
+<category>agents</category>
+<description>Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser over Server-Sent Events or a unified binary transport. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/</description>
+</item>
+<item>
+<title>Uber brings ChatGPT Work to all employees with OpenAI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
+<guid isPermaLink="false">evt_011ceac98040</guid>
+<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows. — 来源：github · hackernews · techcrunch_ai · openai_blog — 原文：https://openai.com/index/uber-chatgpt-work-rollout</description>
+</item>
+<item>
+<title>Stop guessing auto scaling targets for TTS on Amazon SageMaker AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
+<guid isPermaLink="false">evt_a8d953e36308</guid>
+<pubDate>Thu, 22 Oct 2026 16:30:06 +0000</pubDate>
+<category>generative</category>
+<description>Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two live-endpoint measurements, Q_max and T_total, instead of guesswork. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/</description>
 </item>
 <item>
 <title>embeddings-benchmark/mteb — MTEB: State-of-the-art evaluation of embeddings across languages and modalities</title>
@@ -64,20 +160,12 @@
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/olmoearth-v1-3</description>
 </item>
 <item>
-<title>Flint-interactive: A language for creating interactive data visualizations</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ccc3219ff3a4</link>
-<guid isPermaLink="false">evt_ccc3219ff3a4</guid>
-<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-<category>agents</category>
-<description>Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research . — 来源：microsoft_research — 原文：https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/</description>
-</item>
-<item>
-<title>Preventing Model Extraction in Contextual Linear Optimization</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
-<guid isPermaLink="false">evt_85fd077e7c71</guid>
-<pubDate>Thu, 22 Oct 2026 07:30:02 +0000</pubDate>
-<category>research</category>
-<description>Consider a contextual linear optimization problem, where a predict-then-optimize (PTO) system returns optimal decisions without revealing the cost vectors used in its downstream linear program. Our focus is on how to prevent attackers, who can submit context queries, from extracting the underlying prediction model. Although the cost-to-decision map is many-to-one, observations across contexts can reveal the underlying prediction model. For linear models, we provide sufficient conditions where the attacker can learn the model up to positive scaling by only observing the decision. These conditio — 来源：arxiv · reddit_ml · github — 原文：https://arxiv.org/abs/2610.29918v1</description>
+<title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d26ae9b2d9ce</link>
+<guid isPermaLink="false">evt_d26ae9b2d9ce</guid>
+<pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
+<category>science</category>
+<description>Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</description>
 </item>
 <item>
 <title>NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories</title>
@@ -88,12 +176,12 @@
 <description>Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/minerva-platform-infrastructure/</description>
 </item>
 <item>
-<title>NVIDIA/skills — Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec286bca2454</link>
-<guid isPermaLink="false">evt_ec286bca2454</guid>
-<pubDate>Thu, 22 Oct 2026 15:26:01 +0000</pubDate>
+<title>The Foundations of Scalable AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_77c10bd5f145</link>
+<guid isPermaLink="false">evt_77c10bd5f145</guid>
+<pubDate>Thu, 22 Oct 2026 18:48:04 +0000</pubDate>
 <category>agents</category>
-<description>Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. · topics: agent-skills, agentic-ai, ai-agents, claude-code, codex, coding-agents · ⭐ 3,690 · Python — 来源：hackernews · github — 原文：https://github.com/NVIDIA/skills</description>
+<description>A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic… — 来源：nvidia_blog · hackernews · github · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/</description>
 </item>
 <item>
 <title>crmne/ruby_llm — The Ruby AI framework.</title>
@@ -126,6 +214,22 @@
 <pubDate>Thu, 22 Oct 2026 06:56:35 +0000</pubDate>
 <category>open_source</category>
 <description>OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation. · topics: android, arduino, deeplearning, education, openbot, research · ⭐ 3,558 · Swift — 来源：arxiv · github — 原文：https://github.com/ob-f/OpenBot</description>
+</item>
+<item>
+<title>Meta turns Muse sharing back on</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
+<guid isPermaLink="false">evt_add383da2fc0</guid>
+<pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
+<category>industry</category>
+<description>Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […] — 来源：arstechnica_ai · verge_ai · techcrunch_ai — 原文：https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</description>
+</item>
+<item>
+<title>nasa-jpl/open-source-rover — A build-it-yourself, 6-wheel rover based on the rovers on Mars!</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_435a4f9c1f23</link>
+<guid isPermaLink="false">evt_435a4f9c1f23</guid>
+<pubDate>Thu, 22 Oct 2026 17:26:48 +0000</pubDate>
+<category>open_source</category>
+<description>A build-it-yourself, 6-wheel rover based on the rovers on Mars! · topics: diy, hardware, mars, mars-rover, open-source, robot · ⭐ 9,728 · HTML — 来源：github — 原文：https://github.com/nasa-jpl/open-source-rover</description>
 </item>
 <item>
 <title>Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption</title>
@@ -248,6 +352,14 @@
 <description>One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks · topics: agi, audio-evaluation, benchmark, evaluation, large-language-models, llm-evaluation · ⭐ 4,462 · Python — 来源：arxiv · github — 原文：https://github.com/EvolvingLMMs-Lab/lmms-eval</description>
 </item>
 <item>
+<title>In Meta’s version of the future, I’ll have my Muse call your Muse</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cad50617bbdf</link>
+<guid isPermaLink="false">evt_cad50617bbdf</guid>
+<pubDate>Thu, 22 Oct 2026 18:15:00 +0000</pubDate>
+<category>agents</category>
+<description>Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […] — 来源：arxiv · hackernews · verge_ai — 原文：https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</description>
+</item>
+<item>
 <title>NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_c3ecf70aef54</link>
 <guid isPermaLink="false">evt_c3ecf70aef54</guid>
@@ -294,118 +406,6 @@
 <pubDate>Thu, 22 Oct 2026 10:56:35 +0000</pubDate>
 <category>open_source</category>
 <description>Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. · topics: embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first · ⭐ 5,485 · Swift — 来源：github — 原文：https://github.com/ARahim3/DigUp</description>
-</item>
-<item>
-<title>xlang-ai/OSWorld — [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_06bec61ea72a</link>
-<guid isPermaLink="false">evt_06bec61ea72a</guid>
-<pubDate>Thu, 22 Oct 2026 10:46:47 +0000</pubDate>
-<category>open_source</category>
-<description>[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments · topics: agent, artificial-intelligence, benchmark, cli, code-generation, gui · ⭐ 3,229 · Python — 来源：github — 原文：https://github.com/xlang-ai/OSWorld</description>
-</item>
-<item>
-<title>FrontierCS 2: A Benchmark for Computer Science R&amp;D</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5b545cfdb425</link>
-<guid isPermaLink="false">evt_5b545cfdb425</guid>
-<pubDate>Wed, 21 Oct 2026 19:14:01 +0000</pubDate>
-<category>research</category>
-<description>Can LLM agents make contributions to frontier computer science R&amp;D? We introduce FrontierCS 2, a benchmark of 48 open-ended tasks. We take a paper and the code its authors released and delete the paper's contribution. The deleted code becomes the human reference that sets the bar. Earlier open-ended benchmarks give each agent a problem statement and grade one program after the run. FrontierCS 2 places the agent inside a research environment. The agent inherits a working repository and may submit a patch at any point. For each patch, a judge returns a development-suite score but keeps the evalu — 来源：hn_frontpage · huggingface · github · latent_space · arxiv — 原文：https://arxiv.org/abs/2610.29932v1</description>
-</item>
-<item>
-<title>Claude did not invent scorpion antivenom</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7fe075e5e5f0</link>
-<guid isPermaLink="false">evt_7fe075e5e5f0</guid>
-<pubDate>Thu, 22 Oct 2026 12:21:07 +0000</pubDate>
-<category>foundation_models</category>
-<description>An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm […] — 来源：techcrunch_ai · hn_frontpage · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom</description>
-</item>
-<item>
-<title>OpenBMB/UltraRAG — A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a0da4093e2ad</link>
-<guid isPermaLink="false">evt_a0da4093e2ad</guid>
-<pubDate>Thu, 22 Oct 2026 08:29:48 +0000</pubDate>
-<category>open_source</category>
-<description>A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines · topics: deepseek, demo, easy, embedding, flask, gpt · ⭐ 5,731 · Python — 来源：github — 原文：https://github.com/OpenBMB/UltraRAG</description>
-</item>
-<item>
-<title>pytorch/rl — A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_54114848a56f</link>
-<guid isPermaLink="false">evt_54114848a56f</guid>
-<pubDate>Thu, 22 Oct 2026 07:51:40 +0000</pubDate>
-<category>open_source</category>
-<description>A modular, primitive-first, python-first PyTorch library for Reinforcement Learning. · topics: ai, control, decision-making, distributed-computing, machine-learning, marl · ⭐ 3,609 · Python — 来源：github — 原文：https://github.com/pytorch/rl</description>
-</item>
-<item>
-<title>briaai/Fibo-2.0-edit-turbo</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0042de5754ad</link>
-<guid isPermaLink="false">evt_0042de5754ad</guid>
-<pubDate>Thu, 22 Oct 2026 07:30:54 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-to-image · 下载 517 · 收藏 95 — 来源：huggingface — 原文：https://huggingface.co/briaai/Fibo-2.0-edit-turbo</description>
-</item>
-<item>
-<title>Securing Quick access from corporate networks with AWS PrivateLink</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
-<guid isPermaLink="false">evt_a8d953e36308</guid>
-<pubDate>Wed, 21 Oct 2026 23:38:38 +0000</pubDate>
-<category>industry</category>
-<description>Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/</description>
-</item>
-<item>
-<title>introlab/rtabmap — RTAB-Map library and standalone application</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_782d9d170075</link>
-<guid isPermaLink="false">evt_782d9d170075</guid>
-<pubDate>Thu, 22 Oct 2026 06:06:27 +0000</pubDate>
-<category>open_source</category>
-<description>RTAB-Map library and standalone application · topics: android, ios, localization, mapping, project-tango, robotics · ⭐ 4,055 · C++ — 来源：github — 原文：https://github.com/introlab/rtabmap</description>
-</item>
-<item>
-<title>5 production challenges in multi-agent systems and how Deep Insight solved them</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_833d3d328a66</link>
-<guid isPermaLink="false">evt_833d3d328a66</guid>
-<pubDate>Wed, 21 Oct 2026 23:36:47 +0000</pubDate>
-<category>agents</category>
-<description>Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/</description>
-</item>
-<item>
-<title>cyberbotics/webots — Webots Robot Simulator</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_164564ffb7d9</link>
-<guid isPermaLink="false">evt_164564ffb7d9</guid>
-<pubDate>Thu, 22 Oct 2026 05:28:18 +0000</pubDate>
-<category>open_source</category>
-<description>Webots Robot Simulator · topics: 3d-engine, ai, autonomous-vehicles, computer-vision, fluid-dynamics, multi-platform · ⭐ 4,718 · C++ — 来源：github — 原文：https://github.com/cyberbotics/webots</description>
-</item>
-<item>
-<title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
-<guid isPermaLink="false">evt_add383da2fc0</guid>
-<pubDate>Wed, 21 Oct 2026 22:45:34 +0000</pubDate>
-<category>agents</category>
-<description>The social media giant is planning a new stock strategy to help power its broad investments in AI models and services. — 来源：arstechnica_ai · verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</description>
-</item>
-<item>
-<title>Uber puts all 30,000 employees on ChatGPT Work</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
-<guid isPermaLink="false">evt_011ceac98040</guid>
-<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-<category>foundation_models</category>
-<description>The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide. — 来源：github · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/</description>
-</item>
-<item>
-<title>Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_35e6d373f234</link>
-<guid isPermaLink="false">evt_35e6d373f234</guid>
-<pubDate>Wed, 21 Oct 2026 21:48:52 +0000</pubDate>
-<category>research</category>
-<description>Many robotic construction applications, such as progress tracking, require registering a sensor trajectory to a prior 2D floor plan. Visual capture is attractive for its low cost and availability, but aligning a visual simultaneous localization and mapping (VSLAM) map to a floor plan is difficult; VSLAM recovers geometry only up to an unknown similarity transform, the sparse point cloud is cross-modal to the symbolic floor plan, sites are only partially built during capture, and construction sites are visually repetitive, degrading map quality while removing distinctive features. Existing meth — 来源：arxiv · arstechnica_ai — 原文：https://arxiv.org/abs/2610.29647v1</description>
-</item>
-<item>
-<title>Broad access through consistent standards</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ed22a61b2f1</link>
-<guid isPermaLink="false">evt_2ed22a61b2f1</guid>
-<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
-<category>industry</category>
-<description>How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies. — 来源：openai_blog — 原文：https://openai.com/index/broad-access-through-consistent-standards</description>
 </item>
 </channel>
 </rss>

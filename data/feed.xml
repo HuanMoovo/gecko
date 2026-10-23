@@ -5,8 +5,24 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 08:58:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 16:12:29 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_298c8de07d18</link>
+<guid isPermaLink="false">evt_298c8de07d18</guid>
+<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — 来源：openai_blog — 原文：https://openai.com/index/scaling-storage-one-billion-users-part-two</description>
+</item>
+<item>
+<title>WarmBloodAban/Minimax-h3_Singularity</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e9c1520038a6</link>
+<guid isPermaLink="false">evt_e9c1520038a6</guid>
+<pubDate>Fri, 23 Oct 2026 15:20:56 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-to-video · 下载 705,716 · 收藏 874 — 来源：arxiv · huggingface — 原文：https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity</description>
+</item>
 <item>
 <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
@@ -22,6 +38,14 @@
 <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
 <category>industry</category>
 <description>Fast, focused, low-cost decisions for any application. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://openai.com/index/decisions-api</description>
+</item>
+<item>
+<title>Retro gaming is being overrun with AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6c9bb2b01ac6</link>
+<guid isPermaLink="false">evt_6c9bb2b01ac6</guid>
+<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […] — 来源：arxiv · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</description>
 </item>
 <item>
 <title>Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon</title>
@@ -48,6 +72,14 @@
 <description>The rapid growth of the space economy, alongside increasing orbital congestion and debris, is driving demand for reliable on-orbit transportation of large and non-cooperative objects. Performing such transportation with a swarm of small spacecraft distributes risk and removes the single point of failure inherent to monolithic architectures, but requires solving a non-convex trajectory optimization coupling every agent's cone-constrained thrust to the payload's rotational dynamics. Existing approaches span decentralized control laws with asymptotic guarantees but limited constraint enforcement, — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31562v1</description>
 </item>
 <item>
+<title>Wolves enter Finnish villages after Google clears 1300 acres for AI data centers</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
+<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
+<pubDate>Fri, 23 Oct 2026 11:56:22 +0000</pubDate>
+<category>industry</category>
+<description>来源：google_ai_blog · hackernews · deepmind_blog · github — 原文：https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud</description>
+</item>
+<item>
 <title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
 <guid isPermaLink="false">evt_85fd077e7c71</guid>
@@ -72,14 +104,6 @@
 <description>In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational certainty, demanding a shared framework for assessment and mitigation. We make this exposure measurable by quantifying how accurately a target can be profiled, and how far that profile enables social — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.31573v1</description>
 </item>
 <item>
-<title>MiniMaxAI/MiniMax-M3.1-Flash</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e9c1520038a6</link>
-<guid isPermaLink="false">evt_e9c1520038a6</guid>
-<pubDate>Fri, 23 Oct 2026 03:37:20 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 357 · 收藏 150 — 来源：arxiv · huggingface — 原文：https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash</description>
-</item>
-<item>
 <title>How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d4a36e492a30</link>
 <guid isPermaLink="false">evt_d4a36e492a30</guid>
@@ -94,14 +118,6 @@
 <pubDate>Thu, 22 Oct 2026 15:32:06 +0000</pubDate>
 <category>agents</category>
 <description>Automated agentic-system design is typically evaluated on static task suites with immediate scalar rewards. Deployed systems face persistent shift, delayed dependent feedback, correlated component failures, and costly architecture changes. We formalize meta-agent architecture search as sequential incumbent replacement with switching costs and hard risk constraints and introduce Conservative Meta-Agent Search (CMAS). CMAS retrieves archived architectures and proposes typed graph edits, then scores each against the incumbent by paired shadow replay under common random numbers, with interventiona — 来源：arxiv · github — 原文：https://arxiv.org/abs/2610.31436v1</description>
-</item>
-<item>
-<title>Google Pushed AI into Schools–and Even Students Say It's Gone Too Far</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
-<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
-<pubDate>Thu, 22 Oct 2026 17:32:12 +0000</pubDate>
-<category>industry</category>
-<description>来源：google_ai_blog · hackernews · deepmind_blog · github — 原文：https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a</description>
 </item>
 <item>
 <title>EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence</title>
@@ -120,12 +136,28 @@
 <description>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers. — 来源：microsoft_research · techcrunch_ai — 原文：https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</description>
 </item>
 <item>
+<title>Meta delays new business terms after publisher pushback on AI scraping</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0eb1e35519be</link>
+<guid isPermaLink="false">evt_0eb1e35519be</guid>
+<pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
+<category>infrastructure</category>
+<description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow […] — 来源：arxiv · verge_ai — 原文：https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</description>
+</item>
+<item>
 <title>VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_0c63a7613017</link>
 <guid isPermaLink="false">evt_0c63a7613017</guid>
 <pubDate>Thu, 22 Oct 2026 16:00:09 +0000</pubDate>
 <category>research</category>
 <description>Tactile sensing provides robots with contact information difficult to obtain from vision alone. Shear force is particularly important for understanding tangential contact, guiding corrective motions, and maintaining grasp stability, yet flexible and low-cost tactile arrays often measure only normal force. We introduce VecTile, a low-cost, 6 mm thin, flexible tactile array capable of three-axis force sensing. VecTile combines a piezoresistive layer with passive silicone nubs that convert normal and shear forces into distinguishable pressure patterns. The sensor can be fabricated in-house withou — 来源：hn_frontpage · arxiv · github — 原文：https://arxiv.org/abs/2610.31472v1</description>
+</item>
+<item>
+<title>Does Your Model Run on AWS Trainium? Look It Up</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dbc0d55ff91</link>
+<guid isPermaLink="false">evt_9dbc0d55ff91</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<category>industry</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/torch-neuronx-model-support</description>
 </item>
 <item>
 <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
@@ -192,14 +224,6 @@
 <description>Memory enables language model assistants to maintain continuity across sessions and generate personalized responses, but knowing more about a user does not necessarily produce responses they prefer. Existing evaluations assess memory capabilities without directly establishing whether memory use benefits the user. To study this gap, we collect approximately 1,000 pairwise judgments from 87 participants using their own ChatGPT queries and personal memories. We find that memory-conditioned responses are not consistently preferred over responses generated without memory and in some cases, users st — 来源：github · openai_blog · techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2610.31272v1</description>
 </item>
 <item>
-<title>OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6c9bb2b01ac6</link>
-<guid isPermaLink="false">evt_6c9bb2b01ac6</guid>
-<pubDate>Thu, 22 Oct 2026 20:51:23 +0000</pubDate>
-<category>research</category>
-<description>We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our core contribution is twofold. First, we develop a scalable resistive tactile skin with a structured deformable overlay that converts tangential loading into spatially varying pressure. Differential responses across neighboring "taxels" support decoding of local shear vectors, and the common-mode response encodes normal force. Second, we provide a highly customizable sensor design tool that is able — 来源：arxiv · hackernews — 原文：https://arxiv.org/abs/2610.31661v1</description>
-</item>
-<item>
 <title>DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5b545cfdb425</link>
 <guid isPermaLink="false">evt_5b545cfdb425</guid>
@@ -224,20 +248,20 @@
 <description>The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production. — 来源：hackernews · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/</description>
 </item>
 <item>
-<title>Announcing new ways to customize models with SageMaker AI, without managing GPUs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_418ae447f600</link>
-<guid isPermaLink="false">evt_418ae447f600</guid>
-<pubDate>Thu, 22 Oct 2026 18:00:04 +0000</pubDate>
-<category>infrastructure</category>
-<description>Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/</description>
-</item>
-<item>
 <title>How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_762687ac4e57</link>
 <guid isPermaLink="false">evt_762687ac4e57</guid>
 <pubDate>Thu, 22 Oct 2026 18:01:53 +0000</pubDate>
 <category>industry</category>
 <description>Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/</description>
+</item>
+<item>
+<title>Announcing new ways to customize models with SageMaker AI, without managing GPUs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_418ae447f600</link>
+<guid isPermaLink="false">evt_418ae447f600</guid>
+<pubDate>Thu, 22 Oct 2026 18:00:04 +0000</pubDate>
+<category>infrastructure</category>
+<description>Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/</description>
 </item>
 <item>
 <title>Deploy AI in a HIPAA-eligible environment with Amazon Quick</title>
@@ -336,6 +360,14 @@
 <description>A unified inference and post-training framework for accelerated video generation. · topics: diffusers, diffusion-models, distillation, inference, post-training, video-generation · ⭐ 4,684 · Python — 来源：arxiv · github — 原文：https://github.com/hao-ai-lab/FastVideo</description>
 </item>
 <item>
+<title>I made Transformer Architecture from scratch [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2d697c6e8069</link>
+<guid isPermaLink="false">evt_2d697c6e8069</guid>
+<pubDate>Fri, 23 Oct 2026 12:36:12 +0000</pubDate>
+<category>infrastructure</category>
+<description>I implemented the 2017 transformer architecture using pytorch, the model right now doesn't predict very good due to the fact that I am using on 2 layers of encoder and decoder with just 1000 words to train it , due to the fact that it takes a lot of time to train my implementation. Looking at the code is there a way that I can reduce the time it takes for training or maybe improve its results? submitted by /u/Jumbledsaturn52 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/</description>
+</item>
+<item>
 <title>TanStack/ai — 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across Op</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_21de19e7d0ab</link>
 <guid isPermaLink="false">evt_21de19e7d0ab</guid>
@@ -360,22 +392,6 @@
 <description>Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To examine this, we propose Sensorimotor Alignment ($S^2$), a training-f — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31670v1</description>
 </item>
 <item>
-<title>Cost-Aware Abstention for LLM-Based IT Ticket Classification</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3d3449f74dda</link>
-<guid isPermaLink="false">evt_3d3449f74dda</guid>
-<pubDate>Thu, 22 Oct 2026 17:58:52 +0000</pubDate>
-<category>foundation_models</category>
-<description>Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a public 47,837-ticket, eight-class corpus, we compare four trained non-LLM classifiers with four large language models under zero- and few-shot prompting. Under the illustrative cost model (c_ok, c_triage, c_wrong) = (0, 1, 5), TF-IDF with logistic regression and a threshold of 0.60 selected on cali — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31657v1</description>
-</item>
-<item>
-<title>METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec6b7300c1fe</link>
-<guid isPermaLink="false">evt_ec6b7300c1fe</guid>
-<pubDate>Thu, 22 Oct 2026 17:58:27 +0000</pubDate>
-<category>research</category>
-<description>Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation cost. In this work, we propose Memory-Enhanced Test-Time Adaptation (METTA) for meta-reinforcement learning. It decomposes the fast adaptation phase into two temporal scales: a causal neural memory performs fine-grained within-episode adaptation  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31656v1</description>
-</item>
-<item>
 <title>Reliable AI-Assisted Decisions via Selective Auditing</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_fcac9fd42ce4</link>
 <guid isPermaLink="false">evt_fcac9fd42ce4</guid>
@@ -390,22 +406,6 @@
 <pubDate>Thu, 22 Oct 2026 17:59:50 +0000</pubDate>
 <category>research</category>
 <description>Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens for examining these developments. Viewing an observed video as a partial, lossy, and temporally ordered projection of a latent temporal world, we organize the literature around four complementary operations: reading infers world properties from — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31668v1</description>
-</item>
-<item>
-<title>SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_598d2815e6a2</link>
-<guid isPermaLink="false">evt_598d2815e6a2</guid>
-<pubDate>Thu, 22 Oct 2026 17:59:03 +0000</pubDate>
-<category>research</category>
-<description>Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later checks whether that signal appears in a suspect model's generated outputs. Existing approaches often trade off verifiability, fidelity, robustness, and deployability. We introduce $\textbf{SpectralCanary}$, which uses a smooth low-pass mask to blend a fixed canary image into every collection image whil — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31659v1</description>
-</item>
-<item>
-<title>Training Small Language Models for Transferable Tool Selection</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dfe29baca0c9</link>
-<guid isPermaLink="false">evt_dfe29baca0c9</guid>
-<pubDate>Thu, 22 Oct 2026 17:56:13 +0000</pubDate>
-<category>foundation_models</category>
-<description>As LLM agents operate over corpora of more than ten thousand tools, selecting the right tool for a complex multi-step user instruction becomes a central bottleneck. Tool descriptions cannot all fit in context, and relevance-based retrievers only rank tools without knowing which are actually needed. Recent work instead leverages proprietary commercial LLMs like Claude or ChatGPT to drive a retriever, decomposing the instruction and selecting over retrieved candidates. We show that a small, open model can be trained via reinforcement learning to perform the same functionality. On ToolBench, a Qw — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31483v1</description>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,40 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 16:12:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 22:47:12 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
+<guid isPermaLink="false">evt_94e7f4f5c0e5</guid>
+<pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
+<category>research</category>
+<description>来源：hf_blog · huggingface — 原文：https://huggingface.co/blog/allenai/litpivot</description>
+</item>
+<item>
+<title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
+<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
+<pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
+<category>safety</category>
+<description>Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […] — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</description>
+</item>
+<item>
+<title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
+<guid isPermaLink="false">evt_f298fb1604b9</guid>
+<pubDate>Fri, 23 Oct 2026 21:59:19 +0000</pubDate>
+<category>robotics</category>
+<description>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command. — 来源：nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</description>
+</item>
+<item>
+<title>Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_95364ce77079</link>
+<guid isPermaLink="false">evt_95364ce77079</guid>
+<pubDate>Fri, 23 Oct 2026 17:48:54 +0000</pubDate>
+<category>agents</category>
+<description>Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/</description>
+</item>
 <item>
 <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_298c8de07d18</link>
@@ -14,6 +46,30 @@
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
 <category>foundation_models</category>
 <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — 来源：openai_blog — 原文：https://openai.com/index/scaling-storage-one-billion-users-part-two</description>
+</item>
+<item>
+<title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
+<guid isPermaLink="false">evt_a8d953e36308</guid>
+<pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
+<category>industry</category>
+<description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
+</item>
+<item>
+<title>Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
+<guid isPermaLink="false">evt_1fc68e0e835e</guid>
+<pubDate>Fri, 23 Oct 2026 16:24:55 +0000</pubDate>
+<category>agents</category>
+<description>Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/</description>
+</item>
+<item>
+<title>How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_833d3d328a66</link>
+<guid isPermaLink="false">evt_833d3d328a66</guid>
+<pubDate>Fri, 23 Oct 2026 16:21:36 +0000</pubDate>
+<category>agents</category>
+<description>Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/</description>
 </item>
 <item>
 <title>WarmBloodAban/Minimax-h3_Singularity</title>
@@ -24,14 +80,6 @@
 <description>Hugging Face 模型 · image-to-video · 下载 705,716 · 收藏 874 — 来源：arxiv · huggingface — 原文：https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity</description>
 </item>
 <item>
-<title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
-<guid isPermaLink="false">evt_f298fb1604b9</guid>
-<pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
-<category>robotics</category>
-<description>inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. — 来源：nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</description>
-</item>
-<item>
 <title>Build more responsive apps with the Decisions API</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
 <guid isPermaLink="false">evt_4ab93569e260</guid>
@@ -40,12 +88,28 @@
 <description>Fast, focused, low-cost decisions for any application. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://openai.com/index/decisions-api</description>
 </item>
 <item>
+<title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_35e6d373f234</link>
+<guid isPermaLink="false">evt_35e6d373f234</guid>
+<pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
+<category>industry</category>
+<description>Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […] — 来源：arxiv · arstechnica_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</description>
+</item>
+<item>
 <title>Retro gaming is being overrun with AI</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6c9bb2b01ac6</link>
 <guid isPermaLink="false">evt_6c9bb2b01ac6</guid>
 <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
 <category>industry</category>
 <description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […] — 来源：arxiv · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</description>
+</item>
+<item>
+<title>OpenAI now trains its frontier AI models with no internet access</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
+<guid isPermaLink="false">evt_67972bfe4904</guid>
+<pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
+<category>infrastructure</category>
+<description>OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier […] — 来源：verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</description>
 </item>
 <item>
 <title>Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon</title>
@@ -70,14 +134,6 @@
 <pubDate>Thu, 22 Oct 2026 17:45:58 +0000</pubDate>
 <category>research</category>
 <description>The rapid growth of the space economy, alongside increasing orbital congestion and debris, is driving demand for reliable on-orbit transportation of large and non-cooperative objects. Performing such transportation with a swarm of small spacecraft distributes risk and removes the single point of failure inherent to monolithic architectures, but requires solving a non-convex trajectory optimization coupling every agent's cone-constrained thrust to the payload's rotational dynamics. Existing approaches span decentralized control laws with asymptotic guarantees but limited constraint enforcement, — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31562v1</description>
-</item>
-<item>
-<title>Wolves enter Finnish villages after Google clears 1300 acres for AI data centers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
-<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
-<pubDate>Fri, 23 Oct 2026 11:56:22 +0000</pubDate>
-<category>industry</category>
-<description>来源：google_ai_blog · hackernews · deepmind_blog · github — 原文：https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud</description>
 </item>
 <item>
 <title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
@@ -144,6 +200,14 @@
 <description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow […] — 来源：arxiv · verge_ai — 原文：https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</description>
 </item>
 <item>
+<title>Quick Study</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7fe075e5e5f0</link>
+<guid isPermaLink="false">evt_7fe075e5e5f0</guid>
+<pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
+<category>foundation_models</category>
+<description>Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags: tools — 来源：techcrunch_ai · hn_frontpage · verge_ai · simonwillison — 原文：https://simonwillison.net/2026/Oct/23/quick-study-painter/</description>
+</item>
+<item>
 <title>VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_0c63a7613017</link>
 <guid isPermaLink="false">evt_0c63a7613017</guid>
@@ -168,12 +232,12 @@
 <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. — 来源：openai_blog — 原文：https://openai.com/index/openai-nask-ai-safety-security-partnership</description>
 </item>
 <item>
-<title>HuggingFaceBio/Carbon-X</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
-<guid isPermaLink="false">evt_94e7f4f5c0e5</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:41 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 98 — 来源：hf_blog · huggingface — 原文：https://huggingface.co/HuggingFaceBio/Carbon-X</description>
+<title>New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_918065aafd8b</link>
+<guid isPermaLink="false">evt_918065aafd8b</guid>
+<pubDate>Fri, 23 Oct 2026 19:31:36 +0000</pubDate>
+<category>industry</category>
+<description>来源：simonwillison · latent_space · hackernews — 原文：https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562</description>
 </item>
 <item>
 <title>Donating Agent Skills to the Agentic AI Foundation</title>
@@ -190,6 +254,22 @@
 <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
 <category>agents</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/microsoft/thinkingbox-training</description>
+</item>
+<item>
+<title>From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4f8bba4990b7</link>
+<guid isPermaLink="false">evt_4f8bba4990b7</guid>
+<pubDate>Fri, 23 Oct 2026 19:06:23 +0000</pubDate>
+<category>industry</category>
+<description>Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/</description>
+</item>
+<item>
+<title>Agents fail like engineers, so I review them like engineers</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Fri, 23 Oct 2026 15:53:17 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews — 原文：https://blog.greenflagged.dev/posts/agents-fail-like-engineers/</description>
 </item>
 <item>
 <title>Prompt Sensitivity in Tool-Augmented Model Comparisons</title>
@@ -214,6 +294,14 @@
 <pubDate>Thu, 22 Oct 2026 13:00:20 +0000</pubDate>
 <category>industry</category>
 <description>Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […] — 来源：nvidia_blog · arxiv — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</description>
+</item>
+<item>
+<title>The iPhone Duo should have been an iPad</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4e972ac67253</link>
+<guid isPermaLink="false">evt_4e972ac67253</guid>
+<pubDate>Fri, 23 Oct 2026 17:00:18 +0000</pubDate>
+<category>industry</category>
+<description>We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […] — 来源：verge_ai — 原文：https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast</description>
 </item>
 <item>
 <title>Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use</title>
@@ -248,14 +336,6 @@
 <description>The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production. — 来源：hackernews · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/</description>
 </item>
 <item>
-<title>How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_762687ac4e57</link>
-<guid isPermaLink="false">evt_762687ac4e57</guid>
-<pubDate>Thu, 22 Oct 2026 18:01:53 +0000</pubDate>
-<category>industry</category>
-<description>Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/</description>
-</item>
-<item>
 <title>Announcing new ways to customize models with SageMaker AI, without managing GPUs</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_418ae447f600</link>
 <guid isPermaLink="false">evt_418ae447f600</guid>
@@ -264,12 +344,12 @@
 <description>Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/</description>
 </item>
 <item>
-<title>Deploy AI in a HIPAA-eligible environment with Amazon Quick</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
-<guid isPermaLink="false">evt_1fc68e0e835e</guid>
-<pubDate>Thu, 22 Oct 2026 17:48:22 +0000</pubDate>
-<category>agents</category>
-<description>Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare environment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/</description>
+<title>How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_762687ac4e57</link>
+<guid isPermaLink="false">evt_762687ac4e57</guid>
+<pubDate>Thu, 22 Oct 2026 18:01:53 +0000</pubDate>
+<category>industry</category>
+<description>Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/</description>
 </item>
 <item>
 <title>[Dataset] CohereLabsCommunity/CulturalRiddles</title>
@@ -294,14 +374,6 @@
 <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
 <category>foundation_models</category>
 <description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows. — 来源：github · hackernews · techcrunch_ai · openai_blog — 原文：https://openai.com/index/uber-chatgpt-work-rollout</description>
-</item>
-<item>
-<title>Stop guessing auto scaling targets for TTS on Amazon SageMaker AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
-<guid isPermaLink="false">evt_a8d953e36308</guid>
-<pubDate>Thu, 22 Oct 2026 16:30:06 +0000</pubDate>
-<category>generative</category>
-<description>Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two live-endpoint measurements, Q_max and T_total, instead of guesswork. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/</description>
 </item>
 <item>
 <title>embeddings-benchmark/mteb — MTEB: State-of-the-art evaluation of embeddings across languages and modalities</title>
@@ -334,78 +406,6 @@
 <pubDate>Thu, 22 Oct 2026 17:59:53 +0000</pubDate>
 <category>research</category>
 <description>Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but smooth initial improvement followed by diminishing returns, with a sharper transition under greater initialization mismatch. Under polynomial spectral decay with exponent $α&gt;1$ and leverage compatibility, we establish a squared $L_2$ approxim — 来源：simonwillison · arxiv — 原文：https://arxiv.org/abs/2610.31663v1</description>
-</item>
-<item>
-<title>Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_65f689d03570</link>
-<guid isPermaLink="false">evt_65f689d03570</guid>
-<pubDate>Thu, 22 Oct 2026 14:11:34 +0000</pubDate>
-<category>research</category>
-<description>4D scene reconstruction requires robust handling of dynamic objects, yet existing streaming methods commonly assume static scenes, leading to pose drift and ghosting artifacts over long sequences. We introduce Stream4D, a training-free, motion-decoupled streaming reconstruction framework that can be directly integrated into causal Transformer backbones (e.g., StreamVGGT, Stream3R). Our key observation is that causal attention implicitly encodes rich temporal motion cues within the KV cache. We adaptively aggregate these cues from multiple attention layers and across temporal windows, and fuse  — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31320v1</description>
-</item>
-<item>
-<title>Diffusion-Based Synthesis of Complete 3D Biparametric Prostate MRI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d2e1e47d755f</link>
-<guid isPermaLink="false">evt_d2e1e47d755f</guid>
-<pubDate>Thu, 22 Oct 2026 17:26:34 +0000</pubDate>
-<category>research</category>
-<description>Synthetic biparametric MRI (bpMRI) may help alleviate the limited availability of large and representative prostate MRI datasets for deep learning applications. In this work, we present a conditional 3D diffusion framework for anatomy-conditioned synthesis of complete prostate bpMRI from anatomical masks. The framework supports sequential synthesis, in which T2w and diffusion modalities are generated by separately trained models, and joint synthesis, in which all bpMRI modalities are generated simultaneously within a single model. Five configurations were trained using PI-CAI, FastMRI Prostate — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.31523v1</description>
-</item>
-<item>
-<title>hao-ai-lab/FastVideo — A unified inference and post-training framework for accelerated video generation.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1dbc12b6d5c1</link>
-<guid isPermaLink="false">evt_1dbc12b6d5c1</guid>
-<pubDate>Thu, 22 Oct 2026 15:57:04 +0000</pubDate>
-<category>open_source</category>
-<description>A unified inference and post-training framework for accelerated video generation. · topics: diffusers, diffusion-models, distillation, inference, post-training, video-generation · ⭐ 4,684 · Python — 来源：arxiv · github — 原文：https://github.com/hao-ai-lab/FastVideo</description>
-</item>
-<item>
-<title>I made Transformer Architecture from scratch [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2d697c6e8069</link>
-<guid isPermaLink="false">evt_2d697c6e8069</guid>
-<pubDate>Fri, 23 Oct 2026 12:36:12 +0000</pubDate>
-<category>infrastructure</category>
-<description>I implemented the 2017 transformer architecture using pytorch, the model right now doesn't predict very good due to the fact that I am using on 2 layers of encoder and decoder with just 1000 words to train it , due to the fact that it takes a lot of time to train my implementation. Looking at the code is there a way that I can reduce the time it takes for training or maybe improve its results? submitted by /u/Jumbledsaturn52 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/</description>
-</item>
-<item>
-<title>TanStack/ai — 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across Op</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_21de19e7d0ab</link>
-<guid isPermaLink="false">evt_21de19e7d0ab</guid>
-<pubDate>Thu, 22 Oct 2026 15:17:47 +0000</pubDate>
-<category>open_source</category>
-<description>🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid. · topics: ai, ai-agents, ai-sdk, anthropic, chatbot, function-calling · ⭐ 3,213 · TypeScript — 来源：arxiv · github — 原文：https://github.com/TanStack/ai</description>
-</item>
-<item>
-<title>Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_91447c3fbdb8</link>
-<guid isPermaLink="false">evt_91447c3fbdb8</guid>
-<pubDate>Thu, 22 Oct 2026 17:59:48 +0000</pubDate>
-<category>research</category>
-<description>Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies divide broadly into two categories: Quality-based methods assign a score to each partial solution and discard those predicted to ultimately lead to an i — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31667v1</description>
-</item>
-<item>
-<title>Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3237bebe3ffd</link>
-<guid isPermaLink="false">evt_3237bebe3ffd</guid>
-<pubDate>Thu, 22 Oct 2026 17:59:51 +0000</pubDate>
-<category>robotics</category>
-<description>Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To examine this, we propose Sensorimotor Alignment ($S^2$), a training-f — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31670v1</description>
-</item>
-<item>
-<title>Reliable AI-Assisted Decisions via Selective Auditing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fcac9fd42ce4</link>
-<guid isPermaLink="false">evt_fcac9fd42ce4</guid>
-<pubDate>Thu, 22 Oct 2026 17:59:22 +0000</pubDate>
-<category>research</category>
-<description>We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a correctness or safety score. Based on this information, we must decide whether to accept the AI decision automatically or consult an expert, such as a human auditor, who reviews the proposal and eithe — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31662v1</description>
-</item>
-<item>
-<title>Reading, Writing, Sharing, and Interacting with the World through Video</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_eff4e94fb644</link>
-<guid isPermaLink="false">evt_eff4e94fb644</guid>
-<pubDate>Thu, 22 Oct 2026 17:59:50 +0000</pubDate>
-<category>research</category>
-<description>Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens for examining these developments. Viewing an observed video as a partial, lossy, and temporally ordered projection of a latent temporal world, we organize the literature around four complementary operations: reading infers world properties from — 来源：arxiv — 原文：https://arxiv.org/abs/2610.31668v1</description>
 </item>
 </channel>
 </rss>

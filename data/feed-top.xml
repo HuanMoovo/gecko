@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 18:29:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 22:09:47 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Progressive disclosure in agents to make them 2.3x faster</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Sat, 24 Oct 2026 16:30:58 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/</description>
+</item>
 <item>
 <title>AI4Finance-Foundation/FinRobot — FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
@@ -14,14 +22,6 @@
 <pubDate>Sat, 24 Oct 2026 13:58:26 +0000</pubDate>
 <category>foundation_models</category>
 <description>FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models · topics: aiagent, chatgpt, finance, fingpt, large-language-models, multimodal-deep-learning · ⭐ 8,291 · Python — 来源：github · hackernews · techcrunch_ai · openai_blog — 原文：https://github.com/AI4Finance-Foundation/FinRobot</description>
-</item>
-<item>
-<title>Here are the top AI agents that can live in your text messages</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
-<category>agents</category>
-<description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</description>
 </item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -80,6 +80,14 @@
 <description>来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html</description>
 </item>
 <item>
+<title>Is AI just another get rich quick scheme?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
+<guid isPermaLink="false">evt_85fd077e7c71</guid>
+<pubDate>Sat, 24 Oct 2026 13:11:37 +0000</pubDate>
+<category>industry</category>
+<description>You too can get rich quick in real estate --- details in this book; only $49.95.&lt;p&gt;If there really was a sure fire way to get rich quick, why sell books to the public? Why not keep it to yourself and apply it to make money?&lt;p&gt;The same applies to AI. If it was really all that, they wouldn&amp;#x27;t be selling tokens to the public.  They would be forming corporate partnerships, building products and conquering markets --- starting with the financial markets.&lt;p&gt;Those who can --- do. Those who can&amp;#x27;t --- sell books and &amp;quot;tokens&amp;quot;. — 来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://news.ycombinator.com/item?id=50220934</description>
+</item>
+<item>
 <title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
 <guid isPermaLink="false">evt_a8d953e36308</guid>
@@ -102,30 +110,6 @@
 <pubDate>Fri, 23 Oct 2026 16:21:36 +0000</pubDate>
 <category>agents</category>
 <description>Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/</description>
-</item>
-<item>
-<title>WarmBloodAban/Minimax-h3_Singularity</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e9c1520038a6</link>
-<guid isPermaLink="false">evt_e9c1520038a6</guid>
-<pubDate>Fri, 23 Oct 2026 15:20:56 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-to-video · 下载 705,716 · 收藏 874 — 来源：arxiv · huggingface — 原文：https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity</description>
-</item>
-<item>
-<title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_35e6d373f234</link>
-<guid isPermaLink="false">evt_35e6d373f234</guid>
-<pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
-<category>industry</category>
-<description>Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […] — 来源：arxiv · arstechnica_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</description>
-</item>
-<item>
-<title>Retro gaming is being overrun with AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6c9bb2b01ac6</link>
-<guid isPermaLink="false">evt_6c9bb2b01ac6</guid>
-<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<category>industry</category>
-<description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […] — 来源：arxiv · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</description>
 </item>
 </channel>
 </rss>

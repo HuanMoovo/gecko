@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 18:29:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 22:09:47 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Progressive disclosure in agents to make them 2.3x faster</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Sat, 24 Oct 2026 16:30:58 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/</description>
+</item>
 <item>
 <title>AI4Finance-Foundation/FinRobot — FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
@@ -14,14 +22,6 @@
 <pubDate>Sat, 24 Oct 2026 13:58:26 +0000</pubDate>
 <category>foundation_models</category>
 <description>FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models · topics: aiagent, chatgpt, finance, fingpt, large-language-models, multimodal-deep-learning · ⭐ 8,291 · Python — 来源：github · hackernews · techcrunch_ai · openai_blog — 原文：https://github.com/AI4Finance-Foundation/FinRobot</description>
-</item>
-<item>
-<title>Here are the top AI agents that can live in your text messages</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
-<category>agents</category>
-<description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</description>
 </item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -40,6 +40,14 @@
 <description>Comments — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/</description>
 </item>
 <item>
+<title>Blue Planet III is keeping the rough edges in the age of AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_26a10ea170f0</link>
+<guid isPermaLink="false">evt_26a10ea170f0</guid>
+<pubDate>Sat, 24 Oct 2026 21:29:12 +0000</pubDate>
+<category>industry</category>
+<description>BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</description>
+</item>
+<item>
 <title>orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e6e48b4f4486</link>
 <guid isPermaLink="false">evt_e6e48b4f4486</guid>
@@ -48,12 +56,28 @@
 <description>Hugging Face 模型 · text-generation · 下载 3 · 收藏 100 — 来源：huggingface — 原文：https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF</description>
 </item>
 <item>
+<title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dbe76530e989</link>
+<guid isPermaLink="false">evt_dbe76530e989</guid>
+<pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
+<category>industry</category>
+<description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</description>
+</item>
+<item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
 <guid isPermaLink="false">evt_94e7f4f5c0e5</guid>
 <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
 <category>research</category>
 <description>来源：hf_blog · huggingface — 原文：https://huggingface.co/blog/allenai/litpivot</description>
+</item>
+<item>
+<title>Pennsylvania will require labels on AI-generated ads</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_934580108444</link>
+<guid isPermaLink="false">evt_934580108444</guid>
+<pubDate>Sat, 24 Oct 2026 18:32:21 +0000</pubDate>
+<category>industry</category>
+<description>On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</description>
 </item>
 <item>
 <title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
@@ -104,6 +128,14 @@
 <description>来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html</description>
 </item>
 <item>
+<title>Is AI just another get rich quick scheme?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
+<guid isPermaLink="false">evt_85fd077e7c71</guid>
+<pubDate>Sat, 24 Oct 2026 13:11:37 +0000</pubDate>
+<category>industry</category>
+<description>You too can get rich quick in real estate --- details in this book; only $49.95.&lt;p&gt;If there really was a sure fire way to get rich quick, why sell books to the public? Why not keep it to yourself and apply it to make money?&lt;p&gt;The same applies to AI. If it was really all that, they wouldn&amp;#x27;t be selling tokens to the public.  They would be forming corporate partnerships, building products and conquering markets --- starting with the financial markets.&lt;p&gt;Those who can --- do. Those who can&amp;#x27;t --- sell books and &amp;quot;tokens&amp;quot;. — 来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://news.ycombinator.com/item?id=50220934</description>
+</item>
+<item>
 <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_298c8de07d18</link>
 <guid isPermaLink="false">evt_298c8de07d18</guid>
@@ -144,6 +176,14 @@
 <description>Hugging Face 模型 · image-to-video · 下载 705,716 · 收藏 874 — 来源：arxiv · huggingface — 原文：https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity</description>
 </item>
 <item>
+<title>nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0387ac6c8a75</link>
+<guid isPermaLink="false">evt_0387ac6c8a75</guid>
+<pubDate>Fri, 23 Oct 2026 19:03:57 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 5,906 · 收藏 94 — 来源：huggingface — 原文：https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB</description>
+</item>
+<item>
 <title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_35e6d373f234</link>
 <guid isPermaLink="false">evt_35e6d373f234</guid>
@@ -176,12 +216,20 @@
 <description>The rapid growth of the space economy, alongside increasing orbital congestion and debris, is driving demand for reliable on-orbit transportation of large and non-cooperative objects. Performing such transportation with a swarm of small spacecraft distributes risk and removes the single point of failure inherent to monolithic architectures, but requires solving a non-convex trajectory optimization coupling every agent's cone-constrained thrust to the payload's rotational dynamics. Existing approaches span decentralized control laws with asymptotic guarantees but limited constraint enforcement, — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31562v1</description>
 </item>
 <item>
-<title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
-<guid isPermaLink="false">evt_85fd077e7c71</guid>
-<pubDate>Fri, 23 Oct 2026 06:41:11 +0000</pubDate>
+<title>No Signs of AI Payoff Outside the Tech Sector</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6597a1303e38</link>
+<guid isPermaLink="false">evt_6597a1303e38</guid>
+<pubDate>Sat, 24 Oct 2026 19:47:19 +0000</pubDate>
 <category>industry</category>
-<description>来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://berget.ai/en/blog/per-request-co2-press-release</description>
+<description>来源：hackernews — 原文：https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</description>
+</item>
+<item>
+<title>Why is AI generated language so hard to understand?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_81c8fd74d5e2</link>
+<guid isPermaLink="false">evt_81c8fd74d5e2</guid>
+<pubDate>Sat, 24 Oct 2026 18:04:57 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://arxiv.org/abs/2610.29162</description>
 </item>
 <item>
 <title>AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments</title>
@@ -230,6 +278,14 @@
 <pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
 <category>industry</category>
 <description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</description>
+</item>
+<item>
+<title>DetectorScope: AI text detectors that show their work</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_52820d329427</link>
+<guid isPermaLink="false">evt_52820d329427</guid>
+<pubDate>Sat, 24 Oct 2026 15:13:07 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://github.com/google-deepmind/detectorscope</description>
 </item>
 <item>
 <title>Conservative Meta-Agent Search: Architecture Adaptation under Non-Stationarity</title>
@@ -350,62 +406,6 @@
 <pubDate>Sat, 24 Oct 2026 10:26:30 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：hackernews — 原文：https://twitter.com/chrislakin/status/2113358733548081528</description>
-</item>
-<item>
-<title>From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4f8bba4990b7</link>
-<guid isPermaLink="false">evt_4f8bba4990b7</guid>
-<pubDate>Fri, 23 Oct 2026 19:06:23 +0000</pubDate>
-<category>industry</category>
-<description>Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/</description>
-</item>
-<item>
-<title>Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c235eef33da9</link>
-<guid isPermaLink="false">evt_c235eef33da9</guid>
-<pubDate>Sat, 24 Oct 2026 09:58:29 +0000</pubDate>
-<category>infrastructure</category>
-<description>I wanted to see how far you can get making a pretrained symbolic music model "listen" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano. While I play I track my key, the chord I'm holding and my tempo, and add biases to the logits before sampling. Out-of-key notes get pushed down, chord tones and tensions get pushed up, the keys right around my hands get pushed down so it doesn't step on me, and when I stop it gets pulled up to where a melody would be. There's  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/</description>
-</item>
-<item>
-<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
-<guid isPermaLink="false">evt_4472664e9020</guid>
-<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
-<category>agents</category>
-<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
-</item>
-<item>
-<title>Prompt Sensitivity in Tool-Augmented Model Comparisons</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_712bc0d815dc</link>
-<guid isPermaLink="false">evt_712bc0d815dc</guid>
-<pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
-<category>research</category>
-<description>Language models are compared on question-answering benchmarks that pose each question in one wording, and a reworded question can change which of two models scores higher. We ask whether giving the models tools makes such comparisons more stable. An accuracy gain cannot answer this, because tools change several steps between the question and the scored answer at once. We propose a matched protocol that separates those steps: the answer readout, reasoning, the decision to call, the tool's answer, and the report supplied without a call. We apply it to six open models in five domains under five w — 来源：mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31148v1</description>
-</item>
-<item>
-<title>Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ad89d65a44a</link>
-<guid isPermaLink="false">evt_4ad89d65a44a</guid>
-<pubDate>Thu, 22 Oct 2026 13:00:20 +0000</pubDate>
-<category>industry</category>
-<description>Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […] — 来源：nvidia_blog · arxiv — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</description>
-</item>
-<item>
-<title>The iPhone Duo should have been an iPad</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4e972ac67253</link>
-<guid isPermaLink="false">evt_4e972ac67253</guid>
-<pubDate>Fri, 23 Oct 2026 17:00:18 +0000</pubDate>
-<category>industry</category>
-<description>We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […] — 来源：verge_ai — 原文：https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast</description>
-</item>
-<item>
-<title>Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_eece3470089f</link>
-<guid isPermaLink="false">evt_eece3470089f</guid>
-<pubDate>Thu, 22 Oct 2026 13:43:33 +0000</pubDate>
-<category>foundation_models</category>
-<description>Memory enables language model assistants to maintain continuity across sessions and generate personalized responses, but knowing more about a user does not necessarily produce responses they prefer. Existing evaluations assess memory capabilities without directly establishing whether memory use benefits the user. To study this gap, we collect approximately 1,000 pairwise judgments from 87 participants using their own ChatGPT queries and personal memories. We find that memory-conditioned responses are not consistently preferred over responses generated without memory and in some cases, users st — 来源：github · openai_blog · techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2610.31272v1</description>
 </item>
 </channel>
 </rss>

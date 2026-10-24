@@ -5,8 +5,24 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 08:32:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 15:08:38 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI4Finance-Foundation/FinRobot — FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
+<guid isPermaLink="false">evt_011ceac98040</guid>
+<pubDate>Sat, 24 Oct 2026 13:58:26 +0000</pubDate>
+<category>foundation_models</category>
+<description>FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models · topics: aiagent, chatgpt, finance, fingpt, large-language-models, multimodal-deep-learning · ⭐ 8,291 · Python — 来源：github · hackernews · techcrunch_ai · openai_blog — 原文：https://github.com/AI4Finance-Foundation/FinRobot</description>
+</item>
+<item>
+<title>Here are the top AI agents that can live in your text messages</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+<category>agents</category>
+<description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</description>
+</item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
@@ -14,14 +30,6 @@
 <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
 <category>safety</category>
 <description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</description>
-</item>
-<item>
-<title>jackwener/OpenCLI — Make Any Website into CLI &amp; Use your logged-in browser by AI agent.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sat, 24 Oct 2026 03:32:47 +0000</pubDate>
-<category>open_source</category>
-<description>Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  · topics: ai-agent, ai-agents, ai-tools, browser-automation, browser-use, cli · ⭐ 30,602 · JavaScript — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/jackwener/OpenCLI</description>
 </item>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -126,70 +134,6 @@
 <pubDate>Thu, 22 Oct 2026 17:45:58 +0000</pubDate>
 <category>research</category>
 <description>The rapid growth of the space economy, alongside increasing orbital congestion and debris, is driving demand for reliable on-orbit transportation of large and non-cooperative objects. Performing such transportation with a swarm of small spacecraft distributes risk and removes the single point of failure inherent to monolithic architectures, but requires solving a non-convex trajectory optimization coupling every agent's cone-constrained thrust to the payload's rotational dynamics. Existing approaches span decentralized control laws with asymptotic guarantees but limited constraint enforcement, — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31562v1</description>
-</item>
-<item>
-<title>AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_77c10bd5f145</link>
-<guid isPermaLink="false">evt_77c10bd5f145</guid>
-<pubDate>Thu, 22 Oct 2026 18:48:04 +0000</pubDate>
-<category>agents</category>
-<description>Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiments on the candidate program. To measure the contribution of experimentation, we compare AgenticEvolve with No-analysis, an otherwise identica — 来源：nvidia_blog · hackernews · github · mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31326v1</description>
-</item>
-<item>
-<title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
-<guid isPermaLink="false">evt_85fd077e7c71</guid>
-<pubDate>Fri, 23 Oct 2026 06:41:11 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://berget.ai/en/blog/per-request-co2-press-release</description>
-</item>
-<item>
-<title>Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1000256b3205</link>
-<guid isPermaLink="false">evt_1000256b3205</guid>
-<pubDate>Thu, 22 Oct 2026 17:13:46 +0000</pubDate>
-<category>foundation_models</category>
-<description>In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational certainty, demanding a shared framework for assessment and mitigation. We make this exposure measurable by quantifying how accurately a target can be profiled, and how far that profile enables social — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.31573v1</description>
-</item>
-<item>
-<title>How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4a36e492a30</link>
-<guid isPermaLink="false">evt_d4a36e492a30</guid>
-<pubDate>Thu, 22 Oct 2026 15:24:16 +0000</pubDate>
-<category>research</category>
-<description>Recent advances in specialized decision models have expanded the possibilities for zero-shot classification, yet their effectiveness on Vietnamese remains underexplored. This study evaluates four specialized decision models across 13 classification settings spanning six task groups, examining zero-shot performance, sensitivity to label-description language, and robustness to Vietnamese linguistic variations. The evaluation considers English, Vietnamese, and bilingual label descriptions, alongside common linguistic perturbations involving teencode, typographical errors, and diacritic removal. U — 来源：verge_ai · github · arxiv — 原文：https://arxiv.org/abs/2610.31422v1</description>
-</item>
-<item>
-<title>Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_18837672148b</link>
-<guid isPermaLink="false">evt_18837672148b</guid>
-<pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
-<category>industry</category>
-<description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</description>
-</item>
-<item>
-<title>Conservative Meta-Agent Search: Architecture Adaptation under Non-Stationarity</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9db810cb474b</link>
-<guid isPermaLink="false">evt_9db810cb474b</guid>
-<pubDate>Thu, 22 Oct 2026 15:32:06 +0000</pubDate>
-<category>agents</category>
-<description>Automated agentic-system design is typically evaluated on static task suites with immediate scalar rewards. Deployed systems face persistent shift, delayed dependent feedback, correlated component failures, and costly architecture changes. We formalize meta-agent architecture search as sequential incumbent replacement with switching costs and hard risk constraints and introduce Conservative Meta-Agent Search (CMAS). CMAS retrieves archived architectures and proposes typed graph edits, then scores each against the incumbent by paired shadow replay under common random numbers, with interventiona — 来源：arxiv · github — 原文：https://arxiv.org/abs/2610.31436v1</description>
-</item>
-<item>
-<title>EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_06bec61ea72a</link>
-<guid isPermaLink="false">evt_06bec61ea72a</guid>
-<pubDate>Thu, 22 Oct 2026 17:57:04 +0000</pubDate>
-<category>research</category>
-<description>Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \bench{}, an executable benchmark for evaluating unsafe execution, safety boundaries, and evidence recovery in LLM agents under missing evidence. It contains 300 matched unsafe/safe task pairs across six domains. By systematically suppressing critical facts, the benchmark measures unsafe execution under critical — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.31650v1</description>
-</item>
-<item>
-<title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ccc3219ff3a4</link>
-<guid isPermaLink="false">evt_ccc3219ff3a4</guid>
-<pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
-<category>agents</category>
-<description>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers. — 来源：microsoft_research · techcrunch_ai — 原文：https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</description>
 </item>
 </channel>
 </rss>

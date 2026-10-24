@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 02:43:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 08:32:15 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -14,6 +14,14 @@
 <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
 <category>safety</category>
 <description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</description>
+</item>
+<item>
+<title>jackwener/OpenCLI — Make Any Website into CLI &amp; Use your logged-in browser by AI agent.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Sat, 24 Oct 2026 03:32:47 +0000</pubDate>
+<category>open_source</category>
+<description>Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  · topics: ai-agent, ai-agents, ai-tools, browser-automation, browser-use, cli · ⭐ 30,602 · JavaScript — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/jackwener/OpenCLI</description>
 </item>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -38,6 +46,14 @@
 <pubDate>Fri, 23 Oct 2026 21:59:19 +0000</pubDate>
 <category>robotics</category>
 <description>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command. — 来源：nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</description>
+</item>
+<item>
+<title>Meta says if its AI makes a mistake, it will legally be the customer's fault</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
+<guid isPermaLink="false">evt_add383da2fc0</guid>
+<pubDate>Sat, 24 Oct 2026 05:27:03 +0000</pubDate>
+<category>industry</category>
+<description>来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html</description>
 </item>
 <item>
 <title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
@@ -104,22 +120,6 @@
 <description>Apple Silicon is among the most widely used platforms for local LLM inference, yet nearly all inference optimizations are designed and validated on server-class NVIDIA GPUs under batched serving workloads. Which optimizations retain their benefits when moved to Apple Silicon, and what determines their applicability? We evaluate four optimization families: KV-cache pruning, speculative decoding, ported GPU kernels, and post-training quantization. Experiments span four Apple machines under a common single-request decode workload, with matched RTX 4090 comparisons where possible. KV-cache pruning — 来源：github · verge_ai · arxiv — 原文：https://arxiv.org/abs/2610.31479v1</description>
 </item>
 <item>
-<title>From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
-<guid isPermaLink="false">evt_add383da2fc0</guid>
-<pubDate>Fri, 23 Oct 2026 01:50:06 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context improves pharmaceutical claims generation, using Composer, a deployed internal tool built on a Golden Data — 来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.31519v1</description>
-</item>
-<item>
-<title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
-<category>agents</category>
-<description>Comments — 来源：techcrunch_ai · hackernews · hn_frontpage — 原文：https://corgi.computer/</description>
-</item>
-<item>
 <title>Decentralized Bi-Level Optimization for Cooperative Orbital Transportation of a Rigid Payload</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2e13c1358e10</link>
 <guid isPermaLink="false">evt_2e13c1358e10</guid>
@@ -128,20 +128,20 @@
 <description>The rapid growth of the space economy, alongside increasing orbital congestion and debris, is driving demand for reliable on-orbit transportation of large and non-cooperative objects. Performing such transportation with a swarm of small spacecraft distributes risk and removes the single point of failure inherent to monolithic architectures, but requires solving a non-convex trajectory optimization coupling every agent's cone-constrained thrust to the payload's rotational dynamics. Existing approaches span decentralized control laws with asymptotic guarantees but limited constraint enforcement, — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31562v1</description>
 </item>
 <item>
-<title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
-<guid isPermaLink="false">evt_85fd077e7c71</guid>
-<pubDate>Fri, 23 Oct 2026 06:41:11 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://berget.ai/en/blog/per-request-co2-press-release</description>
-</item>
-<item>
 <title>AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_77c10bd5f145</link>
 <guid isPermaLink="false">evt_77c10bd5f145</guid>
 <pubDate>Thu, 22 Oct 2026 18:48:04 +0000</pubDate>
 <category>agents</category>
 <description>Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiments on the candidate program. To measure the contribution of experimentation, we compare AgenticEvolve with No-analysis, an otherwise identica — 来源：nvidia_blog · hackernews · github · mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31326v1</description>
+</item>
+<item>
+<title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
+<guid isPermaLink="false">evt_85fd077e7c71</guid>
+<pubDate>Fri, 23 Oct 2026 06:41:11 +0000</pubDate>
+<category>industry</category>
+<description>来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://berget.ai/en/blog/per-request-co2-press-release</description>
 </item>
 <item>
 <title>Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure</title>
@@ -158,6 +158,14 @@
 <pubDate>Thu, 22 Oct 2026 15:24:16 +0000</pubDate>
 <category>research</category>
 <description>Recent advances in specialized decision models have expanded the possibilities for zero-shot classification, yet their effectiveness on Vietnamese remains underexplored. This study evaluates four specialized decision models across 13 classification settings spanning six task groups, examining zero-shot performance, sensitivity to label-description language, and robustness to Vietnamese linguistic variations. The evaluation considers English, Vietnamese, and bilingual label descriptions, alongside common linguistic perturbations involving teencode, typographical errors, and diacritic removal. U — 来源：verge_ai · github · arxiv — 原文：https://arxiv.org/abs/2610.31422v1</description>
+</item>
+<item>
+<title>Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_18837672148b</link>
+<guid isPermaLink="false">evt_18837672148b</guid>
+<pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</description>
 </item>
 <item>
 <title>Conservative Meta-Agent Search: Architecture Adaptation under Non-Stationarity</title>
@@ -182,70 +190,6 @@
 <pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
 <category>agents</category>
 <description>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers. — 来源：microsoft_research · techcrunch_ai — 原文：https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</description>
-</item>
-<item>
-<title>Meta delays new business terms after publisher pushback on AI scraping</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0eb1e35519be</link>
-<guid isPermaLink="false">evt_0eb1e35519be</guid>
-<pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
-<category>infrastructure</category>
-<description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow […] — 来源：arxiv · verge_ai — 原文：https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</description>
-</item>
-<item>
-<title>Quick Study</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7fe075e5e5f0</link>
-<guid isPermaLink="false">evt_7fe075e5e5f0</guid>
-<pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
-<category>foundation_models</category>
-<description>Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags: tools — 来源：techcrunch_ai · hn_frontpage · verge_ai · simonwillison — 原文：https://simonwillison.net/2026/Oct/23/quick-study-painter/</description>
-</item>
-<item>
-<title>VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0c63a7613017</link>
-<guid isPermaLink="false">evt_0c63a7613017</guid>
-<pubDate>Thu, 22 Oct 2026 16:00:09 +0000</pubDate>
-<category>research</category>
-<description>Tactile sensing provides robots with contact information difficult to obtain from vision alone. Shear force is particularly important for understanding tangential contact, guiding corrective motions, and maintaining grasp stability, yet flexible and low-cost tactile arrays often measure only normal force. We introduce VecTile, a low-cost, 6 mm thin, flexible tactile array capable of three-axis force sensing. VecTile combines a piezoresistive layer with passive silicone nubs that convert normal and shear forces into distinguishable pressure patterns. The sensor can be fabricated in-house withou — 来源：hn_frontpage · arxiv · github — 原文：https://arxiv.org/abs/2610.31472v1</description>
-</item>
-<item>
-<title>Does Your Model Run on AWS Trainium? Look It Up</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dbc0d55ff91</link>
-<guid isPermaLink="false">evt_9dbc0d55ff91</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<category>industry</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/torch-neuronx-model-support</description>
-</item>
-<item>
-<title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ed22a61b2f1</link>
-<guid isPermaLink="false">evt_2ed22a61b2f1</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<category>safety</category>
-<description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. — 来源：openai_blog — 原文：https://openai.com/index/openai-nask-ai-safety-security-partnership</description>
-</item>
-<item>
-<title>New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_918065aafd8b</link>
-<guid isPermaLink="false">evt_918065aafd8b</guid>
-<pubDate>Fri, 23 Oct 2026 19:31:36 +0000</pubDate>
-<category>industry</category>
-<description>来源：simonwillison · latent_space · hackernews — 原文：https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562</description>
-</item>
-<item>
-<title>Donating Agent Skills to the Agentic AI Foundation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec286bca2454</link>
-<guid isPermaLink="false">evt_ec286bca2454</guid>
-<pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
-<category>agents</category>
-<description>Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an "open standard": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun s — 来源：hackernews · github · simonwillison — 原文：https://simonwillison.net/2026/Oct/22/donating-agent-skills/</description>
-</item>
-<item>
-<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
-<guid isPermaLink="false">evt_4472664e9020</guid>
-<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
-<category>agents</category>
-<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
 </item>
 </channel>
 </rss>

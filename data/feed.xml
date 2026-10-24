@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 02:43:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 08:32:15 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -14,6 +14,14 @@
 <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
 <category>safety</category>
 <description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</description>
+</item>
+<item>
+<title>jackwener/OpenCLI — Make Any Website into CLI &amp; Use your logged-in browser by AI agent.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Sat, 24 Oct 2026 03:32:47 +0000</pubDate>
+<category>open_source</category>
+<description>Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  · topics: ai-agent, ai-agents, ai-tools, browser-automation, browser-use, cli · ⭐ 30,602 · JavaScript — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/jackwener/OpenCLI</description>
 </item>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -48,12 +56,28 @@
 <description>Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/</description>
 </item>
 <item>
+<title>Meta says if its AI makes a mistake, it will legally be the customer's fault</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
+<guid isPermaLink="false">evt_add383da2fc0</guid>
+<pubDate>Sat, 24 Oct 2026 05:27:03 +0000</pubDate>
+<category>industry</category>
+<description>来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html</description>
+</item>
+<item>
 <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_298c8de07d18</link>
 <guid isPermaLink="false">evt_298c8de07d18</guid>
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
 <category>foundation_models</category>
 <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — 来源：openai_blog — 原文：https://openai.com/index/scaling-storage-one-billion-users-part-two</description>
+</item>
+<item>
+<title>ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e6e48b4f4486</link>
+<guid isPermaLink="false">evt_e6e48b4f4486</guid>
+<pubDate>Fri, 23 Oct 2026 23:26:25 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 97 — 来源：huggingface — 原文：https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF</description>
 </item>
 <item>
 <title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
@@ -120,22 +144,6 @@
 <description>Apple Silicon is among the most widely used platforms for local LLM inference, yet nearly all inference optimizations are designed and validated on server-class NVIDIA GPUs under batched serving workloads. Which optimizations retain their benefits when moved to Apple Silicon, and what determines their applicability? We evaluate four optimization families: KV-cache pruning, speculative decoding, ported GPU kernels, and post-training quantization. Experiments span four Apple machines under a common single-request decode workload, with matched RTX 4090 comparisons where possible. KV-cache pruning — 来源：github · verge_ai · arxiv — 原文：https://arxiv.org/abs/2610.31479v1</description>
 </item>
 <item>
-<title>From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
-<guid isPermaLink="false">evt_add383da2fc0</guid>
-<pubDate>Fri, 23 Oct 2026 01:50:06 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context improves pharmaceutical claims generation, using Composer, a deployed internal tool built on a Golden Data — 来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.31519v1</description>
-</item>
-<item>
-<title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
-<category>agents</category>
-<description>Comments — 来源：techcrunch_ai · hackernews · hn_frontpage — 原文：https://corgi.computer/</description>
-</item>
-<item>
 <title>Decentralized Bi-Level Optimization for Cooperative Orbital Transportation of a Rigid Payload</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2e13c1358e10</link>
 <guid isPermaLink="false">evt_2e13c1358e10</guid>
@@ -144,20 +152,20 @@
 <description>The rapid growth of the space economy, alongside increasing orbital congestion and debris, is driving demand for reliable on-orbit transportation of large and non-cooperative objects. Performing such transportation with a swarm of small spacecraft distributes risk and removes the single point of failure inherent to monolithic architectures, but requires solving a non-convex trajectory optimization coupling every agent's cone-constrained thrust to the payload's rotational dynamics. Existing approaches span decentralized control laws with asymptotic guarantees but limited constraint enforcement, — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31562v1</description>
 </item>
 <item>
-<title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
-<guid isPermaLink="false">evt_85fd077e7c71</guid>
-<pubDate>Fri, 23 Oct 2026 06:41:11 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://berget.ai/en/blog/per-request-co2-press-release</description>
-</item>
-<item>
 <title>AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_77c10bd5f145</link>
 <guid isPermaLink="false">evt_77c10bd5f145</guid>
 <pubDate>Thu, 22 Oct 2026 18:48:04 +0000</pubDate>
 <category>agents</category>
 <description>Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiments on the candidate program. To measure the contribution of experimentation, we compare AgenticEvolve with No-analysis, an otherwise identica — 来源：nvidia_blog · hackernews · github · mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31326v1</description>
+</item>
+<item>
+<title>The same AI request emits 8.5 times more CO2 in Texas than in Sweden</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
+<guid isPermaLink="false">evt_85fd077e7c71</guid>
+<pubDate>Fri, 23 Oct 2026 06:41:11 +0000</pubDate>
+<category>industry</category>
+<description>来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://berget.ai/en/blog/per-request-co2-press-release</description>
 </item>
 <item>
 <title>Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure</title>
@@ -174,6 +182,14 @@
 <pubDate>Thu, 22 Oct 2026 15:24:16 +0000</pubDate>
 <category>research</category>
 <description>Recent advances in specialized decision models have expanded the possibilities for zero-shot classification, yet their effectiveness on Vietnamese remains underexplored. This study evaluates four specialized decision models across 13 classification settings spanning six task groups, examining zero-shot performance, sensitivity to label-description language, and robustness to Vietnamese linguistic variations. The evaluation considers English, Vietnamese, and bilingual label descriptions, alongside common linguistic perturbations involving teencode, typographical errors, and diacritic removal. U — 来源：verge_ai · github · arxiv — 原文：https://arxiv.org/abs/2610.31422v1</description>
+</item>
+<item>
+<title>Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_18837672148b</link>
+<guid isPermaLink="false">evt_18837672148b</guid>
+<pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</description>
 </item>
 <item>
 <title>Conservative Meta-Agent Search: Architecture Adaptation under Non-Stationarity</title>
@@ -272,20 +288,20 @@
 <description>Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/</description>
 </item>
 <item>
-<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
-<guid isPermaLink="false">evt_4472664e9020</guid>
-<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
-<category>agents</category>
-<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
-</item>
-<item>
 <title>Prompt Sensitivity in Tool-Augmented Model Comparisons</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_712bc0d815dc</link>
 <guid isPermaLink="false">evt_712bc0d815dc</guid>
 <pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
 <category>research</category>
 <description>Language models are compared on question-answering benchmarks that pose each question in one wording, and a reworded question can change which of two models scores higher. We ask whether giving the models tools makes such comparisons more stable. An accuracy gain cannot answer this, because tools change several steps between the question and the scored answer at once. We propose a matched protocol that separates those steps: the answer readout, reasoning, the decision to call, the tool's answer, and the report supplied without a call. We apply it to six open models in five domains under five w — 来源：mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31148v1</description>
+</item>
+<item>
+<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
+<guid isPermaLink="false">evt_4472664e9020</guid>
+<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
+<category>agents</category>
+<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
 </item>
 <item>
 <title>Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW</title>
@@ -310,6 +326,14 @@
 <pubDate>Thu, 22 Oct 2026 13:43:33 +0000</pubDate>
 <category>foundation_models</category>
 <description>Memory enables language model assistants to maintain continuity across sessions and generate personalized responses, but knowing more about a user does not necessarily produce responses they prefer. Existing evaluations assess memory capabilities without directly establishing whether memory use benefits the user. To study this gap, we collect approximately 1,000 pairwise judgments from 87 participants using their own ChatGPT queries and personal memories. We find that memory-conditioned responses are not consistently preferred over responses generated without memory and in some cases, users st — 来源：github · openai_blog · techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2610.31272v1</description>
+</item>
+<item>
+<title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c1ad71a16e1f</link>
+<guid isPermaLink="false">evt_c1ad71a16e1f</guid>
+<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
+<category>open_source</category>
+<description>We have Fable at home... or so we are being told by paid shills — 来源：latent_space — 原文：https://latent.space/p/ainews-kimi-31/</description>
 </item>
 <item>
 <title>DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination</title>
@@ -382,30 +406,6 @@
 <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
 <category>industry</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/olmoearth-v1-3</description>
-</item>
-<item>
-<title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d26ae9b2d9ce</link>
-<guid isPermaLink="false">evt_d26ae9b2d9ce</guid>
-<pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
-<category>science</category>
-<description>Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</description>
-</item>
-<item>
-<title>Phase Transition from Random Features to Fully Trainable Networks</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5158d3df898b</link>
-<guid isPermaLink="false">evt_5158d3df898b</guid>
-<pubDate>Thu, 22 Oct 2026 17:59:53 +0000</pubDate>
-<category>research</category>
-<description>Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but smooth initial improvement followed by diminishing returns, with a sharper transition under greater initialization mismatch. Under polynomial spectral decay with exponent $α&gt;1$ and leverage compatibility, we establish a squared $L_2$ approxim — 来源：simonwillison · arxiv — 原文：https://arxiv.org/abs/2610.31663v1</description>
-</item>
-<item>
-<title>Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_65f689d03570</link>
-<guid isPermaLink="false">evt_65f689d03570</guid>
-<pubDate>Thu, 22 Oct 2026 14:11:34 +0000</pubDate>
-<category>research</category>
-<description>4D scene reconstruction requires robust handling of dynamic objects, yet existing streaming methods commonly assume static scenes, leading to pose drift and ghosting artifacts over long sequences. We introduce Stream4D, a training-free, motion-decoupled streaming reconstruction framework that can be directly integrated into causal Transformer backbones (e.g., StreamVGGT, Stream3R). Our key observation is that causal attention implicitly encodes rich temporal motion cues within the KV cache. We adaptively aggregate these cues from multiple attention layers and across temporal windows, and fuse  — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31320v1</description>
 </item>
 </channel>
 </rss>

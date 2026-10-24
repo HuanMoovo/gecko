@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:47:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 02:43:16 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
+<guid isPermaLink="false">evt_67972bfe4904</guid>
+<pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+<category>safety</category>
+<description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</description>
+</item>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
@@ -88,14 +96,6 @@
 <description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […] — 来源：arxiv · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</description>
 </item>
 <item>
-<title>OpenAI now trains its frontier AI models with no internet access</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
-<guid isPermaLink="false">evt_67972bfe4904</guid>
-<pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
-<category>infrastructure</category>
-<description>OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier […] — 来源：verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</description>
-</item>
-<item>
 <title>Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4c7a691915f4</link>
 <guid isPermaLink="false">evt_4c7a691915f4</guid>
@@ -110,6 +110,14 @@
 <pubDate>Fri, 23 Oct 2026 01:50:06 +0000</pubDate>
 <category>research</category>
 <description>Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context improves pharmaceutical claims generation, using Composer, a deployed internal tool built on a Golden Data — 来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.31519v1</description>
+</item>
+<item>
+<title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
+<category>agents</category>
+<description>Comments — 来源：techcrunch_ai · hackernews · hn_frontpage — 原文：https://corgi.computer/</description>
 </item>
 <item>
 <title>Decentralized Bi-Level Optimization for Cooperative Orbital Transportation of a Rigid Payload</title>
@@ -232,20 +240,12 @@
 <description>Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an "open standard": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun s — 来源：hackernews · github · simonwillison — 原文：https://simonwillison.net/2026/Oct/22/donating-agent-skills/</description>
 </item>
 <item>
-<title>Agents fail like engineers, so I review them like engineers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Fri, 23 Oct 2026 15:53:17 +0000</pubDate>
+<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
+<guid isPermaLink="false">evt_4472664e9020</guid>
+<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
 <category>agents</category>
-<description>来源：techcrunch_ai · hackernews — 原文：https://blog.greenflagged.dev/posts/agents-fail-like-engineers/</description>
-</item>
-<item>
-<title>Prompt Sensitivity in Tool-Augmented Model Comparisons</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_712bc0d815dc</link>
-<guid isPermaLink="false">evt_712bc0d815dc</guid>
-<pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
-<category>research</category>
-<description>Language models are compared on question-answering benchmarks that pose each question in one wording, and a reworded question can change which of two models scores higher. We ask whether giving the models tools makes such comparisons more stable. An accuracy gain cannot answer this, because tools change several steps between the question and the scored answer at once. We propose a matched protocol that separates those steps: the answer readout, reasoning, the decision to call, the tool's answer, and the report supplied without a call. We apply it to six open models in five domains under five w — 来源：mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31148v1</description>
+<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
 </item>
 </channel>
 </rss>

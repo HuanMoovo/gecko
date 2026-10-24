@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:47:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 02:43:16 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
+<guid isPermaLink="false">evt_67972bfe4904</guid>
+<pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+<category>safety</category>
+<description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</description>
+</item>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
@@ -104,14 +112,6 @@
 <description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […] — 来源：arxiv · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</description>
 </item>
 <item>
-<title>OpenAI now trains its frontier AI models with no internet access</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
-<guid isPermaLink="false">evt_67972bfe4904</guid>
-<pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
-<category>infrastructure</category>
-<description>OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier […] — 来源：verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</description>
-</item>
-<item>
 <title>Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4c7a691915f4</link>
 <guid isPermaLink="false">evt_4c7a691915f4</guid>
@@ -126,6 +126,14 @@
 <pubDate>Fri, 23 Oct 2026 01:50:06 +0000</pubDate>
 <category>research</category>
 <description>Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context improves pharmaceutical claims generation, using Composer, a deployed internal tool built on a Golden Data — 来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.31519v1</description>
+</item>
+<item>
+<title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
+<category>agents</category>
+<description>Comments — 来源：techcrunch_ai · hackernews · hn_frontpage — 原文：https://corgi.computer/</description>
 </item>
 <item>
 <title>Decentralized Bi-Level Optimization for Cooperative Orbital Transportation of a Rigid Payload</title>
@@ -264,12 +272,12 @@
 <description>Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/</description>
 </item>
 <item>
-<title>Agents fail like engineers, so I review them like engineers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Fri, 23 Oct 2026 15:53:17 +0000</pubDate>
+<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
+<guid isPermaLink="false">evt_4472664e9020</guid>
+<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
 <category>agents</category>
-<description>来源：techcrunch_ai · hackernews — 原文：https://blog.greenflagged.dev/posts/agents-fail-like-engineers/</description>
+<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
 </item>
 <item>
 <title>Prompt Sensitivity in Tool-Augmented Model Comparisons</title>
@@ -278,14 +286,6 @@
 <pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
 <category>research</category>
 <description>Language models are compared on question-answering benchmarks that pose each question in one wording, and a reworded question can change which of two models scores higher. We ask whether giving the models tools makes such comparisons more stable. An accuracy gain cannot answer this, because tools change several steps between the question and the scored answer at once. We propose a matched protocol that separates those steps: the answer readout, reasoning, the decision to call, the tool's answer, and the report supplied without a call. We apply it to six open models in five domains under five w — 来源：mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31148v1</description>
-</item>
-<item>
-<title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4472664e9020</link>
-<guid isPermaLink="false">evt_4472664e9020</guid>
-<pubDate>Thu, 22 Oct 2026 16:25:57 +0000</pubDate>
-<category>agents</category>
-<description>Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization. — 来源：techcrunch_ai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</description>
 </item>
 <item>
 <title>Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW</title>
@@ -326,14 +326,6 @@
 <pubDate>Thu, 22 Oct 2026 14:08:48 +0000</pubDate>
 <category>research</category>
 <description>Large language models can repeat an instruction while failing to keep obeying it. We study this recall-compliance dissociation in long-horizon dialogue and define State Integrity Collapse: a model preserves a stated constraint in memory but stops applying it to later turns. We introduce StateTrack-Bench, a controlled suite of conversations covering numerical, format, role/persona, factual-memory, and logical-rule constraints. Across seven provider-pinned model snapshots and five dialogue-depth probes, strict joint retention ranges from 62.4% to 100.0%, with degradation concentrated in symbolic — 来源：arxiv · github — 原文：https://arxiv.org/abs/2610.31314v1</description>
-</item>
-<item>
-<title>Amazon Polly delivers a major upgrade to its Generative engine</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fa796824301f</link>
-<guid isPermaLink="false">evt_fa796824301f</guid>
-<pubDate>Thu, 22 Oct 2026 18:06:35 +0000</pubDate>
-<category>generative</category>
-<description>The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production. — 来源：hackernews · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/</description>
 </item>
 <item>
 <title>Announcing new ways to customize models with SageMaker AI, without managing GPUs</title>
@@ -406,6 +398,14 @@
 <pubDate>Thu, 22 Oct 2026 17:59:53 +0000</pubDate>
 <category>research</category>
 <description>Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but smooth initial improvement followed by diminishing returns, with a sharper transition under greater initialization mismatch. Under polynomial spectral decay with exponent $α&gt;1$ and leverage compatibility, we establish a squared $L_2$ approxim — 来源：simonwillison · arxiv — 原文：https://arxiv.org/abs/2610.31663v1</description>
+</item>
+<item>
+<title>Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_65f689d03570</link>
+<guid isPermaLink="false">evt_65f689d03570</guid>
+<pubDate>Thu, 22 Oct 2026 14:11:34 +0000</pubDate>
+<category>research</category>
+<description>4D scene reconstruction requires robust handling of dynamic objects, yet existing streaming methods commonly assume static scenes, leading to pose drift and ghosting artifacts over long sequences. We introduce Stream4D, a training-free, motion-decoupled streaming reconstruction framework that can be directly integrated into causal Transformer backbones (e.g., StreamVGGT, Stream3R). Our key observation is that causal attention implicitly encodes rich temporal motion cues within the KV cache. We adaptively aggregate these cues from multiple attention layers and across temporal windows, and fuse  — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.31320v1</description>
 </item>
 </channel>
 </rss>

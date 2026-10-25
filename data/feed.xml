@@ -5,23 +5,15 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 22:09:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:33:12 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Progressive disclosure in agents to make them 2.3x faster</title>
+<title>Making My Blog Readable by AI Agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
 <guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sat, 24 Oct 2026 16:30:58 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 21:21:33 +0000</pubDate>
 <category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/</description>
-</item>
-<item>
-<title>AI4Finance-Foundation/FinRobot — FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
-<guid isPermaLink="false">evt_011ceac98040</guid>
-<pubDate>Sat, 24 Oct 2026 13:58:26 +0000</pubDate>
-<category>foundation_models</category>
-<description>FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models · topics: aiagent, chatgpt, finance, fingpt, large-language-models, multimodal-deep-learning · ⭐ 8,291 · Python — 来源：github · hackernews · techcrunch_ai · openai_blog — 原文：https://github.com/AI4Finance-Foundation/FinRobot</description>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents</description>
 </item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -144,20 +136,20 @@
 <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — 来源：openai_blog — 原文：https://openai.com/index/scaling-storage-one-billion-users-part-two</description>
 </item>
 <item>
-<title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
-<guid isPermaLink="false">evt_a8d953e36308</guid>
-<pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
-<category>industry</category>
-<description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
-</item>
-<item>
 <title>Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
 <guid isPermaLink="false">evt_1fc68e0e835e</guid>
 <pubDate>Fri, 23 Oct 2026 16:24:55 +0000</pubDate>
 <category>agents</category>
 <description>Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/</description>
+</item>
+<item>
+<title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
+<guid isPermaLink="false">evt_a8d953e36308</guid>
+<pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
+<category>industry</category>
+<description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
 </item>
 <item>
 <title>How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations</title>
@@ -200,6 +192,14 @@
 <description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […] — 来源：arxiv · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</description>
 </item>
 <item>
+<title>America has lost 200k of jobs in media, film and the arts. How much is AI?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_283aef7b5aec</link>
+<guid isPermaLink="false">evt_283aef7b5aec</guid>
+<pubDate>Sat, 24 Oct 2026 23:11:54 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</description>
+</item>
+<item>
 <title>Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4c7a691915f4</link>
 <guid isPermaLink="false">evt_4c7a691915f4</guid>
@@ -232,12 +232,12 @@
 <description>来源：hackernews — 原文：https://arxiv.org/abs/2610.29162</description>
 </item>
 <item>
-<title>AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments</title>
+<title>elizaOS/eliza — Open source agentic operating system</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_77c10bd5f145</link>
 <guid isPermaLink="false">evt_77c10bd5f145</guid>
-<pubDate>Thu, 22 Oct 2026 18:48:04 +0000</pubDate>
+<pubDate>Sun, 25 Oct 2026 02:32:05 +0000</pubDate>
 <category>agents</category>
-<description>Evolutionary program search with large language models keeps the structure of an evolutionary algorithm and uses the model as its variation operator. Typically, the model generates each candidate program in a single request from parent programs and their scores. We present AgenticEvolve, an evolutionary program search framework in which each island is run by a persistent large language model agent. Between evaluations, the agent designs and runs experiments on the candidate program. To measure the contribution of experimentation, we compare AgenticEvolve with No-analysis, an otherwise identica — 来源：nvidia_blog · hackernews · github · mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.31326v1</description>
+<description>Open source agentic operating system · topics: agent, agentic, ai, autonomous, chatbot, crypto · ⭐ 19,649 · TypeScript — 来源：nvidia_blog · hackernews · github · mit_tr_ai · arxiv — 原文：https://github.com/elizaOS/eliza</description>
 </item>
 <item>
 <title>Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure</title>
@@ -248,20 +248,20 @@
 <description>In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational certainty, demanding a shared framework for assessment and mitigation. We make this exposure measurable by quantifying how accurately a target can be profiled, and how far that profile enables social — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.31573v1</description>
 </item>
 <item>
-<title>Neural chip decodes interactions between brain regions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a2ab57efc2fc</link>
-<guid isPermaLink="false">evt_a2ab57efc2fc</guid>
-<pubDate>Sat, 24 Oct 2026 15:57:17 +0000</pubDate>
-<category>infrastructure</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</description>
-</item>
-<item>
 <title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_147a52922e17</link>
 <guid isPermaLink="false">evt_147a52922e17</guid>
 <pubDate>Sat, 24 Oct 2026 09:58:27 +0000</pubDate>
 <category>infrastructure</category>
 <description>Comments — 来源：nvidia_blog · hn_frontpage — 原文：https://github.com/Zagitta/gpu-unlock</description>
+</item>
+<item>
+<title>Neural chip decodes interactions between brain regions</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a2ab57efc2fc</link>
+<guid isPermaLink="false">evt_a2ab57efc2fc</guid>
+<pubDate>Sat, 24 Oct 2026 15:57:17 +0000</pubDate>
+<category>infrastructure</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</description>
 </item>
 <item>
 <title>How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification</title>
@@ -376,12 +376,12 @@
 <description>Comments — 来源：hn_frontpage — 原文：https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</description>
 </item>
 <item>
-<title>Donating Agent Skills to the Agentic AI Foundation</title>
+<title>eosphoros-ai/DB-GPT — open-source agentic AI data assistant for the next generation of AI + Data products.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ec286bca2454</link>
 <guid isPermaLink="false">evt_ec286bca2454</guid>
-<pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 09:05:43 +0000</pubDate>
 <category>agents</category>
-<description>Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an "open standard": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun s — 来源：hackernews · github · simonwillison — 原文：https://simonwillison.net/2026/Oct/22/donating-agent-skills/</description>
+<description>open-source agentic AI data assistant for the next generation of AI + Data products. · topics: agents, bgi, database, deepseek, gpt, gpt-4 · ⭐ 20,187 · Python — 来源：hackernews · github · simonwillison — 原文：https://github.com/eosphoros-ai/DB-GPT</description>
 </item>
 <item>
 <title>Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
@@ -400,12 +400,12 @@
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/microsoft/thinkingbox-training</description>
 </item>
 <item>
-<title>Claude Code slyly adding users' emails to outbound HTTP</title>
+<title>citrolabs/ego-lite — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_596733de5852</link>
 <guid isPermaLink="false">evt_596733de5852</guid>
 <pubDate>Sat, 24 Oct 2026 10:26:30 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews — 原文：https://twitter.com/chrislakin/status/2113358733548081528</description>
+<category>open_source</category>
+<description>The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. · topics: agent-skills, ai-agent, automation, browser, browser-automation, claude-code · ⭐ 19,248 · JavaScript — 来源：hackernews · github — 原文：https://github.com/citrolabs/ego-lite</description>
 </item>
 </channel>
 </rss>

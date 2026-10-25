@@ -5,23 +5,15 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 22:09:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:33:12 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Progressive disclosure in agents to make them 2.3x faster</title>
+<title>Making My Blog Readable by AI Agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
 <guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sat, 24 Oct 2026 16:30:58 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 21:21:33 +0000</pubDate>
 <category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/</description>
-</item>
-<item>
-<title>AI4Finance-Foundation/FinRobot — FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_011ceac98040</link>
-<guid isPermaLink="false">evt_011ceac98040</guid>
-<pubDate>Sat, 24 Oct 2026 13:58:26 +0000</pubDate>
-<category>foundation_models</category>
-<description>FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models · topics: aiagent, chatgpt, finance, fingpt, large-language-models, multimodal-deep-learning · ⭐ 8,291 · Python — 来源：github · hackernews · techcrunch_ai · openai_blog — 原文：https://github.com/AI4Finance-Foundation/FinRobot</description>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents</description>
 </item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -70,46 +62,6 @@
 <pubDate>Fri, 23 Oct 2026 21:59:19 +0000</pubDate>
 <category>robotics</category>
 <description>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command. — 来源：nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</description>
-</item>
-<item>
-<title>Meta says if its AI makes a mistake, it will legally be the customer's fault</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
-<guid isPermaLink="false">evt_add383da2fc0</guid>
-<pubDate>Sat, 24 Oct 2026 05:27:03 +0000</pubDate>
-<category>industry</category>
-<description>来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html</description>
-</item>
-<item>
-<title>Is AI just another get rich quick scheme?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
-<guid isPermaLink="false">evt_85fd077e7c71</guid>
-<pubDate>Sat, 24 Oct 2026 13:11:37 +0000</pubDate>
-<category>industry</category>
-<description>You too can get rich quick in real estate --- details in this book; only $49.95.&lt;p&gt;If there really was a sure fire way to get rich quick, why sell books to the public? Why not keep it to yourself and apply it to make money?&lt;p&gt;The same applies to AI. If it was really all that, they wouldn&amp;#x27;t be selling tokens to the public.  They would be forming corporate partnerships, building products and conquering markets --- starting with the financial markets.&lt;p&gt;Those who can --- do. Those who can&amp;#x27;t --- sell books and &amp;quot;tokens&amp;quot;. — 来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://news.ycombinator.com/item?id=50220934</description>
-</item>
-<item>
-<title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
-<guid isPermaLink="false">evt_a8d953e36308</guid>
-<pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
-<category>industry</category>
-<description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
-</item>
-<item>
-<title>Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
-<guid isPermaLink="false">evt_1fc68e0e835e</guid>
-<pubDate>Fri, 23 Oct 2026 16:24:55 +0000</pubDate>
-<category>agents</category>
-<description>Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/</description>
-</item>
-<item>
-<title>How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_833d3d328a66</link>
-<guid isPermaLink="false">evt_833d3d328a66</guid>
-<pubDate>Fri, 23 Oct 2026 16:21:36 +0000</pubDate>
-<category>agents</category>
-<description>Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/</description>
 </item>
 </channel>
 </rss>

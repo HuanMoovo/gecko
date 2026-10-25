@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 25 Oct 2026 18:39:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 22:12:28 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>AI4Finance-Foundation/FinGPT — FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.</title>
@@ -22,6 +22,14 @@
 <pubDate>Sun, 25 Oct 2026 11:11:17 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 169 — 来源：huggingface — 原文：https://huggingface.co/Nanbeige/Nanbeige4.3-33B</description>
+</item>
+<item>
+<title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e4ac1d3f295a</link>
+<guid isPermaLink="false">evt_e4ac1d3f295a</guid>
+<pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
+<category>open_source</category>
+<description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</description>
 </item>
 <item>
 <title>Google’s AI search changes upended online publishing</title>
@@ -64,6 +72,38 @@
 <description>Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. · topics: acme, agents, ai-agents, certificate-management, devsecops, environment-variables · ⭐ 29,981 · TypeScript — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/Infisical/infisical</description>
 </item>
 <item>
+<title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c45c68dc9fe2</link>
+<guid isPermaLink="false">evt_c45c68dc9fe2</guid>
+<pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
+<category>foundation_models</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://minimaxir.com/2026/10/cheap-llms/</description>
+</item>
+<item>
+<title>Why I'm Short the AI Buildout Even Though I'm Long Computers</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a8d61acf44c</link>
+<guid isPermaLink="false">evt_4a8d61acf44c</guid>
+<pubDate>Sun, 25 Oct 2026 20:44:07 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even</description>
+</item>
+<item>
+<title>Gheist campaign plants secret-dumping workflows using stolen GitHub tokens</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f63d8510625f</link>
+<guid isPermaLink="false">evt_f63d8510625f</guid>
+<pubDate>Sun, 25 Oct 2026 19:10:36 +0000</pubDate>
+<category>agents</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles</description>
+</item>
+<item>
+<title>What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ac6efde4b6ac</link>
+<guid isPermaLink="false">evt_ac6efde4b6ac</guid>
+<pubDate>Sun, 25 Oct 2026 18:35:21 +0000</pubDate>
+<category>research</category>
+<description>I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process. Finding edge cases: How do you identify edge cases that are rare or unusual. Also how do you make edge cases on an existing dataset to make it more specialized for what you need. Generating examples: Do you write them by yourself, or use a good model to generate synthetic data, mine real data, etc? Quality control: How do you catch incorrect, repetitive, or unreal — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/</description>
+</item>
+<item>
 <title>China's first AI-generated film hits cinemas but ticket sales lag</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a2fcd59d00c6</link>
 <guid isPermaLink="false">evt_a2fcd59d00c6</guid>
@@ -88,12 +128,12 @@
 <description>#20 — 来源：simonwillison · interconnects — 原文：https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber</description>
 </item>
 <item>
-<title>AI use leads UC Berkeley math professor to see 'no point' in grading homework</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_33331332d5b9</link>
-<guid isPermaLink="false">evt_33331332d5b9</guid>
-<pubDate>Sun, 25 Oct 2026 16:28:26 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html</description>
+<title>Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_24c07956d148</link>
+<guid isPermaLink="false">evt_24c07956d148</guid>
+<pubDate>Sun, 25 Oct 2026 16:32:44 +0000</pubDate>
+<category>open_source</category>
+<description>Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.8-27B, using the same harness and inference settings within each benchmark. it does not win everywhere. on SWE-Bench Pro, the reported scores are 60.3 versus 61.7. these are the releasing team's evaluations, not independent replication. one practical detail for reproducing the agent results: the evaluations retain earlier reasoning with preser — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/</description>
 </item>
 <item>
 <title>A Mathematician Reads the AI Future</title>
@@ -102,6 +142,14 @@
 <pubDate>Sun, 25 Oct 2026 16:31:21 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/</description>
+</item>
+<item>
+<title>AI use leads UC Berkeley math professor to see 'no point' in grading homework</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_33331332d5b9</link>
+<guid isPermaLink="false">evt_33331332d5b9</guid>
+<pubDate>Sun, 25 Oct 2026 16:28:26 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html</description>
 </item>
 <item>
 <title>R/open source bans all solo projects and projects using LLMs</title>
@@ -208,28 +256,12 @@
 <description>Block said that the voice model can run locally on a MacBook M4 Max — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</description>
 </item>
 <item>
-<title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e4ac1d3f295a</link>
-<guid isPermaLink="false">evt_e4ac1d3f295a</guid>
-<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-<category>foundation_models</category>
-<description>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</description>
-</item>
-<item>
 <title>Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_95364ce77079</link>
 <guid isPermaLink="false">evt_95364ce77079</guid>
 <pubDate>Fri, 23 Oct 2026 17:48:54 +0000</pubDate>
 <category>agents</category>
 <description>Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/</description>
-</item>
-<item>
-<title>memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6d8faeb5cc7d</link>
-<guid isPermaLink="false">evt_6d8faeb5cc7d</guid>
-<pubDate>Sun, 25 Oct 2026 05:31:19 +0000</pubDate>
-<category>agents</category>
-<description>been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.0 bakes memory directly into the model computation layer using gated deltanet-2 with a stable token-level memory update mechanism within each turn, combined with a mixture-of-storage (mos) layer to scale capacity. a few quick technical takeaways from the setup: internalizing procedural experience: standard agents retrieve p — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/</description>
 </item>
 <item>
 <title>Meta says if its AI makes a mistake, it will legally be the customer's fault</title>
@@ -248,6 +280,14 @@
 <description>Thank you for your efforts in protecting the community from AI slop. submitted by /u/Temporary_Switch_339 [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/</description>
 </item>
 <item>
+<title>memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6d8faeb5cc7d</link>
+<guid isPermaLink="false">evt_6d8faeb5cc7d</guid>
+<pubDate>Sun, 25 Oct 2026 05:31:19 +0000</pubDate>
+<category>agents</category>
+<description>been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.0 bakes memory directly into the model computation layer using gated deltanet-2 with a stable token-level memory update mechanism within each turn, combined with a mixture-of-storage (mos) layer to scale capacity. a few quick technical takeaways from the setup: internalizing procedural experience: standard agents retrieve p — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/</description>
+</item>
+<item>
 <title>Is AI just another get rich quick scheme?</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
 <guid isPermaLink="false">evt_85fd077e7c71</guid>
@@ -264,14 +304,6 @@
 <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — 来源：openai_blog — 原文：https://openai.com/index/scaling-storage-one-billion-users-part-two</description>
 </item>
 <item>
-<title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
-<guid isPermaLink="false">evt_a8d953e36308</guid>
-<pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
-<category>industry</category>
-<description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
-</item>
-<item>
 <title>Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
 <guid isPermaLink="false">evt_1fc68e0e835e</guid>
@@ -286,6 +318,14 @@
 <pubDate>Fri, 23 Oct 2026 16:21:36 +0000</pubDate>
 <category>agents</category>
 <description>Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/</description>
+</item>
+<item>
+<title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
+<guid isPermaLink="false">evt_a8d953e36308</guid>
+<pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
+<category>industry</category>
+<description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
 </item>
 <item>
 <title>Cerebras Deploys Trillion-Parameter AI Models</title>
@@ -366,46 +406,6 @@
 <pubDate>Sun, 25 Oct 2026 02:32:05 +0000</pubDate>
 <category>agents</category>
 <description>Open source agentic operating system · topics: agent, agentic, ai, autonomous, chatbot, crypto · ⭐ 19,649 · TypeScript — 来源：nvidia_blog · hackernews · github · mit_tr_ai · arxiv — 原文：https://github.com/elizaOS/eliza</description>
-</item>
-<item>
-<title>Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1000256b3205</link>
-<guid isPermaLink="false">evt_1000256b3205</guid>
-<pubDate>Thu, 22 Oct 2026 17:13:46 +0000</pubDate>
-<category>foundation_models</category>
-<description>In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational certainty, demanding a shared framework for assessment and mitigation. We make this exposure measurable by quantifying how accurately a target can be profiled, and how far that profile enables social — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.31573v1</description>
-</item>
-<item>
-<title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_147a52922e17</link>
-<guid isPermaLink="false">evt_147a52922e17</guid>
-<pubDate>Sat, 24 Oct 2026 09:58:27 +0000</pubDate>
-<category>infrastructure</category>
-<description>Comments — 来源：nvidia_blog · hn_frontpage — 原文：https://github.com/Zagitta/gpu-unlock</description>
-</item>
-<item>
-<title>Neural chip decodes interactions between brain regions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a2ab57efc2fc</link>
-<guid isPermaLink="false">evt_a2ab57efc2fc</guid>
-<pubDate>Sat, 24 Oct 2026 15:57:17 +0000</pubDate>
-<category>infrastructure</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</description>
-</item>
-<item>
-<title>How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4a36e492a30</link>
-<guid isPermaLink="false">evt_d4a36e492a30</guid>
-<pubDate>Thu, 22 Oct 2026 15:24:16 +0000</pubDate>
-<category>research</category>
-<description>Recent advances in specialized decision models have expanded the possibilities for zero-shot classification, yet their effectiveness on Vietnamese remains underexplored. This study evaluates four specialized decision models across 13 classification settings spanning six task groups, examining zero-shot performance, sensitivity to label-description language, and robustness to Vietnamese linguistic variations. The evaluation considers English, Vietnamese, and bilingual label descriptions, alongside common linguistic perturbations involving teencode, typographical errors, and diacritic removal. U — 来源：verge_ai · github · arxiv — 原文：https://arxiv.org/abs/2610.31422v1</description>
-</item>
-<item>
-<title>Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_18837672148b</link>
-<guid isPermaLink="false">evt_18837672148b</guid>
-<pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
-<category>industry</category>
-<description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</description>
 </item>
 </channel>
 </rss>

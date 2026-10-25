@@ -5,63 +5,15 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 25 Oct 2026 02:33:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 08:51:15 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Making My Blog Readable by AI Agents</title>
+<title>Infisical/infisical — Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
 <guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sat, 24 Oct 2026 21:21:33 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents</description>
-</item>
-<item>
-<title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
-<guid isPermaLink="false">evt_67972bfe4904</guid>
-<pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
-<category>safety</category>
-<description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</description>
-</item>
-<item>
-<title>Oai-math-revised: a community hub for revising OpenAI's math write-ups</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
-<guid isPermaLink="false">evt_4ab93569e260</guid>
-<pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
-<category>industry</category>
-<description>Comments — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/</description>
-</item>
-<item>
-<title>orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e6e48b4f4486</link>
-<guid isPermaLink="false">evt_e6e48b4f4486</guid>
-<pubDate>Sat, 24 Oct 2026 05:43:53 +0000</pubDate>
+<pubDate>Sun, 25 Oct 2026 03:27:25 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 3 · 收藏 100 — 来源：huggingface — 原文：https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF</description>
-</item>
-<item>
-<title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
-<guid isPermaLink="false">evt_94e7f4f5c0e5</guid>
-<pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-<category>research</category>
-<description>来源：hf_blog · huggingface — 原文：https://huggingface.co/blog/allenai/litpivot</description>
-</item>
-<item>
-<title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
-<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
-<pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
-<category>safety</category>
-<description>Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […] — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</description>
-</item>
-<item>
-<title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
-<guid isPermaLink="false">evt_f298fb1604b9</guid>
-<pubDate>Fri, 23 Oct 2026 21:59:19 +0000</pubDate>
-<category>robotics</category>
-<description>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command. — 来源：nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</description>
+<description>Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. · topics: acme, agents, ai-agents, certificate-management, devsecops, environment-variables · ⭐ 29,981 · TypeScript — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/Infisical/infisical</description>
 </item>
 </channel>
 </rss>

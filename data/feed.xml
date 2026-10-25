@@ -5,8 +5,48 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 25 Oct 2026 08:51:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 15:20:39 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI4Finance-Foundation/FinGPT — FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
+<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
+<pubDate>Sun, 25 Oct 2026 13:49:15 +0000</pubDate>
+<category>open_source</category>
+<description>FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace. · topics: chatgpt, finance, fingpt, fintech, large-language-models, machine-learning · ⭐ 21,466 · Jupyter Notebook — 来源：github — 原文：https://github.com/AI4Finance-Foundation/FinGPT</description>
+</item>
+<item>
+<title>Nanbeige/Nanbeige4.3-33B</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7deb0a380978</link>
+<guid isPermaLink="false">evt_7deb0a380978</guid>
+<pubDate>Sun, 25 Oct 2026 11:11:17 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 169 — 来源：huggingface — 原文：https://huggingface.co/Nanbeige/Nanbeige4.3-33B</description>
+</item>
+<item>
+<title>Google’s AI search changes upended online publishing</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
+<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
+<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+<category>industry</category>
+<description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […] — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://www.theverge.com/column/1017983/google-ai-search-online-publishing</description>
+</item>
+<item>
+<title>The hottest AI wearables and gadgets you should know about</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_611184d5aa6f</link>
+<guid isPermaLink="false">evt_611184d5aa6f</guid>
+<pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
+<category>industry</category>
+<description>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</description>
+</item>
+<item>
+<title>r/opensource just banned AI, non-English speakers, and more</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bffee9c13e8</link>
+<guid isPermaLink="false">evt_6bffee9c13e8</guid>
+<pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
+<category>open_source</category>
+<description>The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</description>
+</item>
 <item>
 <title>Infisical/infisical — Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
@@ -14,6 +54,22 @@
 <pubDate>Sun, 25 Oct 2026 03:27:25 +0000</pubDate>
 <category>open_source</category>
 <description>Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. · topics: acme, agents, ai-agents, certificate-management, devsecops, environment-variables · ⭐ 29,981 · TypeScript — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/Infisical/infisical</description>
+</item>
+<item>
+<title>Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6c51129e93f6</link>
+<guid isPermaLink="false">evt_6c51129e93f6</guid>
+<pubDate>Sun, 25 Oct 2026 11:49:00 +0000</pubDate>
+<category>industry</category>
+<description>#20 — 来源：simonwillison · interconnects — 原文：https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber</description>
+</item>
+<item>
+<title>R/open source bans all solo projects and projects using LLMs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3cfe81138dd2</link>
+<guid isPermaLink="false">evt_3cfe81138dd2</guid>
+<pubDate>Sun, 25 Oct 2026 14:05:03 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews — 原文：https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai</description>
 </item>
 <item>
 <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -30,6 +86,14 @@
 <pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
 <category>industry</category>
 <description>Comments — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/</description>
+</item>
+<item>
+<title>Imagine an AI future where being banned means you are now economically useless</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a99d48c2aa4</link>
+<guid isPermaLink="false">evt_8a99d48c2aa4</guid>
+<pubDate>Sun, 25 Oct 2026 12:47:20 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://twitter.com/boneGPT/status/2114035719853265264</description>
 </item>
 <item>
 <title>Blue Planet III is keeping the rough edges in the age of AI</title>
@@ -72,20 +136,20 @@
 <description>On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</description>
 </item>
 <item>
+<title>Nikon photography contest winner loses title after scientists spot signs of AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ed849a13eb41</link>
+<guid isPermaLink="false">evt_ed849a13eb41</guid>
+<pubDate>Sun, 25 Oct 2026 09:51:17 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</description>
+</item>
+<item>
 <title>unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_0387ac6c8a75</link>
 <guid isPermaLink="false">evt_0387ac6c8a75</guid>
 <pubDate>Sat, 24 Oct 2026 04:00:15 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · text-generation · 下载 17,529 · 收藏 95 — 来源：huggingface — 原文：https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF</description>
-</item>
-<item>
-<title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
-<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
-<pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
-<category>safety</category>
-<description>Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […] — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</description>
 </item>
 <item>
 <title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
@@ -160,20 +224,20 @@
 <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — 来源：openai_blog — 原文：https://openai.com/index/scaling-storage-one-billion-users-part-two</description>
 </item>
 <item>
-<title>Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
-<guid isPermaLink="false">evt_1fc68e0e835e</guid>
-<pubDate>Fri, 23 Oct 2026 16:24:55 +0000</pubDate>
-<category>agents</category>
-<description>Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/</description>
-</item>
-<item>
 <title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
 <guid isPermaLink="false">evt_a8d953e36308</guid>
 <pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
 <category>industry</category>
 <description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
+</item>
+<item>
+<title>Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
+<guid isPermaLink="false">evt_1fc68e0e835e</guid>
+<pubDate>Fri, 23 Oct 2026 16:24:55 +0000</pubDate>
+<category>agents</category>
+<description>Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/</description>
 </item>
 <item>
 <title>How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations</title>
@@ -272,20 +336,20 @@
 <description>In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational certainty, demanding a shared framework for assessment and mitigation. We make this exposure measurable by quantifying how accurately a target can be profiled, and how far that profile enables social — 来源：github · arxiv — 原文：https://arxiv.org/abs/2610.31573v1</description>
 </item>
 <item>
-<title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_147a52922e17</link>
-<guid isPermaLink="false">evt_147a52922e17</guid>
-<pubDate>Sat, 24 Oct 2026 09:58:27 +0000</pubDate>
-<category>infrastructure</category>
-<description>Comments — 来源：nvidia_blog · hn_frontpage — 原文：https://github.com/Zagitta/gpu-unlock</description>
-</item>
-<item>
 <title>Neural chip decodes interactions between brain regions</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a2ab57efc2fc</link>
 <guid isPermaLink="false">evt_a2ab57efc2fc</guid>
 <pubDate>Sat, 24 Oct 2026 15:57:17 +0000</pubDate>
 <category>infrastructure</category>
 <description>Comments — 来源：hn_frontpage — 原文：https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</description>
+</item>
+<item>
+<title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_147a52922e17</link>
+<guid isPermaLink="false">evt_147a52922e17</guid>
+<pubDate>Sat, 24 Oct 2026 09:58:27 +0000</pubDate>
+<category>infrastructure</category>
+<description>Comments — 来源：nvidia_blog · hn_frontpage — 原文：https://github.com/Zagitta/gpu-unlock</description>
 </item>
 <item>
 <title>How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification</title>
@@ -342,70 +406,6 @@
 <pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
 <category>infrastructure</category>
 <description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow […] — 来源：arxiv · verge_ai — 原文：https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</description>
-</item>
-<item>
-<title>Quick Study</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7fe075e5e5f0</link>
-<guid isPermaLink="false">evt_7fe075e5e5f0</guid>
-<pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
-<category>foundation_models</category>
-<description>Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags: tools — 来源：techcrunch_ai · hn_frontpage · verge_ai · simonwillison — 原文：https://simonwillison.net/2026/Oct/23/quick-study-painter/</description>
-</item>
-<item>
-<title>What's Wrong with AI?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_93fc448c0fc1</link>
-<guid isPermaLink="false">evt_93fc448c0fc1</guid>
-<pubDate>Sat, 24 Oct 2026 12:30:32 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://homepage.farm/ai.html</description>
-</item>
-<item>
-<title>VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0c63a7613017</link>
-<guid isPermaLink="false">evt_0c63a7613017</guid>
-<pubDate>Thu, 22 Oct 2026 16:00:09 +0000</pubDate>
-<category>research</category>
-<description>Tactile sensing provides robots with contact information difficult to obtain from vision alone. Shear force is particularly important for understanding tangential contact, guiding corrective motions, and maintaining grasp stability, yet flexible and low-cost tactile arrays often measure only normal force. We introduce VecTile, a low-cost, 6 mm thin, flexible tactile array capable of three-axis force sensing. VecTile combines a piezoresistive layer with passive silicone nubs that convert normal and shear forces into distinguishable pressure patterns. The sensor can be fabricated in-house withou — 来源：hn_frontpage · arxiv · github — 原文：https://arxiv.org/abs/2610.31472v1</description>
-</item>
-<item>
-<title>Does Your Model Run on AWS Trainium? Look It Up</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dbc0d55ff91</link>
-<guid isPermaLink="false">evt_9dbc0d55ff91</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<category>industry</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/torch-neuronx-model-support</description>
-</item>
-<item>
-<title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ed22a61b2f1</link>
-<guid isPermaLink="false">evt_2ed22a61b2f1</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<category>safety</category>
-<description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. — 来源：openai_blog — 原文：https://openai.com/index/openai-nask-ai-safety-security-partnership</description>
-</item>
-<item>
-<title>New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_918065aafd8b</link>
-<guid isPermaLink="false">evt_918065aafd8b</guid>
-<pubDate>Fri, 23 Oct 2026 19:31:36 +0000</pubDate>
-<category>industry</category>
-<description>来源：simonwillison · latent_space · hackernews — 原文：https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562</description>
-</item>
-<item>
-<title>AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8ef9c99c3688</link>
-<guid isPermaLink="false">evt_8ef9c99c3688</guid>
-<pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
-<category>research</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</description>
-</item>
-<item>
-<title>eosphoros-ai/DB-GPT — open-source agentic AI data assistant for the next generation of AI + Data products.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec286bca2454</link>
-<guid isPermaLink="false">evt_ec286bca2454</guid>
-<pubDate>Fri, 23 Oct 2026 09:05:43 +0000</pubDate>
-<category>agents</category>
-<description>open-source agentic AI data assistant for the next generation of AI + Data products. · topics: agents, bgi, database, deepseek, gpt, gpt-4 · ⭐ 20,187 · Python — 来源：hackernews · github · simonwillison — 原文：https://github.com/eosphoros-ai/DB-GPT</description>
 </item>
 </channel>
 </rss>

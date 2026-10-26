@@ -5,31 +5,23 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 26 Oct 2026 02:33:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 09:32:28 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_596733de5852</link>
+<guid isPermaLink="false">evt_596733de5852</guid>
+<pubDate>Mon, 26 Oct 2026 09:29:47 +0000</pubDate>
+<category>open_source</category>
+<description>Reverse engineer anything with agents, from app behavior down to native binaries. · topics: agent-skills, ai-agents, binary-analysis, claude-code, cli, codex · ⭐ 387,374 · TypeScript — 来源：hackernews · github — 原文：https://github.com/morluto/rea</description>
+</item>
 <item>
 <title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
 <guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sun, 25 Oct 2026 20:46:50 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 04:14:35 +0000</pubDate>
 <category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/SRN0129/Agenttrust</description>
-</item>
-<item>
-<title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e4ac1d3f295a</link>
-<guid isPermaLink="false">evt_e4ac1d3f295a</guid>
-<pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
-<category>open_source</category>
-<description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</description>
-</item>
-<item>
-<title>Google’s AI search changes upended online publishing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
-<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<category>industry</category>
-<description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […] — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://www.theverge.com/column/1017983/google-ai-search-online-publishing</description>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
 </item>
 </channel>
 </rss>

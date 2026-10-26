@@ -5,15 +5,39 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 26 Oct 2026 18:00:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 23:29:44 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Anthropic officially files for its public debut</title>
+<title>Anthropic is burning gas to feed the AI boom</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
 <guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Mon, 26 Oct 2026 17:45:43 +0000</pubDate>
-<category>industry</category>
-<description>Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission. — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</description>
+<pubDate>Mon, 26 Oct 2026 21:45:31 +0000</pubDate>
+<category>generative</category>
+<description>As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate power availability is intense." In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on "natural gas" […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</description>
+</item>
+<item>
+<title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a1d4bf2fc11</link>
+<guid isPermaLink="false">evt_1a1d4bf2fc11</guid>
+<pubDate>Mon, 26 Oct 2026 21:24:18 +0000</pubDate>
+<category>foundation_models</category>
+<description>CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes. — 来源：openai_blog · hackernews · hn_frontpage — 原文：https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</description>
+</item>
+<item>
+<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Mon, 26 Oct 2026 17:53:59 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
+<item>
+<title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_250e5d8f3024</link>
+<guid isPermaLink="false">evt_250e5d8f3024</guid>
+<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — 来源：openai_blog — 原文：https://openai.com/index/greptile-code-review-codex-astra</description>
 </item>
 <item>
 <title>Our newest AI Quest: Mapping the human brain</title>
@@ -56,6 +80,22 @@
 <description>Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</description>
 </item>
 <item>
+<title>Working with academic communities to build scientific understanding</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
+<guid isPermaLink="false">evt_4ab93569e260</guid>
+<pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
+<category>research</category>
+<description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://openai.com/index/building-scientific-understanding-with-academic-communities</description>
+</item>
+<item>
+<title>[Dataset] nvidia/simready-assets</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
+<guid isPermaLink="false">evt_f298fb1604b9</guid>
+<pubDate>Mon, 26 Oct 2026 18:57:50 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 393,196 · 收藏 477 — 来源：nvidia_blog · techcrunch_ai · huggingface — 原文：https://huggingface.co/datasets/nvidia/simready-assets</description>
+</item>
+<item>
 <title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8d6b6f60f40a</link>
 <guid isPermaLink="false">evt_8d6b6f60f40a</guid>
@@ -64,28 +104,12 @@
 <description>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</description>
 </item>
 <item>
-<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Mon, 26 Oct 2026 17:53:59 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
-</item>
-<item>
 <title>SpaceX locks in $40B GPU financing deal with Apollo</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_623265788782</link>
 <guid isPermaLink="false">evt_623265788782</guid>
 <pubDate>Mon, 26 Oct 2026 16:46:36 +0000</pubDate>
 <category>infrastructure</category>
 <description>SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever. — 来源：techcrunch_ai · qbitai — 原文：https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/</description>
-</item>
-<item>
-<title>How Fanatics and OpenAI streamline the fan experience</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
-<guid isPermaLink="false">evt_4ab93569e260</guid>
-<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-<category>industry</category>
-<description>Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://openai.com/index/fanatics-streamline-fan-experience</description>
 </item>
 <item>
 <title>morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.</title>
@@ -102,6 +126,14 @@
 <pubDate>Mon, 26 Oct 2026 17:22:39 +0000</pubDate>
 <category>infrastructure</category>
 <description>模型开始利用GPU缓存聊天？ — 来源：qbitai · reddit_ml — 原文：https://www.qbitai.com/2026/10/505529.html</description>
+</item>
+<item>
+<title>Quoting Jason Koebler</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c24dd7387835</link>
+<guid isPermaLink="false">evt_c24dd7387835</guid>
+<pubDate>Mon, 26 Oct 2026 19:00:25 +0000</pubDate>
+<category>foundation_models</category>
+<description>Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt , — 来源：github · hn_frontpage · simonwillison — 原文：https://simonwillison.net/2026/Oct/26/jason-koebler/</description>
 </item>
 <item>
 <title>ccore/Qwen3.5-4B-3D-Coder</title>
@@ -152,20 +184,20 @@
 <description>所谓奇点，或许是AI跃过人类的那个点。 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505521.html</description>
 </item>
 <item>
-<title>中国近50%的新云生意，竟被这家公司包揽！</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2def7252cad</link>
-<guid isPermaLink="false">evt_b2def7252cad</guid>
-<pubDate>Mon, 26 Oct 2026 09:02:44 +0000</pubDate>
-<category>industry</category>
-<description>有点意外，但也不意外 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505454.html</description>
-</item>
-<item>
 <title>The focus on AI safety disasters ignores everyday harms</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8b97b35d7a87</link>
 <guid isPermaLink="false">evt_8b97b35d7a87</guid>
 <pubDate>Mon, 26 Oct 2026 09:01:00 +0000</pubDate>
 <category>safety</category>
 <description>Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products… — 来源：mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/</description>
+</item>
+<item>
+<title>中国近50%的新云生意，竟被这家公司包揽！</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2def7252cad</link>
+<guid isPermaLink="false">evt_b2def7252cad</guid>
+<pubDate>Mon, 26 Oct 2026 09:02:44 +0000</pubDate>
+<category>industry</category>
+<description>有点意外，但也不意外 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505454.html</description>
 </item>
 <item>
 <title>从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”</title>
@@ -184,6 +216,14 @@
 <description>10月21日，2026世界智能网联汽车大会在北京召开 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505436.html</description>
 </item>
 <item>
+<title>Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_95d5916fd628</link>
+<guid isPermaLink="false">evt_95d5916fd628</guid>
+<pubDate>Mon, 26 Oct 2026 22:41:48 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://blog.cloudflare.com/kv-cache-exposure-remediation/</description>
+</item>
+<item>
 <title>趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d3092558eaab</link>
 <guid isPermaLink="false">evt_d3092558eaab</guid>
@@ -200,6 +240,22 @@
 <description>一张卡，512路长推理同时跑 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505407.html</description>
 </item>
 <item>
+<title>You can hack your TVs and gadgets with AI for free now – but should you?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0752055a6bf0</link>
+<guid isPermaLink="false">evt_0752055a6bf0</guid>
+<pubDate>Mon, 26 Oct 2026 21:32:10 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/</description>
+</item>
+<item>
+<title>Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_15acd576142b</link>
+<guid isPermaLink="false">evt_15acd576142b</guid>
+<pubDate>Mon, 26 Oct 2026 21:13:59 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/</description>
+</item>
+<item>
 <title>Nvidia discusses $2k-per-GPU annual fee for software</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_147a52922e17</link>
 <guid isPermaLink="false">evt_147a52922e17</guid>
@@ -208,12 +264,28 @@
 <description>来源：nvidia_blog · hn_frontpage · hackernews — 原文：https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform</description>
 </item>
 <item>
-<title>ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c24dd7387835</link>
-<guid isPermaLink="false">evt_c24dd7387835</guid>
-<pubDate>Mon, 26 Oct 2026 17:32:16 +0000</pubDate>
+<title>Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_486974ce7333</link>
+<guid isPermaLink="false">evt_486974ce7333</guid>
+<pubDate>Mon, 26 Oct 2026 19:52:44 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/</description>
+</item>
+<item>
+<title>Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e72399e06aa1</link>
+<guid isPermaLink="false">evt_e72399e06aa1</guid>
+<pubDate>Mon, 26 Oct 2026 19:34:57 +0000</pubDate>
+<category>infrastructure</category>
+<description>I've been building a predictive coding (PC) engine from scratch in C++20, with a thin Python layer on top, and just cut the first public release. Posting here for feedback and because I haven't seen many from-scratch PC implementations with real kernel-level optimization work behind them. What predictive coding is: instead of backprop's single global error signal flowing backward through a stored computation graph, each layer in a PCN holds a local belief about its own state and compares it against a top-down prediction from the layer above. Training alternates between "settling" (every layer  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/</description>
+</item>
+<item>
+<title>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9174a0a001c9</link>
+<guid isPermaLink="false">evt_9174a0a001c9</guid>
+<pubDate>Mon, 26 Oct 2026 16:12:29 +0000</pubDate>
 <category>foundation_models</category>
-<description>Comments — 来源：github · hn_frontpage — 原文：https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</description>
+<description>Comments — 来源：hackernews · hn_frontpage — 原文：https://github.com/FrigadeHQ/hob</description>
 </item>
 <item>
 <title>Nanbeige/Nanbeige4.3-33B</title>
@@ -334,78 +406,6 @@
 <pubDate>Mon, 26 Oct 2026 03:12:05 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/</description>
-</item>
-<item>
-<title>Apollo says AI has delivered 'zero financial payoff' outside the tech industry</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_30339954eaf3</link>
-<guid isPermaLink="false">evt_30339954eaf3</guid>
-<pubDate>Sun, 25 Oct 2026 22:49:06 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10</description>
-</item>
-<item>
-<title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c45c68dc9fe2</link>
-<guid isPermaLink="false">evt_c45c68dc9fe2</guid>
-<pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
-<category>foundation_models</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://minimaxir.com/2026/10/cheap-llms/</description>
-</item>
-<item>
-<title>Why I'm Short the AI Buildout Even Though I'm Long Computers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a8d61acf44c</link>
-<guid isPermaLink="false">evt_4a8d61acf44c</guid>
-<pubDate>Sun, 25 Oct 2026 20:44:07 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even</description>
-</item>
-<item>
-<title>OpenStripe supports open-set identification and spatial stripe profiling in wild Amur tigers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc68e0e835e</link>
-<guid isPermaLink="false">evt_1fc68e0e835e</guid>
-<pubDate>Fri, 23 Oct 2026 16:24:55 +0000</pubDate>
-<category>research</category>
-<description>Non-invasive camera-trap monitoring of endangered wildlife requires open-set individual identification---grouping field images into identities without predefined classes or a known population size---yet pose deformation and cluttered backgrounds complicate image comparison. Here, we present OpenStripe, a multi-agent framework that reconstructs canonical two-dimensional (2D) tiger torso patterns and encodes four interpretable local stripe structures: breakpoints, bifurcations, irregular structures, and round structures. We evaluated OpenStripe on 100 camera-trap records from 28 wild Amur tigers — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.32848v1</description>
-</item>
-<item>
-<title>Gheist campaign plants secret-dumping workflows using stolen GitHub tokens</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f63d8510625f</link>
-<guid isPermaLink="false">evt_f63d8510625f</guid>
-<pubDate>Sun, 25 Oct 2026 19:10:36 +0000</pubDate>
-<category>agents</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles</description>
-</item>
-<item>
-<title>HEALPix-Based Implicit Neural Compression of Omnidirectional Images</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85fd077e7c71</link>
-<guid isPermaLink="false">evt_85fd077e7c71</guid>
-<pubDate>Sat, 24 Oct 2026 13:11:37 +0000</pubDate>
-<category>research</category>
-<description>Real-time decoding of omnidirectional images is essential for immersive virtual reality (VR) experiences. Compared with conventional transform-based learned image compression (LIC), overfitted codecs offer lower decoding complexity by representing each image with a lightweight implicit neural representation (INR). However, existing approaches typically operate on the equirectangular projection (ERP), which introduces nonuniform spherical sampling and spatial distortion, leading to redundant sampling near the poles and latitude-dependent receptive fields. To address these limitations, we propos — 来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://arxiv.org/abs/2610.32561v1</description>
-</item>
-<item>
-<title>AI didn't cause the tech jobs bust, but it explains why there's no recovery</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f27e36157157</link>
-<guid isPermaLink="false">evt_f27e36157157</guid>
-<pubDate>Sun, 25 Oct 2026 18:42:23 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs</description>
-</item>
-<item>
-<title>What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ac6efde4b6ac</link>
-<guid isPermaLink="false">evt_ac6efde4b6ac</guid>
-<pubDate>Sun, 25 Oct 2026 18:35:21 +0000</pubDate>
-<category>research</category>
-<description>I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process. Finding edge cases: How do you identify edge cases that are rare or unusual. Also how do you make edge cases on an existing dataset to make it more specialized for what you need. Generating examples: Do you write them by yourself, or use a good model to generate synthetic data, mine real data, etc? Quality control: How do you catch incorrect, repetitive, or unreal — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/</description>
-</item>
-<item>
-<title>China's first AI-generated film hits cinemas but ticket sales lag</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a2fcd59d00c6</link>
-<guid isPermaLink="false">evt_a2fcd59d00c6</guid>
-<pubDate>Sun, 25 Oct 2026 18:16:09 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401</description>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,80 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 26 Oct 2026 09:32:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 18:00:48 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic officially files for its public debut</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Mon, 26 Oct 2026 17:45:43 +0000</pubDate>
+<category>industry</category>
+<description>Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission. — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</description>
+</item>
+<item>
+<title>Our newest AI Quest: Mapping the human brain</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
+<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
+<pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+<category>science</category>
+<description>Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.” — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</description>
+</item>
+<item>
+<title>Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_95364ce77079</link>
+<guid isPermaLink="false">evt_95364ce77079</guid>
+<pubDate>Mon, 26 Oct 2026 17:56:58 +0000</pubDate>
+<category>open_source</category>
+<description>Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</description>
+</item>
+<item>
+<title>ChatGPT’s expanding world of work</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
+<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time. — 来源：github · openai_blog — 原文：https://openai.com/index/chatgpt-expanding-world-of-work</description>
+</item>
+<item>
+<title>Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_833d3d328a66</link>
+<guid isPermaLink="false">evt_833d3d328a66</guid>
+<pubDate>Mon, 26 Oct 2026 17:15:14 +0000</pubDate>
+<category>agents</category>
+<description>Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</description>
+</item>
+<item>
+<title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8d6b6f60f40a</link>
+<guid isPermaLink="false">evt_8d6b6f60f40a</guid>
+<pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
+<category>industry</category>
+<description>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</description>
+</item>
+<item>
+<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Mon, 26 Oct 2026 17:53:59 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
+<item>
+<title>SpaceX locks in $40B GPU financing deal with Apollo</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_623265788782</link>
+<guid isPermaLink="false">evt_623265788782</guid>
+<pubDate>Mon, 26 Oct 2026 16:46:36 +0000</pubDate>
+<category>infrastructure</category>
+<description>SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever. — 来源：techcrunch_ai · qbitai — 原文：https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/</description>
+</item>
+<item>
+<title>How Fanatics and OpenAI streamline the fan experience</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
+<guid isPermaLink="false">evt_4ab93569e260</guid>
+<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://openai.com/index/fanatics-streamline-fan-experience</description>
+</item>
 <item>
 <title>morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_596733de5852</link>
@@ -16,12 +88,20 @@
 <description>Reverse engineer anything with agents, from app behavior down to native binaries. · topics: agent-skills, ai-agents, binary-analysis, claude-code, cli, codex · ⭐ 387,374 · TypeScript — 来源：hackernews · github — 原文：https://github.com/morluto/rea</description>
 </item>
 <item>
-<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Mon, 26 Oct 2026 04:14:35 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+<title>OpenAI开始断网训练最强模型：“安全起见”</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
+<guid isPermaLink="false">evt_3c0520e5732d</guid>
+<pubDate>Mon, 26 Oct 2026 17:22:39 +0000</pubDate>
+<category>infrastructure</category>
+<description>模型开始利用GPU缓存聊天？ — 来源：qbitai · reddit_ml — 原文：https://www.qbitai.com/2026/10/505529.html</description>
+</item>
+<item>
+<title>ccore/Qwen3.5-4B-3D-Coder</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_35e1062c5d03</link>
+<guid isPermaLink="false">evt_35e1062c5d03</guid>
+<pubDate>Mon, 26 Oct 2026 04:04:56 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · model · 下载 1,348 · 收藏 98 — 来源：reddit_ml · huggingface · arxiv — 原文：https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder</description>
 </item>
 </channel>
 </rss>

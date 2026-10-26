@@ -5,8 +5,88 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 26 Oct 2026 09:32:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 18:00:48 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic officially files for its public debut</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Mon, 26 Oct 2026 17:45:43 +0000</pubDate>
+<category>industry</category>
+<description>Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission. — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</description>
+</item>
+<item>
+<title>Our newest AI Quest: Mapping the human brain</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
+<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
+<pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+<category>science</category>
+<description>Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.” — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</description>
+</item>
+<item>
+<title>Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_95364ce77079</link>
+<guid isPermaLink="false">evt_95364ce77079</guid>
+<pubDate>Mon, 26 Oct 2026 17:56:58 +0000</pubDate>
+<category>open_source</category>
+<description>Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</description>
+</item>
+<item>
+<title>ChatGPT’s expanding world of work</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
+<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time. — 来源：github · openai_blog — 原文：https://openai.com/index/chatgpt-expanding-world-of-work</description>
+</item>
+<item>
+<title>Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0f715e1693d7</link>
+<guid isPermaLink="false">evt_0f715e1693d7</guid>
+<pubDate>Mon, 26 Oct 2026 17:27:20 +0000</pubDate>
+<category>agents</category>
+<description>Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</description>
+</item>
+<item>
+<title>Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_833d3d328a66</link>
+<guid isPermaLink="false">evt_833d3d328a66</guid>
+<pubDate>Mon, 26 Oct 2026 17:15:14 +0000</pubDate>
+<category>agents</category>
+<description>Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</description>
+</item>
+<item>
+<title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8d6b6f60f40a</link>
+<guid isPermaLink="false">evt_8d6b6f60f40a</guid>
+<pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
+<category>industry</category>
+<description>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</description>
+</item>
+<item>
+<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Mon, 26 Oct 2026 17:53:59 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
+<item>
+<title>SpaceX locks in $40B GPU financing deal with Apollo</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_623265788782</link>
+<guid isPermaLink="false">evt_623265788782</guid>
+<pubDate>Mon, 26 Oct 2026 16:46:36 +0000</pubDate>
+<category>infrastructure</category>
+<description>SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever. — 来源：techcrunch_ai · qbitai — 原文：https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/</description>
+</item>
+<item>
+<title>How Fanatics and OpenAI streamline the fan experience</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
+<guid isPermaLink="false">evt_4ab93569e260</guid>
+<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://openai.com/index/fanatics-streamline-fan-experience</description>
+</item>
 <item>
 <title>morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_596733de5852</link>
@@ -16,20 +96,124 @@
 <description>Reverse engineer anything with agents, from app behavior down to native binaries. · topics: agent-skills, ai-agents, binary-analysis, claude-code, cli, codex · ⭐ 387,374 · TypeScript — 来源：hackernews · github — 原文：https://github.com/morluto/rea</description>
 </item>
 <item>
-<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Mon, 26 Oct 2026 04:14:35 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+<title>OpenAI开始断网训练最强模型：“安全起见”</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
+<guid isPermaLink="false">evt_3c0520e5732d</guid>
+<pubDate>Mon, 26 Oct 2026 17:22:39 +0000</pubDate>
+<category>infrastructure</category>
+<description>模型开始利用GPU缓存聊天？ — 来源：qbitai · reddit_ml — 原文：https://www.qbitai.com/2026/10/505529.html</description>
 </item>
 <item>
-<title>AI4Finance-Foundation/FinGPT — FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
-<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
-<pubDate>Sun, 25 Oct 2026 13:49:15 +0000</pubDate>
+<title>ccore/Qwen3.5-4B-3D-Coder</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_35e1062c5d03</link>
+<guid isPermaLink="false">evt_35e1062c5d03</guid>
+<pubDate>Mon, 26 Oct 2026 04:04:56 +0000</pubDate>
 <category>open_source</category>
-<description>FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace. · topics: chatgpt, finance, fingpt, fintech, large-language-models, machine-learning · ⭐ 21,466 · Jupyter Notebook — 来源：github — 原文：https://github.com/AI4Finance-Foundation/FinGPT</description>
+<description>Hugging Face 模型 · model · 下载 1,348 · 收藏 98 — 来源：reddit_ml · huggingface · arxiv — 原文：https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder</description>
+</item>
+<item>
+<title>Microsoft offers buyouts to 60,000 employees</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_be6e5506bbd8</link>
+<guid isPermaLink="false">evt_be6e5506bbd8</guid>
+<pubDate>Mon, 26 Oct 2026 15:58:27 +0000</pubDate>
+<category>agents</category>
+<description>Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members "the opportunity to leave Microsoft with financial support and career planning resources" as the company looks to trim staff without another […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</description>
+</item>
+<item>
+<title>Kevin Roose is AGI-pilled. Why aren’t you?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_69904ff11434</link>
+<guid isPermaLink="false">evt_69904ff11434</guid>
+<pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
+<category>open_source</category>
+<description>Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the […] — 来源：verge_ai — 原文：https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic</description>
+</item>
+<item>
+<title>Can AI help solve the COBOL code crisis?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f5fb9a5f4f57</link>
+<guid isPermaLink="false">evt_f5fb9a5f4f57</guid>
+<pubDate>Mon, 26 Oct 2026 13:15:00 +0000</pubDate>
+<category>industry</category>
+<description>What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted "substantial improvements" in its latest AI models' […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</description>
+</item>
+<item>
+<title>AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_02246cbd596d</link>
+<guid isPermaLink="false">evt_02246cbd596d</guid>
+<pubDate>Mon, 26 Oct 2026 09:46:13 +0000</pubDate>
+<category>industry</category>
+<description>10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505539.html</description>
+</item>
+<item>
+<title>A社联创演讲：AI奇点已来</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_81631053b97c</link>
+<guid isPermaLink="false">evt_81631053b97c</guid>
+<pubDate>Mon, 26 Oct 2026 09:35:14 +0000</pubDate>
+<category>industry</category>
+<description>所谓奇点，或许是AI跃过人类的那个点。 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505521.html</description>
+</item>
+<item>
+<title>中国近50%的新云生意，竟被这家公司包揽！</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2def7252cad</link>
+<guid isPermaLink="false">evt_b2def7252cad</guid>
+<pubDate>Mon, 26 Oct 2026 09:02:44 +0000</pubDate>
+<category>industry</category>
+<description>有点意外，但也不意外 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505454.html</description>
+</item>
+<item>
+<title>The focus on AI safety disasters ignores everyday harms</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b97b35d7a87</link>
+<guid isPermaLink="false">evt_8b97b35d7a87</guid>
+<pubDate>Mon, 26 Oct 2026 09:01:00 +0000</pubDate>
+<category>safety</category>
+<description>Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products… — 来源：mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/</description>
+</item>
+<item>
+<title>从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9713a1450014</link>
+<guid isPermaLink="false">evt_9713a1450014</guid>
+<pubDate>Mon, 26 Oct 2026 08:38:49 +0000</pubDate>
+<category>industry</category>
+<description>人工智能正在从人机“言传身教”走向自学“触类旁通”。 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505443.html</description>
+</item>
+<item>
+<title>长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4f060559eb19</link>
+<guid isPermaLink="false">evt_4f060559eb19</guid>
+<pubDate>Mon, 26 Oct 2026 08:04:10 +0000</pubDate>
+<category>science</category>
+<description>10月21日，2026世界智能网联汽车大会在北京召开 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505436.html</description>
+</item>
+<item>
+<title>趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d3092558eaab</link>
+<guid isPermaLink="false">evt_d3092558eaab</guid>
+<pubDate>Mon, 26 Oct 2026 06:50:44 +0000</pubDate>
+<category>industry</category>
+<description>高品质 AI Token 成为行业新风向 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505429.html</description>
+</item>
+<item>
+<title>KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6e6c63398ce8</link>
+<guid isPermaLink="false">evt_6e6c63398ce8</guid>
+<pubDate>Mon, 26 Oct 2026 06:45:25 +0000</pubDate>
+<category>open_source</category>
+<description>一张卡，512路长推理同时跑 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/505407.html</description>
+</item>
+<item>
+<title>Nvidia discusses $2k-per-GPU annual fee for software</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_147a52922e17</link>
+<guid isPermaLink="false">evt_147a52922e17</guid>
+<pubDate>Mon, 26 Oct 2026 17:34:45 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：nvidia_blog · hn_frontpage · hackernews — 原文：https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform</description>
+</item>
+<item>
+<title>ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c24dd7387835</link>
+<guid isPermaLink="false">evt_c24dd7387835</guid>
+<pubDate>Mon, 26 Oct 2026 17:32:16 +0000</pubDate>
+<category>foundation_models</category>
+<description>Comments — 来源：github · hn_frontpage — 原文：https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</description>
 </item>
 <item>
 <title>Nanbeige/Nanbeige4.3-33B</title>
@@ -40,6 +224,46 @@
 <description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 169 — 来源：huggingface — 原文：https://huggingface.co/Nanbeige/Nanbeige4.3-33B</description>
 </item>
 <item>
+<title>Concerning behavior from a popular open-weight AI model</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ce5ce5fc43fb</link>
+<guid isPermaLink="false">evt_ce5ce5fc43fb</guid>
+<pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</description>
+</item>
+<item>
+<title>Scoring IDP [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_788c389c7203</link>
+<guid isPermaLink="false">evt_788c389c7203</guid>
+<pubDate>Mon, 26 Oct 2026 16:10:06 +0000</pubDate>
+<category>foundation_models</category>
+<description>This is a "survey of current practices" type of research for a niche area, nothing earth-shattering. I’ve written a 2-part Medium series (free, no paywall) on scoring Intelligent Document Processing (IDP). It focuses on Key Information Extraction (KIE) from structured documents, especially forms. I lean heavy on metrics derived from the confusion matrix: different ways to map items such as blanks or misreads to the four possible values, how to count them, when to use each metric. Scoring IDP, Part 1: Confidence Is Not Correctness Scoring IDP, Part 2: Approaches to Evaluating Form Extraction To — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/</description>
+</item>
+<item>
+<title>Sebastian Raschka's from-scratch video course on building reasoning models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d1a3b4fa5d93</link>
+<guid isPermaLink="false">evt_d1a3b4fa5d93</guid>
+<pubDate>Mon, 26 Oct 2026 15:11:59 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://magazine.sebastianraschka.com/p/building-reasoning-models</description>
+</item>
+<item>
+<title>R/opensource bans AI-made and AI-focused projects and non-English speakers</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_04d72f063e14</link>
+<guid isPermaLink="false">evt_04d72f063e14</guid>
+<pubDate>Mon, 26 Oct 2026 13:00:51 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers</description>
+</item>
+<item>
+<title>Brown student maps the hidden global labor powering AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f2b7a055af10</link>
+<guid isPermaLink="false">evt_f2b7a055af10</guid>
+<pubDate>Mon, 26 Oct 2026 12:58:27 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://www.brown.edu/news/2026-10-26/ai-data-workers</description>
+</item>
+<item>
 <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e4ac1d3f295a</link>
 <guid isPermaLink="false">evt_e4ac1d3f295a</guid>
@@ -48,12 +272,12 @@
 <description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</description>
 </item>
 <item>
-<title>Google’s AI search changes upended online publishing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6bc0a4e087e6</link>
-<guid isPermaLink="false">evt_6bc0a4e087e6</guid>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<category>industry</category>
-<description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […] — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://www.theverge.com/column/1017983/google-ai-search-online-publishing</description>
+<title>Anthropic's Claude AI model accessed Georgia voter data in US</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ae927999a12</link>
+<guid isPermaLink="false">evt_1ae927999a12</guid>
+<pubDate>Mon, 26 Oct 2026 11:48:22 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews — 原文：https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us</description>
 </item>
 <item>
 <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
@@ -62,6 +286,14 @@
 <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
 <category>industry</category>
 <description>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech." — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</description>
+</item>
+<item>
+<title>PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1c0f118362e8</link>
+<guid isPermaLink="false">evt_1c0f118362e8</guid>
+<pubDate>Mon, 26 Oct 2026 07:48:07 +0000</pubDate>
+<category>infrastructure</category>
+<description>I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 ± 29 steps; PBT took 2667 ± 2244. PBT was slower in every seed, but the grid’s corner already contained the answer. Dead-zone start (lr 1e-4 to 1e-3, wd 0.01 to 0.08, where no fixed setting groks): fixed 0/3, slow PBT 0/3, fast PBT (every 100 steps, ×0.5/×2) 3/3 at about 6850 steps. Its path: lr drops to the floor, then wd climbs to the  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/</description>
 </item>
 <item>
 <title>Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations</title>
@@ -152,14 +384,6 @@
 <description>Real-time decoding of omnidirectional images is essential for immersive virtual reality (VR) experiences. Compared with conventional transform-based learned image compression (LIC), overfitted codecs offer lower decoding complexity by representing each image with a lightweight implicit neural representation (INR). However, existing approaches typically operate on the equirectangular projection (ERP), which introduces nonuniform spherical sampling and spatial distortion, leading to redundant sampling near the poles and latitude-dependent receptive fields. To address these limitations, we propos — 来源：arxiv · reddit_ml · github · hn_frontpage · hackernews — 原文：https://arxiv.org/abs/2610.32561v1</description>
 </item>
 <item>
-<title>What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ac6efde4b6ac</link>
-<guid isPermaLink="false">evt_ac6efde4b6ac</guid>
-<pubDate>Sun, 25 Oct 2026 18:35:21 +0000</pubDate>
-<category>research</category>
-<description>I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process. Finding edge cases: How do you identify edge cases that are rare or unusual. Also how do you make edge cases on an existing dataset to make it more specialized for what you need. Generating examples: Do you write them by yourself, or use a good model to generate synthetic data, mine real data, etc? Quality control: How do you catch incorrect, repetitive, or unreal — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/</description>
-</item>
-<item>
 <title>AI didn't cause the tech jobs bust, but it explains why there's no recovery</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f27e36157157</link>
 <guid isPermaLink="false">evt_f27e36157157</guid>
@@ -168,244 +392,20 @@
 <description>来源：hackernews — 原文：https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs</description>
 </item>
 <item>
+<title>What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ac6efde4b6ac</link>
+<guid isPermaLink="false">evt_ac6efde4b6ac</guid>
+<pubDate>Sun, 25 Oct 2026 18:35:21 +0000</pubDate>
+<category>research</category>
+<description>I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process. Finding edge cases: How do you identify edge cases that are rare or unusual. Also how do you make edge cases on an existing dataset to make it more specialized for what you need. Generating examples: Do you write them by yourself, or use a good model to generate synthetic data, mine real data, etc? Quality control: How do you catch incorrect, repetitive, or unreal — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/</description>
+</item>
+<item>
 <title>China's first AI-generated film hits cinemas but ticket sales lag</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a2fcd59d00c6</link>
 <guid isPermaLink="false">evt_a2fcd59d00c6</guid>
 <pubDate>Sun, 25 Oct 2026 18:16:09 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401</description>
-</item>
-<item>
-<title>A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1dc75a32fc6a</link>
-<guid isPermaLink="false">evt_1dc75a32fc6a</guid>
-<pubDate>Sun, 25 Oct 2026 17:15:38 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews — 原文：https://lynchlab.net/llm-skin-cancer</description>
-</item>
-<item>
-<title>Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6c51129e93f6</link>
-<guid isPermaLink="false">evt_6c51129e93f6</guid>
-<pubDate>Sun, 25 Oct 2026 11:49:00 +0000</pubDate>
-<category>industry</category>
-<description>#20 — 来源：simonwillison · interconnects — 原文：https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber</description>
-</item>
-<item>
-<title>Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_24c07956d148</link>
-<guid isPermaLink="false">evt_24c07956d148</guid>
-<pubDate>Sun, 25 Oct 2026 16:32:44 +0000</pubDate>
-<category>open_source</category>
-<description>Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.8-27B, using the same harness and inference settings within each benchmark. it does not win everywhere. on SWE-Bench Pro, the reported scores are 60.3 versus 61.7. these are the releasing team's evaluations, not independent replication. one practical detail for reproducing the agent results: the evaluations retain earlier reasoning with preser — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/</description>
-</item>
-<item>
-<title>AI use leads UC Berkeley math professor to see 'no point' in grading homework</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_33331332d5b9</link>
-<guid isPermaLink="false">evt_33331332d5b9</guid>
-<pubDate>Sun, 25 Oct 2026 16:28:26 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html</description>
-</item>
-<item>
-<title>A Mathematician Reads the AI Future</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_66ba1c7669c0</link>
-<guid isPermaLink="false">evt_66ba1c7669c0</guid>
-<pubDate>Sun, 25 Oct 2026 16:31:21 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/</description>
-</item>
-<item>
-<title>The Punjabi Geet Toxicity Dataset (PGT-FG): Fine-Grained Multimodal Annotations for Toxic Content in Punjabi Songs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
-<guid isPermaLink="false">evt_ae73f96a74e0</guid>
-<pubDate>Sun, 25 Oct 2026 00:43:47 +0000</pubDate>
-<category>research</category>
-<description>Resources for toxicity detection in Punjabi remain limited, particularly for musical content that combines linguistic and multimodal information. We present the Punjabi Geet Toxicity Dataset (PGT-FG), a segment-level resource developed to support research on toxicity detection in Punjabi musical content. The dataset was constructed from publicly available Punjabi songs collected from YouTube. An initial collection of 620 songs resulted in 465 successfully downloaded songs and 3,402 preliminary segments from 450 songs. After quality control and annotation, the final dataset contains 2,396 uniqu — 来源：hackernews · arxiv — 原文：https://arxiv.org/abs/2610.32513v1</description>
-</item>
-<item>
-<title>Seam Cutter</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_26fd38f53c39</link>
-<guid isPermaLink="false">evt_26fd38f53c39</guid>
-<pubDate>Sun, 25 Oct 2026 15:10:19 +0000</pubDate>
-<category>industry</category>
-<description>Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for example. Tags: tools — 来源：simonwillison — 原文：https://simonwillison.net/2026/Oct/25/seam-cutter/</description>
-</item>
-<item>
-<title>R/open source bans all solo projects and projects using LLMs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3cfe81138dd2</link>
-<guid isPermaLink="false">evt_3cfe81138dd2</guid>
-<pubDate>Sun, 25 Oct 2026 14:05:03 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews — 原文：https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai</description>
-</item>
-<item>
-<title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_67972bfe4904</link>
-<guid isPermaLink="false">evt_67972bfe4904</guid>
-<pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
-<category>safety</category>
-<description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</description>
-</item>
-<item>
-<title>Oai-math-revised: a community hub for revising OpenAI's math write-ups</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
-<guid isPermaLink="false">evt_4ab93569e260</guid>
-<pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
-<category>industry</category>
-<description>Comments — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai — 原文：https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/</description>
-</item>
-<item>
-<title>Imagine an AI future where being banned means you are now economically useless</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a99d48c2aa4</link>
-<guid isPermaLink="false">evt_8a99d48c2aa4</guid>
-<pubDate>Sun, 25 Oct 2026 12:47:20 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://twitter.com/boneGPT/status/2114035719853265264</description>
-</item>
-<item>
-<title>Blue Planet III is keeping the rough edges in the age of AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_26a10ea170f0</link>
-<guid isPermaLink="false">evt_26a10ea170f0</guid>
-<pubDate>Sat, 24 Oct 2026 21:29:12 +0000</pubDate>
-<category>industry</category>
-<description>BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</description>
-</item>
-<item>
-<title>orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e6e48b4f4486</link>
-<guid isPermaLink="false">evt_e6e48b4f4486</guid>
-<pubDate>Sat, 24 Oct 2026 05:43:53 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 3 · 收藏 100 — 来源：huggingface — 原文：https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF</description>
-</item>
-<item>
-<title>LiconStudio/Minimax-H3-VBVR</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e9c1520038a6</link>
-<guid isPermaLink="false">evt_e9c1520038a6</guid>
-<pubDate>Sat, 24 Oct 2026 02:19:29 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · model · 下载 2,953 · 收藏 98 — 来源：arxiv · huggingface — 原文：https://huggingface.co/LiconStudio/Minimax-H3-VBVR</description>
-</item>
-<item>
-<title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dbe76530e989</link>
-<guid isPermaLink="false">evt_dbe76530e989</guid>
-<pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
-<category>industry</category>
-<description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</description>
-</item>
-<item>
-<title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_94e7f4f5c0e5</link>
-<guid isPermaLink="false">evt_94e7f4f5c0e5</guid>
-<pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-<category>research</category>
-<description>来源：hf_blog · huggingface — 原文：https://huggingface.co/blog/allenai/litpivot</description>
-</item>
-<item>
-<title>Pennsylvania will require labels on AI-generated ads</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_934580108444</link>
-<guid isPermaLink="false">evt_934580108444</guid>
-<pubDate>Sat, 24 Oct 2026 18:32:21 +0000</pubDate>
-<category>industry</category>
-<description>On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</description>
-</item>
-<item>
-<title>Nikon photography contest winner loses title after scientists spot signs of AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ed849a13eb41</link>
-<guid isPermaLink="false">evt_ed849a13eb41</guid>
-<pubDate>Sun, 25 Oct 2026 09:51:17 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</description>
-</item>
-<item>
-<title>unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0387ac6c8a75</link>
-<guid isPermaLink="false">evt_0387ac6c8a75</guid>
-<pubDate>Sat, 24 Oct 2026 04:00:15 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 17,529 · 收藏 95 — 来源：huggingface — 原文：https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF</description>
-</item>
-<item>
-<title>From Parameter Rebasin to Functional Transfer Across Heterogeneous Transformers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c235eef33da9</link>
-<guid isPermaLink="false">evt_c235eef33da9</guid>
-<pubDate>Sat, 24 Oct 2026 09:58:29 +0000</pubDate>
-<category>research</category>
-<description>Adapting pretrained Transformers to downstream tasks produces task-specific updates that are expensive to reproduce for every model variant. Reusing these updates across different depths and widths is challenging because their parameters have incompatible shapes and do not share a canonical coordinate system. We introduce Ariadne, a training-free method that transfers task-specific behavior across heterogeneous Transformers without resizing the source model or transporting its parameters. Rather than treating the source task vector, i.e. the difference in parameter space between the fine-tuned — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.32581v1</description>
-</item>
-<item>
-<title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
-<guid isPermaLink="false">evt_f298fb1604b9</guid>
-<pubDate>Fri, 23 Oct 2026 21:59:19 +0000</pubDate>
-<category>robotics</category>
-<description>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command. — 来源：nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</description>
-</item>
-<item>
-<title>Block’s new voice model sounds eerily human</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_688136660c10</link>
-<guid isPermaLink="false">evt_688136660c10</guid>
-<pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
-<category>industry</category>
-<description>Block said that the voice model can run locally on a MacBook M4 Max — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</description>
-</item>
-<item>
-<title>Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_95364ce77079</link>
-<guid isPermaLink="false">evt_95364ce77079</guid>
-<pubDate>Fri, 23 Oct 2026 17:48:54 +0000</pubDate>
-<category>agents</category>
-<description>Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/</description>
-</item>
-<item>
-<title>memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6d8faeb5cc7d</link>
-<guid isPermaLink="false">evt_6d8faeb5cc7d</guid>
-<pubDate>Sun, 25 Oct 2026 05:31:19 +0000</pubDate>
-<category>agents</category>
-<description>been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.0 bakes memory directly into the model computation layer using gated deltanet-2 with a stable token-level memory update mechanism within each turn, combined with a mixture-of-storage (mos) layer to scale capacity. a few quick technical takeaways from the setup: internalizing procedural experience: standard agents retrieve p — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/</description>
-</item>
-<item>
-<title>Meta says if its AI makes a mistake, it will legally be the customer's fault</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_add383da2fc0</link>
-<guid isPermaLink="false">evt_add383da2fc0</guid>
-<pubDate>Sat, 24 Oct 2026 05:27:03 +0000</pubDate>
-<category>industry</category>
-<description>来源：arstechnica_ai · verge_ai · techcrunch_ai · hackernews · arxiv — 原文：https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html</description>
-</item>
-<item>
-<title>ICLR 2027 is still handing out desk rejects [N]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_27e161c34952</link>
-<guid isPermaLink="false">evt_27e161c34952</guid>
-<pubDate>Sun, 25 Oct 2026 05:35:36 +0000</pubDate>
-<category>industry</category>
-<description>Thank you for your efforts in protecting the community from AI slop. submitted by /u/Temporary_Switch_339 [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/</description>
-</item>
-<item>
-<title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_298c8de07d18</link>
-<guid isPermaLink="false">evt_298c8de07d18</guid>
-<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-<category>foundation_models</category>
-<description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — 来源：openai_blog — 原文：https://openai.com/index/scaling-storage-one-billion-users-part-two</description>
-</item>
-<item>
-<title>A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2d697c6e8069</link>
-<guid isPermaLink="false">evt_2d697c6e8069</guid>
-<pubDate>Fri, 23 Oct 2026 17:17:11 +0000</pubDate>
-<category>research</category>
-<description>Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-HardNet, and illustrate how it could be used for hybrid modeling, process simulation, optimization and model predictive control in a single platform. KKT-HardNet combines fast inference capabilities of neural networks with guaranteed satisfaction of algebraic constraints through differential projection. It can handle heterogeneous data and enforce both linear and nonlinear equalit — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2610.32914v1</description>
-</item>
-<item>
-<title>Orchestrating SageMaker AI endpoint auto scaling with AWS CDK</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8d953e36308</link>
-<guid isPermaLink="false">evt_a8d953e36308</guid>
-<pubDate>Fri, 23 Oct 2026 16:30:10 +0000</pubDate>
-<category>industry</category>
-<description>Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/</description>
 </item>
 </channel>
 </rss>

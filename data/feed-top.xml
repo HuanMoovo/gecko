@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 25 Oct 2026 22:12:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 02:33:45 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Sun, 25 Oct 2026 20:46:50 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
 <item>
 <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e4ac1d3f295a</link>
@@ -22,14 +30,6 @@
 <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
 <category>industry</category>
 <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […] — 来源：google_ai_blog · hackernews · deepmind_blog · github · verge_ai — 原文：https://www.theverge.com/column/1017983/google-ai-search-online-publishing</description>
-</item>
-<item>
-<title>Infisical/infisical — Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Sun, 25 Oct 2026 03:27:25 +0000</pubDate>
-<category>open_source</category>
-<description>Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. · topics: acme, agents, ai-agents, certificate-management, devsecops, environment-variables · ⭐ 29,981 · TypeScript — 来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai — 原文：https://github.com/Infisical/infisical</description>
 </item>
 </channel>
 </rss>

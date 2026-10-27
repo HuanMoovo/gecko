@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 27 Oct 2026 17:07:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 23:24:39 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Tue, 27 Oct 2026 21:44:34 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
 <item>
 <title>Google’s next Genie AI model generates more realistic experiences</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7de7788a86fe</link>
@@ -16,28 +24,36 @@
 <description>Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […] — 来源：verge_ai · deepmind_blog · techcrunch_ai — 原文：https://www.theverge.com/tech/1019076/google-genie-4-ai-model</description>
 </item>
 <item>
-<title>How AI Is Changing the Pace of Discovery for Millions Living With Dementia</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
-<guid isPermaLink="false">evt_f298fb1604b9</guid>
-<pubDate>Tue, 27 Oct 2026 15:00:20 +0000</pubDate>
-<category>research</category>
-<description>There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […] — 来源：nvidia_blog · techcrunch_ai · huggingface — 原文：https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/</description>
-</item>
-<item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
 <guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 21:38:28 +0000</pubDate>
 <category>safety</category>
 <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
-<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Tue, 27 Oct 2026 16:25:12 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+<title>Nvidia and Micron Make Up 34% of America's Earnings Boom</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
+<guid isPermaLink="false">evt_f298fb1604b9</guid>
+<pubDate>Tue, 27 Oct 2026 15:00:20 +0000</pubDate>
+<category>industry</category>
+<description>来源：nvidia_blog · techcrunch_ai · huggingface · hackernews — 原文：https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53</description>
+</item>
+<item>
+<title>Working with academic communities to build scientific understanding</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
+<guid isPermaLink="false">evt_4ab93569e260</guid>
+<pubDate>Tue, 27 Oct 2026 20:48:58 +0000</pubDate>
+<category>research</category>
+<description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai · verge_ai · github — 原文：https://openai.com/index/building-scientific-understanding-with-academic-communities</description>
+</item>
+<item>
+<title>AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
+<guid isPermaLink="false">evt_10659eb70d41</guid>
+<pubDate>Tue, 27 Oct 2026 18:03:12 +0000</pubDate>
+<category>industry</category>
+<description>AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience. — 来源：aws_ml · hackernews — 原文：https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/</description>
 </item>
 <item>
 <title>Announcing SOCI-indexed images for faster SageMaker AI jobs</title>
@@ -48,12 +64,20 @@
 <description>Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</description>
 </item>
 <item>
-<title>Fix evaluation bias to unlock better models on Amazon Bedrock</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
-<guid isPermaLink="false">evt_10659eb70d41</guid>
-<pubDate>Tue, 27 Oct 2026 16:53:02 +0000</pubDate>
-<category>infrastructure</category>
-<description>Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on Amazon Bedrock, cutting cost by 86% across 11 image-quality attributes. — 来源：aws_ml · hackernews — 原文：https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/</description>
+<title>Build specialized multimodal models with LFM3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_34370e88c88d</link>
+<guid isPermaLink="false">evt_34370e88c88d</guid>
+<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/LiquidAI/lfm3</description>
+</item>
+<item>
+<title>Early progress on accelerating drug development with Claude</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ae927999a12</link>
+<guid isPermaLink="false">evt_1ae927999a12</guid>
+<pubDate>Tue, 27 Oct 2026 20:50:42 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews · github — 原文：https://www.anthropic.com/research/early-progress-drug-development</description>
 </item>
 <item>
 <title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
@@ -80,14 +104,6 @@
 <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings. — 来源：github · openai_blog — 原文：https://openai.com/index/oracle-apps-in-chatgpt</description>
 </item>
 <item>
-<title>Ask HN: T'was the night of Claude Reset and quota left: Funniest app you built?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ae927999a12</link>
-<guid isPermaLink="false">evt_1ae927999a12</guid>
-<pubDate>Tue, 27 Oct 2026 16:11:38 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews · github — 原文：https://news.ycombinator.com/item?id=50261396</description>
-</item>
-<item>
 <title>MATE-BT: A Behavior-Tree-Based Framework for Hierarchically Decentralized Mission Autonomy in Heterogeneous Multi-Robot Teams</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
 <guid isPermaLink="false">evt_ae73f96a74e0</guid>
@@ -112,12 +128,12 @@
 <description>Many decision-making tasks are inherently multi-objective. Interactive evolutionary multi-objective optimization algorithms (iEMOAs) are particularly well-suited to help the decision-maker find their most preferred solution. However, many of these algorithms employ black-box preference models. For high-stakes decision-making tasks, like healthcare and defense, a high level of transparency is needed, for instance to support accountability. We propose an interpretable iEMOA which uses active learning to efficiently learn a tree-based preference model directly from pairwise comparisons. The survi — 来源：arxiv · verge_ai — 原文：https://arxiv.org/abs/2610.35470v1</description>
 </item>
 <item>
-<title>Working with academic communities to build scientific understanding</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4ab93569e260</link>
-<guid isPermaLink="false">evt_4ab93569e260</guid>
-<pubDate>Mon, 26 Oct 2026 23:34:58 +0000</pubDate>
-<category>research</category>
-<description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. — 来源：openai_blog · qbitai · hn_frontpage · techcrunch_ai · verge_ai · github — 原文：https://openai.com/index/building-scientific-understanding-with-academic-communities</description>
+<title>How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd9256881ba9</link>
+<guid isPermaLink="false">evt_dd9256881ba9</guid>
+<pubDate>Tue, 27 Oct 2026 18:40:19 +0000</pubDate>
+<category>foundation_models</category>
+<description>Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ... — 来源：github · arxiv · latent_space — 原文：https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/</description>
 </item>
 <item>
 <title>Show HN: Specification First Agentic Development Plugin and Prove</title>
@@ -150,6 +166,14 @@
 <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
 <category>infrastructure</category>
 <description>Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue. — 来源：reddit_ml · techcrunch_ai — 原文：https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/</description>
+</item>
+<item>
+<title>How Anthropic ships Claude with Claude: Separating the Brain from the Hands</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a4c44e96b0a9</link>
+<guid isPermaLink="false">evt_a4c44e96b0a9</guid>
+<pubDate>Tue, 27 Oct 2026 18:53:10 +0000</pubDate>
+<category>foundation_models</category>
+<description>Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents. — 来源：hackernews · latent_space — 原文：https://latent.space/p/opus55/</description>
 </item>
 <item>
 <title>Our newest AI Quest: Mapping the human brain</title>
@@ -198,54 +222,6 @@
 <pubDate>Mon, 26 Oct 2026 15:30:52 +0000</pubDate>
 <category>research</category>
 <description>Modeling the latent, multi-step reasoning processes of learners is a core challenge for adaptive tutoring systems, which often rely on simple right/wrong answers rather than understanding how students think. Instantiated here for grammatical reasoning, this study introduces a diagnostic framework that makes students' step-by-step problem-solving visible by analyzing their action sequences in an interactive learning game. The framework computes five interpretable strategy dimensions (e.g., systematic error correction, random guessing), estimates coordination demand from task structure and behav — 来源：hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2610.35609v1</description>
-</item>
-<item>
-<title>OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e72399e06aa1</link>
-<guid isPermaLink="false">evt_e72399e06aa1</guid>
-<pubDate>Mon, 26 Oct 2026 19:34:57 +0000</pubDate>
-<category>research</category>
-<description>Referring expression grounding in overhead imagery requires oriented bounding boxes rather than horizontal ones, since aerial objects appear at arbitrary orientations. Most grounding models emit box coordinates sequentially; Parallel Box Decoding (PBD) instead predicts all geometry slots in one forward pass, but only for four-coordinate horizontal boxes. We extend this block-aligned interface to a six-slot oriented representation using a double-angle parameterization. Rather than assuming correctness from a decreasing loss curve, we verify the extension with image/prompt-shuffle controls and v — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.35450v1</description>
-</item>
-<item>
-<title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8d6b6f60f40a</link>
-<guid isPermaLink="false">evt_8d6b6f60f40a</guid>
-<pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
-<category>industry</category>
-<description>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</description>
-</item>
-<item>
-<title>Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e6e48b4f4486</link>
-<guid isPermaLink="false">evt_e6e48b4f4486</guid>
-<pubDate>Mon, 26 Oct 2026 16:14:17 +0000</pubDate>
-<category>research</category>
-<description>As frontier language models grow increasingly capable and autonomous, independent third-party evaluations are critical for characterizing their systemic safety risks. While closed-source releases are routinely accompanied by comprehensive system cards, open-weight models receive less scrutiny regarding frontier risks. To address this gap, we present an independent safety evaluation of DeepSeek V4.1 Flash-1017, the latest version of V4.1 Flash that departs from V4 with a new architecture, scaled-up training, and strong agentic capabilities. Drawing on the EU General-Purpose AI Code of Practice, — 来源：huggingface · arxiv — 原文：https://arxiv.org/abs/2610.35671v1</description>
-</item>
-<item>
-<title>Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c235eef33da9</link>
-<guid isPermaLink="false">evt_c235eef33da9</guid>
-<pubDate>Mon, 26 Oct 2026 17:57:14 +0000</pubDate>
-<category>research</category>
-<description>This paper proposes a smooth analytic gradient for frictional contact and applies it to policy learning and contact-implicit trajectory optimization for legged locomotion. The exact contact sensitivity is available in closed form but describes changes within the current contact mode, providing no first-order information toward neighboring contact modes. The proposed gradient replaces this sensitivity only in the backward pass, leaving the hard-contact forward solve unchanged and the realized rollout feasible. A central-path relaxation of the de Saxcé-corrected second-order-cone complementarity — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.35852v1</description>
-</item>
-<item>
-<title>Patient-specific rubric-based evaluation of large language models across longitudinal cancer care</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_712bc0d815dc</link>
-<guid isPermaLink="false">evt_712bc0d815dc</guid>
-<pubDate>Mon, 26 Oct 2026 17:56:26 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal care pathway. Here we introduce NPC-RubricBench, a phase-aware benchmark for evaluating multistage clinical reasoning across the cancer care continuum, using nasopharyngeal carcinoma as a defined disease context. Curated from longitudinal records of 405 patients across two cancer centers, the benchmark comprises 941 patient-phase units across six sequential care phases and 17,688 p — 来源：mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2610.35847v1</description>
-</item>
-<item>
-<title>Do vision models know that three is three?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3b9f162c9473</link>
-<guid isPermaLink="false">evt_3b9f162c9473</guid>
-<pubDate>Mon, 26 Oct 2026 17:58:17 +0000</pubDate>
-<category>research</category>
-<description>Do vision models encode the transition $2{\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they "understand" that clean${\to}$dirty is the same transformation regardless of whether it is applied to a kitchen or a carpet? The linear representation hypothesis (LRH) answers this for language models: concept changes correspond to directions in (language) embedding space. In vision, the same concept can manifest in visually unrelated "regimes" that rarely co-occur: images of digits and hands do not share much in common in pixel space. To understand whether vi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.35857v1</description>
 </item>
 </channel>
 </rss>

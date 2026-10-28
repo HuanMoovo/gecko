@@ -5,8 +5,32 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 17:43:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 23:45:27 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
+<guid isPermaLink="false">evt_f298fb1604b9</guid>
+<pubDate>Wed, 28 Oct 2026 21:01:32 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · automatic-speech-recognition · 下载 338 · 收藏 176 — 来源：nvidia_blog · techcrunch_ai · huggingface · hackernews · hn_frontpage — 原文：https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</description>
+</item>
+<item>
+<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Wed, 28 Oct 2026 19:48:05 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
+<item>
+<title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d957b57aa1e6</link>
+<guid isPermaLink="false">evt_d957b57aa1e6</guid>
+<pubDate>Wed, 28 Oct 2026 18:12:13 +0000</pubDate>
+<category>agents</category>
+<description>As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what. — 来源：simonwillison · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/</description>
+</item>
 <item>
 <title>Voters in Texas agree: They hate data centers</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
@@ -16,28 +40,52 @@
 <description>Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […] — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas</description>
 </item>
 <item>
-<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Wed, 28 Oct 2026 15:46:30 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
-</item>
-<item>
-<title>Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
-<guid isPermaLink="false">evt_f298fb1604b9</guid>
-<pubDate>Wed, 28 Oct 2026 15:17:53 +0000</pubDate>
+<title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3ebdfdbc96a9</link>
+<guid isPermaLink="false">evt_3ebdfdbc96a9</guid>
+<pubDate>Wed, 28 Oct 2026 23:05:39 +0000</pubDate>
 <category>industry</category>
-<description>Comments — 来源：nvidia_blog · techcrunch_ai · huggingface · hackernews · hn_frontpage — 原文：https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</description>
+<description>Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […] — 来源：arxiv · reddit_ml · github · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</description>
 </item>
 <item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
 <guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Wed, 28 Oct 2026 08:50:30 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 19:19:58 +0000</pubDate>
 <category>safety</category>
 <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+</item>
+<item>
+<title>Creating AI value with enterprise context</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4a36e492a30</link>
+<guid isPermaLink="false">evt_d4a36e492a30</guid>
+<pubDate>Wed, 28 Oct 2026 20:32:02 +0000</pubDate>
+<category>agents</category>
+<description>Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a… — 来源：verge_ai · github · arxiv · hackernews · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/</description>
+</item>
+<item>
+<title>Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_32913e4053f4</link>
+<guid isPermaLink="false">evt_32913e4053f4</guid>
+<pubDate>Wed, 28 Oct 2026 21:03:24 +0000</pubDate>
+<category>agents</category>
+<description>来源：github · hn_frontpage · hackernews — 原文：https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</description>
+</item>
+<item>
+<title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
+<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
+<pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
+<category>agents</category>
+<description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex. — 来源：github · openai_blog — 原文：https://openai.com/index/openai-servicenow-partnership-expansion</description>
+</item>
+<item>
+<title>The future of the firm</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+<category>industry</category>
+<description>How AI might enter the org chart—beneath, beside, and between us. — 来源：qbitai · openai_blog — 原文：https://openai.com/index/the-future-of-the-firm</description>
 </item>
 <item>
 <title>Legora is building the agentic operating system for legal work</title>
@@ -88,28 +136,20 @@
 <description>Hugging Face 模型 · model · 下载 24,719 · 收藏 96 — 来源：arxiv · huggingface — 原文：https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM</description>
 </item>
 <item>
-<title>The Agent SDK</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_32913e4053f4</link>
-<guid isPermaLink="false">evt_32913e4053f4</guid>
-<pubDate>Wed, 28 Oct 2026 14:02:20 +0000</pubDate>
-<category>agents</category>
-<description>Comments — 来源：github · hn_frontpage — 原文：https://cursor.com/blog/agent-sdk</description>
-</item>
-<item>
-<title>Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3ebdfdbc96a9</link>
-<guid isPermaLink="false">evt_3ebdfdbc96a9</guid>
-<pubDate>Wed, 28 Oct 2026 16:42:51 +0000</pubDate>
-<category>open_source</category>
-<description>In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm. This made me wonder about something similar in machine learning. Today, we can often distinguish AI-generated content from human-created content, at least statistically. But as AI models improve, could we eventually reach a point where the two become completely indistinguishable? Not just because our detectors aren’t advanced enough, but because there is no longer enough information in the content itself to tell them apart, regardless of how powerful the d — 来源：arxiv · reddit_ml · github — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/</description>
-</item>
-<item>
 <title>Amazon defines the role of the developer in the age of AI</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
 <guid isPermaLink="false">evt_10659eb70d41</guid>
 <pubDate>Wed, 28 Oct 2026 01:00:33 +0000</pubDate>
 <category>industry</category>
 <description>来源：aws_ml · hackernews — 原文：https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai</description>
+</item>
+<item>
+<title>Microsoft recorded $10 billion in revenue from OpenAI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f9d1493b929c</link>
+<guid isPermaLink="false">evt_f9d1493b929c</guid>
+<pubDate>Wed, 28 Oct 2026 21:34:30 +0000</pubDate>
+<category>industry</category>
+<description>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</description>
 </item>
 <item>
 <title>Artificial Analysis v5 and the benchmarker's dilemma</title>
@@ -120,12 +160,28 @@
 <description>A sort of review of the benchmarking industry and what's missing. — 来源：arxiv · interconnects — 原文：https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers</description>
 </item>
 <item>
+<title>How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b3a141ad3ed</link>
+<guid isPermaLink="false">evt_4b3a141ad3ed</guid>
+<pubDate>Wed, 28 Oct 2026 17:52:10 +0000</pubDate>
+<category>research</category>
+<description>We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL. Notably, replacing the critique with a fixed generic feedback line matches the full gain of about 3 points, and critiques from a 6x larger model do not materially improve performance, suggesting that the positional information provided by hindsight distillation significantly decreases the privileged information needed for effective — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/</description>
+</item>
+<item>
 <title>Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7ef621bb1084</link>
 <guid isPermaLink="false">evt_7ef621bb1084</guid>
 <pubDate>Wed, 28 Oct 2026 10:41:27 +0000</pubDate>
 <category>infrastructure</category>
 <description>Hi, just sharing a project I started a few months ago in case anyone is interested. The main idea is that you will have a desktop front-panel where you can monitor distributed training across multiple nodes. submitted by /u/perone [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/</description>
+</item>
+<item>
+<title>CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_56c569f486ce</link>
+<guid isPermaLink="false">evt_56c569f486ce</guid>
+<pubDate>Wed, 28 Oct 2026 22:04:32 +0000</pubDate>
+<category>agents</category>
+<description>TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun. I’m building a Polish legal model using Qwen3.5-9B-BASE (I plan to scale up to 27b qwen4 later) . I’ve done CPT and have quite a bit of data available, but I’m getting lost about what should come next or even if I should do more CPT. My main question is how to turn this (maybe) domain-adapted Base model into an agentic+chat assistant that reasons through legal problems.  — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/</description>
 </item>
 <item>
 <title>A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]</title>
@@ -152,12 +208,12 @@
 <description>We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects the training of such agents. To do so, we propose the SynthAPI pipeline, which explicitly controls the diversity of generated environments along the axes of tools, tasks, and the databases on which the tools operate. By systematically varying SynthAPI's generation controls in 458,752 tasks across 849 trained models of four different sizes, we derive a scaling law that predicts  — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.37648v1</description>
 </item>
 <item>
-<title>Microsoft and Epic Games Suddenly Agree That AI Is Theft</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4a36e492a30</link>
-<guid isPermaLink="false">evt_d4a36e492a30</guid>
-<pubDate>Wed, 28 Oct 2026 10:10:58 +0000</pubDate>
-<category>industry</category>
-<description>来源：verge_ai · github · arxiv · hackernews — 原文：https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316</description>
+<title>Claude Code found 14,219 photos of my face on my Android that I never took</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ae927999a12</link>
+<guid isPermaLink="false">evt_1ae927999a12</guid>
+<pubDate>Wed, 28 Oct 2026 18:00:40 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews · github — 原文：https://twitter.com/coolerwave/status/2115393243458207755</description>
 </item>
 <item>
 <title>GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力</title>
@@ -190,62 +246,6 @@
 <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/LiquidAI/lfm3</description>
-</item>
-<item>
-<title>Segmentation Confidence for Arbitrary CNNs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cb15fd0e039e</link>
-<guid isPermaLink="false">evt_cb15fd0e039e</guid>
-<pubDate>Tue, 27 Oct 2026 15:42:29 +0000</pubDate>
-<category>research</category>
-<description>Convolutional neural networks (CNN) are widely used for medical image segmentation. However, they lack an inherent measure of confidence. Existing methods for estimating prediction uncertainty often require a custom network architecture and/or dedicated training setups and need to be trained from scratch. In addition, the deduction of a single confidence score per input from the uncertainty maps is not always straightforward. In this study, we explore voxel-based uncertainty estimation methods that can be added to existing segmentation pipelines without training from scratch. We also propose a — 来源：arxiv · hackernews — 原文：https://arxiv.org/abs/2610.37431v1</description>
-</item>
-<item>
-<title>HDVS: semi-supervised semantic segmentation via heterogeneous dual-branch voting supervision</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e72399e06aa1</link>
-<guid isPermaLink="false">evt_e72399e06aa1</guid>
-<pubDate>Tue, 27 Oct 2026 17:12:42 +0000</pubDate>
-<category>research</category>
-<description>Semi-supervised semantic segmentation, which aims to utilize large volumes of unlabeled images to achieve accurate segmentation results with fewer human annotations, has attracted increasing attention. Prior methods were primarily based on the assumption that the pseudo-labels generated by each branch were sufficiently reliable to supervise the remaining branches. However, there is a concern that the errors in pseudo-labels could accumulate during co-training, potentially resulting in suboptimal performance. To this end, we present a novel framework called heterogeneous dual-branch voting supe — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.37236v1</description>
-</item>
-<item>
-<title>Coverage Under Contradiction: A Benchmark for Negation-Aware Retrieval</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_70798fc84d26</link>
-<guid isPermaLink="false">evt_70798fc84d26</guid>
-<pubDate>Tue, 27 Oct 2026 17:49:39 +0000</pubDate>
-<category>research</category>
-<description>Coverage-evaluation benchmarks quantify whether retrieved evidence covers the different pieces of information needed to satisfy an information need. Existing benchmarks mostly consider factual claims that may already be known to pretrained retrieval components, leaving open whether retrievers find corpus evidence when it contradicts those priors. We study how retrievers behave when their parametric knowledge and the information in a corpus disagree. To do so, we develop a process to augment a nugget-based coverage benchmark with controlled contradictions. For each nugget, we create a negated c — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.37162v1</description>
-</item>
-<item>
-<title>Anthropic now lets Claude users jump out of plane without parachute</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a4c44e96b0a9</link>
-<guid isPermaLink="false">evt_a4c44e96b0a9</guid>
-<pubDate>Wed, 28 Oct 2026 14:51:56 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews · latent_space — 原文：https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807</description>
-</item>
-<item>
-<title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ae927999a12</link>
-<guid isPermaLink="false">evt_1ae927999a12</guid>
-<pubDate>Tue, 27 Oct 2026 22:23:37 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews · github — 原文：https://www.anthropic.com/news/expanding-partnership-gsa</description>
-</item>
-<item>
-<title>When Should We Intervene at Test Time?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_934580108444</link>
-<guid isPermaLink="false">evt_934580108444</guid>
-<pubDate>Tue, 27 Oct 2026 17:58:53 +0000</pubDate>
-<category>research</category>
-<description>Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accuracy hides these failures and cannot tell a model when to use an intervention. Target labels can guide this decision, but they are scarce and some choices are already clear. We introduce PORTAL, a controller that chooses when to deploy an intervention, which inputs to label, and when to stop querying. Each available pred — 来源：verge_ai · arxiv — 原文：https://arxiv.org/abs/2610.37658v1</description>
-</item>
-<item>
-<title>Multi-State Linear Attention with Generalized Second-Order Routing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_786fb12afb9b</link>
-<guid isPermaLink="false">evt_786fb12afb9b</guid>
-<pubDate>Tue, 27 Oct 2026 17:55:49 +0000</pubDate>
-<category>research</category>
-<description>Self-attention plays a key role in long-sequence modeling, but its quadratic time complexity fundamentally limits the scaling of Large Language Models. Recently, Multi-State Linear Attention (MSLA) mechanisms have been proposed to make sequence modeling more efficient by splitting the context into segments and compressing each in its own memory state. MSLA aggregates the information extracted from each memory state using only the mean alignment between a query and each segment's keys, ignoring how the alignment is distributed within the segment. In order to model the relevance of a segment to  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.37645v1</description>
 </item>
 </channel>
 </rss>

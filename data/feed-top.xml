@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 17:51:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 23:43:36 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>mistralai/Mistral-Large-4-1T-A52B</title>
@@ -16,28 +16,44 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 278 · 收藏 1,153 — 来源：huggingface · hf_blog · techcrunch_ai · hackernews — 原文：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B</description>
 </item>
 <item>
+<title>Build a repeatable PHP-to-Java migration engine with Kiro</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
+<guid isPermaLink="false">evt_10659eb70d41</guid>
+<pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
+<category>agents</category>
+<description>Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies the Java port with a parity harness. — 来源：aws_ml · hackernews · techcrunch_ai — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/</description>
+</item>
+<item>
+<title>OpenAI-backed Thrive Holdings acquires ADT</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Thu, 29 Oct 2026 19:56:19 +0000</pubDate>
+<category>industry</category>
+<description>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business. — 来源：qbitai · openai_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</description>
+</item>
+<item>
+<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
+<guid isPermaLink="false">evt_8937fd9c8277</guid>
+<pubDate>Thu, 29 Oct 2026 21:40:28 +0000</pubDate>
+<category>agents</category>
+<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
+<item>
+<title>Building intent-driven UI testing with Amazon Nova Act</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d957b57aa1e6</link>
+<guid isPermaLink="false">evt_d957b57aa1e6</guid>
+<pubDate>Thu, 29 Oct 2026 20:16:40 +0000</pubDate>
+<category>agents</category>
+<description>Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero per-team infrastructure overhead. — 来源：simonwillison · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/</description>
+</item>
+<item>
 <title>Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_bf30529fb59d</link>
 <guid isPermaLink="false">evt_bf30529fb59d</guid>
 <pubDate>Thu, 29 Oct 2026 13:00:16 +0000</pubDate>
 <category>industry</category>
 <description>This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […] — 来源：nvidia_blog · huggingface — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</description>
-</item>
-<item>
-<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
-<category>open_source</category>
-<description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients. — 来源：qbitai · openai_blog — 原文：https://openai.com/index/ropes-gray-ai-diligence</description>
-</item>
-<item>
-<title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
-<guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Thu, 29 Oct 2026 17:48:14 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
 </item>
 <item>
 <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
@@ -64,20 +80,20 @@
 <description>A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. — 来源：techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/</description>
 </item>
 <item>
-<title>Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
-<guid isPermaLink="false">evt_10659eb70d41</guid>
-<pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
+<title>Meta quietly launches an AI fashion app called Style Sketch</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4683a3b03315</link>
+<guid isPermaLink="false">evt_4683a3b03315</guid>
+<pubDate>Thu, 29 Oct 2026 19:14:36 +0000</pubDate>
 <category>industry</category>
-<description>The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions. — 来源：aws_ml · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/</description>
+<description>The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll. — 来源：verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</description>
 </item>
 <item>
-<title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d957b57aa1e6</link>
-<guid isPermaLink="false">evt_d957b57aa1e6</guid>
-<pubDate>Wed, 28 Oct 2026 18:12:13 +0000</pubDate>
-<category>agents</category>
-<description>As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what. — 来源：simonwillison · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/</description>
+<title>Google value plunges by $500B as AI fears rattle Wall Street</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
+<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
+<pubDate>Thu, 29 Oct 2026 22:22:13 +0000</pubDate>
+<category>industry</category>
+<description>来源：techcrunch_ai · github · hackernews — 原文：https://www.bbc.com/news/articles/cm9qzdqpxy48o</description>
 </item>
 <item>
 <title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
@@ -88,12 +104,28 @@
 <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
 </item>
 <item>
+<title>You can generate and edit Google Docs files directly in Gemini chats now</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cca2247626bb</link>
+<guid isPermaLink="false">evt_cca2247626bb</guid>
+<pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
+<category>foundation_models</category>
+<description>Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</description>
+</item>
+<item>
 <title>We urgently need to monitor AI agents’ actions in real time</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d587154e05a8</link>
 <guid isPermaLink="false">evt_d587154e05a8</guid>
 <pubDate>Thu, 29 Oct 2026 10:11:12 +0000</pubDate>
 <category>agents</category>
 <description>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem… — 来源：arxiv · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</description>
+</item>
+<item>
+<title>IgE disruptor for food allergy with Claude-enabled antibody design [pdf]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
+<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
+<pubDate>Thu, 29 Oct 2026 19:25:48 +0000</pubDate>
+<category>foundation_models</category>
+<description>Comments — 来源：hackernews · hn_frontpage — 原文：https://divergencelabs.com/publications/ige-preprint.pdf</description>
 </item>
 <item>
 <title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
@@ -110,54 +142,6 @@
 <pubDate>Thu, 29 Oct 2026 14:06:27 +0000</pubDate>
 <category>agents</category>
 <description>来源：github · hackernews · simonwillison — 原文：https://martinfowler.com/rachels-ramblings/good-devs-wary.html</description>
-</item>
-<item>
-<title>github/awesome-copilot — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_32913e4053f4</link>
-<guid isPermaLink="false">evt_32913e4053f4</guid>
-<pubDate>Thu, 29 Oct 2026 00:07:04 +0000</pubDate>
-<category>open_source</category>
-<description>Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. · topics: agent-skills, agents, ai, awesome, custom-agents, github-copilot · ⭐ 40,545 · JavaScript — 来源：github · hn_frontpage · hackernews — 原文：https://github.com/github/awesome-copilot</description>
-</item>
-<item>
-<title>LiquidAI/LFM3-1.7B-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_11144fe59342</link>
-<guid isPermaLink="false">evt_11144fe59342</guid>
-<pubDate>Wed, 28 Oct 2026 22:16:43 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 61,499 · 收藏 120 — 来源：huggingface — 原文：https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF</description>
-</item>
-<item>
-<title>langchain-ai/langchain — The agent engineering platform.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
-<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
-<pubDate>Thu, 29 Oct 2026 09:03:09 +0000</pubDate>
-<category>open_source</category>
-<description>The agent engineering platform. · topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents · ⭐ 148,674 · Python — 来源：github · openai_blog — 原文：https://github.com/langchain-ai/langchain</description>
-</item>
-<item>
-<title>Legora is building the agentic operating system for legal work</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c24dd7387835</link>
-<guid isPermaLink="false">evt_c24dd7387835</guid>
-<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
-<category>agents</category>
-<description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work. — 来源：github · hn_frontpage · simonwillison · openai_blog — 原文：https://openai.com/index/legora-agentic-operating-system-for-legal-work</description>
-</item>
-<item>
-<title>As AI agents reshape the web, Google opens Gemini and Search to more apps</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d752d52509f4</link>
-<guid isPermaLink="false">evt_d752d52509f4</guid>
-<pubDate>Wed, 28 Oct 2026 17:01:23 +0000</pubDate>
-<category>foundation_models</category>
-<description>A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps. — 来源：github · simonwillison · techcrunch_ai · hn_frontpage — 原文：https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</description>
-</item>
-<item>
-<title>AI execs may be too out of touch to build for the general public</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b97b35d7a87</link>
-<guid isPermaLink="false">evt_8b97b35d7a87</guid>
-<pubDate>Wed, 28 Oct 2026 15:53:52 +0000</pubDate>
-<category>industry</category>
-<description>Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families. — 来源：mit_tr_ai · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/</description>
 </item>
 </channel>
 </rss>

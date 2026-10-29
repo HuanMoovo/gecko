@@ -5,16 +5,8 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 23:45:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 03:45:43 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
-<guid isPermaLink="false">evt_f298fb1604b9</guid>
-<pubDate>Wed, 28 Oct 2026 21:01:32 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · automatic-speech-recognition · 下载 338 · 收藏 176 — 来源：nvidia_blog · techcrunch_ai · huggingface · hackernews · hn_frontpage — 原文：https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</description>
-</item>
 <item>
 <title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
@@ -70,14 +62,6 @@
 <pubDate>Wed, 28 Oct 2026 18:19:54 +0000</pubDate>
 <category>infrastructure</category>
 <description>The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/</description>
-</item>
-<item>
-<title>Creating AI value with enterprise context</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4a36e492a30</link>
-<guid isPermaLink="false">evt_d4a36e492a30</guid>
-<pubDate>Wed, 28 Oct 2026 20:32:02 +0000</pubDate>
-<category>agents</category>
-<description>Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a… — 来源：verge_ai · github · arxiv · hackernews · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/</description>
 </item>
 <item>
 <title>Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents</title>
@@ -168,6 +152,14 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 791 · 收藏 183 — 来源：huggingface — 原文：https://huggingface.co/openbmb/MiniCPM-OCR-1.0</description>
 </item>
 <item>
+<title>AtomicChat/LFM3-1.7B-Uncensored-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_535d64ec4fcd</link>
+<guid isPermaLink="false">evt_535d64ec4fcd</guid>
+<pubDate>Wed, 28 Oct 2026 08:47:07 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 2,317 · 收藏 110 — 来源：huggingface — 原文：https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF</description>
+</item>
+<item>
 <title>Amazon defines the role of the developer in the age of AI</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
 <guid isPermaLink="false">evt_10659eb70d41</guid>
@@ -238,14 +230,6 @@
 <pubDate>Wed, 28 Oct 2026 13:11:49 +0000</pubDate>
 <category>foundation_models</category>
 <description>I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too. It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a model takes arguments from someone else's text instead of its user's. If you modify the harness, it can probably be used for much more. https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/hooks-example/README.md submitted by /u/Jay299792458 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/</description>
-</item>
-<item>
-<title>Announcing SOCI-indexed images for faster SageMaker AI jobs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_08f73af7d7d7</link>
-<guid isPermaLink="false">evt_08f73af7d7d7</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:39 +0000</pubDate>
-<category>infrastructure</category>
-<description>Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</description>
 </item>
 <item>
 <title>Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’</title>
@@ -406,6 +390,22 @@
 <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
 <category>industry</category>
 <description>来源：mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/</description>
+</item>
+<item>
+<title>Retell uses OpenAI models to help power 100M monthly calls</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d42fb1eb3362</link>
+<guid isPermaLink="false">evt_d42fb1eb3362</guid>
+<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+<category>industry</category>
+<description>GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee. — 来源：openai_blog — 原文：https://openai.com/index/retell-ai</description>
+</item>
+<item>
+<title>Meta quietly launched an ‘AI pet journal’ app</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4683a3b03315</link>
+<guid isPermaLink="false">evt_4683a3b03315</guid>
+<pubDate>Wed, 28 Oct 2026 11:27:30 +0000</pubDate>
+<category>industry</category>
+<description>Meta has launched a "tamagotchi-style" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the "16-bit pet care game" is not really a game, but "a daily journal disguised as a pet." Users should talk, not type, with […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</description>
 </item>
 </channel>
 </rss>

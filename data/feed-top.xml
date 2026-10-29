@@ -5,16 +5,8 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 23:45:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 03:45:43 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f298fb1604b9</link>
-<guid isPermaLink="false">evt_f298fb1604b9</guid>
-<pubDate>Wed, 28 Oct 2026 21:01:32 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · automatic-speech-recognition · 下载 338 · 收藏 176 — 来源：nvidia_blog · techcrunch_ai · huggingface · hackernews · hn_frontpage — 原文：https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</description>
-</item>
 <item>
 <title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
@@ -54,14 +46,6 @@
 <pubDate>Wed, 28 Oct 2026 19:19:58 +0000</pubDate>
 <category>safety</category>
 <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
-</item>
-<item>
-<title>Creating AI value with enterprise context</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4a36e492a30</link>
-<guid isPermaLink="false">evt_d4a36e492a30</guid>
-<pubDate>Wed, 28 Oct 2026 20:32:02 +0000</pubDate>
-<category>agents</category>
-<description>Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a… — 来源：verge_ai · github · arxiv · hackernews · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/</description>
 </item>
 <item>
 <title>Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents</title>
@@ -192,14 +176,6 @@
 <description>I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too. It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a model takes arguments from someone else's text instead of its user's. If you modify the harness, it can probably be used for much more. https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/hooks-example/README.md submitted by /u/Jay299792458 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/</description>
 </item>
 <item>
-<title>Announcing SOCI-indexed images for faster SageMaker AI jobs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_08f73af7d7d7</link>
-<guid isPermaLink="false">evt_08f73af7d7d7</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:39 +0000</pubDate>
-<category>infrastructure</category>
-<description>Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</description>
-</item>
-<item>
 <title>Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_95364ce77079</link>
 <guid isPermaLink="false">evt_95364ce77079</guid>
@@ -222,30 +198,6 @@
 <pubDate>Tue, 27 Oct 2026 08:27:46 +0000</pubDate>
 <category>foundation_models</category>
 <description>同一天，OpenAI还甩出3项AI科学新发现 — 来源：openai_blog · hackernews · hn_frontpage · techcrunch_ai · qbitai — 原文：https://www.qbitai.com/2026/10/505719.html</description>
-</item>
-<item>
-<title>Slughorn – GPU Vector Graphics</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_df49a8162680</link>
-<guid isPermaLink="false">evt_df49a8162680</guid>
-<pubDate>Tue, 27 Oct 2026 23:00:14 +0000</pubDate>
-<category>infrastructure</category>
-<description>来源：arxiv · hackernews — 原文：https://slughorn.io/</description>
-</item>
-<item>
-<title>tencent/Hy-Nomas</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a0230e64f001</link>
-<guid isPermaLink="false">evt_a0230e64f001</guid>
-<pubDate>Wed, 28 Oct 2026 00:19:47 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · model · 下载 155 · 收藏 92 — 来源：huggingface — 原文：https://huggingface.co/tencent/Hy-Nomas</description>
-</item>
-<item>
-<title>Build specialized multimodal models with LFM3</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_34370e88c88d</link>
-<guid isPermaLink="false">evt_34370e88c88d</guid>
-<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/LiquidAI/lfm3</description>
 </item>
 </channel>
 </rss>

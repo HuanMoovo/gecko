@@ -5,15 +5,71 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 10:37:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 17:51:26 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>mistralai/Mistral-Large-4-1T-A52B</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_014576526a4d</link>
+<guid isPermaLink="false">evt_014576526a4d</guid>
+<pubDate>Thu, 29 Oct 2026 14:51:07 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 278 · 收藏 1,153 — 来源：huggingface · hf_blog · techcrunch_ai · hackernews — 原文：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B</description>
+</item>
+<item>
+<title>Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bf30529fb59d</link>
+<guid isPermaLink="false">evt_bf30529fb59d</guid>
+<pubDate>Thu, 29 Oct 2026 13:00:16 +0000</pubDate>
+<category>industry</category>
+<description>This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […] — 来源：nvidia_blog · huggingface — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</description>
+</item>
+<item>
+<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+<category>open_source</category>
+<description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients. — 来源：qbitai · openai_blog — 原文：https://openai.com/index/ropes-gray-ai-diligence</description>
+</item>
 <item>
 <title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
 <guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Thu, 29 Oct 2026 08:03:44 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 17:48:14 +0000</pubDate>
 <category>agents</category>
 <description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
+</item>
+<item>
+<title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_34370e88c88d</link>
+<guid isPermaLink="false">evt_34370e88c88d</guid>
+<pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
+<category>science</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/announcing-project-protostar</description>
+</item>
+<item>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+<category>safety</category>
+<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+</item>
+<item>
+<title>US investigated Chinese spy plot aimed at Nvidia CEO</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a9493e03c65c</link>
+<guid isPermaLink="false">evt_a9493e03c65c</guid>
+<pubDate>Thu, 29 Oct 2026 17:43:48 +0000</pubDate>
+<category>infrastructure</category>
+<description>A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. — 来源：techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/</description>
+</item>
+<item>
+<title>Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
+<guid isPermaLink="false">evt_10659eb70d41</guid>
+<pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
+<category>industry</category>
+<description>The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions. — 来源：aws_ml · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/</description>
 </item>
 <item>
 <title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3</title>
@@ -24,12 +80,12 @@
 <description>As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what. — 来源：simonwillison · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/</description>
 </item>
 <item>
-<title>Voters in Texas agree: They hate data centers</title>
+<title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
 <guid isPermaLink="false">evt_ae73f96a74e0</guid>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<category>industry</category>
-<description>Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […] — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas</description>
+<pubDate>Thu, 29 Oct 2026 16:45:15 +0000</pubDate>
+<category>open_source</category>
+<description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
 </item>
 <item>
 <title>We urgently need to monitor AI agents’ actions in real time</title>
@@ -48,20 +104,12 @@
 <description>Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […] — 来源：arxiv · reddit_ml · github · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</description>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Wed, 28 Oct 2026 19:19:58 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
-</item>
-<item>
-<title>0营收估值200亿美元，具身版OpenAI又融10亿美元</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-<category>robotics</category>
-<description>斯坦福伯克利宗师组团，贝索斯红杉抢着送钱 — 来源：qbitai · openai_blog — 原文：https://www.qbitai.com/2026/10/506042.html</description>
+<title>Why are good developers so wary of agentic development?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
+<guid isPermaLink="false">evt_408c8d559aaa</guid>
+<pubDate>Thu, 29 Oct 2026 14:06:27 +0000</pubDate>
+<category>agents</category>
+<description>来源：github · hackernews · simonwillison — 原文：https://martinfowler.com/rachels-ramblings/good-devs-wary.html</description>
 </item>
 <item>
 <title>github/awesome-copilot — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</title>
@@ -70,6 +118,14 @@
 <pubDate>Thu, 29 Oct 2026 00:07:04 +0000</pubDate>
 <category>open_source</category>
 <description>Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. · topics: agent-skills, agents, ai, awesome, custom-agents, github-copilot · ⭐ 40,545 · JavaScript — 来源：github · hn_frontpage · hackernews — 原文：https://github.com/github/awesome-copilot</description>
+</item>
+<item>
+<title>LiquidAI/LFM3-1.7B-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_11144fe59342</link>
+<guid isPermaLink="false">evt_11144fe59342</guid>
+<pubDate>Wed, 28 Oct 2026 22:16:43 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 61,499 · 收藏 120 — 来源：huggingface — 原文：https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF</description>
 </item>
 <item>
 <title>langchain-ai/langchain — The agent engineering platform.</title>
@@ -102,38 +158,6 @@
 <pubDate>Wed, 28 Oct 2026 15:53:52 +0000</pubDate>
 <category>industry</category>
 <description>Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families. — 来源：mit_tr_ai · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/</description>
-</item>
-<item>
-<title>Google’s next Genie AI model generates more realistic experiences</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7de7788a86fe</link>
-<guid isPermaLink="false">evt_7de7788a86fe</guid>
-<pubDate>Tue, 27 Oct 2026 16:30:57 +0000</pubDate>
-<category>foundation_models</category>
-<description>Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […] — 来源：verge_ai · deepmind_blog · techcrunch_ai — 原文：https://www.theverge.com/tech/1019076/google-genie-4-ai-model</description>
-</item>
-<item>
-<title>Mintplex-Labs/anything-llm — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3f2c1cea66ea</link>
-<guid isPermaLink="false">evt_3f2c1cea66ea</guid>
-<pubDate>Thu, 29 Oct 2026 10:35:36 +0000</pubDate>
-<category>agents</category>
-<description>Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  · topics: agent-computer, agent-harness, agent-orchestration, agentic-ai, agentic-workflow, ai-agents · ⭐ 67,694 · JavaScript — 来源：arxiv · hackernews · github · simonwillison · reddit_ml — 原文：https://github.com/Mintplex-Labs/anything-llm</description>
-</item>
-<item>
-<title>OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d43d2290f252</link>
-<guid isPermaLink="false">evt_d43d2290f252</guid>
-<pubDate>Wed, 28 Oct 2026 08:48:00 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · model · 下载 24,719 · 收藏 96 — 来源：arxiv · huggingface — 原文：https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM</description>
-</item>
-<item>
-<title>career-ops-hq/career-ops — Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd9256881ba9</link>
-<guid isPermaLink="false">evt_dd9256881ba9</guid>
-<pubDate>Thu, 29 Oct 2026 06:03:44 +0000</pubDate>
-<category>open_source</category>
-<description>Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more). · topics: agent-skills, ai-agent, ai-job-search, ats, career, career-ops · ⭐ 78,507 · JavaScript — 来源：github · arxiv · latent_space · hn_frontpage — 原文：https://github.com/career-ops-hq/career-ops</description>
 </item>
 </channel>
 </rss>

@@ -5,13 +5,13 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 03:45:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 10:37:10 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8937fd9c8277</link>
 <guid isPermaLink="false">evt_8937fd9c8277</guid>
-<pubDate>Wed, 28 Oct 2026 19:48:05 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 08:03:44 +0000</pubDate>
 <category>agents</category>
 <description>来源：techcrunch_ai · hackernews · hn_frontpage · github · qbitai · arxiv — 原文：https://github.com/SRN0129/Agenttrust</description>
 </item>
@@ -32,6 +32,14 @@
 <description>Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […] — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas</description>
 </item>
 <item>
+<title>We urgently need to monitor AI agents’ actions in real time</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d587154e05a8</link>
+<guid isPermaLink="false">evt_d587154e05a8</guid>
+<pubDate>Thu, 29 Oct 2026 10:11:12 +0000</pubDate>
+<category>agents</category>
+<description>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem… — 来源：arxiv · mit_tr_ai — 原文：https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</description>
+</item>
+<item>
 <title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3ebdfdbc96a9</link>
 <guid isPermaLink="false">evt_3ebdfdbc96a9</guid>
@@ -48,28 +56,28 @@
 <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
-<title>Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_32913e4053f4</link>
-<guid isPermaLink="false">evt_32913e4053f4</guid>
-<pubDate>Wed, 28 Oct 2026 21:03:24 +0000</pubDate>
-<category>agents</category>
-<description>来源：github · hn_frontpage · hackernews — 原文：https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</description>
-</item>
-<item>
-<title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
-<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
-<pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
-<category>agents</category>
-<description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex. — 来源：github · openai_blog — 原文：https://openai.com/index/openai-servicenow-partnership-expansion</description>
-</item>
-<item>
-<title>The future of the firm</title>
+<title>0营收估值200亿美元，具身版OpenAI又融10亿美元</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
 <guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
 <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-<category>industry</category>
-<description>How AI might enter the org chart—beneath, beside, and between us. — 来源：qbitai · openai_blog — 原文：https://openai.com/index/the-future-of-the-firm</description>
+<category>robotics</category>
+<description>斯坦福伯克利宗师组团，贝索斯红杉抢着送钱 — 来源：qbitai · openai_blog — 原文：https://www.qbitai.com/2026/10/506042.html</description>
+</item>
+<item>
+<title>github/awesome-copilot — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_32913e4053f4</link>
+<guid isPermaLink="false">evt_32913e4053f4</guid>
+<pubDate>Thu, 29 Oct 2026 00:07:04 +0000</pubDate>
+<category>open_source</category>
+<description>Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. · topics: agent-skills, agents, ai, awesome, custom-agents, github-copilot · ⭐ 40,545 · JavaScript — 来源：github · hn_frontpage · hackernews — 原文：https://github.com/github/awesome-copilot</description>
+</item>
+<item>
+<title>langchain-ai/langchain — The agent engineering platform.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
+<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
+<pubDate>Thu, 29 Oct 2026 09:03:09 +0000</pubDate>
+<category>open_source</category>
+<description>The agent engineering platform. · topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents · ⭐ 148,674 · Python — 来源：github · openai_blog — 原文：https://github.com/langchain-ai/langchain</description>
 </item>
 <item>
 <title>Legora is building the agentic operating system for legal work</title>
@@ -104,12 +112,12 @@
 <description>Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […] — 来源：verge_ai · deepmind_blog · techcrunch_ai — 原文：https://www.theverge.com/tech/1019076/google-genie-4-ai-model</description>
 </item>
 <item>
-<title>GitHub Octoverse 2026</title>
+<title>Mintplex-Labs/anything-llm — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3f2c1cea66ea</link>
 <guid isPermaLink="false">evt_3f2c1cea66ea</guid>
-<pubDate>Wed, 28 Oct 2026 16:45:23 +0000</pubDate>
-<category>open_source</category>
-<description>GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their "GitHub Stars" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of this year. New repository rate doubled this year, to 30.3 million per month. The report includes new nu — 来源：arxiv · hackernews · github · simonwillison · reddit_ml — 原文：https://simonwillison.net/2026/Oct/28/github-octoverse-2026/</description>
+<pubDate>Thu, 29 Oct 2026 10:35:36 +0000</pubDate>
+<category>agents</category>
+<description>Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  · topics: agent-computer, agent-harness, agent-orchestration, agentic-ai, agentic-workflow, ai-agents · ⭐ 67,694 · JavaScript — 来源：arxiv · hackernews · github · simonwillison · reddit_ml — 原文：https://github.com/Mintplex-Labs/anything-llm</description>
 </item>
 <item>
 <title>OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM</title>
@@ -120,84 +128,12 @@
 <description>Hugging Face 模型 · model · 下载 24,719 · 收藏 96 — 来源：arxiv · huggingface — 原文：https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM</description>
 </item>
 <item>
-<title>Amazon defines the role of the developer in the age of AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
-<guid isPermaLink="false">evt_10659eb70d41</guid>
-<pubDate>Wed, 28 Oct 2026 01:00:33 +0000</pubDate>
-<category>industry</category>
-<description>来源：aws_ml · hackernews — 原文：https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai</description>
-</item>
-<item>
-<title>Microsoft recorded $10 billion in revenue from OpenAI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f9d1493b929c</link>
-<guid isPermaLink="false">evt_f9d1493b929c</guid>
-<pubDate>Wed, 28 Oct 2026 21:34:30 +0000</pubDate>
-<category>industry</category>
-<description>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</description>
-</item>
-<item>
-<title>Artificial Analysis v5 and the benchmarker's dilemma</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b0dc891defaf</link>
-<guid isPermaLink="false">evt_b0dc891defaf</guid>
-<pubDate>Wed, 28 Oct 2026 12:58:39 +0000</pubDate>
-<category>research</category>
-<description>A sort of review of the benchmarking industry and what's missing. — 来源：arxiv · interconnects — 原文：https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers</description>
-</item>
-<item>
-<title>How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b3a141ad3ed</link>
-<guid isPermaLink="false">evt_4b3a141ad3ed</guid>
-<pubDate>Wed, 28 Oct 2026 17:52:10 +0000</pubDate>
-<category>research</category>
-<description>We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL. Notably, replacing the critique with a fixed generic feedback line matches the full gain of about 3 points, and critiques from a 6x larger model do not materially improve performance, suggesting that the positional information provided by hindsight distillation significantly decreases the privileged information needed for effective — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/</description>
-</item>
-<item>
-<title>Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ef621bb1084</link>
-<guid isPermaLink="false">evt_7ef621bb1084</guid>
-<pubDate>Wed, 28 Oct 2026 10:41:27 +0000</pubDate>
-<category>infrastructure</category>
-<description>Hi, just sharing a project I started a few months ago in case anyone is interested. The main idea is that you will have a desktop front-panel where you can monitor distributed training across multiple nodes. submitted by /u/perone [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/</description>
-</item>
-<item>
-<title>CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_56c569f486ce</link>
-<guid isPermaLink="false">evt_56c569f486ce</guid>
-<pubDate>Wed, 28 Oct 2026 22:04:32 +0000</pubDate>
-<category>agents</category>
-<description>TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun. I’m building a Polish legal model using Qwen3.5-9B-BASE (I plan to scale up to 27b qwen4 later) . I’ve done CPT and have quite a bit of data available, but I’m getting lost about what should come next or even if I should do more CPT. My main question is how to turn this (maybe) domain-adapted Base model into an agentic+chat assistant that reasons through legal problems.  — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/</description>
-</item>
-<item>
-<title>A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_799f316d8529</link>
-<guid isPermaLink="false">evt_799f316d8529</guid>
-<pubDate>Wed, 28 Oct 2026 13:11:49 +0000</pubDate>
-<category>foundation_models</category>
-<description>I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too. It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a model takes arguments from someone else's text instead of its user's. If you modify the harness, it can probably be used for much more. https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/hooks-example/README.md submitted by /u/Jay299792458 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/</description>
-</item>
-<item>
-<title>Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_95364ce77079</link>
-<guid isPermaLink="false">evt_95364ce77079</guid>
-<pubDate>Tue, 27 Oct 2026 17:56:46 +0000</pubDate>
-<category>research</category>
-<description>We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects the training of such agents. To do so, we propose the SynthAPI pipeline, which explicitly controls the diversity of generated environments along the axes of tools, tasks, and the databases on which the tools operate. By systematically varying SynthAPI's generation controls in 458,752 tasks across 849 trained models of four different sizes, we derive a scaling law that predicts  — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.37648v1</description>
-</item>
-<item>
-<title>Claude Code found 14,219 photos of my face on my Android that I never took</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ae927999a12</link>
-<guid isPermaLink="false">evt_1ae927999a12</guid>
-<pubDate>Wed, 28 Oct 2026 18:00:40 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews · github — 原文：https://twitter.com/coolerwave/status/2115393243458207755</description>
-</item>
-<item>
-<title>GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a1d4bf2fc11</link>
-<guid isPermaLink="false">evt_1a1d4bf2fc11</guid>
-<pubDate>Tue, 27 Oct 2026 08:27:46 +0000</pubDate>
-<category>foundation_models</category>
-<description>同一天，OpenAI还甩出3项AI科学新发现 — 来源：openai_blog · hackernews · hn_frontpage · techcrunch_ai · qbitai — 原文：https://www.qbitai.com/2026/10/505719.html</description>
+<title>career-ops-hq/career-ops — Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd9256881ba9</link>
+<guid isPermaLink="false">evt_dd9256881ba9</guid>
+<pubDate>Thu, 29 Oct 2026 06:03:44 +0000</pubDate>
+<category>open_source</category>
+<description>Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more). · topics: agent-skills, ai-agent, ai-job-search, ats, career, career-ops · ⭐ 78,507 · JavaScript — 来源：github · arxiv · latent_space · hn_frontpage — 原文：https://github.com/career-ops-hq/career-ops</description>
 </item>
 </channel>
 </rss>

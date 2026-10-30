@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 30 Oct 2026 03:46:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 10:39:09 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>mistralai/Mistral-Large-4-1T-A52B</title>
@@ -40,12 +40,28 @@
 <description>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business. — 来源：qbitai · openai_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</description>
 </item>
 <item>
+<title>op7418/guizang-ppt-skill — AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social cov</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6060aca47b10</link>
+<guid isPermaLink="false">evt_6060aca47b10</guid>
+<pubDate>Fri, 30 Oct 2026 10:18:26 +0000</pubDate>
+<category>open_source</category>
+<description>AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. · topics: ai-agent, claude-code, codex, html-deck, image-generation, ppt · ⭐ 28,965 · HTML — 来源：github — 原文：https://github.com/op7418/guizang-ppt-skill</description>
+</item>
+<item>
 <title>Gemini 4 Carbon: Our next frontier model</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_cca2247626bb</link>
 <guid isPermaLink="false">evt_cca2247626bb</guid>
 <pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：verge_ai · deepmind_blog · latent_space · qbitai · hackernews — 原文：https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</description>
+</item>
+<item>
+<title>Claude新模型曝光：新Fable，新Opus…</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
+<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
+<pubDate>Fri, 30 Oct 2026 05:50:44 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews · hn_frontpage · qbitai — 原文：https://www.qbitai.com/2026/10/506674.html</description>
 </item>
 <item>
 <title>Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW</title>
@@ -56,6 +72,63 @@
 <description>This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […] — 来源：nvidia_blog · huggingface — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</description>
 </item>
 <item>
+<title>Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d587154e05a8</link>
+<guid isPermaLink="false">evt_d587154e05a8</guid>
+<pubDate>Thu, 29 Oct 2026 16:23:47 +0000</pubDate>
+<category>foundation_models</category>
+<description>Large language model (LLM) agents are proposed for clinical prediction but are untested in pediatrics, where cohorts are small and outcomes are uncommon. Using records from 2,489 youth with type 2 diabetes (T2D) and 4,018 with type 1 diabetes (T1D), spanning structured data, note-derived social determinants and, in T1D, continuous glucose monitoring data, we predicted seven T2D outcomes, four also in T1D, at 24 months from 18 months of follow-up. CEDAR (Clinical Evidence-Driven Agent for Risk-prediction), an evidence-citing, self-auditing LLM pipeline, outperformed trained machine learning in  — 来源：arxiv · mit_tr_ai — 原文：https://arxiv.org/abs/2610.40379v1</description>
+</item>
+<item>
+<title>microsoft/autogen — A programming framework for agentic AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c1d5df7fdedb</link>
+<guid isPermaLink="false">evt_c1d5df7fdedb</guid>
+<pubDate>Thu, 29 Oct 2026 19:19:16 +0000</pubDate>
+<category>open_source</category>
+<description>A programming framework for agentic AI · topics: agentic, agentic-agi, agents, ai, autogen, autogen-ecosystem · ⭐ 61,629 · Python — 来源：microsoft_research · github — 原文：https://github.com/microsoft/autogen</description>
+</item>
+<item>
+<title>Beyond Selected Breakthroughs: Evaluating Language Models on Randomly Sampled Mathematical Conjectures</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
+<guid isPermaLink="false">evt_3c0520e5732d</guid>
+<pubDate>Thu, 29 Oct 2026 16:24:55 +0000</pubDate>
+<category>research</category>
+<description>The last year has seen a shift in AI-assisted mathematics, with frontier language models producing proofs of and counterexamples to long-standing open conjectures. However, studying only the current set of major breakthroughs provides an incomplete picture of LLM capabilities and the computational resources needed to achieve reported results. To address this, we introduce a new dataset, OpenConjecture, which collects conjectures from mathematics papers published on the arXiv since February 2026. We use these conjectures as a source of open mathematical problems, and apply frontier GPT models t — 来源：qbitai · reddit_ml · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.40382v1</description>
+</item>
+<item>
+<title>Fundamental Limits of Sampling-Based Reachability: Geometry and Flow Distortion</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d43d2290f252</link>
+<guid isPermaLink="false">evt_d43d2290f252</guid>
+<pubDate>Thu, 29 Oct 2026 17:08:36 +0000</pubDate>
+<category>research</category>
+<description>Sampling-based reachability estimates reachable sets from finitely many simulated trajectory endpoints. Existing guarantees often control missed probability mass or approximation error relative to the convex hull of the reachable set, leaving the geometric error relative to the reachable set incompletely characterized. We study this error as a problem of support estimation under flow distortion. Our assumptions combine a uniform lower bound on the local volume density of the initial set, a lower bound on the sampling density, and a one-sided Lipschitz constant $μ$ for the vector field. These c — 来源：arxiv · huggingface — 原文：https://arxiv.org/abs/2610.40473v1</description>
+</item>
+<item>
+<title>rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_32b2ac6e17a0</link>
+<guid isPermaLink="false">evt_32b2ac6e17a0</guid>
+<pubDate>Thu, 29 Oct 2026 17:15:53 +0000</pubDate>
+<category>research</category>
+<description>Do research agents have taste, the judgment of which experiments are worth running before their outcomes are known? We give six frontier models seven recent NLP papers. Each model, working as a research agent alone or as a team, proposes minimum viable experiments (MVEs), forecasts whether each will pass a threshold it sets and ranks them. A separate executor then attempts every MVE, including those ranked last, and three model auditors judge the results. Of 415 MVEs, 194 are judged sound, valuable and new, but fewer than half of these (73) are also judged beyond the seed paper and non obvious — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.40488v1</description>
+</item>
+<item>
+<title>When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2df0e95472f6</link>
+<guid isPermaLink="false">evt_2df0e95472f6</guid>
+<pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+<category>research</category>
+<description>To succeed in real-world long-horizon software development, coding agents must satisfy multi-dimensional task specifications, such as interface compatibility and error handling, and do so without breaking existing dependencies. However, current works lack specification in both quantity and diversity, often emphasizing primary goals while ignoring complex constraints. Synthesizing tasks to bridge this gap presents two challenges: naively adding specifications risks reducing tasks to trivial checklists rather than compelling joint reasoning, and verifying these subtle interactions risks overlook — 来源：latent_space · arxiv — 原文：https://arxiv.org/abs/2610.40256v1</description>
+</item>
+<item>
+<title>Ask HN: Are you tired too in this AI era?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3ebdfdbc96a9</link>
+<guid isPermaLink="false">evt_3ebdfdbc96a9</guid>
+<pubDate>Fri, 30 Oct 2026 09:17:43 +0000</pubDate>
+<category>industry</category>
+<description>Although AI lets us do much more, I feel considerably more tired than before.&lt;p&gt;We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me.&lt;p&gt;I am pretty sure most of you are experiencing the same as me, but:
+Have you found ways of using AI without increasing mental overload?&lt;p&gt;I would love to hear your tips, but still be relevant in this AI era, so my boss does not fire me. — 来源：arxiv · reddit_ml · github · verge_ai · hackernews — 原文：https://news.ycombinator.com/item?id=50301479</description>
+</item>
+<item>
 <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_34370e88c88d</link>
 <guid isPermaLink="false">evt_34370e88c88d</guid>
@@ -64,188 +137,116 @@
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/announcing-project-protostar</description>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
-</item>
-<item>
-<title>Diagnosing the Reference Gap: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2df0e95472f6</link>
-<guid isPermaLink="false">evt_2df0e95472f6</guid>
-<pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+<title>Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f02f6890dda</link>
+<guid isPermaLink="false">evt_1f02f6890dda</guid>
+<pubDate>Thu, 29 Oct 2026 17:44:42 +0000</pubDate>
 <category>research</category>
-<description>Multimodal large language models can recognize visual content yet struggle to reason reliably over it across multiple steps. In counting, a model may see all objects but lose track of which ones it has counted. We argue that such failures, commonly attributed to perception, reveal a reference gap: the failure to bind language to the relevant visual entities, regions, or locations. Motivated by the theory of visual routines, we test whether external references such as numbering can narrow this gap. We introduce ReGap-Bench, a paired benchmark of five visual reasoning tasks in which the scene, q — 来源：latent_space · arxiv — 原文：https://arxiv.org/abs/2610.39419v1</description>
+<description>On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references. However, existing approaches keep the teacher fixed either throughout training by consistently exposing it to the full reference, or within each response by adaptively varying partial reference exposure only across responses. In this paper, we argue that neither of them is sufficient. Instead, every token needs its own teacher, as the teacher preference can vary token by token within the same response. Through a teacher-intervention pil — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.40574v1</description>
 </item>
 <item>
-<title>Achieving Minimax-Optimal First-Order and Best-of-Both-Worlds Regret Simultaneously in Multi-Armed Bandits</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d43d2290f252</link>
-<guid isPermaLink="false">evt_d43d2290f252</guid>
-<pubDate>Thu, 29 Oct 2026 06:28:29 +0000</pubDate>
+<title>Luggage re-identification: A study of strategies towards a real-world application</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_84477f4c31bd</link>
+<guid isPermaLink="false">evt_84477f4c31bd</guid>
+<pubDate>Thu, 29 Oct 2026 17:58:59 +0000</pubDate>
 <category>research</category>
-<description>We study first-order and best-of-both-worlds regret guarantees in multi-armed bandits. Pogodin and Lattimore (2019) proposed an algorithm that combines minimax-optimal worst-case regret with a first-order guarantee whose loss-dependent term is $\mathcal{O}(\sqrt{K L^\star}\log T)$, where $T$ denotes the horizon, $L^\star$ denotes the smallest expected cumulative loss among fixed arms, and $K$ denotes the number of arms. However, a logarithmic gap remains between this loss-dependent term and the optimal first-order scale. In this paper, we remove this logarithmic factor by proposing an efficien — 来源：arxiv · huggingface — 原文：https://arxiv.org/abs/2610.39457v1</description>
+<description>Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean conditions, real-world scenarios are characterized by frequent occlusions, cluttered background and c — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40643v1</description>
 </item>
 <item>
-<title>US investigated Chinese spy plot aimed at Nvidia CEO</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a9493e03c65c</link>
-<guid isPermaLink="false">evt_a9493e03c65c</guid>
-<pubDate>Thu, 29 Oct 2026 17:43:48 +0000</pubDate>
-<category>infrastructure</category>
-<description>A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. — 来源：techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/</description>
-</item>
-<item>
-<title>Meta quietly launches an AI fashion app called Style Sketch</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4683a3b03315</link>
-<guid isPermaLink="false">evt_4683a3b03315</guid>
-<pubDate>Thu, 29 Oct 2026 19:14:36 +0000</pubDate>
-<category>industry</category>
-<description>The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll. — 来源：verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</description>
-</item>
-<item>
-<title>GitHub Copilot Fusion orchestrates between models at half the cost</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_32913e4053f4</link>
-<guid isPermaLink="false">evt_32913e4053f4</guid>
-<pubDate>Fri, 30 Oct 2026 02:09:03 +0000</pubDate>
-<category>open_source</category>
-<description>来源：github · hn_frontpage · hackernews — 原文：https://twitter.com/ArtificialAnlys/status/2115477376981508419</description>
-</item>
-<item>
-<title>PriorMaskMap: Robust Online Vectorized Map Construction with Biased Priors</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a81d0c1c06b0</link>
-<guid isPermaLink="false">evt_a81d0c1c06b0</guid>
-<pubDate>Thu, 29 Oct 2026 03:33:29 +0000</pubDate>
+<title>Rethinking Neural Thickets Without Weight Perturbations</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_30e4cb4760e4</link>
+<guid isPermaLink="false">evt_30e4cb4760e4</guid>
+<pubDate>Thu, 29 Oct 2026 17:59:29 +0000</pubDate>
 <category>research</category>
-<description>Online vectorized map construction provides autonomous vehicles with essential, real-time semantic and geometric scene understanding. While leveraging prior maps presents an opportunity to improve accuracy, they are often biased due to outdated information or temporary road changes. Existing methods, which typically treat priors as fully reliable or only consider limited noise patterns, suffer severe performance degradation when these priors are imperfect. To address this, we propose PriorMaskMap, a robust framework for prior-guided vectorized map construction. Its first innovation is a Prior- — 来源：techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2610.39283v1</description>
+<description>The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most reasoning tasks. This suggests an alternative explanation based on output diversity, validation-based  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40649v1</description>
 </item>
 <item>
-<title>Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c42e39089024</link>
-<guid isPermaLink="false">evt_c42e39089024</guid>
-<pubDate>Thu, 29 Oct 2026 06:49:14 +0000</pubDate>
-<category>research</category>
-<description>Automated detection has become the essential safeguard against realistic synthetic media, but deploying it at scale requires training on sensitive data from multiple organizations, putting privacy and the transparency demanded by forensic review in direct conflict. Federated learning resolves the privacy side by sharing only model updates rather than raw data, but whether this comes at the cost of trustworthy gradient-based explanations, which analysts rely on to decide whether or not to trust a flagged clip, has not been studied. We present the systematic study of Grad-CAM explanation faithfu — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39483v1</description>
-</item>
-<item>
-<title>Regional Anchor Routing for Multi-Object Motion Transfer</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5068a919158a</link>
-<guid isPermaLink="false">evt_5068a919158a</guid>
-<pubDate>Thu, 29 Oct 2026 06:46:24 +0000</pubDate>
-<category>research</category>
-<description>Compositional motion transfer requires a model to extract motions from multiple reference videos, and apply each motion to a user-specified object in one target scene. Existing methods normally struggle to reliably assign different reference motions to the correct target objects, thus a motion intended for one object may affect another. Meanwhile, some motion-specific tuning approaches are still facing another issue: they must run a new optimization whenever the reference video changes, making repeated transfers inefficient. To address these limitations, we propose RART, a framework that unifi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39478v1</description>
-</item>
-<item>
-<title>Calibrating Attention-Based Token Pruning for Efficient Multi-Image Synthesis in UMMs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ff270dd0e15d</link>
-<guid isPermaLink="false">evt_ff270dd0e15d</guid>
-<pubDate>Thu, 29 Oct 2026 06:39:00 +0000</pubDate>
-<category>research</category>
-<description>Unified Multimodal Models (UMMs) enable powerful multi-image synthesis but incur substantial computation from long visual contexts. While token pruning offers a direct route to accelerating inference, existing methods are primarily adapted from understanding tasks, suffering from insufficient reference image exploration, confused conditional guidance, and pooling-induced ambiguity that degrades generation quality. To address these issues, we propose CATP, the first training-free context-compression method tailored to UMM generation, which \textbf{C}alibrates the discrepancies of general \textb — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39467v1</description>
-</item>
-<item>
-<title>Google value plunges by $500B as AI fears rattle Wall Street</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
-<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
-<pubDate>Thu, 29 Oct 2026 22:22:13 +0000</pubDate>
-<category>industry</category>
-<description>来源：techcrunch_ai · github · hackernews — 原文：https://www.bbc.com/news/articles/cm9qzdqpxy48o</description>
-</item>
-<item>
-<title>Learning from Relative Action Credit for Escaping Local Minima</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b5ee0ab0b2f</link>
-<guid isPermaLink="false">evt_7b5ee0ab0b2f</guid>
-<pubDate>Thu, 29 Oct 2026 06:27:35 +0000</pubDate>
-<category>research</category>
-<description>Reinforcement learning holds the promise of robots that learn manipulation skills from interaction alone, without pretrained priors or demonstration data. In practice, on-policy methods such as PPO routinely stall on long-horizon, contact-rich tasks: dense reward shaping carries the policy through stages, yet stitching them together and discovering sparsely rewarded events rarely succeeds. We trace this failure to the missing action discrimination in state-value credit assignment: a state-value critic judges progress only by episode outcomes, so when the policy converges to a partial solution  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.38034v1</description>
-</item>
-<item>
-<title>Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_38ba9905824c</link>
-<guid isPermaLink="false">evt_38ba9905824c</guid>
-<pubDate>Thu, 29 Oct 2026 06:24:09 +0000</pubDate>
-<category>research</category>
-<description>Imitation learning has become a widely adopted approach for vision-based robot policies, owing to its conceptual simplicity, scalability, and ability to leverage large-scale datasets. As these policies have grown more capable, action chunking has become their standard interface. At each decision step the policy outputs several future actions at once. Backbones from diffusion policies to large vision-language-action models all share it. Whatever backbone produces the chunk, its temporal structure is learned only implicitly. The commanded trajectory is therefore jerky both within a chunk and bet — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39451v1</description>
-</item>
-<item>
-<title>Well-Specified and Well-Tested? Assessing SWE-bench-Style Datasets with a Self-Evolving Agent</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9ae6cecc3d82</link>
-<guid isPermaLink="false">evt_9ae6cecc3d82</guid>
-<pubDate>Thu, 29 Oct 2026 05:59:36 +0000</pubDate>
-<category>research</category>
-<description>Large language models (LLMs) have shown strong performance on software engineering (SE) tasks, driving the need for high-quality datasets for reliable training and evaluation. SWE-bench-style datasets (SWE datasets) are widely used to evaluate LLM-based coding agents on real-world software issues, where task clarity and test coverage directly affect whether instances are solvable and verifiable. However, quality issues persist in existing SWE datasets, and manual annotation is costly and labor-intensive, motivating LLM-based annotation. Existing approaches typically rely on static, overly gene — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39417v1</description>
-</item>
-<item>
-<title>How Specific Do I Need to Be? Effects of User Query Underspecification on Deep Research Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6116e4b12935</link>
-<guid isPermaLink="false">evt_6116e4b12935</guid>
-<pubDate>Thu, 29 Oct 2026 05:55:00 +0000</pubDate>
-<category>research</category>
-<description>Deep research agents (DRAs) conduct long-horizon reasoning, search, and literature synthesis to provide long-form answers to complex, domain-specific questions. These agents are typically trained and evaluated on fully specified user queries. However, real-world user queries can often be underspecified. We introduce UNDERSPEC-DR, a framework for systematically evaluating how underspecified queries affect agents' final answer quality and intermediate search behavior. Across three DRAs we evaluated, underspecification substantially reduces how well DRA's answers fulfill users' information needs, — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39413v1</description>
-</item>
-<item>
-<title>CAD-WAM: Anticipating Geometry for Text-to-CAD Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_263c48ddb873</link>
-<guid isPermaLink="false">evt_263c48ddb873</guid>
-<pubDate>Thu, 29 Oct 2026 05:55:59 +0000</pubDate>
-<category>research</category>
-<description>Generating editable computer-aided design (CAD) models from text requires selecting operations that produce the intended changes to the geometry constructed so far. An incorrect operation can compromise subsequent steps, making reliable multi-step generation challenging. Existing methods based on large language models (LLMs) primarily learn to predict commands, without explicit supervision of the geometric states those commands should produce. Inspired by world-action models, we introduce CAD-WAM, which couples geometry-conditioned action generation with next-state prediction. We define comple — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39306v1</description>
-</item>
-<item>
-<title>ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c36261fe0285</link>
-<guid isPermaLink="false">evt_c36261fe0285</guid>
-<pubDate>Thu, 29 Oct 2026 05:34:55 +0000</pubDate>
-<category>research</category>
-<description>3D Gaussian Splatting (3DGS) has emerged as a powerful paradigm for real-time photorealistic novel view synthesis. However, its training-time densification remains largely heuristic, often resulting in redundant Gaussian proliferation and inaccurate geometric reconstruction. Existing methods predominantly rely on first-order screen-space gradients to trigger cloning and splitting, which fail to distinguish true geometric discontinuities from high-frequency textures or noisy residuals. To address this limitation, we propose ACD-GS, an Asymmetric Curvature-aware Densification framework for compa — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39399v1</description>
-</item>
-<item>
-<title>Co-Evolving Policy and Rubric via Capability Awareness for Open-Ended Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d7cf2e4f1d09</link>
-<guid isPermaLink="false">evt_d7cf2e4f1d09</guid>
-<pubDate>Thu, 29 Oct 2026 05:31:08 +0000</pubDate>
-<category>research</category>
-<description>Rubric-based reinforcement learning (RL) offers interpretable, fine-grained supervision for aligning large language models (LLMs) on open-ended generation tasks. However, static rubric criteria may become saturated or remain beyond the policy's exploration, rendering the reward signals insufficiently discriminative. While recent efforts seek to guide sampling exploration or evolve rubrics, they fail to explicitly factor in how rubric difficulty should track the evolving policy's capabilities, resulting in a persistent mismatch between the optimization objective and the policy's current capabil — 来源：arxiv — 原文：https://arxiv.org/abs/2610.38566v1</description>
-</item>
-<item>
-<title>Cord: Confidence-Anchored Order Residual Decoding for Masked Diffusion Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fa5f151ed647</link>
-<guid isPermaLink="false">evt_fa5f151ed647</guid>
-<pubDate>Thu, 29 Oct 2026 05:03:29 +0000</pubDate>
-<category>research</category>
-<description>The decoding order of masked diffusion language models (dLLMs) can substantially affect generation quality, yet common decoders typically apply the same reveal rule throughout generation. Confidence provides a strong default, but it measures how decisively a position can be predicted now, not how useful revealing that position will be for subsequent decoding. We propose Cord, a lightweight prompt-conditioned policy that retains confidence decoding as a stable reference and learns when and how to depart from it through geometric residuals over generation direction, proximity to revealed context — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39372v1</description>
-</item>
-<item>
-<title>More Is Better? Exploring Latent Correspondence in Federated Hypergraph Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6310ed421a62</link>
-<guid isPermaLink="false">evt_6310ed421a62</guid>
-<pubDate>Thu, 29 Oct 2026 04:54:19 +0000</pubDate>
-<category>research</category>
-<description>Federated hypergraph learning with latent cross-client hyperedge correspondence poses fundamental identifiability and computational challenges, as the same local release can correspond to multiple global hypergraph structures. We characterize the tractability of recovering these latent correspondences, showing tractable pairwise assignment but generally intractable multi-client hyperedge matching. Building on this characterization, we derive a cross-entropy decomposition that reveals when local prediction can outperform predictors fitted with additional cross-client information. Motivated by t — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39362v1</description>
-</item>
-<item>
-<title>Event2Reward: Learning Robotic Rewards from Progress Relations</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5ea610c5e271</link>
-<guid isPermaLink="false">evt_5ea610c5e271</guid>
-<pubDate>Thu, 29 Oct 2026 04:49:17 +0000</pubDate>
-<category>research</category>
-<description>Learning task progress from robot demonstrations provides a practical way to construct dense shaping rewards for robotic reinforcement learning. A common approach uses normalized demonstration time as progress labels, implicitly assuming monotonically increasing task progress. During policy exploration, however, actual task progress can stall or even regress. Such models may mistake regressions for progress, assigning positive shaping rewards to actions that cause progress loss. Real suboptimal and failed executions offer corrective experience, but assigning absolute progress values to their s — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39212v1</description>
-</item>
-<item>
-<title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
-<guid isPermaLink="false">evt_ae73f96a74e0</guid>
-<pubDate>Thu, 29 Oct 2026 16:45:15 +0000</pubDate>
-<category>open_source</category>
-<description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
-</item>
-<item>
-<title>Efficient Covariance-Aware Vicinal Latent Diffusion for Continuous Conditional Image Generation</title>
+<title>An ODE-based Sampler for Discrete Diffusion Models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7a60861d5091</link>
 <guid isPermaLink="false">evt_7a60861d5091</guid>
-<pubDate>Thu, 29 Oct 2026 04:33:29 +0000</pubDate>
-<category>generative</category>
-<description>Continuous Conditional Generative Modeling (CCGM) aims to synthesize high-dimensional data conditioned on continuously valued scalar labels. However, existing continuous diffusion models face severe data sparsity under imbalanced and long-tailed label distributions, which can lead to visual artifacts and condition inconsistency. Moreover, inference-time classifier-free guidance and dense pixel-space integration introduce substantial sampling overhead, limiting practical deployment. To address these challenges, we propose CAViLD, an efficient latent diffusion framework for continuous conditiona — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39277v1</description>
+<pubDate>Thu, 29 Oct 2026 17:55:25 +0000</pubDate>
+<category>research</category>
+<description>The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consistency distillation. In this paper we address the question whether an analogous formulation exists for discrete diffusion models and answer it affirmatively by introducing exponential residual flows (ERFs). Our framework augments the discrete state with a continuous residual variable for each token and position. These residuals evolve deterministically according to piecewise-defi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40618v1</description>
+</item>
+<item>
+<title>SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a14fb9d1546</link>
+<guid isPermaLink="false">evt_1a14fb9d1546</guid>
+<pubDate>Thu, 29 Oct 2026 17:58:00 +0000</pubDate>
+<category>research</category>
+<description>As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations to predict future actions and remain difficult to interpret and adjust, symbolic priors offer a structured alternative. To this end, we introduce SymAnt, a novel neuro-symbolic approach that unifies the expressiveness of neural networks with the structured reasoning of scene and knowledge graphs. Given a short video, SymAnt performs a joint-search over both graphs to construct — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40632v1</description>
+</item>
+<item>
+<title>Surrogate Uncertainty for Black-box Visual Grounding</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c87600aa63a4</link>
+<guid isPermaLink="false">evt_c87600aa63a4</guid>
+<pubDate>Thu, 29 Oct 2026 17:55:30 +0000</pubDate>
+<category>research</category>
+<description>Visual grounding is crucial for robots to understand language instructions with visual observations. This paper addresses the problem of visual grounding uncertainties, where a robot uses a black-box vision-language model (VLM) to ground free-form natural-language instructions to target objects. Prevailing methods derive uncertainty from the VLM itself. Yet, outputs of the VLM, e.g., generated uncertainties, are from the same parameters and structures producing the predictions, and inherit the bias. We give a formal Bayesian definition of the problem that treats the VLM prediction as an observ — 来源：arxiv — 原文：https://arxiv.org/abs/2610.39798v1</description>
+</item>
+<item>
+<title>From extreme weather to agricultural consequences with agentic AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_84030884004a</link>
+<guid isPermaLink="false">evt_84030884004a</guid>
+<pubDate>Thu, 29 Oct 2026 17:58:53 +0000</pubDate>
+<category>agents</category>
+<description>Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and forecast dates. We demonstrate it in Florida on hurricanes, freezes and dry heat, with a loss model ca — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40641v1</description>
+</item>
+<item>
+<title>L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c937695bddee</link>
+<guid isPermaLink="false">evt_c937695bddee</guid>
+<pubDate>Thu, 29 Oct 2026 17:54:42 +0000</pubDate>
+<category>research</category>
+<description>Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either temporal context or explicit 3D memory, both of which scale poorly because memory grows with the length of the generated stream. Moreover, explicit 3D memories condition latent video generators by re-encoding RGB renderings, which precludes real-time generation. In this paper, we introduce a Latent 3D Gaussian Memory (L3G) that combines the efficiency of feed-forward reconstruction wi — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40614v1</description>
+</item>
+<item>
+<title>TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_99dfbe45e9b2</link>
+<guid isPermaLink="false">evt_99dfbe45e9b2</guid>
+<pubDate>Thu, 29 Oct 2026 17:54:12 +0000</pubDate>
+<category>foundation_models</category>
+<description>We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys, and the acceptance rate is unchanged. It also preserves output diversity and adds no measurable inference latency. Its predecessor, TextSeal, restores diversity in the Gumbel-max scheme by routing each token to one of two keys via a coin flip. This is suboptimal because the detector averages the scores from both keys without knowing which key was used. TextSeal2 instead merges two or more keys in — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40613v1</description>
+</item>
+<item>
+<title>When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a7fe763bb7b6</link>
+<guid isPermaLink="false">evt_a7fe763bb7b6</guid>
+<pubDate>Thu, 29 Oct 2026 17:54:07 +0000</pubDate>
+<category>research</category>
+<description>Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluate both together on 28,058 decision points. Stage-wise generation scores are oracle-gate ceilings: behind a real gate, end-to-end exact match is 0.2619 against a ceiling of 0.2971, and end-to-end precision is 0.2387, leaving substantial headroom. A gate pays off through precision and compute, whose saving falls from 4.39x with an 8B generator to 1.38x with a 1B one. The memory profile drives hint q — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40611v1</description>
+</item>
+<item>
+<title>PIVOT: Progressive Intervention via Online Teacher Correction</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a7726982f2d</link>
+<guid isPermaLink="false">evt_8a7726982f2d</guid>
+<pubDate>Thu, 29 Oct 2026 17:45:07 +0000</pubDate>
+<category>research</category>
+<description>Reinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal. Stronger teachers can provide additional guidance, but this raises a central question: how can such signals be incorporated into RLVR to support successful rollouts while remaining learnable for the student? We distinguish two complementary mechanisms: trajectory-level intervention, which improves access to reward-bearing trajectories, and token-level supervision, which provides dense targets to guide s — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40576v1</description>
+</item>
+<item>
+<title>RoboAtom: Large-scale Atomic-Action Supervision for Robot Learning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_da4b872d7e57</link>
+<guid isPermaLink="false">evt_da4b872d7e57</guid>
+<pubDate>Thu, 29 Oct 2026 17:45:12 +0000</pubDate>
+<category>research</category>
+<description>Fine-grained action annotations can support skill reuse and compositional generalization in robot policies. However, robot datasets typically provide task-level instructions without subtask annotations. Although some include subtask labels, inconsistent formats and conventions hinder cross-source joint training. We propose RoboAtom-Data, which adds unified, time-aligned atomic-action annotations to existing data from multiple sources, covering 1.45 million trajectories, 6.88 million skill-labeled segments, and 16,882.1 hours. Our pipeline combines a unified protocol, large-scale manual annotat — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40207v1</description>
+</item>
+<item>
+<title>Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5557efd68438</link>
+<guid isPermaLink="false">evt_5557efd68438</guid>
+<pubDate>Thu, 29 Oct 2026 17:47:02 +0000</pubDate>
+<category>research</category>
+<description>Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. While multistatic ISAC can increase sensing coverage with spatially distributed receivers, dense and dynamic clutter can significantly degrade bistatic range and Doppler estimation, leading to errors in target localization and velocity estimation. This paper presents a multistatic ISAC framework with clutter suppression for high-fidelity estimation of target position and velocity. Distributed clutter  — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40586v1</description>
+</item>
+<item>
+<title>Training Foundation Models with a Single Algorithm</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5bed46a4d6ab</link>
+<guid isPermaLink="false">evt_5bed46a4d6ab</guid>
+<pubDate>Thu, 29 Oct 2026 17:42:05 +0000</pubDate>
+<category>research</category>
+<description>Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show that this algorithmic separation is not fundamental. By deriving suitable RL objectives as maximum-likelihood fitting to model-generated target distributions, we place all of these stages under a single likelihood-based training algorithm, unified training. This perspective turns the foundation-model training lifecycle into a problem of choosing which data to train on, in what proportions, and when — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40564v1</description>
 </item>
 </channel>
 </rss>

@@ -5,15 +5,55 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 30 Oct 2026 17:32:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 23:24:11 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
+<title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
+<guid isPermaLink="false">evt_10659eb70d41</guid>
+<pubDate>Fri, 30 Oct 2026 22:42:24 +0000</pubDate>
+<category>industry</category>
+<description>This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams. — 来源：aws_ml · hackernews · techcrunch_ai — 原文：https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</description>
+</item>
+<item>
+<title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0348a8d1ed8c</link>
+<guid isPermaLink="false">evt_0348a8d1ed8c</guid>
+<pubDate>Fri, 30 Oct 2026 17:32:20 +0000</pubDate>
+<category>agents</category>
+<description>Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</description>
+</item>
+<item>
+<title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3dcfe747ba6c</link>
+<guid isPermaLink="false">evt_3dcfe747ba6c</guid>
+<pubDate>Fri, 30 Oct 2026 21:40:03 +0000</pubDate>
+<category>agents</category>
+<description>Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</description>
+</item>
+<item>
+<title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
+<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
+<pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
+<category>industry</category>
+<description>It's still unknown how attackers got access to Anthropic's verified Cursor account. — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</description>
+</item>
+<item>
+<title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
 <guid isPermaLink="false">evt_3c0520e5732d</guid>
-<pubDate>Fri, 30 Oct 2026 16:34:48 +0000</pubDate>
-<category>research</category>
-<description>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, […] — 来源：qbitai · reddit_ml · hackernews · arxiv · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</description>
+<pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
+<category>industry</category>
+<description>Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: "A lot of people want […] — 来源：qbitai · reddit_ml · hackernews · arxiv · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</description>
+</item>
+<item>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
+<category>safety</category>
+<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
 <title>From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence</title>
@@ -32,12 +72,44 @@
 <description>While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</description>
 </item>
 <item>
+<title>Google’s satellite AI server transmits its first response to Earth</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fc6c72287137</link>
+<guid isPermaLink="false">evt_fc6c72287137</guid>
+<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+<category>infrastructure</category>
+<description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […] — 来源：techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</description>
+</item>
+<item>
+<title>Zest’s new AI agent finds restaurants and books reservations over text</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Fri, 30 Oct 2026 21:26:59 +0000</pubDate>
+<category>agents</category>
+<description>Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation. — 来源：qbitai · techcrunch_ai · hn_frontpage — 原文：https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</description>
+</item>
+<item>
 <title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
 <guid isPermaLink="false">evt_ae73f96a74e0</guid>
 <pubDate>Fri, 30 Oct 2026 16:03:45 +0000</pubDate>
 <category>open_source</category>
 <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
+</item>
+<item>
+<title>Making it easier for websites to express AI training preferences</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_52ced88a57d9</link>
+<guid isPermaLink="false">evt_52ced88a57d9</guid>
+<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
+<category>infrastructure</category>
+<description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers. — 来源：simonwillison · openai_blog — 原文：https://openai.com/index/helping-websites-express-ai-training-preferences</description>
+</item>
+<item>
+<title>LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b97b35d7a87</link>
+<guid isPermaLink="false">evt_8b97b35d7a87</guid>
+<pubDate>Fri, 30 Oct 2026 14:58:06 +0000</pubDate>
+<category>research</category>
+<description>Deep learning models for whole-body positron emission tomography/computed tomography (PET/CT) hold significant clinical potential for disease detection, treatment planning, and response assessment. However, the time and cost associated with expert annotations remain major bottlenecks in developing robust and generalizable models. Although self-supervised learning (SSL) has emerged as a promising approach to mitigating annotation scarcity, its application to whole-body PET/CT remains relatively underexplored due to the limited availability of large-scale datasets and the challenges associated w — 来源：mit_tr_ai · arxiv · techcrunch_ai · verge_ai — 原文：https://arxiv.org/abs/2610.40284v1</description>
 </item>
 <item>
 <title>mistralai/Mistral-Large-4-1T-A52B</title>
@@ -54,14 +126,6 @@
 <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 <category>open_source</category>
 <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — 来源：github · openai_blog — 原文：https://openai.com/index/community-safety-report-and-new-protections-for-teens</description>
-</item>
-<item>
-<title>Build a repeatable PHP-to-Java migration engine with Kiro</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
-<guid isPermaLink="false">evt_10659eb70d41</guid>
-<pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
-<category>agents</category>
-<description>Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies the Java port with a parity harness. — 来源：aws_ml · hackernews · techcrunch_ai — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/</description>
 </item>
 <item>
 <title>VEvo-Harness: Causally-Guarded Self-Evolving Harness for Agentic Image Generation</title>
@@ -86,14 +150,6 @@
 <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 <category>research</category>
 <description>We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, generation-based pairs, or training pairs with limited viewpoint variation, leaving pose and illumination adaptation and bidirectional object-scene interactions insufficiently constrained. We construct the Insert World dataset with strictly aligned Blender-rendered counterfactual pairs and object references across viewpoints and lighting conditions. Building on these data, Geometry-Guided Adaptation  — 来源：verge_ai · arxiv — 原文：https://arxiv.org/abs/2610.40453v1</description>
-</item>
-<item>
-<title>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
-<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Fri, 30 Oct 2026 07:09:12 +0000</pubDate>
-<category>foundation_models</category>
-<description>Comments — 来源：hackernews · hn_frontpage · qbitai — 原文：https://phorion.io/blog/offical-claude-code-vsx-compromise/</description>
 </item>
 <item>
 <title>Ask HN: Are you tired too in this AI era?</title>
@@ -121,20 +177,20 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <description>来源：verge_ai · deepmind_blog · latent_space · qbitai · hackernews — 原文：https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</description>
 </item>
 <item>
-<title>DoorDash said it’s only received ‘several hundred’ orders from AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Fri, 30 Oct 2026 13:54:25 +0000</pubDate>
-<category>agents</category>
-<description>DoorDash said that it is open to working with third-party agent makers. — 来源：qbitai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</description>
+<title>Was I wrong about open models &amp; cyber risks?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fcbe7e13960</link>
+<guid isPermaLink="false">evt_9fcbe7e13960</guid>
+<pubDate>Fri, 30 Oct 2026 17:36:56 +0000</pubDate>
+<category>safety</category>
+<description>Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize. — 来源：arxiv · interconnects — 原文：https://www.interconnects.ai/p/was-i-wrong-about-open-models-and</description>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Fri, 30 Oct 2026 14:22:52 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+<title>dbreunig/nesformer</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dc319c3206b</link>
+<guid isPermaLink="false">evt_9dc319c3206b</guid>
+<pubDate>Fri, 30 Oct 2026 21:59:22 +0000</pubDate>
+<category>open_source</category>
+<description>dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Nintendo Entertainment System (as people do today with FPGAs in MISTRs) using this technique. If so, what  — 来源：hackernews · hn_frontpage · simonwillison — 原文：https://simonwillison.net/2026/Oct/30/nesformer/</description>
 </item>
 <item>
 <title>GC-LIF: Spiking Group-Equivariant Neural Network With Group-Coupled Membrane Dynamics</title>
@@ -191,62 +247,6 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
 <category>safety</category>
 <description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</description>
-</item>
-<item>
-<title>Data-Driven or Model-Constrained? Comparing Airflow Estimation Methods under Sparse Sensing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_32b2ac6e17a0</link>
-<guid isPermaLink="false">evt_32b2ac6e17a0</guid>
-<pubDate>Thu, 29 Oct 2026 17:15:53 +0000</pubDate>
-<category>research</category>
-<description>Airflow-driven advection is the primary mechanism for gas and aerosol dispersion in real-world scenarios, making accurate airflow estimation essential for ventilation monitoring, gas source localization, and contaminant spread analysis. Since obtaining airflow maps via high-resolution spatial sensing is usually infeasible in practice, flow field estimation methods must cope with sparse measurements by introducing statistical or physical priors to compensate for limited data. Existing approaches mainly differ in how they incorporate fluid-flow constraints and environmental geometry. However, du — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.39789v1</description>
-</item>
-<item>
-<title>When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2df0e95472f6</link>
-<guid isPermaLink="false">evt_2df0e95472f6</guid>
-<pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
-<category>research</category>
-<description>To succeed in real-world long-horizon software development, coding agents must satisfy multi-dimensional task specifications, such as interface compatibility and error handling, and do so without breaking existing dependencies. However, current works lack specification in both quantity and diversity, often emphasizing primary goals while ignoring complex constraints. Synthesizing tasks to bridge this gap presents two challenges: naively adding specifications risks reducing tasks to trivial checklists rather than compelling joint reasoning, and verifying these subtle interactions risks overlook — 来源：latent_space · arxiv — 原文：https://arxiv.org/abs/2610.40256v1</description>
-</item>
-<item>
-<title>LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b97b35d7a87</link>
-<guid isPermaLink="false">evt_8b97b35d7a87</guid>
-<pubDate>Thu, 29 Oct 2026 15:40:12 +0000</pubDate>
-<category>research</category>
-<description>Deep learning models for whole-body positron emission tomography/computed tomography (PET/CT) hold significant clinical potential for disease detection, treatment planning, and response assessment. However, the time and cost associated with expert annotations remain major bottlenecks in developing robust and generalizable models. Although self-supervised learning (SSL) has emerged as a promising approach to mitigating annotation scarcity, its application to whole-body PET/CT remains relatively underexplored due to the limited availability of large-scale datasets and the challenges associated w — 来源：mit_tr_ai · arxiv · techcrunch_ai — 原文：https://arxiv.org/abs/2610.40284v1</description>
-</item>
-<item>
-<title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_34370e88c88d</link>
-<guid isPermaLink="false">evt_34370e88c88d</guid>
-<pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
-<category>science</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/announcing-project-protostar</description>
-</item>
-<item>
-<title>Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f02f6890dda</link>
-<guid isPermaLink="false">evt_1f02f6890dda</guid>
-<pubDate>Thu, 29 Oct 2026 17:44:42 +0000</pubDate>
-<category>research</category>
-<description>On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references. However, existing approaches keep the teacher fixed either throughout training by consistently exposing it to the full reference, or within each response by adaptively varying partial reference exposure only across responses. In this paper, we argue that neither of them is sufficient. Instead, every token needs its own teacher, as the teacher preference can vary token by token within the same response. Through a teacher-intervention pil — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.40574v1</description>
-</item>
-<item>
-<title>SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a14fb9d1546</link>
-<guid isPermaLink="false">evt_1a14fb9d1546</guid>
-<pubDate>Thu, 29 Oct 2026 17:58:00 +0000</pubDate>
-<category>research</category>
-<description>As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations to predict future actions and remain difficult to interpret and adjust, symbolic priors offer a structured alternative. To this end, we introduce SymAnt, a novel neuro-symbolic approach that unifies the expressiveness of neural networks with the structured reasoning of scene and knowledge graphs. Given a short video, SymAnt performs a joint-search over both graphs to construct — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40632v1</description>
-</item>
-<item>
-<title>Luggage re-identification: A study of strategies towards a real-world application</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_84477f4c31bd</link>
-<guid isPermaLink="false">evt_84477f4c31bd</guid>
-<pubDate>Thu, 29 Oct 2026 17:58:59 +0000</pubDate>
-<category>research</category>
-<description>Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean conditions, real-world scenarios are characterized by frequent occlusions, cluttered background and c — 来源：arxiv — 原文：https://arxiv.org/abs/2610.40643v1</description>
 </item>
 </channel>
 </rss>

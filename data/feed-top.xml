@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 10:04:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 16:36:43 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
@@ -16,12 +16,28 @@
 <description>🗂 The essential checklist for modern web development, for humans and AI agents · topics: ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development · ⭐ 74,609 · MDX — 来源：qbitai · techcrunch_ai · hn_frontpage · github — 原文：https://github.com/thedaviddias/Front-End-Checklist</description>
 </item>
 <item>
-<title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
+<title>Anthropic's Claude AI blocks video game cloning and reverse-engineering</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
 <guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Sat, 31 Oct 2026 05:05:29 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 14:41:44 +0000</pubDate>
 <category>foundation_models</category>
-<description>200美元Ultra用户先用 — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/10/506855.html</description>
+<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</description>
+</item>
+<item>
+<title>OpenAI reportedly lowers funding target for new round</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
+<category>open_source</category>
+<description>OpenAI’s latest funding round doesn't seem to be living up to expectations. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</description>
+</item>
+<item>
+<title>We Took over ChatGPT Accounts</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
+<guid isPermaLink="false">evt_1f1bc03a707a</guid>
+<pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：github · openai_blog · hackernews — 原文：https://www.parameter.ai/labs/we-found-a-gap-at-openai</description>
 </item>
 <item>
 <title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
@@ -30,6 +46,14 @@
 <pubDate>Fri, 30 Oct 2026 22:42:24 +0000</pubDate>
 <category>industry</category>
 <description>This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams. — 来源：aws_ml · hackernews · techcrunch_ai — 原文：https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</description>
+</item>
+<item>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+<category>safety</category>
+<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
 <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
@@ -48,14 +72,6 @@
 <description>Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</description>
 </item>
 <item>
-<title>Community safety report and new protections for teens</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
-<guid isPermaLink="false">evt_1f1bc03a707a</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>open_source</category>
-<description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — 来源：github · openai_blog — 原文：https://openai.com/index/community-safety-report-and-new-protections-for-teens</description>
-</item>
-<item>
 <title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
 <guid isPermaLink="false">evt_3c0520e5732d</guid>
@@ -70,22 +86,6 @@
 <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
 <category>infrastructure</category>
 <description>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan. — 来源：nvidia_blog · huggingface · techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</description>
-</item>
-<item>
-<title>OpenAI raises less than half of $30B target</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
-<category>industry</category>
-<description>来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</description>
-</item>
-<item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
 <title>From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence</title>
@@ -144,61 +144,12 @@
 <description>Deep learning models for whole-body positron emission tomography/computed tomography (PET/CT) hold significant clinical potential for disease detection, treatment planning, and response assessment. However, the time and cost associated with expert annotations remain major bottlenecks in developing robust and generalizable models. Although self-supervised learning (SSL) has emerged as a promising approach to mitigating annotation scarcity, its application to whole-body PET/CT remains relatively underexplored due to the limited availability of large-scale datasets and the challenges associated w — 来源：mit_tr_ai · arxiv · techcrunch_ai · verge_ai — 原文：https://arxiv.org/abs/2610.40284v1</description>
 </item>
 <item>
-<title>mistralai/Mistral-Large-4-1T-A52B</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_014576526a4d</link>
-<guid isPermaLink="false">evt_014576526a4d</guid>
-<pubDate>Thu, 29 Oct 2026 14:51:07 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 278 · 收藏 1,153 — 来源：huggingface · hf_blog · techcrunch_ai · hackernews — 原文：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B</description>
-</item>
-<item>
-<title>VEvo-Harness: Causally-Guarded Self-Evolving Harness for Agentic Image Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d957b57aa1e6</link>
-<guid isPermaLink="false">evt_d957b57aa1e6</guid>
-<pubDate>Thu, 29 Oct 2026 20:16:40 +0000</pubDate>
+<title>Agents Prompt People: Using Agents for Long-Horizon Financial Work</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
+<guid isPermaLink="false">evt_408c8d559aaa</guid>
+<pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
 <category>agents</category>
-<description>The central bottleneck in visual generation and editing has migrated from achieving pixel-level fidelity to satisfying densely constrained user specifications through increasingly agentic workflows. Prevailing agentic generation pipelines remain shallow generate-verify-rewrite loops treating VLM judgments as coarse visual feedback, either discarding repair experience or admitting ungated updates that poison skill library. With memorize and govern periods left open, they degrade into ungoverned iterators of repeated trial-and-error rather than continual self-evolving harness. Towards this issue — 来源：simonwillison · aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.39158v1</description>
-</item>
-<item>
-<title>PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fd54443238a</link>
-<guid isPermaLink="false">evt_9fd54443238a</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>research</category>
-<description>We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, generation-based pairs, or training pairs with limited viewpoint variation, leaving pose and illumination adaptation and bidirectional object-scene interactions insufficiently constrained. We construct the Insert World dataset with strictly aligned Blender-rendered counterfactual pairs and object references across viewpoints and lighting conditions. Building on these data, Geometry-Guided Adaptation  — 来源：verge_ai · arxiv — 原文：https://arxiv.org/abs/2610.40453v1</description>
-</item>
-<item>
-<title>Ask HN: Are you tired too in this AI era?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3ebdfdbc96a9</link>
-<guid isPermaLink="false">evt_3ebdfdbc96a9</guid>
-<pubDate>Fri, 30 Oct 2026 09:17:43 +0000</pubDate>
-<category>industry</category>
-<description>Although AI lets us do much more, I feel considerably more tired than before.&lt;p&gt;We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me.&lt;p&gt;I am pretty sure most of you are experiencing the same as me, but:
-Have you found ways of using AI without increasing mental overload?&lt;p&gt;I would love to hear your tips, but still be relevant in this AI era, so my boss does not fire me. — 来源：arxiv · reddit_ml · github · verge_ai · hackernews — 原文：https://news.ycombinator.com/item?id=50301479</description>
-</item>
-<item>
-<title>[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
-<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
-<pubDate>Sat, 31 Oct 2026 05:00:48 +0000</pubDate>
-<category>industry</category>
-<description>It turns out you cannot have your cake AND eat it — 来源：techcrunch_ai · github · hackernews · latent_space — 原文：https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</description>
-</item>
-<item>
-<title>op7418/guizang-ppt-skill — AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social cov</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6060aca47b10</link>
-<guid isPermaLink="false">evt_6060aca47b10</guid>
-<pubDate>Fri, 30 Oct 2026 10:18:26 +0000</pubDate>
-<category>open_source</category>
-<description>AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. · topics: ai-agent, claude-code, codex, html-deck, image-generation, ppt · ⭐ 28,965 · HTML — 来源：github — 原文：https://github.com/op7418/guizang-ppt-skill</description>
-</item>
-<item>
-<title>Gemini 4 Carbon: Our next frontier model</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cca2247626bb</link>
-<guid isPermaLink="false">evt_cca2247626bb</guid>
-<pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：verge_ai · deepmind_blog · latent_space · qbitai · hackernews — 原文：https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</description>
+<description>Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days. — 来源：github · hackernews · simonwillison · latent_space — 原文：https://latent.space/p/arca/</description>
 </item>
 </channel>
 </rss>

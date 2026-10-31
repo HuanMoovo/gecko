@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 16:36:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 22:57:13 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
@@ -16,12 +16,20 @@
 <description>🗂 The essential checklist for modern web development, for humans and AI agents · topics: ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development · ⭐ 74,609 · MDX — 来源：qbitai · techcrunch_ai · hn_frontpage · github — 原文：https://github.com/thedaviddias/Front-End-Checklist</description>
 </item>
 <item>
-<title>Anthropic's Claude AI blocks video game cloning and reverse-engineering</title>
+<title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
 <guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Sat, 31 Oct 2026 14:41:44 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
 <category>foundation_models</category>
-<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</description>
+<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</description>
+</item>
+<item>
+<title>Amazon sends chills through its workforce with mixed message memo about AI use</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
+<guid isPermaLink="false">evt_10659eb70d41</guid>
+<pubDate>Sat, 31 Oct 2026 17:21:16 +0000</pubDate>
+<category>industry</category>
+<description>来源：aws_ml · hackernews · techcrunch_ai — 原文：https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804</description>
 </item>
 <item>
 <title>OpenAI reportedly lowers funding target for new round</title>
@@ -32,6 +40,14 @@
 <description>OpenAI’s latest funding round doesn't seem to be living up to expectations. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</description>
 </item>
 <item>
+<title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
+<guid isPermaLink="false">evt_ae73f96a74e0</guid>
+<pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
+<category>open_source</category>
+<description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
+</item>
+<item>
 <title>We Took over ChatGPT Accounts</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
 <guid isPermaLink="false">evt_1f1bc03a707a</guid>
@@ -40,20 +56,20 @@
 <description>来源：github · openai_blog · hackernews — 原文：https://www.parameter.ai/labs/we-found-a-gap-at-openai</description>
 </item>
 <item>
-<title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
-<guid isPermaLink="false">evt_10659eb70d41</guid>
-<pubDate>Fri, 30 Oct 2026 22:42:24 +0000</pubDate>
+<title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fdcfa1f9d689</link>
+<guid isPermaLink="false">evt_fdcfa1f9d689</guid>
+<pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
 <category>industry</category>
-<description>This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams. — 来源：aws_ml · hackernews · techcrunch_ai — 原文：https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/</description>
+<description>Apple's new CEO defended the company's current position in the AI landscape. — 来源：hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</description>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+<title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f010b1f4f032</link>
+<guid isPermaLink="false">evt_f010b1f4f032</guid>
+<pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
+<category>industry</category>
+<description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act. — 来源：verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</description>
 </item>
 <item>
 <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
@@ -62,6 +78,14 @@
 <pubDate>Fri, 30 Oct 2026 17:32:20 +0000</pubDate>
 <category>agents</category>
 <description>Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</description>
+</item>
+<item>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+<category>safety</category>
+<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
 <title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
@@ -88,68 +112,12 @@
 <description>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan. — 来源：nvidia_blog · huggingface · techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</description>
 </item>
 <item>
-<title>From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_238a740f5b9d</link>
-<guid isPermaLink="false">evt_238a740f5b9d</guid>
-<pubDate>Fri, 30 Oct 2026 13:05:28 +0000</pubDate>
-<category>research</category>
-<description>Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research . — 来源：verge_ai · microsoft_research — 原文：https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/</description>
-</item>
-<item>
-<title>Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1112027d5901</link>
-<guid isPermaLink="false">evt_1112027d5901</guid>
-<pubDate>Fri, 30 Oct 2026 15:00:10 +0000</pubDate>
-<category>agents</category>
-<description>While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</description>
-</item>
-<item>
-<title>Google’s satellite AI server transmits its first response to Earth</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fc6c72287137</link>
-<guid isPermaLink="false">evt_fc6c72287137</guid>
-<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
-<category>infrastructure</category>
-<description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […] — 来源：techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</description>
-</item>
-<item>
-<title>Black October: At least nine AI developer platforms breached this month</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fcbe7e13960</link>
-<guid isPermaLink="false">evt_9fcbe7e13960</guid>
-<pubDate>Sat, 31 Oct 2026 00:11:32 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · interconnects · hackernews — 原文：https://www.wiz.io/blog/black-october-for-ai-developer-platforms</description>
-</item>
-<item>
-<title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
-<guid isPermaLink="false">evt_ae73f96a74e0</guid>
-<pubDate>Fri, 30 Oct 2026 23:08:57 +0000</pubDate>
-<category>open_source</category>
-<description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
-</item>
-<item>
-<title>Making it easier for websites to express AI training preferences</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_52ced88a57d9</link>
-<guid isPermaLink="false">evt_52ced88a57d9</guid>
-<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
-<category>infrastructure</category>
-<description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers. — 来源：simonwillison · openai_blog — 原文：https://openai.com/index/helping-websites-express-ai-training-preferences</description>
-</item>
-<item>
-<title>LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b97b35d7a87</link>
-<guid isPermaLink="false">evt_8b97b35d7a87</guid>
-<pubDate>Fri, 30 Oct 2026 14:58:06 +0000</pubDate>
-<category>research</category>
-<description>Deep learning models for whole-body positron emission tomography/computed tomography (PET/CT) hold significant clinical potential for disease detection, treatment planning, and response assessment. However, the time and cost associated with expert annotations remain major bottlenecks in developing robust and generalizable models. Although self-supervised learning (SSL) has emerged as a promising approach to mitigating annotation scarcity, its application to whole-body PET/CT remains relatively underexplored due to the limited availability of large-scale datasets and the challenges associated w — 来源：mit_tr_ai · arxiv · techcrunch_ai · verge_ai — 原文：https://arxiv.org/abs/2610.40284v1</description>
-</item>
-<item>
-<title>Agents Prompt People: Using Agents for Long-Horizon Financial Work</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
-<guid isPermaLink="false">evt_408c8d559aaa</guid>
-<pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
-<category>agents</category>
-<description>Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days. — 来源：github · hackernews · simonwillison · latent_space — 原文：https://latent.space/p/arca/</description>
+<title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_169aca9d9c2a</link>
+<guid isPermaLink="false">evt_169aca9d9c2a</guid>
+<pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
+<category>generative</category>
+<description>&lt;a href="https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;2025&amp;#x2F;01&amp;#x2F;lee_2025_ai_critical_thinking_survey.pdf" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;...&lt;/a&gt; — 来源：verge_ai · hackernews — 原文：https://dl.acm.org/doi/full/10.1145/3706598.3713778</description>
 </item>
 </channel>
 </rss>

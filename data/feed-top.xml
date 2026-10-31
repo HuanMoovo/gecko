@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 30 Oct 2026 23:24:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 03:30:23 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
@@ -32,6 +32,14 @@
 <description>Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</description>
 </item>
 <item>
+<title>Community safety report and new protections for teens</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
+<guid isPermaLink="false">evt_1f1bc03a707a</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<category>open_source</category>
+<description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — 来源：github · openai_blog — 原文：https://openai.com/index/community-safety-report-and-new-protections-for-teens</description>
+</item>
+<item>
 <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
 <guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
@@ -46,6 +54,14 @@
 <pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
 <category>industry</category>
 <description>Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: "A lot of people want […] — 来源：qbitai · reddit_ml · hackernews · arxiv · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</description>
+</item>
+<item>
+<title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bf30529fb59d</link>
+<guid isPermaLink="false">evt_bf30529fb59d</guid>
+<pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
+<category>infrastructure</category>
+<description>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan. — 来源：nvidia_blog · huggingface · techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</description>
 </item>
 <item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -80,6 +96,14 @@
 <description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […] — 来源：techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</description>
 </item>
 <item>
+<title>Black October: At least nine AI developer platforms breached this month</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fcbe7e13960</link>
+<guid isPermaLink="false">evt_9fcbe7e13960</guid>
+<pubDate>Sat, 31 Oct 2026 00:11:32 +0000</pubDate>
+<category>industry</category>
+<description>来源：arxiv · interconnects · hackernews — 原文：https://www.wiz.io/blog/black-october-for-ai-developer-platforms</description>
+</item>
+<item>
 <title>Zest’s new AI agent finds restaurants and books reservations over text</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
 <guid isPermaLink="false">evt_cc321d7123ab</guid>
@@ -91,7 +115,7 @@
 <title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
 <guid isPermaLink="false">evt_ae73f96a74e0</guid>
-<pubDate>Fri, 30 Oct 2026 16:03:45 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 23:08:57 +0000</pubDate>
 <category>open_source</category>
 <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
 </item>
@@ -118,14 +142,6 @@
 <pubDate>Thu, 29 Oct 2026 14:51:07 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · image-text-to-text · 下载 278 · 收藏 1,153 — 来源：huggingface · hf_blog · techcrunch_ai · hackernews — 原文：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B</description>
-</item>
-<item>
-<title>Community safety report and new protections for teens</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
-<guid isPermaLink="false">evt_1f1bc03a707a</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>open_source</category>
-<description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — 来源：github · openai_blog — 原文：https://openai.com/index/community-safety-report-and-new-protections-for-teens</description>
 </item>
 <item>
 <title>VEvo-Harness: Causally-Guarded Self-Evolving Harness for Agentic Image Generation</title>
@@ -177,14 +193,6 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <description>来源：verge_ai · deepmind_blog · latent_space · qbitai · hackernews — 原文：https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</description>
 </item>
 <item>
-<title>Was I wrong about open models &amp; cyber risks?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fcbe7e13960</link>
-<guid isPermaLink="false">evt_9fcbe7e13960</guid>
-<pubDate>Fri, 30 Oct 2026 17:36:56 +0000</pubDate>
-<category>safety</category>
-<description>Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize. — 来源：arxiv · interconnects — 原文：https://www.interconnects.ai/p/was-i-wrong-about-open-models-and</description>
-</item>
-<item>
 <title>dbreunig/nesformer</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9dc319c3206b</link>
 <guid isPermaLink="false">evt_9dc319c3206b</guid>
@@ -199,54 +207,6 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <pubDate>Fri, 30 Oct 2026 17:03:12 +0000</pubDate>
 <category>research</category>
 <description>Spiking neural networks (SNNs) promise event-driven, low-power inference, but on vision tasks they still acquire rotation invariance only through data augmentation. Group-equivariant CNNs build such symmetries into the architecture, yet a faithful spiking analogue is missing: a leaky integrate-and-fire (LIF) neuron placed after a $G$-equivariant convolution can break equivariance through its membrane recurrence. We give a necessary and sufficient condition for this not to happen. The layer is equivariant at every time step if and only if the neuron parameters $(β, v_{\mathrm{th}})$ are constan — 来源：arxiv · hn_frontpage — 原文：https://arxiv.org/abs/2610.39601v1</description>
-</item>
-<item>
-<title>Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bf30529fb59d</link>
-<guid isPermaLink="false">evt_bf30529fb59d</guid>
-<pubDate>Thu, 29 Oct 2026 13:00:16 +0000</pubDate>
-<category>industry</category>
-<description>This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […] — 来源：nvidia_blog · huggingface — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</description>
-</item>
-<item>
-<title>Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d587154e05a8</link>
-<guid isPermaLink="false">evt_d587154e05a8</guid>
-<pubDate>Thu, 29 Oct 2026 16:23:47 +0000</pubDate>
-<category>foundation_models</category>
-<description>Large language model (LLM) agents are proposed for clinical prediction but are untested in pediatrics, where cohorts are small and outcomes are uncommon. Using records from 2,489 youth with type 2 diabetes (T2D) and 4,018 with type 1 diabetes (T1D), spanning structured data, note-derived social determinants and, in T1D, continuous glucose monitoring data, we predicted seven T2D outcomes, four also in T1D, at 24 months from 18 months of follow-up. CEDAR (Clinical Evidence-Driven Agent for Risk-prediction), an evidence-citing, self-auditing LLM pipeline, outperformed trained machine learning in  — 来源：arxiv · mit_tr_ai — 原文：https://arxiv.org/abs/2610.40379v1</description>
-</item>
-<item>
-<title>microsoft/autogen — A programming framework for agentic AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c1d5df7fdedb</link>
-<guid isPermaLink="false">evt_c1d5df7fdedb</guid>
-<pubDate>Thu, 29 Oct 2026 19:19:16 +0000</pubDate>
-<category>open_source</category>
-<description>A programming framework for agentic AI · topics: agentic, agentic-agi, agents, ai, autogen, autogen-ecosystem · ⭐ 61,629 · Python — 来源：microsoft_research · github — 原文：https://github.com/microsoft/autogen</description>
-</item>
-<item>
-<title>Fundamental Limits of Sampling-Based Reachability: Geometry and Flow Distortion</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d43d2290f252</link>
-<guid isPermaLink="false">evt_d43d2290f252</guid>
-<pubDate>Thu, 29 Oct 2026 17:08:36 +0000</pubDate>
-<category>research</category>
-<description>Sampling-based reachability estimates reachable sets from finitely many simulated trajectory endpoints. Existing guarantees often control missed probability mass or approximation error relative to the convex hull of the reachable set, leaving the geometric error relative to the reachable set incompletely characterized. We study this error as a problem of support estimation under flow distortion. Our assumptions combine a uniform lower bound on the local volume density of the initial set, a lower bound on the sampling density, and a one-sided Lipschitz constant $μ$ for the vector field. These c — 来源：arxiv · huggingface — 原文：https://arxiv.org/abs/2610.40473v1</description>
-</item>
-<item>
-<title>socx: GPU-Accelerated Chance-Constrained Stochastic Optimal Control using JAX</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_623265788782</link>
-<guid isPermaLink="false">evt_623265788782</guid>
-<pubDate>Thu, 29 Oct 2026 16:50:11 +0000</pubDate>
-<category>research</category>
-<description>In this article, we present socx, a GPU-accelerated solver for lifted convex reformulations of linear stochastic optimal control under chance constraints, implemented in JAX. We demonstrate that by exploiting the sparse and independent structure of the problem, distributed optimization can reduce it to simpler problems: independent linear-quadratic tracking (LQT) problems and Euclidean projections onto sets. These simpler problems can be solved in parallel and then coupled using the constraints. To validate our solver, we run it on a hover-linearized 3D quadrotor and show a speed-up of up to $ — 来源：techcrunch_ai · qbitai · reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.40427v1</description>
-</item>
-<item>
-<title>Silicon Valley wants you to invest in miracles</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_169aca9d9c2a</link>
-<guid isPermaLink="false">evt_169aca9d9c2a</guid>
-<pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
-<category>safety</category>
-<description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</description>
 </item>
 </channel>
 </rss>

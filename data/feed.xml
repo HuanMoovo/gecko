@@ -5,8 +5,24 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 03:30:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 10:04:36 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Sat, 31 Oct 2026 09:54:24 +0000</pubDate>
+<category>open_source</category>
+<description>🗂 The essential checklist for modern web development, for humans and AI agents · topics: ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development · ⭐ 74,609 · MDX — 来源：qbitai · techcrunch_ai · hn_frontpage · github — 原文：https://github.com/thedaviddias/Front-End-Checklist</description>
+</item>
+<item>
+<title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
+<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
+<pubDate>Sat, 31 Oct 2026 05:05:29 +0000</pubDate>
+<category>foundation_models</category>
+<description>200美元Ultra用户先用 — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/10/506855.html</description>
+</item>
 <item>
 <title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
@@ -40,14 +56,6 @@
 <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — 来源：github · openai_blog — 原文：https://openai.com/index/community-safety-report-and-new-protections-for-teens</description>
 </item>
 <item>
-<title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
-<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
-<category>industry</category>
-<description>It's still unknown how attackers got access to Anthropic's verified Cursor account. — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</description>
-</item>
-<item>
 <title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
 <guid isPermaLink="false">evt_3c0520e5732d</guid>
@@ -70,6 +78,14 @@
 <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
 <category>industry</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/nemotron-halloween</description>
+</item>
+<item>
+<title>OpenAI raises less than half of $30B target</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
+<category>industry</category>
+<description>来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</description>
 </item>
 <item>
 <title>Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)</title>
@@ -120,14 +136,6 @@
 <description>来源：arxiv · interconnects · hackernews — 原文：https://www.wiz.io/blog/black-october-for-ai-developer-platforms</description>
 </item>
 <item>
-<title>Zest’s new AI agent finds restaurants and books reservations over text</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Fri, 30 Oct 2026 21:26:59 +0000</pubDate>
-<category>agents</category>
-<description>Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation. — 来源：qbitai · techcrunch_ai · hn_frontpage — 原文：https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</description>
-</item>
-<item>
 <title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
 <guid isPermaLink="false">evt_ae73f96a74e0</guid>
@@ -160,20 +168,36 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 278 · 收藏 1,153 — 来源：huggingface · hf_blog · techcrunch_ai · hackernews — 原文：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B</description>
 </item>
 <item>
+<title>你的8G iPad里有12G内存！库克走了但他的刀法追着我砍</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bffe08309189</link>
+<guid isPermaLink="false">evt_bffe08309189</guid>
+<pubDate>Sat, 31 Oct 2026 05:17:50 +0000</pubDate>
+<category>industry</category>
+<description>苹果“牛奶倒河里”式操作翻红 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/506884.html</description>
+</item>
+<item>
+<title>世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b589a6ccbef</link>
+<guid isPermaLink="false">evt_0b589a6ccbef</guid>
+<pubDate>Sat, 31 Oct 2026 05:11:19 +0000</pubDate>
+<category>infrastructure</category>
+<description>AI算力利用“九九成” — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/506866.html</description>
+</item>
+<item>
+<title>[Dataset] Reizxn/HolyCyber</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4bffaf02557</link>
+<guid isPermaLink="false">evt_d4bffaf02557</guid>
+<pubDate>Fri, 30 Oct 2026 14:06:10 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 0 · 收藏 16 — 来源：huggingface — 原文：https://huggingface.co/datasets/Reizxn/HolyCyber</description>
+</item>
+<item>
 <title>VEvo-Harness: Causally-Guarded Self-Evolving Harness for Agentic Image Generation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d957b57aa1e6</link>
 <guid isPermaLink="false">evt_d957b57aa1e6</guid>
 <pubDate>Thu, 29 Oct 2026 20:16:40 +0000</pubDate>
 <category>agents</category>
 <description>The central bottleneck in visual generation and editing has migrated from achieving pixel-level fidelity to satisfying densely constrained user specifications through increasingly agentic workflows. Prevailing agentic generation pipelines remain shallow generate-verify-rewrite loops treating VLM judgments as coarse visual feedback, either discarding repair experience or admitting ungated updates that poison skill library. With memorize and govern periods left open, they degrade into ungoverned iterators of repeated trial-and-error rather than continual self-evolving harness. Towards this issue — 来源：simonwillison · aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.39158v1</description>
-</item>
-<item>
-<title>OpenAI-backed Thrive Holdings acquires ADT</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Thu, 29 Oct 2026 19:56:19 +0000</pubDate>
-<category>industry</category>
-<description>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business. — 来源：qbitai · openai_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</description>
 </item>
 <item>
 <title>PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions</title>
@@ -191,6 +215,14 @@
 <category>industry</category>
 <description>Although AI lets us do much more, I feel considerably more tired than before.&lt;p&gt;We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me.&lt;p&gt;I am pretty sure most of you are experiencing the same as me, but:
 Have you found ways of using AI without increasing mental overload?&lt;p&gt;I would love to hear your tips, but still be relevant in this AI era, so my boss does not fire me. — 来源：arxiv · reddit_ml · github · verge_ai · hackernews — 原文：https://news.ycombinator.com/item?id=50301479</description>
+</item>
+<item>
+<title>[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
+<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
+<pubDate>Sat, 31 Oct 2026 05:00:48 +0000</pubDate>
+<category>industry</category>
+<description>It turns out you cannot have your cake AND eat it — 来源：techcrunch_ai · github · hackernews · latent_space — 原文：https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</description>
 </item>
 <item>
 <title>op7418/guizang-ppt-skill — AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social cov</title>
@@ -297,20 +329,20 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <description>A programming framework for agentic AI · topics: agentic, agentic-agi, agents, ai, autogen, autogen-ecosystem · ⭐ 61,629 · Python — 来源：microsoft_research · github — 原文：https://github.com/microsoft/autogen</description>
 </item>
 <item>
-<title>Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_62373f3f48e1</link>
-<guid isPermaLink="false">evt_62373f3f48e1</guid>
-<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-<category>industry</category>
-<description>At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/</description>
-</item>
-<item>
 <title>Fundamental Limits of Sampling-Based Reachability: Geometry and Flow Distortion</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d43d2290f252</link>
 <guid isPermaLink="false">evt_d43d2290f252</guid>
 <pubDate>Thu, 29 Oct 2026 17:08:36 +0000</pubDate>
 <category>research</category>
 <description>Sampling-based reachability estimates reachable sets from finitely many simulated trajectory endpoints. Existing guarantees often control missed probability mass or approximation error relative to the convex hull of the reachable set, leaving the geometric error relative to the reachable set incompletely characterized. We study this error as a problem of support estimation under flow distortion. Our assumptions combine a uniform lower bound on the local volume density of the initial set, a lower bound on the sampling density, and a one-sided Lipschitz constant $μ$ for the vector field. These c — 来源：arxiv · huggingface — 原文：https://arxiv.org/abs/2610.40473v1</description>
+</item>
+<item>
+<title>Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_62373f3f48e1</link>
+<guid isPermaLink="false">evt_62373f3f48e1</guid>
+<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+<category>industry</category>
+<description>At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/</description>
 </item>
 <item>
 <title>socx: GPU-Accelerated Chance-Constrained Stochastic Optimal Control using JAX</title>
@@ -321,20 +353,20 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <description>In this article, we present socx, a GPU-accelerated solver for lifted convex reformulations of linear stochastic optimal control under chance constraints, implemented in JAX. We demonstrate that by exploiting the sparse and independent structure of the problem, distributed optimization can reduce it to simpler problems: independent linear-quadratic tracking (LQT) problems and Euclidean projections onto sets. These simpler problems can be solved in parallel and then coupled using the constraints. To validate our solver, we run it on a hover-linearized 3D quadrotor and show a speed-up of up to $ — 来源：techcrunch_ai · qbitai · reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.40427v1</description>
 </item>
 <item>
-<title>Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa702b033bfd</link>
-<guid isPermaLink="false">evt_aa702b033bfd</guid>
-<pubDate>Thu, 29 Oct 2026 16:58:57 +0000</pubDate>
-<category>infrastructure</category>
-<description>AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/</description>
-</item>
-<item>
 <title>Pika-Labs/Pika-H3-Flex</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ee64b630519e</link>
 <guid isPermaLink="false">evt_ee64b630519e</guid>
 <pubDate>Thu, 29 Oct 2026 23:29:03 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · image-to-video · 下载 0 · 收藏 115 — 来源：huggingface — 原文：https://huggingface.co/Pika-Labs/Pika-H3-Flex</description>
+</item>
+<item>
+<title>Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa702b033bfd</link>
+<guid isPermaLink="false">evt_aa702b033bfd</guid>
+<pubDate>Thu, 29 Oct 2026 16:58:57 +0000</pubDate>
+<category>infrastructure</category>
+<description>AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/</description>
 </item>
 <item>
 <title>Silicon Valley wants you to invest in miracles</title>
@@ -361,14 +393,6 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <description>Airflow-driven advection is the primary mechanism for gas and aerosol dispersion in real-world scenarios, making accurate airflow estimation essential for ventilation monitoring, gas source localization, and contaminant spread analysis. Since obtaining airflow maps via high-resolution spatial sensing is usually infeasible in practice, flow field estimation methods must cope with sparse measurements by introducing statistical or physical priors to compensate for limited data. Existing approaches mainly differ in how they incorporate fluid-flow constraints and environmental geometry. However, du — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.39789v1</description>
 </item>
 <item>
-<title>Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_415c05d3f517</link>
-<guid isPermaLink="false">evt_415c05d3f517</guid>
-<pubDate>Thu, 29 Oct 2026 16:11:08 +0000</pubDate>
-<category>agents</category>
-<description>NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod EKS with NVIDIA Dynamo and vLLM. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/</description>
-</item>
-<item>
 <title>榜一，拿来吧你！智元这波双模型杀穿多榜榜单</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7220c5dc2ad3</link>
 <guid isPermaLink="false">evt_7220c5dc2ad3</guid>
@@ -383,30 +407,6 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
 <category>industry</category>
 <description>5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/</description>
-</item>
-<item>
-<title>Can AI data centers be mass-produced like cars? This startup aims to find out</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3e4e3eed2bbf</link>
-<guid isPermaLink="false">evt_3e4e3eed2bbf</guid>
-<pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-<category>industry</category>
-<description>Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</description>
-</item>
-<item>
-<title>AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b3bd6a6a31e3</link>
-<guid isPermaLink="false">evt_b3bd6a6a31e3</guid>
-<pubDate>Fri, 30 Oct 2026 11:05:06 +0000</pubDate>
-<category>industry</category>
-<description>之前还连登昇腾三榜第一 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/506785.html</description>
-</item>
-<item>
-<title>Maine’s data center revolt will decide who controls the Senate</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fdc6e1d8e3bf</link>
-<guid isPermaLink="false">evt_fdc6e1d8e3bf</guid>
-<pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
-<category>science</category>
-<description>Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. "I'm terrified," a man shouted. "AI data centers are destroying our climate. They are poisoning our water." Collins brushed off the outburst, tying the man to her Democratic challenger, […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers</description>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,24 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 03:30:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 10:04:36 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Sat, 31 Oct 2026 09:54:24 +0000</pubDate>
+<category>open_source</category>
+<description>🗂 The essential checklist for modern web development, for humans and AI agents · topics: ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development · ⭐ 74,609 · MDX — 来源：qbitai · techcrunch_ai · hn_frontpage · github — 原文：https://github.com/thedaviddias/Front-End-Checklist</description>
+</item>
+<item>
+<title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
+<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
+<pubDate>Sat, 31 Oct 2026 05:05:29 +0000</pubDate>
+<category>foundation_models</category>
+<description>200美元Ultra用户先用 — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/10/506855.html</description>
+</item>
 <item>
 <title>Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
@@ -40,14 +56,6 @@
 <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — 来源：github · openai_blog — 原文：https://openai.com/index/community-safety-report-and-new-protections-for-teens</description>
 </item>
 <item>
-<title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
-<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
-<category>industry</category>
-<description>It's still unknown how attackers got access to Anthropic's verified Cursor account. — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</description>
-</item>
-<item>
 <title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
 <guid isPermaLink="false">evt_3c0520e5732d</guid>
@@ -62,6 +70,14 @@
 <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
 <category>infrastructure</category>
 <description>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan. — 来源：nvidia_blog · huggingface · techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</description>
+</item>
+<item>
+<title>OpenAI raises less than half of $30B target</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
+<category>industry</category>
+<description>来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</description>
 </item>
 <item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -104,14 +120,6 @@
 <description>来源：arxiv · interconnects · hackernews — 原文：https://www.wiz.io/blog/black-october-for-ai-developer-platforms</description>
 </item>
 <item>
-<title>Zest’s new AI agent finds restaurants and books reservations over text</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Fri, 30 Oct 2026 21:26:59 +0000</pubDate>
-<category>agents</category>
-<description>Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation. — 来源：qbitai · techcrunch_ai · hn_frontpage — 原文：https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</description>
-</item>
-<item>
 <title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
 <guid isPermaLink="false">evt_ae73f96a74e0</guid>
@@ -152,14 +160,6 @@
 <description>The central bottleneck in visual generation and editing has migrated from achieving pixel-level fidelity to satisfying densely constrained user specifications through increasingly agentic workflows. Prevailing agentic generation pipelines remain shallow generate-verify-rewrite loops treating VLM judgments as coarse visual feedback, either discarding repair experience or admitting ungated updates that poison skill library. With memorize and govern periods left open, they degrade into ungoverned iterators of repeated trial-and-error rather than continual self-evolving harness. Towards this issue — 来源：simonwillison · aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.39158v1</description>
 </item>
 <item>
-<title>OpenAI-backed Thrive Holdings acquires ADT</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Thu, 29 Oct 2026 19:56:19 +0000</pubDate>
-<category>industry</category>
-<description>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business. — 来源：qbitai · openai_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</description>
-</item>
-<item>
 <title>PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9fd54443238a</link>
 <guid isPermaLink="false">evt_9fd54443238a</guid>
@@ -177,6 +177,14 @@
 Have you found ways of using AI without increasing mental overload?&lt;p&gt;I would love to hear your tips, but still be relevant in this AI era, so my boss does not fire me. — 来源：arxiv · reddit_ml · github · verge_ai · hackernews — 原文：https://news.ycombinator.com/item?id=50301479</description>
 </item>
 <item>
+<title>[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
+<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
+<pubDate>Sat, 31 Oct 2026 05:00:48 +0000</pubDate>
+<category>industry</category>
+<description>It turns out you cannot have your cake AND eat it — 来源：techcrunch_ai · github · hackernews · latent_space — 原文：https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</description>
+</item>
+<item>
 <title>op7418/guizang-ppt-skill — AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social cov</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6060aca47b10</link>
 <guid isPermaLink="false">evt_6060aca47b10</guid>
@@ -191,22 +199,6 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：verge_ai · deepmind_blog · latent_space · qbitai · hackernews — 原文：https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</description>
-</item>
-<item>
-<title>dbreunig/nesformer</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dc319c3206b</link>
-<guid isPermaLink="false">evt_9dc319c3206b</guid>
-<pubDate>Fri, 30 Oct 2026 21:59:22 +0000</pubDate>
-<category>open_source</category>
-<description>dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Nintendo Entertainment System (as people do today with FPGAs in MISTRs) using this technique. If so, what  — 来源：hackernews · hn_frontpage · simonwillison — 原文：https://simonwillison.net/2026/Oct/30/nesformer/</description>
-</item>
-<item>
-<title>GC-LIF: Spiking Group-Equivariant Neural Network With Group-Coupled Membrane Dynamics</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_57ce1c14e7bd</link>
-<guid isPermaLink="false">evt_57ce1c14e7bd</guid>
-<pubDate>Fri, 30 Oct 2026 17:03:12 +0000</pubDate>
-<category>research</category>
-<description>Spiking neural networks (SNNs) promise event-driven, low-power inference, but on vision tasks they still acquire rotation invariance only through data augmentation. Group-equivariant CNNs build such symmetries into the architecture, yet a faithful spiking analogue is missing: a leaky integrate-and-fire (LIF) neuron placed after a $G$-equivariant convolution can break equivariance through its membrane recurrence. We give a necessary and sufficient condition for this not to happen. The layer is equivariant at every time step if and only if the neuron parameters $(β, v_{\mathrm{th}})$ are constan — 来源：arxiv · hn_frontpage — 原文：https://arxiv.org/abs/2610.39601v1</description>
 </item>
 </channel>
 </rss>

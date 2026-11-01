@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 22:57:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 03:35:46 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
@@ -32,28 +32,20 @@
 <description>来源：aws_ml · hackernews · techcrunch_ai — 原文：https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804</description>
 </item>
 <item>
+<title>ChatGPT and Codex usage limits merging</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
+<guid isPermaLink="false">evt_1f1bc03a707a</guid>
+<pubDate>Sat, 31 Oct 2026 21:49:07 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：github · openai_blog · hackernews — 原文：https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</description>
+</item>
+<item>
 <title>OpenAI reportedly lowers funding target for new round</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
 <guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
 <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
 <category>open_source</category>
 <description>OpenAI’s latest funding round doesn't seem to be living up to expectations. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</description>
-</item>
-<item>
-<title>commaai/openpilot — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ae73f96a74e0</link>
-<guid isPermaLink="false">evt_ae73f96a74e0</guid>
-<pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
-<category>open_source</category>
-<description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · topics: advanced-driver-assistance-systems, driver-assistance-systems, robotics · ⭐ 64,011 · Python — 来源：hackernews · arxiv · mit_tr_ai · verge_ai · techcrunch_ai · github — 原文：https://github.com/commaai/openpilot</description>
-</item>
-<item>
-<title>We Took over ChatGPT Accounts</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
-<guid isPermaLink="false">evt_1f1bc03a707a</guid>
-<pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：github · openai_blog · hackernews — 原文：https://www.parameter.ai/labs/we-found-a-gap-at-openai</description>
 </item>
 <item>
 <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
@@ -72,12 +64,12 @@
 <description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act. — 来源：verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</description>
 </item>
 <item>
-<title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0348a8d1ed8c</link>
-<guid isPermaLink="false">evt_0348a8d1ed8c</guid>
-<pubDate>Fri, 30 Oct 2026 17:32:20 +0000</pubDate>
-<category>agents</category>
-<description>Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</description>
+<title>nvidia/DeepSeek-V4.1-Flash-1017-NVFP4</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_82f6c7ea29e5</link>
+<guid isPermaLink="false">evt_82f6c7ea29e5</guid>
+<pubDate>Sat, 31 Oct 2026 07:29:05 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 715 · 收藏 93 — 来源：huggingface — 原文：https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4</description>
 </item>
 <item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -86,6 +78,14 @@
 <pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
 <category>safety</category>
 <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+</item>
+<item>
+<title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0348a8d1ed8c</link>
+<guid isPermaLink="false">evt_0348a8d1ed8c</guid>
+<pubDate>Fri, 30 Oct 2026 17:32:20 +0000</pubDate>
+<category>agents</category>
+<description>Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</description>
 </item>
 <item>
 <title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
@@ -120,6 +120,14 @@
 <description>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan. — 来源：nvidia_blog · huggingface · techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</description>
 </item>
 <item>
+<title>datasette-llm 0.1a9</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d28967fce9c6</link>
+<guid isPermaLink="false">evt_d28967fce9c6</guid>
+<pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
+<category>foundation_models</category>
+<description>Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent — 来源：openai_blog · simonwillison — 原文：https://simonwillison.net/2026/Oct/31/datasette-llm/</description>
+</item>
+<item>
 <title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_169aca9d9c2a</link>
 <guid isPermaLink="false">evt_169aca9d9c2a</guid>
@@ -142,6 +150,22 @@
 <pubDate>Fri, 30 Oct 2026 17:27:45 +0000</pubDate>
 <category>foundation_models</category>
 <description>The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using API-mode sign-in, a managed device policy, a named AWS profile, and network restrictions, so a security team can validate it before broader use. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/</description>
+</item>
+<item>
+<title>刚刚，DeepSeek重磅开源：Agent底座架构！</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b3bd6a6a31e3</link>
+<guid isPermaLink="false">evt_b3bd6a6a31e3</guid>
+<pubDate>Sat, 31 Oct 2026 13:49:44 +0000</pubDate>
+<category>agents</category>
+<description>AI已经自己找到Bug并提交PR — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/506904.html</description>
+</item>
+<item>
+<title>Chinese markets lose trillions as race for AI supremacy with US takes its toll</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_499f931ef699</link>
+<guid isPermaLink="false">evt_499f931ef699</guid>
+<pubDate>Sun, 01 Nov 2026 03:27:55 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing</description>
 </item>
 <item>
 <title>From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence</title>
@@ -176,12 +200,44 @@
 <description>来源：arxiv · interconnects · hackernews — 原文：https://www.wiz.io/blog/black-october-for-ai-developer-platforms</description>
 </item>
 <item>
+<title>How AI may drive union-resistant tech workers to the bargaining table</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e94a006a441a</link>
+<guid isPermaLink="false">evt_e94a006a441a</guid>
+<pubDate>Sun, 01 Nov 2026 00:49:23 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize</description>
+</item>
+<item>
+<title>Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_91231e6d0654</link>
+<guid isPermaLink="false">evt_91231e6d0654</guid>
+<pubDate>Sun, 01 Nov 2026 00:07:04 +0000</pubDate>
+<category>research</category>
+<description>I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-frame prediction, etc. Is there an existing taxonomy or mental model that groups ML techniques by their underlying pattern rather than by modality (NLP / vision / audio)? This will help me to group the research papers and then make reference to work already done in that domain submitted by /u/OkCampaign8400 [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/</description>
+</item>
+<item>
+<title>When AI writes almost all code, what happens to software engineering?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fff4eb27e793</link>
+<guid isPermaLink="false">evt_fff4eb27e793</guid>
+<pubDate>Sat, 31 Oct 2026 23:34:14 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what</description>
+</item>
+<item>
 <title>Making it easier for websites to express AI training preferences</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_52ced88a57d9</link>
 <guid isPermaLink="false">evt_52ced88a57d9</guid>
 <pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
 <category>infrastructure</category>
 <description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers. — 来源：simonwillison · openai_blog — 原文：https://openai.com/index/helping-websites-express-ai-training-preferences</description>
+</item>
+<item>
+<title>Computer Science Programs Lose Students as AI Replaces Jobs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d306b8dbe428</link>
+<guid isPermaLink="false">evt_d306b8dbe428</guid>
+<pubDate>Sat, 31 Oct 2026 22:57:27 +0000</pubDate>
+<category>science</category>
+<description>来源：hackernews — 原文：https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs</description>
 </item>
 <item>
 <title>LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT</title>
@@ -200,12 +256,28 @@
 <description>Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days. — 来源：github · hackernews · simonwillison · latent_space — 原文：https://latent.space/p/arca/</description>
 </item>
 <item>
+<title>AI text watermarking and quality loss</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_567c750dad41</link>
+<guid isPermaLink="false">evt_567c750dad41</guid>
+<pubDate>Sat, 31 Oct 2026 21:50:13 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://blog.keyvan.net/p/ai-text-watermarking-and-quality</description>
+</item>
+<item>
 <title>mistralai/Mistral-Large-4-1T-A52B</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_014576526a4d</link>
 <guid isPermaLink="false">evt_014576526a4d</guid>
 <pubDate>Thu, 29 Oct 2026 14:51:07 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · image-text-to-text · 下载 278 · 收藏 1,153 — 来源：huggingface · hf_blog · techcrunch_ai · hackernews — 原文：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B</description>
+</item>
+<item>
+<title>microsoft/Mage-VL-Cowork</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f9d1493b929c</link>
+<guid isPermaLink="false">evt_f9d1493b929c</guid>
+<pubDate>Fri, 30 Oct 2026 12:14:43 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 233 · 收藏 94 — 来源：techcrunch_ai · huggingface — 原文：https://huggingface.co/microsoft/Mage-VL-Cowork</description>
 </item>
 <item>
 <title>你的8G iPad里有12G内存！库克走了但他的刀法追着我砍</title>
@@ -296,14 +368,6 @@
 <description>After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated us to build Gear , an open-source, meta-learning-inspired framework. A task agent produces execution traces; a meta-agent uses those traces and evaluation feedback to improve prompts, tools, workflows, and context management. Gear separates search decisions from execution and evaluation. Our goal is — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/</description>
 </item>
 <item>
-<title>[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
-<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
-<pubDate>Sat, 31 Oct 2026 05:00:48 +0000</pubDate>
-<category>industry</category>
-<description>It turns out you cannot have your cake AND eat it — 来源：techcrunch_ai · github · hackernews · latent_space — 原文：https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</description>
-</item>
-<item>
 <title>Ask HN: Are you tired too in this AI era?</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3ebdfdbc96a9</link>
 <guid isPermaLink="false">evt_3ebdfdbc96a9</guid>
@@ -321,12 +385,12 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <description>AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. · topics: ai-agent, claude-code, codex, html-deck, image-generation, ppt · ⭐ 28,965 · HTML — 来源：github — 原文：https://github.com/op7418/guizang-ppt-skill</description>
 </item>
 <item>
-<title>Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_031052a3ce45</link>
-<guid isPermaLink="false">evt_031052a3ce45</guid>
-<pubDate>Sat, 31 Oct 2026 15:21:39 +0000</pubDate>
-<category>open_source</category>
-<description>submitted by /u/rottoneuro [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/</description>
+<title>[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
+<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
+<pubDate>Sat, 31 Oct 2026 05:00:48 +0000</pubDate>
+<category>industry</category>
+<description>It turns out you cannot have your cake AND eat it — 来源：techcrunch_ai · github · hackernews · latent_space — 原文：https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</description>
 </item>
 <item>
 <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -337,76 +401,12 @@ Have you found ways of using AI without increasing mental overload?&lt;p&gt;I wo
 <description>来源：verge_ai · deepmind_blog · latent_space · qbitai · hackernews — 原文：https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</description>
 </item>
 <item>
-<title>dbreunig/nesformer</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9dc319c3206b</link>
-<guid isPermaLink="false">evt_9dc319c3206b</guid>
-<pubDate>Fri, 30 Oct 2026 21:59:22 +0000</pubDate>
+<title>Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_031052a3ce45</link>
+<guid isPermaLink="false">evt_031052a3ce45</guid>
+<pubDate>Sat, 31 Oct 2026 15:21:39 +0000</pubDate>
 <category>open_source</category>
-<description>dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Nintendo Entertainment System (as people do today with FPGAs in MISTRs) using this technique. If so, what  — 来源：hackernews · hn_frontpage · simonwillison — 原文：https://simonwillison.net/2026/Oct/30/nesformer/</description>
-</item>
-<item>
-<title>Malware uses LLMs to rank victims by how much they're worth</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5b0ac3b976a1</link>
-<guid isPermaLink="false">evt_5b0ac3b976a1</guid>
-<pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews — 原文：https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</description>
-</item>
-<item>
-<title>Ollie, a privacy-focused AI assistant, is shutting down</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5d6f84404e1c</link>
-<guid isPermaLink="false">evt_5d6f84404e1c</guid>
-<pubDate>Fri, 30 Oct 2026 22:56:13 +0000</pubDate>
-<category>safety</category>
-<description>As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/</description>
-</item>
-<item>
-<title>Apple Intelligence is finally coming to China with iOS 27.3</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fff1698b18b</link>
-<guid isPermaLink="false">evt_1fff1698b18b</guid>
-<pubDate>Fri, 30 Oct 2026 22:32:53 +0000</pubDate>
-<category>open_source</category>
-<description>Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</description>
-</item>
-<item>
-<title>Retired professor arrested for blocking delivery robot. Will do it again</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d3faca943d8b</link>
-<guid isPermaLink="false">evt_d3faca943d8b</guid>
-<pubDate>Sat, 31 Oct 2026 13:39:57 +0000</pubDate>
-<category>robotics</category>
-<description>来源：hackernews — 原文：https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec</description>
-</item>
-<item>
-<title>Intel’s stock crashes, knocking $12B from government’s stake</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a977761811a9</link>
-<guid isPermaLink="false">evt_a977761811a9</guid>
-<pubDate>Fri, 30 Oct 2026 21:54:34 +0000</pubDate>
-<category>industry</category>
-<description>Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</description>
-</item>
-<item>
-<title>Cracks are emerging in the AI spending boom</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_07912041c313</link>
-<guid isPermaLink="false">evt_07912041c313</guid>
-<pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
-<category>industry</category>
-<description>Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</description>
-</item>
-<item>
-<title>Fair use benefits everyone</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d2282bcce162</link>
-<guid isPermaLink="false">evt_d2282bcce162</guid>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<category>infrastructure</category>
-<description>OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation. — 来源：openai_blog — 原文：https://openai.com/index/fair-use-benefits-everyone</description>
-</item>
-<item>
-<title>The biggest names in AI are backing a new way to opt out of scraping</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_205a002f8608</link>
-<guid isPermaLink="false">evt_205a002f8608</guid>
-<pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
-<category>infrastructure</category>
-<description>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</description>
+<description>submitted by /u/rottoneuro [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/</description>
 </item>
 </channel>
 </rss>

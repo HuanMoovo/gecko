@@ -5,23 +5,47 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 10:55:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 17:27:35 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Sat, 31 Oct 2026 09:54:24 +0000</pubDate>
+<title>Edge0/Audio8-TTS-Realistic-0.6b</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec2191a0861c</link>
+<guid isPermaLink="false">evt_ec2191a0861c</guid>
+<pubDate>Sun, 01 Nov 2026 14:38:29 +0000</pubDate>
 <category>open_source</category>
-<description>🗂 The essential checklist for modern web development, for humans and AI agents · topics: ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development · ⭐ 74,609 · MDX — 来源：qbitai · techcrunch_ai · hn_frontpage · github — 原文：https://github.com/thedaviddias/Front-End-Checklist</description>
+<description>Hugging Face 模型 · text-to-speech · 下载 4,613 · 收藏 194 — 来源：huggingface — 原文：https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b</description>
 </item>
 <item>
-<title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
+<title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
 <guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 13:09:55 +0000</pubDate>
 <category>foundation_models</category>
-<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</description>
+<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/11/507038.html</description>
+</item>
+<item>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Sun, 01 Nov 2026 16:43:36 +0000</pubDate>
+<category>safety</category>
+<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+</item>
+<item>
+<title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
+<category>agents</category>
+<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</description>
+</item>
+<item>
+<title>三年前布局，今年爆火丨西湖大学成立新中心</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_93a19b1bb027</link>
+<guid isPermaLink="false">evt_93a19b1bb027</guid>
+<pubDate>Sun, 01 Nov 2026 13:28:10 +0000</pubDate>
+<category>research</category>
+<description>西湖世界模型研究中心成立 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507076.html</description>
 </item>
 <item>
 <title>Amazon sends chills through its workforce with mixed message memo about AI use</title>
@@ -72,6 +96,14 @@
 <description>再次“性价比屠夫” — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/506922.html</description>
 </item>
 <item>
+<title>Quoting Kyle Kingsbury</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7a06514023fd</link>
+<guid isPermaLink="false">evt_7a06514023fd</guid>
+<pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
+<category>foundation_models</category>
+<description>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</description>
+</item>
+<item>
 <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_fdcfa1f9d689</link>
 <guid isPermaLink="false">evt_fdcfa1f9d689</guid>
@@ -88,6 +120,14 @@
 <description>Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple A100s/L40s at my Univ which I can definitely use for training purposes, and I just wanted to get a device to run local inference submitted by /u/Fantastic-Nerve-4056 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/</description>
 </item>
 <item>
+<title>Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
+<guid isPermaLink="false">evt_b358f24cec5b</guid>
+<pubDate>Sun, 01 Nov 2026 12:28:22 +0000</pubDate>
+<category>research</category>
+<description>For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models. I used fairly aggressive cropping (random crops between 0 and 90%) and more moderate zooms (random values between 0 and 20%). My supervisor wants me to characterise these datasets to see how augmentation has changed it. Sorry if this is a rookie question, but which statistics should I use? My supervisor says the stats I use should indicate ch — 来源：verge_ai · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/</description>
+</item>
+<item>
 <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f010b1f4f032</link>
 <guid isPermaLink="false">evt_f010b1f4f032</guid>
@@ -96,12 +136,20 @@
 <description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act. — 来源：verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</description>
 </item>
 <item>
-<title>nvidia/DeepSeek-V4.1-Flash-1017-NVFP4</title>
+<title>OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_82f6c7ea29e5</link>
 <guid isPermaLink="false">evt_82f6c7ea29e5</guid>
 <pubDate>Sat, 31 Oct 2026 07:29:05 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 715 · 收藏 93 — 来源：huggingface — 原文：https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4</description>
+<description>Hugging Face 模型 · text-generation · 下载 520 · 收藏 115 — 来源：huggingface — 原文：https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated</description>
+</item>
+<item>
+<title>The question we should all be asking about AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e274d87a6101</link>
+<guid isPermaLink="false">evt_e274d87a6101</guid>
+<pubDate>Sun, 01 Nov 2026 12:44:36 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt</description>
 </item>
 <item>
 <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
@@ -112,12 +160,12 @@
 <description>Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</description>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+<title>LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ba9f598a0460</link>
+<guid isPermaLink="false">evt_ba9f598a0460</guid>
+<pubDate>Sun, 01 Nov 2026 10:38:34 +0000</pubDate>
+<category>research</category>
+<description>I'm an undergraduate researcher working independently on conversational memory systems. I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the course of an evolving conversation. Instead of relying only on isolated endpoint questions, LSREP combines chronological replay, lifecycle schedules, repeated probes, evolving reference answers and mechanism-fidelity checks. The accompanying architectural case study is ICE v2, a local-first conversational memory system. The evaluation covers 1,985 turns, 219 distinct probes and 1,211 probe-checkpoint  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/</description>
 </item>
 <item>
 <title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
@@ -126,6 +174,14 @@
 <pubDate>Fri, 30 Oct 2026 21:40:03 +0000</pubDate>
 <category>agents</category>
 <description>Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/</description>
+</item>
+<item>
+<title>[Dataset] HuggingFaceBio/FineDNA</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_34370e88c88d</link>
+<guid isPermaLink="false">evt_34370e88c88d</guid>
+<pubDate>Fri, 30 Oct 2026 17:15:34 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 72 · 收藏 17 — 来源：hf_blog · huggingface — 原文：https://huggingface.co/datasets/HuggingFaceBio/FineDNA</description>
 </item>
 <item>
 <title>I built an AI Tamagotchi before Meta could</title>
@@ -168,20 +224,20 @@
 <description>&lt;a href="https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;2025&amp;#x2F;01&amp;#x2F;lee_2025_ai_critical_thinking_survey.pdf" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;...&lt;/a&gt; — 来源：verge_ai · hackernews — 原文：https://dl.acm.org/doi/full/10.1145/3706598.3713778</description>
 </item>
 <item>
-<title>The AI cost of JavaScript frameworks</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_761e5e0baaa4</link>
-<guid isPermaLink="false">evt_761e5e0baaa4</guid>
-<pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
-<category>open_source</category>
-<description>来源：hackernews — 原文：https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</description>
-</item>
-<item>
 <title>nemotron-halloween</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b2263e9f8412</link>
 <guid isPermaLink="false">evt_b2263e9f8412</guid>
 <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
 <category>industry</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/nemotron-halloween</description>
+</item>
+<item>
+<title>The AI cost of JavaScript frameworks</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_761e5e0baaa4</link>
+<guid isPermaLink="false">evt_761e5e0baaa4</guid>
+<pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
+<category>open_source</category>
+<description>来源：hackernews — 原文：https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</description>
 </item>
 <item>
 <title>Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)</title>
@@ -350,62 +406,6 @@
 <pubDate>Fri, 30 Oct 2026 14:06:10 +0000</pubDate>
 <category>research</category>
 <description>Hugging Face 数据集 · 下载 0 · 收藏 16 — 来源：huggingface — 原文：https://huggingface.co/datasets/Reizxn/HolyCyber</description>
-</item>
-<item>
-<title>Anthropic blocks users for anything touching training larger models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e07ec5d69c95</link>
-<guid isPermaLink="false">evt_e07ec5d69c95</guid>
-<pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
-<category>infrastructure</category>
-<description>来源：hackernews — 原文：https://twitter.com/jiahaoshao1/status/2116475922190922088</description>
-</item>
-<item>
-<title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_82785ab4f152</link>
-<guid isPermaLink="false">evt_82785ab4f152</guid>
-<pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews — 原文：https://ryanmadden.net/gpt-56-beats-factorio/</description>
-</item>
-<item>
-<title>sensenova/SenseNova-Loop-9B-Preview</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_73e8678c878e</link>
-<guid isPermaLink="false">evt_73e8678c878e</guid>
-<pubDate>Fri, 30 Oct 2026 12:42:16 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 566 · 收藏 95 — 来源：huggingface — 原文：https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview</description>
-</item>
-<item>
-<title>Is neuro-evolution relevant? [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a371eecafa9e</link>
-<guid isPermaLink="false">evt_a371eecafa9e</guid>
-<pubDate>Sat, 31 Oct 2026 18:09:53 +0000</pubDate>
-<category>research</category>
-<description>I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this. I'd assume it'd probably relate with reinforcement learning in some way but I'm not entirely sure about that submitted by /u/tapopalis [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/</description>
-</item>
-<item>
-<title>VEvo-Harness: Causally-Guarded Self-Evolving Harness for Agentic Image Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d957b57aa1e6</link>
-<guid isPermaLink="false">evt_d957b57aa1e6</guid>
-<pubDate>Thu, 29 Oct 2026 20:16:40 +0000</pubDate>
-<category>agents</category>
-<description>The central bottleneck in visual generation and editing has migrated from achieving pixel-level fidelity to satisfying densely constrained user specifications through increasingly agentic workflows. Prevailing agentic generation pipelines remain shallow generate-verify-rewrite loops treating VLM judgments as coarse visual feedback, either discarding repair experience or admitting ungated updates that poison skill library. With memorize and govern periods left open, they degrade into ungoverned iterators of repeated trial-and-error rather than continual self-evolving harness. Towards this issue — 来源：simonwillison · aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.39158v1</description>
-</item>
-<item>
-<title>Is it okay to share my experiments implementing research papers on my own LLM here? [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_502fb7196437</link>
-<guid isPermaLink="false">evt_502fb7196437</guid>
-<pubDate>Sat, 31 Oct 2026 17:57:22 +0000</pubDate>
-<category>research</category>
-<description>Hey everyone! I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers. I've been documenting the whole journey through casual blogs, including my mistakes, experiments, and things I've learned. So far: Building the Transformer Training it for 60,000 steps Next up is KV caching, followed by PagedAttention, Orca, and whatever else I find interesting. Just wanted to ask if sharing these experiments and blogs here would be welcome. Nothing promotional, just me experimenting, le — 来源：github · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/</description>
-</item>
-<item>
-<title>PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fd54443238a</link>
-<guid isPermaLink="false">evt_9fd54443238a</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>research</category>
-<description>We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, generation-based pairs, or training pairs with limited viewpoint variation, leaving pose and illumination adaptation and bidirectional object-scene interactions insufficiently constrained. We construct the Insert World dataset with strictly aligned Blender-rendered counterfactual pairs and object references across viewpoints and lighting conditions. Building on these data, Geometry-Guided Adaptation  — 来源：verge_ai · arxiv — 原文：https://arxiv.org/abs/2610.40453v1</description>
 </item>
 </channel>
 </rss>

@@ -5,23 +5,31 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 10:55:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 17:27:35 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Sat, 31 Oct 2026 09:54:24 +0000</pubDate>
-<category>open_source</category>
-<description>🗂 The essential checklist for modern web development, for humans and AI agents · topics: ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development · ⭐ 74,609 · MDX — 来源：qbitai · techcrunch_ai · hn_frontpage · github — 原文：https://github.com/thedaviddias/Front-End-Checklist</description>
-</item>
-<item>
-<title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
+<title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
 <guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 13:09:55 +0000</pubDate>
 <category>foundation_models</category>
-<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</description>
+<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/11/507038.html</description>
+</item>
+<item>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Sun, 01 Nov 2026 16:43:36 +0000</pubDate>
+<category>safety</category>
+<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+</item>
+<item>
+<title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
+<category>agents</category>
+<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</description>
 </item>
 <item>
 <title>Amazon sends chills through its workforce with mixed message memo about AI use</title>
@@ -38,22 +46,6 @@
 <pubDate>Sun, 01 Nov 2026 08:02:37 +0000</pubDate>
 <category>industry</category>
 <description>让AI像牛顿一样思考 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507031.html</description>
-</item>
-<item>
-<title>ChatGPT and Codex usage limits merging</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
-<guid isPermaLink="false">evt_1f1bc03a707a</guid>
-<pubDate>Sat, 31 Oct 2026 21:49:07 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：github · openai_blog · hackernews — 原文：https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</description>
-</item>
-<item>
-<title>OpenAI reportedly lowers funding target for new round</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
-<category>open_source</category>
-<description>OpenAI’s latest funding round doesn't seem to be living up to expectations. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</description>
 </item>
 </channel>
 </rss>

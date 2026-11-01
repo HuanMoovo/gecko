@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 17:27:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 23:15:47 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
+<category>industry</category>
+<description>Data centers are deeply unpopular. But what if we called them something else? — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</description>
+</item>
 <item>
 <title>Edge0/Audio8-TTS-Realistic-0.6b</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ec2191a0861c</link>
@@ -24,6 +32,14 @@
 <description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/11/507038.html</description>
 </item>
 <item>
+<title>Muse AI agent is a commercial surveillance network disguised as an AI assistant</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Sun, 01 Nov 2026 18:33:02 +0000</pubDate>
+<category>agents</category>
+<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial</description>
+</item>
+<item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
 <guid isPermaLink="false">evt_7ca6b100a30f</guid>
@@ -32,12 +48,20 @@
 <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
-<title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
-<category>agents</category>
-<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</description>
+<title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bb2642061f37</link>
+<guid isPermaLink="false">evt_bb2642061f37</guid>
+<pubDate>Sun, 01 Nov 2026 20:57:58 +0000</pubDate>
+<category>industry</category>
+<description>On Equity, we discuss why tech CEO statements can seem so tone deaf. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</description>
+</item>
+<item>
+<title>Heretic 2.0 Released: Training-free language model modification</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
+<guid isPermaLink="false">evt_b358f24cec5b</guid>
+<pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+<category>open_source</category>
+<description>https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;&lt;p&gt;-p-e-w- Posted this from Reddit.&lt;p&gt;&amp;quot;Dear fellow Llamas,&lt;p&gt;after almost 5 months of development, I finally have the pleasure of announcing to you the immediate availability of the biggest Heretic release ever, Heretic 2.0: https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;heretic&lt;p&gt;Heretic is the leading software for removing censorship from language models. It now boasts 37k GitHub stars and more than 8,500 models on Hugging Face, with 88 million(!!!) total model downloads.&lt;p&gt;With Heretic 2.0, the project is entering a new era. Heretic is expandi — 来源：verge_ai · reddit_ml · hackernews — 原文：https://news.ycombinator.com/item?id=50328567</description>
 </item>
 <item>
 <title>三年前布局，今年爆火丨西湖大学成立新中心</title>
@@ -80,12 +104,20 @@
 <description>来源：github · openai_blog · hackernews — 原文：https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</description>
 </item>
 <item>
-<title>OpenAI reportedly lowers funding target for new round</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
-<category>open_source</category>
-<description>OpenAI’s latest funding round doesn't seem to be living up to expectations. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</description>
+<title>So I guess everyone uses LLMs to think now</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2041779807cb</link>
+<guid isPermaLink="false">evt_2041779807cb</guid>
+<pubDate>Sun, 01 Nov 2026 21:49:04 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews — 原文：https://eva.ac/blog/llms/</description>
+</item>
+<item>
+<title>Are There Problems Beyond the Reach of AI [video]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d2ba2a8b1743</link>
+<guid isPermaLink="false">evt_d2ba2a8b1743</guid>
+<pubDate>Sun, 01 Nov 2026 20:06:51 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.youtube.com/watch?v=NWNbAEivyvs</description>
 </item>
 <item>
 <title>Jev新成果，再次引爆开源</title>
@@ -94,6 +126,22 @@
 <pubDate>Sun, 01 Nov 2026 04:18:37 +0000</pubDate>
 <category>open_source</category>
 <description>再次“性价比屠夫” — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/506922.html</description>
+</item>
+<item>
+<title>It wasn't AI that flipped Proton's charge</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b795773d113</link>
+<guid isPermaLink="false">evt_4b795773d113</guid>
+<pubDate>Sun, 01 Nov 2026 18:53:55 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://blog.raed.dev/posts/proton-loser-thinking/</description>
+</item>
+<item>
+<title>I animated what GPT-4o's tokenizer does to "strawberry": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f55fa468f094</link>
+<guid isPermaLink="false">evt_f55fa468f094</guid>
+<pubDate>Sun, 01 Nov 2026 18:01:28 +0000</pubDate>
+<category>foundation_models</category>
+<description>I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong. It follows one word the whole way: "How many r's are in strawberry?" is 8 tokens in o200k_base (the GPT-4o / GPT-5 tokenizer). " strawberry" is a single token, id 101830, so the three r's are hidden inside one id. Why pieces of words: letters make sequences about 4x longer, whole words need a huge vocabulary and can't handle new words. A tiny byte pair encoding run on a made-up text, merge by merge, until strawberry becomes st | raw | berry. The space belongs to the wo — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/</description>
 </item>
 <item>
 <title>Quoting Kyle Kingsbury</title>
@@ -118,14 +166,6 @@
 <pubDate>Sun, 01 Nov 2026 07:16:53 +0000</pubDate>
 <category>infrastructure</category>
 <description>Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple A100s/L40s at my Univ which I can definitely use for training purposes, and I just wanted to get a device to run local inference submitted by /u/Fantastic-Nerve-4056 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/</description>
-</item>
-<item>
-<title>Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
-<guid isPermaLink="false">evt_b358f24cec5b</guid>
-<pubDate>Sun, 01 Nov 2026 12:28:22 +0000</pubDate>
-<category>research</category>
-<description>For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models. I used fairly aggressive cropping (random crops between 0 and 90%) and more moderate zooms (random values between 0 and 20%). My supervisor wants me to characterise these datasets to see how augmentation has changed it. Sorry if this is a rookie question, but which statistics should I use? My supervisor says the stats I use should indicate ch — 来源：verge_ai · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/</description>
 </item>
 <item>
 <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
@@ -224,20 +264,20 @@
 <description>&lt;a href="https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;2025&amp;#x2F;01&amp;#x2F;lee_2025_ai_critical_thinking_survey.pdf" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;...&lt;/a&gt; — 来源：verge_ai · hackernews — 原文：https://dl.acm.org/doi/full/10.1145/3706598.3713778</description>
 </item>
 <item>
-<title>nemotron-halloween</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2263e9f8412</link>
-<guid isPermaLink="false">evt_b2263e9f8412</guid>
-<pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-<category>industry</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/nemotron-halloween</description>
-</item>
-<item>
 <title>The AI cost of JavaScript frameworks</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_761e5e0baaa4</link>
 <guid isPermaLink="false">evt_761e5e0baaa4</guid>
 <pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
 <category>open_source</category>
 <description>来源：hackernews — 原文：https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</description>
+</item>
+<item>
+<title>nemotron-halloween</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2263e9f8412</link>
+<guid isPermaLink="false">evt_b2263e9f8412</guid>
+<pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
+<category>industry</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/nemotron-halloween</description>
 </item>
 <item>
 <title>Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)</title>
@@ -366,46 +406,6 @@
 <pubDate>Sat, 31 Oct 2026 21:50:13 +0000</pubDate>
 <category>industry</category>
 <description>Comments — 来源：hn_frontpage — 原文：https://blog.keyvan.net/p/ai-text-watermarking-and-quality</description>
-</item>
-<item>
-<title>mistralai/Mistral-Large-4-1T-A52B</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_014576526a4d</link>
-<guid isPermaLink="false">evt_014576526a4d</guid>
-<pubDate>Thu, 29 Oct 2026 14:51:07 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 278 · 收藏 1,153 — 来源：huggingface · hf_blog · techcrunch_ai · hackernews — 原文：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B</description>
-</item>
-<item>
-<title>microsoft/Mage-VL-Cowork</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f9d1493b929c</link>
-<guid isPermaLink="false">evt_f9d1493b929c</guid>
-<pubDate>Fri, 30 Oct 2026 12:14:43 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 233 · 收藏 94 — 来源：techcrunch_ai · huggingface — 原文：https://huggingface.co/microsoft/Mage-VL-Cowork</description>
-</item>
-<item>
-<title>你的8G iPad里有12G内存！库克走了但他的刀法追着我砍</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bffe08309189</link>
-<guid isPermaLink="false">evt_bffe08309189</guid>
-<pubDate>Sat, 31 Oct 2026 05:17:50 +0000</pubDate>
-<category>industry</category>
-<description>苹果“牛奶倒河里”式操作翻红 — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/506884.html</description>
-</item>
-<item>
-<title>世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b589a6ccbef</link>
-<guid isPermaLink="false">evt_0b589a6ccbef</guid>
-<pubDate>Sat, 31 Oct 2026 05:11:19 +0000</pubDate>
-<category>infrastructure</category>
-<description>AI算力利用“九九成” — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/506866.html</description>
-</item>
-<item>
-<title>[Dataset] Reizxn/HolyCyber</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4bffaf02557</link>
-<guid isPermaLink="false">evt_d4bffaf02557</guid>
-<pubDate>Fri, 30 Oct 2026 14:06:10 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 0 · 收藏 16 — 来源：huggingface — 原文：https://huggingface.co/datasets/Reizxn/HolyCyber</description>
 </item>
 </channel>
 </rss>

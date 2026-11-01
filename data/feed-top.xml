@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 17:27:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 23:15:47 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
+<category>industry</category>
+<description>Data centers are deeply unpopular. But what if we called them something else? — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</description>
+</item>
 <item>
 <title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
@@ -14,6 +22,14 @@
 <pubDate>Sun, 01 Nov 2026 13:09:55 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/11/507038.html</description>
+</item>
+<item>
+<title>Muse AI agent is a commercial surveillance network disguised as an AI assistant</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Sun, 01 Nov 2026 18:33:02 +0000</pubDate>
+<category>agents</category>
+<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial</description>
 </item>
 <item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -24,28 +40,12 @@
 <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
-<title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
-<category>agents</category>
-<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</description>
-</item>
-<item>
-<title>Amazon sends chills through its workforce with mixed message memo about AI use</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
-<guid isPermaLink="false">evt_10659eb70d41</guid>
-<pubDate>Sat, 31 Oct 2026 17:21:16 +0000</pubDate>
-<category>industry</category>
-<description>来源：aws_ml · hackernews · techcrunch_ai — 原文：https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804</description>
-</item>
-<item>
-<title>清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc3529c9ecd</link>
-<guid isPermaLink="false">evt_1fc3529c9ecd</guid>
-<pubDate>Sun, 01 Nov 2026 08:02:37 +0000</pubDate>
-<category>industry</category>
-<description>让AI像牛顿一样思考 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507031.html</description>
+<title>Heretic 2.0 Released: Training-free language model modification</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
+<guid isPermaLink="false">evt_b358f24cec5b</guid>
+<pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+<category>open_source</category>
+<description>https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;&lt;p&gt;-p-e-w- Posted this from Reddit.&lt;p&gt;&amp;quot;Dear fellow Llamas,&lt;p&gt;after almost 5 months of development, I finally have the pleasure of announcing to you the immediate availability of the biggest Heretic release ever, Heretic 2.0: https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;heretic&lt;p&gt;Heretic is the leading software for removing censorship from language models. It now boasts 37k GitHub stars and more than 8,500 models on Hugging Face, with 88 million(!!!) total model downloads.&lt;p&gt;With Heretic 2.0, the project is entering a new era. Heretic is expandi — 来源：verge_ai · reddit_ml · hackernews — 原文：https://news.ycombinator.com/item?id=50328567</description>
 </item>
 </channel>
 </rss>

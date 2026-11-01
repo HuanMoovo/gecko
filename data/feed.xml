@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 03:35:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 10:55:51 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>thedaviddias/Front-End-Checklist — 🗂 The essential checklist for modern web development, for humans and AI agents</title>
@@ -32,6 +32,22 @@
 <description>来源：aws_ml · hackernews · techcrunch_ai — 原文：https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804</description>
 </item>
 <item>
+<title>清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1fc3529c9ecd</link>
+<guid isPermaLink="false">evt_1fc3529c9ecd</guid>
+<pubDate>Sun, 01 Nov 2026 08:02:37 +0000</pubDate>
+<category>industry</category>
+<description>让AI像牛顿一样思考 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507031.html</description>
+</item>
+<item>
+<title>老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_637c9aeaf702</link>
+<guid isPermaLink="false">evt_637c9aeaf702</guid>
+<pubDate>Sun, 01 Nov 2026 07:50:57 +0000</pubDate>
+<category>robotics</category>
+<description>这事还是想得太简单了 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/506990.html</description>
+</item>
+<item>
 <title>ChatGPT and Codex usage limits merging</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
 <guid isPermaLink="false">evt_1f1bc03a707a</guid>
@@ -48,12 +64,28 @@
 <description>OpenAI’s latest funding round doesn't seem to be living up to expectations. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</description>
 </item>
 <item>
+<title>Jev新成果，再次引爆开源</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a364bf369942</link>
+<guid isPermaLink="false">evt_a364bf369942</guid>
+<pubDate>Sun, 01 Nov 2026 04:18:37 +0000</pubDate>
+<category>open_source</category>
+<description>再次“性价比屠夫” — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/506922.html</description>
+</item>
+<item>
 <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_fdcfa1f9d689</link>
 <guid isPermaLink="false">evt_fdcfa1f9d689</guid>
 <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
 <category>industry</category>
 <description>Apple's new CEO defended the company's current position in the AI landscape. — 来源：hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</description>
+</item>
+<item>
+<title>Best option for local models [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4c43009c11ef</link>
+<guid isPermaLink="false">evt_4c43009c11ef</guid>
+<pubDate>Sun, 01 Nov 2026 07:16:53 +0000</pubDate>
+<category>infrastructure</category>
+<description>Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple A100s/L40s at my Univ which I can definitely use for training purposes, and I just wanted to get a device to run local inference submitted by /u/Fantastic-Nerve-4056 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/</description>
 </item>
 <item>
 <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
@@ -72,20 +104,20 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 715 · 收藏 93 — 来源：huggingface — 原文：https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4</description>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
-</item>
-<item>
 <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_0348a8d1ed8c</link>
 <guid isPermaLink="false">evt_0348a8d1ed8c</guid>
 <pubDate>Fri, 30 Oct 2026 17:32:20 +0000</pubDate>
 <category>agents</category>
 <description>Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</description>
+</item>
+<item>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
+<guid isPermaLink="false">evt_7ca6b100a30f</guid>
+<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+<category>safety</category>
+<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
 </item>
 <item>
 <title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
@@ -134,6 +166,14 @@
 <pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
 <category>generative</category>
 <description>&lt;a href="https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;2025&amp;#x2F;01&amp;#x2F;lee_2025_ai_critical_thinking_survey.pdf" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;...&lt;/a&gt; — 来源：verge_ai · hackernews — 原文：https://dl.acm.org/doi/full/10.1145/3706598.3713778</description>
+</item>
+<item>
+<title>The AI cost of JavaScript frameworks</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_761e5e0baaa4</link>
+<guid isPermaLink="false">evt_761e5e0baaa4</guid>
+<pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
+<category>open_source</category>
+<description>来源：hackernews — 原文：https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</description>
 </item>
 <item>
 <title>nemotron-halloween</title>
@@ -200,6 +240,14 @@
 <description>来源：arxiv · interconnects · hackernews — 原文：https://www.wiz.io/blog/black-october-for-ai-developer-platforms</description>
 </item>
 <item>
+<title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2a10a176a3e7</link>
+<guid isPermaLink="false">evt_2a10a176a3e7</guid>
+<pubDate>Sun, 01 Nov 2026 02:19:53 +0000</pubDate>
+<category>safety</category>
+<description>来源：hackernews — 原文：https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</description>
+</item>
+<item>
 <title>How AI may drive union-resistant tech workers to the bargaining table</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e94a006a441a</link>
 <guid isPermaLink="false">evt_e94a006a441a</guid>
@@ -208,12 +256,12 @@
 <description>来源：hackernews — 原文：https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize</description>
 </item>
 <item>
-<title>Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]</title>
+<title>vllm-project/vllm-omni — A framework for efficient model inference with omni-modality models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_91231e6d0654</link>
 <guid isPermaLink="false">evt_91231e6d0654</guid>
-<pubDate>Sun, 01 Nov 2026 00:07:04 +0000</pubDate>
-<category>research</category>
-<description>I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-frame prediction, etc. Is there an existing taxonomy or mental model that groups ML techniques by their underlying pattern rather than by modality (NLP / vision / audio)? This will help me to group the research papers and then make reference to work already done in that domain submitted by /u/OkCampaign8400 [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/</description>
+<pubDate>Sun, 01 Nov 2026 04:20:26 +0000</pubDate>
+<category>open_source</category>
+<description>A framework for efficient model inference with omni-modality models · topics: audio-generation, diffusion, image-generation, inference, model-serving, multimodal · ⭐ 7,458 · Python — 来源：reddit_ml · github — 原文：https://github.com/vllm-project/vllm-omni</description>
 </item>
 <item>
 <title>When AI writes almost all code, what happens to software engineering?</title>
@@ -358,55 +406,6 @@
 <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 <category>research</category>
 <description>We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, generation-based pairs, or training pairs with limited viewpoint variation, leaving pose and illumination adaptation and bidirectional object-scene interactions insufficiently constrained. We construct the Insert World dataset with strictly aligned Blender-rendered counterfactual pairs and object references across viewpoints and lighting conditions. Building on these data, Geometry-Guided Adaptation  — 来源：verge_ai · arxiv — 原文：https://arxiv.org/abs/2610.40453v1</description>
-</item>
-<item>
-<title>I built a scikit-learn for RSI [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_34ac1a61a423</link>
-<guid isPermaLink="false">evt_34ac1a61a423</guid>
-<pubDate>Sat, 31 Oct 2026 16:33:26 +0000</pubDate>
-<category>agents</category>
-<description>After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated us to build Gear , an open-source, meta-learning-inspired framework. A task agent produces execution traces; a meta-agent uses those traces and evaluation feedback to improve prompts, tools, workflows, and context management. Gear separates search decisions from execution and evaluation. Our goal is — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/</description>
-</item>
-<item>
-<title>Ask HN: Are you tired too in this AI era?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3ebdfdbc96a9</link>
-<guid isPermaLink="false">evt_3ebdfdbc96a9</guid>
-<pubDate>Fri, 30 Oct 2026 09:17:43 +0000</pubDate>
-<category>industry</category>
-<description>Although AI lets us do much more, I feel considerably more tired than before.&lt;p&gt;We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me.&lt;p&gt;I am pretty sure most of you are experiencing the same as me, but:
-Have you found ways of using AI without increasing mental overload?&lt;p&gt;I would love to hear your tips, but still be relevant in this AI era, so my boss does not fire me. — 来源：arxiv · reddit_ml · github · verge_ai · hackernews — 原文：https://news.ycombinator.com/item?id=50301479</description>
-</item>
-<item>
-<title>op7418/guizang-ppt-skill — AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social cov</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6060aca47b10</link>
-<guid isPermaLink="false">evt_6060aca47b10</guid>
-<pubDate>Fri, 30 Oct 2026 10:18:26 +0000</pubDate>
-<category>open_source</category>
-<description>AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. · topics: ai-agent, claude-code, codex, html-deck, image-generation, ppt · ⭐ 28,965 · HTML — 来源：github — 原文：https://github.com/op7418/guizang-ppt-skill</description>
-</item>
-<item>
-<title>[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b7dd4a7a685</link>
-<guid isPermaLink="false">evt_9b7dd4a7a685</guid>
-<pubDate>Sat, 31 Oct 2026 05:00:48 +0000</pubDate>
-<category>industry</category>
-<description>It turns out you cannot have your cake AND eat it — 来源：techcrunch_ai · github · hackernews · latent_space — 原文：https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/</description>
-</item>
-<item>
-<title>Gemini 4 Carbon: Our next frontier model</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cca2247626bb</link>
-<guid isPermaLink="false">evt_cca2247626bb</guid>
-<pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：verge_ai · deepmind_blog · latent_space · qbitai · hackernews — 原文：https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</description>
-</item>
-<item>
-<title>Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_031052a3ce45</link>
-<guid isPermaLink="false">evt_031052a3ce45</guid>
-<pubDate>Sat, 31 Oct 2026 15:21:39 +0000</pubDate>
-<category>open_source</category>
-<description>submitted by /u/rottoneuro [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/</description>
 </item>
 </channel>
 </rss>

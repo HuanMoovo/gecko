@@ -5,47 +5,111 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 02 Nov 2026 03:42:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 21:12:50 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>a2aproject/A2A — Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
-<guid isPermaLink="false">evt_408c8d559aaa</guid>
-<pubDate>Mon, 02 Nov 2026 00:45:51 +0000</pubDate>
-<category>agents</category>
-<description>Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. · topics: a2a, a2a-mcp, a2a-protocol, a2a-server, agents, generative-ai · ⭐ 26,383 · Shell — 来源：github · hackernews · simonwillison · latent_space — 原文：https://github.com/a2aproject/A2A</description>
-</item>
-<item>
-<title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
-<category>industry</category>
-<description>Data centers are deeply unpopular. But what if we called them something else? — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</description>
-</item>
 <item>
 <title>dramaclaw/dramaclaw — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games,</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
 <guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Mon, 02 Nov 2026 03:28:25 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 21:02:03 +0000</pubDate>
 <category>open_source</category>
 <description>A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可 · topics: ai-agent, ai-filmmaking, ai-video, aigc, aigc-pipeline, content-creation · ⭐ 6,849 · Python — 来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews · arxiv — 原文：https://github.com/dramaclaw/dramaclaw</description>
 </item>
 <item>
-<title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
-<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Sun, 01 Nov 2026 13:09:55 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/11/507038.html</description>
+<title>Qodo builds context into AI code review with Codex</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
+<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
+<pubDate>Mon, 02 Nov 2026 18:01:30 +0000</pubDate>
+<category>open_source</category>
+<description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews · verge_ai — 原文：https://openai.com/index/qodo-codex-plugin</description>
 </item>
 <item>
-<title>Latent-Lens: Visual Perception in Small Language Models Through Latent Communication</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
-<guid isPermaLink="false">evt_b358f24cec5b</guid>
-<pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+<title>Introducing the Grid Protectors Program</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_19244c7aa206</link>
+<guid isPermaLink="false">evt_19244c7aa206</guid>
+<pubDate>Mon, 02 Nov 2026 20:18:26 +0000</pubDate>
+<category>industry</category>
+<description>OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs. — 来源：openai_blog · reddit_ml — 原文：https://openai.com/index/grid-protectors-program</description>
+</item>
+<item>
+<title>How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0348a8d1ed8c</link>
+<guid isPermaLink="false">evt_0348a8d1ed8c</guid>
+<pubDate>Mon, 02 Nov 2026 17:00:58 +0000</pubDate>
+<category>agents</category>
+<description>Circle K's DevOps team cut incident triage from 45-60 minutes to under 15 by building an agentic triage system on Amazon Bedrock. This post walks through the architecture, the initial Amazon Bedrock Flows implementation, the migration to Amazon Bedrock AgentCore, and the lessons learned from scaling it. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/</description>
+</item>
+<item>
+<title>Anthropic clamps down on Claude’s AI video game clones</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
+<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
+<pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
 <category>foundation_models</category>
-<description>Bridging independent vision-language models (VLMs) and small language models (SLMs) in a modular multi-agent system typically forces them to exchange information as discrete text, which creates a lossy bottleneck for spatial and fine-grained details. This constraint is especially acute for SLMs, whose limited capacity makes them more reliant on the quality of the input signal. Recent latent-communication methods exchange states between language models. How a VLM can pass visual information to a separately pretrained text-only SLM though remains unexplored. We propose \textbf{Latent-Lens}, a li — 来源：verge_ai · reddit_ml · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.41751v1</description>
+<description>Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […] — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</description>
+</item>
+<item>
+<title>Raising the quality of insights in agentic analytics</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
+<guid isPermaLink="false">evt_408c8d559aaa</guid>
+<pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
+<category>agents</category>
+<description>In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate… — 来源：github · hackernews · simonwillison · latent_space · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/</description>
+</item>
+<item>
+<title>LifeVal</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d42fb1eb3362</link>
+<guid isPermaLink="false">evt_d42fb1eb3362</guid>
+<pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+<category>research</category>
+<description>Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork. — 来源：openai_blog · arxiv — 原文：https://openai.com/index/lifeval</description>
+</item>
+<item>
+<title>OpenAI is finally merging ChatGPT’s Chat and Work tabs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
+<guid isPermaLink="false">evt_1f1bc03a707a</guid>
+<pubDate>Mon, 02 Nov 2026 13:57:53 +0000</pubDate>
+<category>foundation_models</category>
+<description>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. — 来源：github · openai_blog · hackernews · techcrunch_ai · reddit_ml — 原文：https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/</description>
+</item>
+<item>
+<title>Edge0/Audio8-TTS-Realistic-Air</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec2191a0861c</link>
+<guid isPermaLink="false">evt_ec2191a0861c</guid>
+<pubDate>Mon, 02 Nov 2026 11:39:15 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-to-speech · 下载 7,259 · 收藏 241 — 来源：huggingface — 原文：https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air</description>
+</item>
+<item>
+<title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
+<guid isPermaLink="false">evt_10659eb70d41</guid>
+<pubDate>Mon, 02 Nov 2026 17:51:19 +0000</pubDate>
+<category>open_source</category>
+<description>The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and […] — 来源：aws_ml · hackernews · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</description>
+</item>
+<item>
+<title>Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fb9ff410aee0</link>
+<guid isPermaLink="false">evt_fb9ff410aee0</guid>
+<pubDate>Mon, 02 Nov 2026 19:36:37 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews · hn_frontpage — 原文：https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</description>
+</item>
+<item>
+<title>顶级AI翻车的活儿，被这个新出的免费国产AI接住了！</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_73e8678c878e</link>
+<guid isPermaLink="false">evt_73e8678c878e</guid>
+<pubDate>Mon, 02 Nov 2026 13:36:41 +0000</pubDate>
+<category>industry</category>
+<description>商汤SenseNova 6.8 Flash — 来源：huggingface · qbitai — 原文：https://www.qbitai.com/2026/11/507277.html</description>
+</item>
+<item>
+<title>The agentic web is here</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_84030884004a</link>
+<guid isPermaLink="false">evt_84030884004a</guid>
+<pubDate>Mon, 02 Nov 2026 09:35:19 +0000</pubDate>
+<category>agents</category>
+<description>In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every… — 来源：arxiv · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/</description>
 </item>
 </channel>
 </rss>

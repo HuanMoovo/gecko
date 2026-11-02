@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 23:15:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 03:42:28 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>a2aproject/A2A — Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
+<guid isPermaLink="false">evt_408c8d559aaa</guid>
+<pubDate>Mon, 02 Nov 2026 00:45:51 +0000</pubDate>
+<category>agents</category>
+<description>Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. · topics: a2a, a2a-mcp, a2a-protocol, a2a-server, agents, generative-ai · ⭐ 26,383 · Shell — 来源：github · hackernews · simonwillison · latent_space — 原文：https://github.com/a2aproject/A2A</description>
+</item>
 <item>
 <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
@@ -14,6 +22,14 @@
 <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
 <category>industry</category>
 <description>Data centers are deeply unpopular. But what if we called them something else? — 来源：qbitai · openai_blog · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</description>
+</item>
+<item>
+<title>dramaclaw/dramaclaw — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games,</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Mon, 02 Nov 2026 03:28:25 +0000</pubDate>
+<category>open_source</category>
+<description>A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可 · topics: ai-agent, ai-filmmaking, ai-video, aigc, aigc-pipeline, content-creation · ⭐ 6,849 · Python — 来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews · arxiv — 原文：https://github.com/dramaclaw/dramaclaw</description>
 </item>
 <item>
 <title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
@@ -24,28 +40,12 @@
 <description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/11/507038.html</description>
 </item>
 <item>
-<title>Muse AI agent is a commercial surveillance network disguised as an AI assistant</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Sun, 01 Nov 2026 18:33:02 +0000</pubDate>
-<category>agents</category>
-<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial</description>
-</item>
-<item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Sun, 01 Nov 2026 16:43:36 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
-</item>
-<item>
-<title>Heretic 2.0 Released: Training-free language model modification</title>
+<title>Latent-Lens: Visual Perception in Small Language Models Through Latent Communication</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
 <guid isPermaLink="false">evt_b358f24cec5b</guid>
 <pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
-<category>open_source</category>
-<description>https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;&lt;p&gt;-p-e-w- Posted this from Reddit.&lt;p&gt;&amp;quot;Dear fellow Llamas,&lt;p&gt;after almost 5 months of development, I finally have the pleasure of announcing to you the immediate availability of the biggest Heretic release ever, Heretic 2.0: https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;heretic&lt;p&gt;Heretic is the leading software for removing censorship from language models. It now boasts 37k GitHub stars and more than 8,500 models on Hugging Face, with 88 million(!!!) total model downloads.&lt;p&gt;With Heretic 2.0, the project is entering a new era. Heretic is expandi — 来源：verge_ai · reddit_ml · hackernews — 原文：https://news.ycombinator.com/item?id=50328567</description>
+<category>foundation_models</category>
+<description>Bridging independent vision-language models (VLMs) and small language models (SLMs) in a modular multi-agent system typically forces them to exchange information as discrete text, which creates a lossy bottleneck for spatial and fine-grained details. This constraint is especially acute for SLMs, whose limited capacity makes them more reliant on the quality of the input signal. Recent latent-communication methods exchange states between language models. How a VLM can pass visual information to a separately pretrained text-only SLM though remains unexplored. We propose \textbf{Latent-Lens}, a li — 来源：verge_ai · reddit_ml · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.41751v1</description>
 </item>
 </channel>
 </rss>

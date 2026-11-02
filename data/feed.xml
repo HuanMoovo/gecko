@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 23:15:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 03:42:28 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>a2aproject/A2A — Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
+<guid isPermaLink="false">evt_408c8d559aaa</guid>
+<pubDate>Mon, 02 Nov 2026 00:45:51 +0000</pubDate>
+<category>agents</category>
+<description>Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. · topics: a2a, a2a-mcp, a2a-protocol, a2a-server, agents, generative-ai · ⭐ 26,383 · Shell — 来源：github · hackernews · simonwillison · latent_space — 原文：https://github.com/a2aproject/A2A</description>
+</item>
 <item>
 <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
@@ -24,6 +32,14 @@
 <description>Hugging Face 模型 · text-to-speech · 下载 4,613 · 收藏 194 — 来源：huggingface — 原文：https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b</description>
 </item>
 <item>
+<title>dramaclaw/dramaclaw — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games,</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
+<guid isPermaLink="false">evt_cc321d7123ab</guid>
+<pubDate>Mon, 02 Nov 2026 03:28:25 +0000</pubDate>
+<category>open_source</category>
+<description>A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可 · topics: ai-agent, ai-filmmaking, ai-video, aigc, aigc-pipeline, content-creation · ⭐ 6,849 · Python — 来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews · arxiv — 原文：https://github.com/dramaclaw/dramaclaw</description>
+</item>
+<item>
 <title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
 <guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
@@ -32,20 +48,20 @@
 <description>来源：hackernews · hn_frontpage · qbitai · arstechnica_ai — 原文：https://www.qbitai.com/2026/11/507038.html</description>
 </item>
 <item>
-<title>Muse AI agent is a commercial surveillance network disguised as an AI assistant</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
-<guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Sun, 01 Nov 2026 18:33:02 +0000</pubDate>
-<category>agents</category>
-<description>来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews — 原文：https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial</description>
+<title>Latent-Lens: Visual Perception in Small Language Models Through Latent Communication</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
+<guid isPermaLink="false">evt_b358f24cec5b</guid>
+<pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
+<category>foundation_models</category>
+<description>Bridging independent vision-language models (VLMs) and small language models (SLMs) in a modular multi-agent system typically forces them to exchange information as discrete text, which creates a lossy bottleneck for spatial and fine-grained details. This constraint is especially acute for SLMs, whose limited capacity makes them more reliant on the quality of the input signal. Recent latent-communication methods exchange states between language models. How a VLM can pass visual information to a separately pretrained text-only SLM though remains unexplored. We propose \textbf{Latent-Lens}, a li — 来源：verge_ai · reddit_ml · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.41751v1</description>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7ca6b100a30f</link>
-<guid isPermaLink="false">evt_7ca6b100a30f</guid>
-<pubDate>Sun, 01 Nov 2026 16:43:36 +0000</pubDate>
-<category>safety</category>
-<description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […] — 来源：techcrunch_ai · verge_ai · qbitai · mit_tr_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</description>
+<title>FusionCow/Sulphur-3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a1819cc8432</link>
+<guid isPermaLink="false">evt_1a1819cc8432</guid>
+<pubDate>Sun, 01 Nov 2026 08:31:40 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · model · 下载 0 · 收藏 98 — 来源：huggingface — 原文：https://huggingface.co/FusionCow/Sulphur-3</description>
 </item>
 <item>
 <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
@@ -56,12 +72,12 @@
 <description>On Equity, we discuss why tech CEO statements can seem so tone deaf. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</description>
 </item>
 <item>
-<title>Heretic 2.0 Released: Training-free language model modification</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b358f24cec5b</link>
-<guid isPermaLink="false">evt_b358f24cec5b</guid>
-<pubDate>Sun, 01 Nov 2026 19:01:42 +0000</pubDate>
-<category>open_source</category>
-<description>https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;&lt;p&gt;-p-e-w- Posted this from Reddit.&lt;p&gt;&amp;quot;Dear fellow Llamas,&lt;p&gt;after almost 5 months of development, I finally have the pleasure of announcing to you the immediate availability of the biggest Heretic release ever, Heretic 2.0: https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;p-e-w&amp;#x2F;heretic&lt;p&gt;Heretic is the leading software for removing censorship from language models. It now boasts 37k GitHub stars and more than 8,500 models on Hugging Face, with 88 million(!!!) total model downloads.&lt;p&gt;With Heretic 2.0, the project is entering a new era. Heretic is expandi — 来源：verge_ai · reddit_ml · hackernews — 原文：https://news.ycombinator.com/item?id=50328567</description>
+<title>UnEZ: A fully unsupervised, directly interpretable neural network [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5d8c4f5d5acb</link>
+<guid isPermaLink="false">evt_5d8c4f5d5acb</guid>
+<pubDate>Mon, 02 Nov 2026 01:40:48 +0000</pubDate>
+<category>research</category>
+<description>Had this paper come up on my arxiv mailing list and wanted to hear your thoughts on it. Bit of a longer read but as far as I can tell it’s similar to an autoencoder but with a directly interpretable latent space rather than an abstract one. Anyone aware of other models that perform in a similar manner? I haven’t seen any models that can train on an unlabeled dataset then output the labels directly so I’d love to hear about any similar architectures you guys have seen? Edit: https://arxiv.org/abs/2610.38816 submitted by /u/hahahahaha369 [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xlkj9m/unez_a_fully_unsupervised_directly_interpretable/</description>
 </item>
 <item>
 <title>三年前布局，今年爆火丨西湖大学成立新中心</title>
@@ -72,12 +88,36 @@
 <description>西湖世界模型研究中心成立 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507076.html</description>
 </item>
 <item>
+<title>AI fan wikis riddled with errors are muddying the waters of games culture</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3200a25c2906</link>
+<guid isPermaLink="false">evt_3200a25c2906</guid>
+<pubDate>Mon, 02 Nov 2026 01:47:07 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</description>
+</item>
+<item>
 <title>Amazon sends chills through its workforce with mixed message memo about AI use</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
 <guid isPermaLink="false">evt_10659eb70d41</guid>
 <pubDate>Sat, 31 Oct 2026 17:21:16 +0000</pubDate>
 <category>industry</category>
 <description>来源：aws_ml · hackernews · techcrunch_ai — 原文：https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804</description>
+</item>
+<item>
+<title>If in doubt, delete the uv.lock file</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7d7291538279</link>
+<guid isPermaLink="false">evt_7d7291538279</guid>
+<pubDate>Sun, 01 Nov 2026 23:24:22 +0000</pubDate>
+<category>open_source</category>
+<description>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories. But... sometimes that uv.lock pins a version of a dependency that doesn't yet have a Python 3.15 wheel. An examp — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</description>
+</item>
+<item>
+<title>In LLM era, can software startup survive?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1b6e5d6b3ae0</link>
+<guid isPermaLink="false">evt_1b6e5d6b3ae0</guid>
+<pubDate>Sun, 01 Nov 2026 23:28:46 +0000</pubDate>
+<category>foundation_models</category>
+<description>Nowadays, vibe coding is everywhere. Turning an idea into software is just matter of tokens. I was joking the other day. Creating a tax return softwar is much faster than purchasing Turbotax at Costco.&lt;p&gt;Large companies still have compute resources and customer bases. For startup, users are expecting open source and free software. Posts of subscription or one-time purchase software on Reddit will get tons of downvotes instantly. — 来源：hackernews — 原文：https://news.ycombinator.com/item?id=50331001</description>
 </item>
 <item>
 <title>清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</title>
@@ -128,6 +168,14 @@
 <description>再次“性价比屠夫” — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/506922.html</description>
 </item>
 <item>
+<title>TRIDENT and SHAKTI: A Framework and Benchmark for Hindi AI-Text Detection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ba9f598a0460</link>
+<guid isPermaLink="false">evt_ba9f598a0460</guid>
+<pubDate>Sun, 01 Nov 2026 10:38:34 +0000</pubDate>
+<category>research</category>
+<description>As Large Language Models (LLMs) become increasingly multilingual, distinguishing human-written from AI-generated text is essential for maintaining information integrity. However, research remains English-centric, with limited benchmarks for low-resource languages such as Hindi. To address this gap, we introduce SHAKTI, a large-scale Hindi benchmark covering four genres, eight LLM families, multiple prompting strategies, and adversarial transformations. We evaluate its quality through human annotation and analyze linguistic, grammatical, and sentiment-based differences between human- and AI-gen — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2610.41232v1</description>
+</item>
+<item>
 <title>It wasn't AI that flipped Proton's charge</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4b795773d113</link>
 <guid isPermaLink="false">evt_4b795773d113</guid>
@@ -150,6 +198,14 @@
 <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
 <category>foundation_models</category>
 <description>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</description>
+</item>
+<item>
+<title>Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_169aca9d9c2a</link>
+<guid isPermaLink="false">evt_169aca9d9c2a</guid>
+<pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
+<category>research</category>
+<description>Gating mechanisms allow a fixed neural network to adapt its computation to the current input by dynamically modulating its effective parameters. In the brain, neuromodulation uses this principle to move neural circuits between dynamical regimes, and deep learning exploits input-dependent gating, e.g., in gated recurrent networks and self-attention. Input-dependent modulation has also recently been shown to improve spiking neural networks, with particularly strong benefits in small, parameter-limited ones. This makes neuromodulation especially promising for neuromorphic processors at the edge,  — 来源：verge_ai · hackernews · arxiv — 原文：https://arxiv.org/abs/2610.41265v1</description>
 </item>
 <item>
 <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
@@ -200,14 +256,6 @@
 <description>Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</description>
 </item>
 <item>
-<title>LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ba9f598a0460</link>
-<guid isPermaLink="false">evt_ba9f598a0460</guid>
-<pubDate>Sun, 01 Nov 2026 10:38:34 +0000</pubDate>
-<category>research</category>
-<description>I'm an undergraduate researcher working independently on conversational memory systems. I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the course of an evolving conversation. Instead of relying only on isolated endpoint questions, LSREP combines chronological replay, lifecycle schedules, repeated probes, evolving reference answers and mechanism-fidelity checks. The accompanying architectural case study is ICE v2, a local-first conversational memory system. The evaluation covers 1,985 turns, 219 distinct probes and 1,211 probe-checkpoint  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/</description>
-</item>
-<item>
 <title>Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_3dcfe747ba6c</link>
 <guid isPermaLink="false">evt_3dcfe747ba6c</guid>
@@ -232,14 +280,6 @@
 <description>Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […] — 来源：verge_ai — 原文：https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</description>
 </item>
 <item>
-<title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c0520e5732d</link>
-<guid isPermaLink="false">evt_3c0520e5732d</guid>
-<pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
-<category>industry</category>
-<description>Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: "A lot of people want […] — 来源：qbitai · reddit_ml · hackernews · arxiv · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</description>
-</item>
-<item>
 <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_bf30529fb59d</link>
 <guid isPermaLink="false">evt_bf30529fb59d</guid>
@@ -254,14 +294,6 @@
 <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
 <category>foundation_models</category>
 <description>Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent — 来源：openai_blog · simonwillison — 原文：https://simonwillison.net/2026/Oct/31/datasette-llm/</description>
-</item>
-<item>
-<title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_169aca9d9c2a</link>
-<guid isPermaLink="false">evt_169aca9d9c2a</guid>
-<pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
-<category>generative</category>
-<description>&lt;a href="https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;2025&amp;#x2F;01&amp;#x2F;lee_2025_ai_critical_thinking_survey.pdf" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;www.microsoft.com&amp;#x2F;en-us&amp;#x2F;research&amp;#x2F;wp-content&amp;#x2F;uploads&amp;#x2F;...&lt;/a&gt; — 来源：verge_ai · hackernews — 原文：https://dl.acm.org/doi/full/10.1145/3706598.3713778</description>
 </item>
 <item>
 <title>The AI cost of JavaScript frameworks</title>
@@ -296,12 +328,12 @@
 <description>AI已经自己找到Bug并提交PR — 来源：qbitai — 原文：https://www.qbitai.com/2026/10/506904.html</description>
 </item>
 <item>
-<title>Chinese markets lose trillions as race for AI supremacy with US takes its toll</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_499f931ef699</link>
-<guid isPermaLink="false">evt_499f931ef699</guid>
-<pubDate>Sun, 01 Nov 2026 03:27:55 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing</description>
+<title>TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d957b57aa1e6</link>
+<guid isPermaLink="false">evt_d957b57aa1e6</guid>
+<pubDate>Fri, 30 Oct 2026 03:53:42 +0000</pubDate>
+<category>research</category>
+<description>Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inference compute cost? We present TinyAstral, a two-stage approach. We first freeze an open-weight teacher and improve its harness through recursive self-improvement (RSI): frontier LLM agents read the teacher's trajectories and propose harness edits, and each edit is accepted only if it passes a paired statistical test. We then freeze the final harness, colle — 来源：simonwillison · aws_ml · arxiv — 原文：https://arxiv.org/abs/2610.41216v1</description>
 </item>
 <item>
 <title>From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence</title>
@@ -310,6 +342,14 @@
 <pubDate>Fri, 30 Oct 2026 13:05:28 +0000</pubDate>
 <category>research</category>
 <description>Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research . — 来源：verge_ai · microsoft_research — 原文：https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/</description>
+</item>
+<item>
+<title>Chinese markets lose trillions as race for AI supremacy with US takes its toll</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_499f931ef699</link>
+<guid isPermaLink="false">evt_499f931ef699</guid>
+<pubDate>Sun, 01 Nov 2026 03:27:55 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing</description>
 </item>
 <item>
 <title>Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals</title>
@@ -366,46 +406,6 @@
 <pubDate>Sat, 31 Oct 2026 23:34:14 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what</description>
-</item>
-<item>
-<title>Making it easier for websites to express AI training preferences</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_52ced88a57d9</link>
-<guid isPermaLink="false">evt_52ced88a57d9</guid>
-<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
-<category>infrastructure</category>
-<description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers. — 来源：simonwillison · openai_blog — 原文：https://openai.com/index/helping-websites-express-ai-training-preferences</description>
-</item>
-<item>
-<title>Computer Science Programs Lose Students as AI Replaces Jobs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d306b8dbe428</link>
-<guid isPermaLink="false">evt_d306b8dbe428</guid>
-<pubDate>Sat, 31 Oct 2026 22:57:27 +0000</pubDate>
-<category>science</category>
-<description>来源：hackernews — 原文：https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs</description>
-</item>
-<item>
-<title>LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b97b35d7a87</link>
-<guid isPermaLink="false">evt_8b97b35d7a87</guid>
-<pubDate>Fri, 30 Oct 2026 14:58:06 +0000</pubDate>
-<category>research</category>
-<description>Deep learning models for whole-body positron emission tomography/computed tomography (PET/CT) hold significant clinical potential for disease detection, treatment planning, and response assessment. However, the time and cost associated with expert annotations remain major bottlenecks in developing robust and generalizable models. Although self-supervised learning (SSL) has emerged as a promising approach to mitigating annotation scarcity, its application to whole-body PET/CT remains relatively underexplored due to the limited availability of large-scale datasets and the challenges associated w — 来源：mit_tr_ai · arxiv · techcrunch_ai · verge_ai — 原文：https://arxiv.org/abs/2610.40284v1</description>
-</item>
-<item>
-<title>Agents Prompt People: Using Agents for Long-Horizon Financial Work</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
-<guid isPermaLink="false">evt_408c8d559aaa</guid>
-<pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
-<category>agents</category>
-<description>Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days. — 来源：github · hackernews · simonwillison · latent_space — 原文：https://latent.space/p/arca/</description>
-</item>
-<item>
-<title>AI text watermarking and quality loss</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_567c750dad41</link>
-<guid isPermaLink="false">evt_567c750dad41</guid>
-<pubDate>Sat, 31 Oct 2026 21:50:13 +0000</pubDate>
-<category>industry</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://blog.keyvan.net/p/ai-text-watermarking-and-quality</description>
 </item>
 </channel>
 </rss>

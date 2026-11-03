@@ -5,15 +5,103 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 03 Nov 2026 15:39:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 21:23:30 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>dramaclaw/dramaclaw — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games,</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
 <guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Tue, 03 Nov 2026 10:43:41 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 20:40:14 +0000</pubDate>
 <category>open_source</category>
 <description>A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可 · topics: ai-agent, ai-filmmaking, ai-video, aigc, aigc-pipeline, content-creation · ⭐ 6,849 · Python — 来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews · arxiv — 原文：https://github.com/dramaclaw/dramaclaw</description>
+</item>
+<item>
+<title>Learn the rules: The hacker mindset</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_169aca9d9c2a</link>
+<guid isPermaLink="false">evt_169aca9d9c2a</guid>
+<pubDate>Tue, 03 Nov 2026 17:14:38 +0000</pubDate>
+<category>research</category>
+<description>Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on Microsoft Research . — 来源：verge_ai · hackernews · arxiv · microsoft_research · arstechnica_ai — 原文：https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/</description>
+</item>
+<item>
+<title>Google is entirely disabling Search in schools that don’t want AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6df21e5a1561</link>
+<guid isPermaLink="false">evt_6df21e5a1561</guid>
+<pubDate>Tue, 03 Nov 2026 20:42:44 +0000</pubDate>
+<category>foundation_models</category>
+<description>Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search "will be entirely off" for K-12 student accounts […] — 来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</description>
+</item>
+<item>
+<title>AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bf30529fb59d</link>
+<guid isPermaLink="false">evt_bf30529fb59d</guid>
+<pubDate>Tue, 03 Nov 2026 16:00:45 +0000</pubDate>
+<category>infrastructure</category>
+<description>Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […] — 来源：nvidia_blog · huggingface · techcrunch_ai · hn_frontpage — 原文：https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</description>
+</item>
+<item>
+<title>How Cisco defends at machine speed with OpenAI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7467194f96f4</link>
+<guid isPermaLink="false">evt_7467194f96f4</guid>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses. — 来源：qbitai · openai_blog · hackernews — 原文：https://openai.com/index/cisco-cyber</description>
+</item>
+<item>
+<title>Indie games are missing launch dates because Steam is backed up</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1473410078e2</link>
+<guid isPermaLink="false">evt_1473410078e2</guid>
+<pubDate>Tue, 03 Nov 2026 18:14:50 +0000</pubDate>
+<category>industry</category>
+<description>Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […] — 来源：huggingface · verge_ai — 原文：https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates</description>
+</item>
+<item>
+<title>Agentic cheminformatics with Google Antigravity</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c1d5df7fdedb</link>
+<guid isPermaLink="false">evt_c1d5df7fdedb</guid>
+<pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
+<category>agents</category>
+<description>Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles. — 来源：microsoft_research · github · deepmind_blog — 原文：https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</description>
+</item>
+<item>
+<title>StateBench: Testing how language models track state changes over long documents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
+<guid isPermaLink="false">evt_a55665cf4895</guid>
+<pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/statebench</description>
+</item>
+<item>
+<title>ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_841c3ce16d85</link>
+<guid isPermaLink="false">evt_841c3ce16d85</guid>
+<pubDate>Tue, 03 Nov 2026 16:49:29 +0000</pubDate>
+<category>agents</category>
+<description>Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/</description>
+</item>
+<item>
+<title>Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3e4765c6fd3b</link>
+<guid isPermaLink="false">evt_3e4765c6fd3b</guid>
+<pubDate>Tue, 03 Nov 2026 16:41:13 +0000</pubDate>
+<category>agents</category>
+<description>Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/</description>
+</item>
+<item>
+<title>Building ultra-low-latency voice AI applications on AWS</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e466f624af7d</link>
+<guid isPermaLink="false">evt_e466f624af7d</guid>
+<pubDate>Tue, 03 Nov 2026 16:40:54 +0000</pubDate>
+<category>generative</category>
+<description>Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/</description>
+</item>
+<item>
+<title>Introducing India-based inference for Kimi K3 on Amazon Bedrock</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_020b7910e3b4</link>
+<guid isPermaLink="false">evt_020b7910e3b4</guid>
+<pubDate>Tue, 03 Nov 2026 16:32:54 +0000</pubDate>
+<category>infrastructure</category>
+<description>Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global and geographic cross-Region inference options and shares example code for reading and understanding Indic-language documents with Kimi K3. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/</description>
 </item>
 <item>
 <title>OpenAI is quietly renaming data centers ‘compute campuses’</title>
@@ -32,12 +120,28 @@
 <description>Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a […] — 来源：hackernews · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</description>
 </item>
 <item>
-<title>Rewarding defenders with bigger bug bounties</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7467194f96f4</link>
-<guid isPermaLink="false">evt_7467194f96f4</guid>
-<pubDate>Tue, 03 Nov 2026 01:46:55 +0000</pubDate>
+<title>PanoTac: A Dense Three-Axis Tactile Sensor for Robust Touch-Centric Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_68094f79c471</link>
+<guid isPermaLink="false">evt_68094f79c471</guid>
+<pubDate>Tue, 03 Nov 2026 21:05:55 +0000</pubDate>
 <category>research</category>
-<description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers. — 来源：qbitai · openai_blog · hackernews — 原文：https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</description>
+<description>Contact-rich manipulation benefits from tactile feedback that captures both detailed contact geometry and interaction forces. When scooping grains, contact patterns help infer spoon orientation, while resistance transmitted through the grasp guides motion. To provide these complementary sensing capabilities, we present PanoTac, a low-cost, compliant tactile fingertip designed for dense three-axis tactile sensing. Each fingertip provides a $12 \times 32 \times 3$ tactile representation, with one normal ($z$) and two shear ($x$, $y$) response components at each taxel. The sensor operates at 60 H — 来源：arxiv · techcrunch_ai — 原文：https://arxiv.org/abs/2611.03520v1</description>
+</item>
+<item>
+<title>Accelerating engineering for the physical world</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_eece3470089f</link>
+<guid isPermaLink="false">evt_eece3470089f</guid>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world. — 来源：github · openai_blog — 原文：https://openai.com/index/accelerating-engineering-for-the-physical-world</description>
+</item>
+<item>
+<title>Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_373b16b29a9b</link>
+<guid isPermaLink="false">evt_373b16b29a9b</guid>
+<pubDate>Tue, 03 Nov 2026 18:31:00 +0000</pubDate>
+<category>industry</category>
+<description>Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses "ambient listening" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […] — 来源：github · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</description>
 </item>
 <item>
 <title>ccore/Qwen3.5-4B-GLB-3D-Coder</title>
@@ -48,12 +152,36 @@
 <description>Hugging Face 模型 · text-generation · 下载 5,224 · 收藏 108 — 来源：arxiv · huggingface — 原文：https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder</description>
 </item>
 <item>
-<title>Heimstaden is changing residential real estate management with AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_eece3470089f</link>
-<guid isPermaLink="false">evt_eece3470089f</guid>
-<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<title>Apple starts giving Siri AI access to third-party apps</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_968f14d53faf</link>
+<guid isPermaLink="false">evt_968f14d53faf</guid>
+<pubDate>Tue, 03 Nov 2026 20:16:17 +0000</pubDate>
+<category>industry</category>
+<description>Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in "all apps," allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to […] — 来源：techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</description>
+</item>
+<item>
+<title>OpenAI says ChatGPT is catching up to Google in search</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
+<guid isPermaLink="false">evt_1f1bc03a707a</guid>
+<pubDate>Tue, 03 Nov 2026 18:30:42 +0000</pubDate>
 <category>foundation_models</category>
-<description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe. — 来源：github · openai_blog — 原文：https://openai.com/index/heimstaden</description>
+<description>In many circles, "Ask Chat" has replaced "Google it," and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […] — 来源：github · openai_blog · hackernews · techcrunch_ai · reddit_ml · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</description>
+</item>
+<item>
+<title>AI inference startup Fal doubles its valuation to $16B as demand surges</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_42ec3b43220b</link>
+<guid isPermaLink="false">evt_42ec3b43220b</guid>
+<pubDate>Tue, 03 Nov 2026 19:34:43 +0000</pubDate>
+<category>infrastructure</category>
+<description>The five-year-old startup raised a $1.3 billion round led by Bessemer. — 来源：techcrunch_ai · reddit_ml — 原文：https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</description>
+</item>
+<item>
+<title>Anthropic clamps down on Claude’s AI video game clones</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
+<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
+<pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
+<category>foundation_models</category>
+<description>Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […] — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai · verge_ai · arxiv — 原文：https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</description>
 </item>
 <item>
 <title>Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI</title>
@@ -64,6 +192,14 @@
 <description>Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/</description>
 </item>
 <item>
+<title>Mesh-Agnostic Refinement Models for Latent Space Encoding of 3D Human Body Shapes</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4f46fbdb55c4</link>
+<guid isPermaLink="false">evt_4f46fbdb55c4</guid>
+<pubDate>Mon, 02 Nov 2026 19:25:43 +0000</pubDate>
+<category>research</category>
+<description>Parametric human body models such as the Skinned Multi-Person Linear (SMPL) model provide compact representations of human shape and pose, but their reconstructions remain affected by both errors in estimated latent parameters and limitations in the decoder's expressive capacity. We propose a framework for refining these reconstructions by exploiting the geometric discrepancy between an initial decoded surface and a target mesh, without requiring vertex correspondences between them. The framework comprises three complementary approaches. Latent-VaRefine uses varifold-distance gradients to corr — 来源：github · arxiv — 原文：https://arxiv.org/abs/2611.03285v1</description>
+</item>
+<item>
 <title>[Dataset] PentesterFlow/OffsecCyber</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_070ca9ed6a00</link>
 <guid isPermaLink="false">evt_070ca9ed6a00</guid>
@@ -72,12 +208,12 @@
 <description>Hugging Face 数据集 · 下载 0 · 收藏 23 — 来源：huggingface — 原文：https://huggingface.co/datasets/PentesterFlow/OffsecCyber</description>
 </item>
 <item>
-<title>LiquidAI/d1-Omni-2B</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1473410078e2</link>
-<guid isPermaLink="false">evt_1473410078e2</guid>
-<pubDate>Tue, 03 Nov 2026 07:42:25 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · audio-text-to-text · 下载 2,235 · 收藏 89 — 来源：huggingface — 原文：https://huggingface.co/LiquidAI/d1-Omni-2B</description>
+<title>A new, open-weights 278M PII detection model and reference benchmark [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ca223044b496</link>
+<guid isPermaLink="false">evt_ca223044b496</guid>
+<pubDate>Tue, 03 Nov 2026 19:29:54 +0000</pubDate>
+<category>research</category>
+<description>Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII. The benchmark, PII-SCOPE (Synthetic Context and Ontology for PII Extraction), was built to address common issues in public LLM-generated datasets and is on Hugging Face too. The model and script identify instances of PII based on surrounding context, and then return the index and type of each instance. Alternatively, it can return the input with all PII redacted. Technical report (resea — 来源：reddit_ml · arxiv — 原文：https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/</description>
 </item>
 <item>
 <title>LiquidAI/LFM3-1.7B-Base</title>
@@ -88,6 +224,30 @@
 <description>Hugging Face 模型 · text-generation · 下载 5,266 · 收藏 139 — 来源：huggingface — 原文：https://huggingface.co/LiquidAI/LFM3-1.7B-Base</description>
 </item>
 <item>
+<title>Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_16a04cf8b747</link>
+<guid isPermaLink="false">evt_16a04cf8b747</guid>
+<pubDate>Tue, 03 Nov 2026 07:46:36 +0000</pubDate>
+<category>agents</category>
+<description>Personal AI agents are increasingly capable of handling long-horizon tasks across applications, yet users often need to invest substantial effort in specifying goals, resolving ambiguity, and verifying outcomes. We argue that progress should be measured by how effectively agents amplify human agency: enabling people to pursue their goals with less routine supervision while retaining control over consequential decisions. We advocate Avatar Intelligence, a paradigm of persistent personal agents that represent users' goals, values, and constraints through sustained decision delegation across cont — 来源：hn_frontpage · hackernews · arxiv — 原文：https://arxiv.org/abs/2611.03092v1</description>
+</item>
+<item>
+<title>Those Jeff Bezos hair transplant photos are very fake</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_298f7ab4fa1c</link>
+<guid isPermaLink="false">evt_298f7ab4fa1c</guid>
+<pubDate>Tue, 03 Nov 2026 21:01:07 +0000</pubDate>
+<category>industry</category>
+<description>Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</description>
+</item>
+<item>
+<title>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3d509e27bae2</link>
+<guid isPermaLink="false">evt_3d509e27bae2</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning. — 来源：openai_blog — 原文：https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</description>
+</item>
+<item>
 <title>Transformers Model Integration Contracts</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_fec0e46ceba4</link>
 <guid isPermaLink="false">evt_fec0e46ceba4</guid>
@@ -96,12 +256,76 @@
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/transformers-mic</description>
 </item>
 <item>
+<title>CWE-bench v2: More coverage, quality, and transparency</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_20954e3ac0ff</link>
+<guid isPermaLink="false">evt_20954e3ac0ff</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<category>industry</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/cwe-bench</description>
+</item>
+<item>
+<title>Positive Safety Margins from Artificial Potential Field Reward Augmentation for Size-Robust Obstacle Avoidance under Partial Observability</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fd54443238a</link>
+<guid isPermaLink="false">evt_9fd54443238a</guid>
+<pubDate>Mon, 02 Nov 2026 23:13:53 +0000</pubDate>
+<category>research</category>
+<description>Collision-free reaching is central to manipulation, yet real cells often leave the size and exact position of an obstacle unobserved, which excludes reinforcement learning controllers that take obstacle geometry as input. A reward limited to a collision penalty does not depend on the clearance outside the obstacle, so under a step cost its learned policy skims the obstacle surface and fails once the obstacle radius exceeds its training value. We investigate whether a single analytic reward term can induce a safety margin without exposing the obstacle to the policy. We augment the reward of a s — 来源：verge_ai · arxiv · techcrunch_ai · hn_frontpage — 原文：https://arxiv.org/abs/2611.02947v1</description>
+</item>
+<item>
 <title>Bg-Mix: On Using Image Backgrounds for Data Augmentation in Electron Microscopy Images</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5bf98f75d81a</link>
 <guid isPermaLink="false">evt_5bf98f75d81a</guid>
 <pubDate>Tue, 03 Nov 2026 09:53:58 +0000</pubDate>
 <category>research</category>
 <description>Electron microscopy (EM) serves as a cornerstone in virology enabling the visualization of viral particles and is widely used in research, diagnostics and morphological characterization of pathogens. Computer-assisted image analysis can help facilitate and speed up this labor-intensive method, however, typical EM virus datasets are small and sparsely labeled, resulting in a lack of readily available deep learning models due to training limitations. To overcome data shortages and leverage content-rich, diverse sample backgrounds, we employed background-based data augmentation. To this end, we p — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.03455v1</description>
+</item>
+<item>
+<title>Benchmark Prediction with Sparse and Unpaired Cached Responses</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cc4c653b0fae</link>
+<guid isPermaLink="false">evt_cc4c653b0fae</guid>
+<pubDate>Tue, 03 Nov 2026 05:09:18 +0000</pubDate>
+<category>research</category>
+<description>Evaluating a generative model on all queries from all available benchmark tasks is prohibitively expensive. As such, models are often evaluated on different subsets of tasks and/or different subsets of queries from a given task. The resulting collection of responses and the corresponding (model, task) score matrix are sparse and unpaired. In this paper, we introduce the Product Kernel Perspective Space (PKPS), a collection of low-dimensional representations of models based on their embedded responses. PKPS generalizes existing methods for representing black-box generative models by comparing r — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2611.03614v1</description>
+</item>
+<item>
+<title>Netflix’s new AI Discover tab helps you find something to watch based on your mood</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_36315b3cb5b6</link>
+<guid isPermaLink="false">evt_36315b3cb5b6</guid>
+<pubDate>Tue, 03 Nov 2026 18:42:16 +0000</pubDate>
+<category>industry</category>
+<description>The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/</description>
+</item>
+<item>
+<title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_41298b9a76b6</link>
+<guid isPermaLink="false">evt_41298b9a76b6</guid>
+<pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Netflix's TV app is getting a new "AI Discover" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like "Something Light," "Family Movie Night," or "Quick Watches." When you pick a theme, Netflix will show […] — 来源：verge_ai — 原文：https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</description>
+</item>
+<item>
+<title>Anthropic is still grappling with the economics of compute</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a4abd1e2a1c1</link>
+<guid isPermaLink="false">evt_a4abd1e2a1c1</guid>
+<pubDate>Tue, 03 Nov 2026 17:07:01 +0000</pubDate>
+<category>industry</category>
+<description>At a moment when Anthropic's compute margins should be getting better, they’re getting worse. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</description>
+</item>
+<item>
+<title>Midterm elections 2026: all the news</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dc28833f4985</link>
+<guid isPermaLink="false">evt_dc28833f4985</guid>
+<pubDate>Tue, 03 Nov 2026 15:58:39 +0000</pubDate>
+<category>industry</category>
+<description>The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that […] — 来源：verge_ai — 原文：https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news</description>
+</item>
+<item>
+<title>AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5315415b782a</link>
+<guid isPermaLink="false">evt_5315415b782a</guid>
+<pubDate>Mon, 02 Nov 2026 18:52:17 +0000</pubDate>
+<category>research</category>
+<description>Most image-based 3D reconstructors primarily recover visible surfaces, producing partial point clouds with large holes and leaving unobserved geometry unresolved. To address this limitation, we introduce AnchorComplete, a framework that reconstructs complete scene meshes from partial point clouds while preserving observed geometry and supporting scenes of varying scales. Building on TRELLIS.2, our method combines partial-point conditioning, which integrates global scene tokens with local spatial evidence to anchor generation to the input, and metric-scale coarse-to-fine generation, which progr — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.03228v1</description>
 </item>
 <item>
 <title>October sponsors-only newsletter</title>
@@ -176,236 +400,12 @@
 <description>AI接管调度运营，仓库越干越聪明 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507507.html</description>
 </item>
 <item>
-<title>Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3e4765c6fd3b</link>
-<guid isPermaLink="false">evt_3e4765c6fd3b</guid>
-<pubDate>Mon, 02 Nov 2026 17:01:16 +0000</pubDate>
-<category>agents</category>
-<description>Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/</description>
-</item>
-<item>
 <title>Build efficient agents with knowledge distillation on Amazon SageMaker AI</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_80e2565f9f27</link>
 <guid isPermaLink="false">evt_80e2565f9f27</guid>
 <pubDate>Mon, 02 Nov 2026 17:01:31 +0000</pubDate>
 <category>agents</category>
 <description>Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-cost student on Amazon SageMaker AI. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/</description>
-</item>
-<item>
-<title>Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ca223044b496</link>
-<guid isPermaLink="false">evt_ca223044b496</guid>
-<pubDate>Mon, 02 Nov 2026 19:00:24 +0000</pubDate>
-<category>research</category>
-<description>We release all 3,718 episodes from the ArmnetBench v0.1 evaluation (arXiv:2607.24481), which contains 600 teleoperated demonstrations and 3,118 rollouts of seven imitation-learning and vision-language-action policies on 12 tabletop tasks, recorded on low-cost SO-101 arms; 73% of the rollouts are failures. Every policy for a task was trained or fine-tuned on the same 50 demonstrations and rolled out on the same cell, so the corpus contains many policies' failures on shared tasks. An operator labelled every rollout successful, suboptimal or failure. Each episode has three camera views, joint sta — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.03168v1</description>
-</item>
-<item>
-<title>智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_675611f98550</link>
-<guid isPermaLink="false">evt_675611f98550</guid>
-<pubDate>Tue, 03 Nov 2026 12:57:35 +0000</pubDate>
-<category>industry</category>
-<description>两位CTO，关起门来吵架 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507473.html</description>
-</item>
-<item>
-<title>[AINews] LLMs can read &amp; write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_360a3a5d8e13</link>
-<guid isPermaLink="false">evt_360a3a5d8e13</guid>
-<pubDate>Tue, 03 Nov 2026 12:21:17 +0000</pubDate>
-<category>research</category>
-<description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark. — 来源：latent_space · hn_frontpage — 原文：https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</description>
-</item>
-<item>
-<title>Anthropic clamps down on Claude’s AI video game clones</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f6f8b2b4e14</link>
-<guid isPermaLink="false">evt_7f6f8b2b4e14</guid>
-<pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
-<category>foundation_models</category>
-<description>Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […] — 来源：hackernews · hn_frontpage · qbitai · arstechnica_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</description>
-</item>
-<item>
-<title>Raising the quality of insights in agentic analytics</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_408c8d559aaa</link>
-<guid isPermaLink="false">evt_408c8d559aaa</guid>
-<pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
-<category>agents</category>
-<description>In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate… — 来源：github · hackernews · simonwillison · latent_space · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/</description>
-</item>
-<item>
-<title>模型谁都买得到，拉开差距的是AI生产力系统</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_417500adf7ec</link>
-<guid isPermaLink="false">evt_417500adf7ec</guid>
-<pubDate>Tue, 03 Nov 2026 11:13:49 +0000</pubDate>
-<category>industry</category>
-<description>AI的下一程是生产力系统之争 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/507448.html</description>
-</item>
-<item>
-<title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_52ced88a57d9</link>
-<guid isPermaLink="false">evt_52ced88a57d9</guid>
-<pubDate>Tue, 03 Nov 2026 14:53:41 +0000</pubDate>
-<category>infrastructure</category>
-<description>Comments — 来源：simonwillison · openai_blog · reddit_ml · hn_frontpage — 原文：https://news.ycombinator.com/item?id=50352757</description>
-</item>
-<item>
-<title>Lightricks/LTX-Video — Official repository for LTX-Video</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4f46fbdb55c4</link>
-<guid isPermaLink="false">evt_4f46fbdb55c4</guid>
-<pubDate>Mon, 02 Nov 2026 19:25:43 +0000</pubDate>
-<category>open_source</category>
-<description>Official repository for LTX-Video · topics: diffusion-models, dit, image-to-video, image-to-video-generation, text-to-video, text-to-video-generation · ⭐ 11,281 · Python — 来源：github — 原文：https://github.com/Lightricks/LTX-Video</description>
-</item>
-<item>
-<title>EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d1aa20a05a40</link>
-<guid isPermaLink="false">evt_d1aa20a05a40</guid>
-<pubDate>Mon, 02 Nov 2026 18:59:29 +0000</pubDate>
-<category>research</category>
-<description>Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain limited in action atomicity, temporal precision, and hand-action association. We introduce EgoActionBench, a benchmark that represents continuous human manipulation as temporally localized atomic actions associated with the left hand, right hand, or both hands. EgoActionBench contains 1,407 episodes with 41,132 human-refined action annotations. To evaluate such dense predictions — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03646v1</description>
-</item>
-<item>
-<title>From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6201edb55449</link>
-<guid isPermaLink="false">evt_6201edb55449</guid>
-<pubDate>Mon, 02 Nov 2026 18:58:21 +0000</pubDate>
-<category>research</category>
-<description>Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logical reasoning problems and lack the determinism, soundness, and reliability characteristic of symbolic reasoning systems. Conversely, classical symbolic methods such as SAT solving and exact cover guarantee correctness and completeness, but require problems to be expressed in highly specialized formal — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03641v1</description>
-</item>
-<item>
-<title>Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b82a6ac52f6c</link>
-<guid isPermaLink="false">evt_b82a6ac52f6c</guid>
-<pubDate>Mon, 02 Nov 2026 18:59:32 +0000</pubDate>
-<category>robotics</category>
-<description>General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, creating mismatches that limit the capabilities of the complete system. We present Pixel, a co-designed full-stack system for learning general-purpose mobile manipulation. Pixel combines a low-cost wheeled humanoid with human-aligned kinematics and compliant grippers, multiple teleoperation and robot-free human data-collection interfaces, a unified whole-body — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03648v1</description>
-</item>
-<item>
-<title>Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1d59b299e0e5</link>
-<guid isPermaLink="false">evt_1d59b299e0e5</guid>
-<pubDate>Mon, 02 Nov 2026 18:53:54 +0000</pubDate>
-<category>research</category>
-<description>Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reasoning strategies. We study this question with a controllable equation-solving framework: finding multiple inputs x for equations f(x)=y, where f is a non-bijective string function. This setting makes reasoning strategies observable while supporting a clear definition of easy-to-hard out-of-distribution (OOD) shifts, e.g., more solutions, longer y, etc. We uncover a subtle RLVR failure: it teaches t — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03627v1</description>
-</item>
-<item>
-<title>Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_644e21115bba</link>
-<guid isPermaLink="false">evt_644e21115bba</guid>
-<pubDate>Mon, 02 Nov 2026 18:53:46 +0000</pubDate>
-<category>research</category>
-<description>We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other applications. The platform combines reusable environment and character assets with Unreal Engine plugins in a two-stage workflow. First, world simulation generates gameplay while recording the world state, character movements, actions, and camera tracks needed for replay. Second, the recorded simulation is replayed to capture selected outputs, such as rendered video, images, and depth maps, at a s — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03626v1</description>
-</item>
-<item>
-<title>Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f7f3ba1729d</link>
-<guid isPermaLink="false">evt_7f7f3ba1729d</guid>
-<pubDate>Mon, 02 Nov 2026 18:56:43 +0000</pubDate>
-<category>research</category>
-<description>Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this paper, we study the downstream behavior of Muon and AdamW and uncover a surprising trend: beyond a sufficiently large pretraining data budget, AdamW outperforms Muon after fine-tuning. Moreover, as model size increases, AdamW overtakes Muon at progressively smaller pretraining token-parameter ratios. To explain this reversal, we view fine-tuning as a pertur — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03633v1</description>
-</item>
-<item>
-<title>Strategist: Evolving Reasoning with Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4eeed34b9045</link>
-<guid isPermaLink="false">evt_4eeed34b9045</guid>
-<pubDate>Mon, 02 Nov 2026 18:51:04 +0000</pubDate>
-<category>research</category>
-<description>A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agent that evolves inference strategies across tasks. Each strategy is written as a blueprint,executable code that other strategies can reuse, and together the blueprints form a library. Given a task and a small development set, Strategist retrieves related blueprints, writes candidate strategies, tests — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03618v1</description>
-</item>
-<item>
-<title>Tracing the Scientific Discovery Capacity of LLMs to Their Training Data</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a32a8668f43</link>
-<guid isPermaLink="false">evt_8a32a8668f43</guid>
-<pubDate>Mon, 02 Nov 2026 18:50:54 +0000</pubDate>
-<category>foundation_models</category>
-<description>Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training data? We study this question as one of missing probability mass and develop a theoretical account in which monofacts-the facts observed once during training-set the discovery capacity. In materials science and regulatory genomics, we directly manipulate monofact rates in training sets and find that more monofacts consistently yield more discoveries across two open-weight model f — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03617v1</description>
-</item>
-<item>
-<title>FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fffcaac1cb7a</link>
-<guid isPermaLink="false">evt_fffcaac1cb7a</guid>
-<pubDate>Mon, 02 Nov 2026 18:53:23 +0000</pubDate>
-<category>research</category>
-<description>Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn generation budget without moving the policy. Adaptive schedulers try to steer rollouts toward informative prompts, yet they rely on per-prompt pass-rate trackers that entangle two quantities evolving at very different speeds---the policy's shifting competence across reasoning skills and each prompt's intrinsic difficulty. When a single exponential average or Beta counter tracks both at once, short me — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03625v1</description>
-</item>
-<item>
-<title>Nonparametric Intensity Estimation for Covariate-Driven Poisson Processes Using Deep Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8861851d387</link>
-<guid isPermaLink="false">evt_a8861851d387</guid>
-<pubDate>Mon, 02 Nov 2026 18:14:21 +0000</pubDate>
-<category>research</category>
-<description>We consider nonparametric maximum likelihood estimation of the intensity function of a Poisson process, allowing the intensity to depend on observed covariates. Such models describe how event rates vary with external conditions, including conditions under which the intensity becomes arbitrarily small or vanishes. However, risk analysis based on the Kullback-Leibler (KL) divergence typically requires the true intensity to be bounded away from zero, a restrictive assumption in applications. We develop a unified approach that avoids this assumption and derive an oracle inequality for the covariat — 来源：qbitai · arxiv — 原文：https://arxiv.org/abs/2611.03552v1</description>
-</item>
-<item>
-<title>D&amp;A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_15af83148962</link>
-<guid isPermaLink="false">evt_15af83148962</guid>
-<pubDate>Mon, 02 Nov 2026 18:52:11 +0000</pubDate>
-<category>research</category>
-<description>Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions due to implicit success assumptions or relative temporal ranking designs. Naive prompting of frontier models collapses into a binary success detector that fails to capture nuanced, non-linear progress and failures. While post-training approaches can mitigate this through explicit training, they demand expensive real-world robotics data and require computationally intensive post-tr — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03622v1</description>
-</item>
-<item>
-<title>DiabAgent: Toward Agentic Physiological Control</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b67ed3a0685</link>
-<guid isPermaLink="false">evt_4b67ed3a0685</guid>
-<pubDate>Mon, 02 Nov 2026 18:41:02 +0000</pubDate>
-<category>research</category>
-<description>As pretraining scales, medical language models have advanced rapidly in clinical question answering. Their ability to achieve effective physiological control through sustained intervention still lacks systematic quantitative evaluation. Type 1 diabetes provides a concrete setting: impaired insulin secretion creates dependence on exogenous insulin, with dosing continually adjusted using information about meals, exercise, illness, and glucose measurements. We introduce DiabAgent, a research suite for agentic physiological control comprising the Agentic Physiological Control (APC) framework, the  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03601v1</description>
-</item>
-<item>
-<title>Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_34c928c847c2</link>
-<guid isPermaLink="false">evt_34c928c847c2</guid>
-<pubDate>Mon, 02 Nov 2026 18:41:14 +0000</pubDate>
-<category>foundation_models</category>
-<description>Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual evidence deserves equal attention, as the importance of visual information depends on the content of each video. Motivated by this observation, we propose Reviso, an agentic video captioning framework that learns what to observe and how to gather relevant visual evidence. From a low-frame-rate global preview, Reviso constructs a hierarchical Context--Focus--Points (CFP) observation plan that iden — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03602v1</description>
-</item>
-<item>
-<title>Four Bridges: Measuring Deception Propensity in a Multi-Agent Game</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cf0918d9d228</link>
-<guid isPermaLink="false">evt_cf0918d9d228</guid>
-<pubDate>Mon, 02 Nov 2026 18:40:47 +0000</pubDate>
-<category>agents</category>
-<description>AI agents are increasingly deployed in settings where they interact and coordinate with other agents, yet honesty is mostly measured in single-turn, single-agent benchmarks that pressure the model to deceive. We study deception that emerges in multi-agent interaction without any instruction to deceive. We introduce Kradle, a platform for evaluating AI models, and Four Bridges, an information asymmetry game in which four agents distribute across four rooms: one is the death room, the others hold food worth more if not shared. One agent, the informed agent, knows which room is the death room and — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03600v1</description>
-</item>
-<item>
-<title>ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_59eaa0a5d68a</link>
-<guid isPermaLink="false">evt_59eaa0a5d68a</guid>
-<pubDate>Mon, 02 Nov 2026 18:42:32 +0000</pubDate>
-<category>research</category>
-<description>ufakzeka-kulak is an open Turkish speech-to-text model of 31.6M parameters, a FastConformer encoder with a token-and-duration transducer (TDT) and a CTC head, trained from scratch and released under Apache-2.0. It writes cased, punctuated Turkish with numbers as words. Its 4,977 training hours come from sources whose licences allow commercial use; 281 hours are human-transcribed, and for the other 4,696 the training text is an uploader subtitle or a machine transcript, kept only where a second, independent reading of the audio agrees with it. The recipe, checkpoint, labelling and export choice — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03605v1</description>
-</item>
-<item>
-<title>Can We Stop the Backtest Yet? Anytime-Valid Promotion Tests for Adaptive Financial Research Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_69d8a6c7ad41</link>
-<guid isPermaLink="false">evt_69d8a6c7ad41</guid>
-<pubDate>Mon, 02 Nov 2026 18:40:38 +0000</pubDate>
-<category>research</category>
-<description>Financial research agents can generate and monitor trading rules faster than a human can document the resulting selection process. Candidates appear at data-dependent times, weak rules are abandoned, and promising ones are watched until they cross a reporting threshold. We introduce PROMOTE, a protocol that assigns every candidate predictable testing wealth at birth and accumulates a cost-aware e-process only from subsequent returns. If lifetime allocations sum to at most one, a weighted Ville argument bounds the probability of ever promoting a rule whose declared bounded net score has always  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03384v1</description>
-</item>
-<item>
-<title>DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9bd9c2996a8a</link>
-<guid isPermaLink="false">evt_9bd9c2996a8a</guid>
-<pubDate>Mon, 02 Nov 2026 18:39:26 +0000</pubDate>
-<category>research</category>
-<description>Neural operators provide efficient surrogates for computational fluid dynamics (CFD), but most are designed for static geometries and are not equipped to model unsteady flows induced by continuously moving boundaries. We study dynamic-boundary 4D CFD prediction for articulated moving geometries and introduce RoboCFD-4D, a temporally resolved robotic CFD benchmark spanning diverse morphologies and flow conditions. To address the computational and autoregressive challenges of this setting, we propose DynaSolver, a neural operator that explicitly conditions on boundary evolution and causal flow h — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03595v1</description>
-</item>
-<item>
-<title>TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_11c222dfdc29</link>
-<guid isPermaLink="false">evt_11c222dfdc29</guid>
-<pubDate>Mon, 02 Nov 2026 18:32:18 +0000</pubDate>
-<category>agents</category>
-<description>Open-world robotic mobile manipulation requires acting in physical environments with only partial information. While recent Large Vision-Language Model (LVLM) agents show strong open-world reasoning capabilities, existing architectures that rely on direct tool calling struggle with geometric uncertainty and thus are limited to fully-observable tabletop environments. In contrast, Task and Motion Planning (TAMP) systems can solve long-horizon tasks under partial observability but incur high computational costs and require closed worlds. We propose \textbf{TAMPAgent}, an agentic planning framewor — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03584v1</description>
-</item>
-<item>
-<title>A Scaling Theory of Multi-Epoch Pretraining: Late-Time Overfitting and Ensembling</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9ebb76637cff</link>
-<guid isPermaLink="false">evt_9ebb76637cff</guid>
-<pubDate>Mon, 02 Nov 2026 18:34:09 +0000</pubDate>
-<category>research</category>
-<description>In the near future language model pretraining will become bound by total data rather than total compute. Such a regime requires revisiting scaling laws and scaling law theory. Motivated by prior works that have found utility in ensembling, we study how the number of training epochs and ensemble size jointly shape generalization when training data are fixed. In language-model experiments on FineWeb, logit averaging reduces late-training deterioration, delays optimal stopping, and can outperform wider or deeper single models at matched parameter-token budgets over a common training horizon. To a — 来源：arxiv — 原文：https://arxiv.org/abs/2611.03590v1</description>
 </item>
 </channel>
 </rss>

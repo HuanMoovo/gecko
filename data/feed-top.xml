@@ -5,31 +5,31 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 02 Nov 2026 21:12:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 04:46:39 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>dramaclaw/dramaclaw — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games,</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_cc321d7123ab</link>
 <guid isPermaLink="false">evt_cc321d7123ab</guid>
-<pubDate>Mon, 02 Nov 2026 21:02:03 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
 <category>open_source</category>
 <description>A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可 · topics: ai-agent, ai-filmmaking, ai-video, aigc, aigc-pipeline, content-creation · ⭐ 6,849 · Python — 来源：qbitai · techcrunch_ai · hn_frontpage · github · hackernews · arxiv — 原文：https://github.com/dramaclaw/dramaclaw</description>
 </item>
 <item>
-<title>Qodo builds context into AI code review with Codex</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ee44ce8e4cc5</link>
-<guid isPermaLink="false">evt_ee44ce8e4cc5</guid>
-<pubDate>Mon, 02 Nov 2026 18:01:30 +0000</pubDate>
-<category>open_source</category>
-<description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request. — 来源：qbitai · openai_blog · techcrunch_ai · hackernews · verge_ai — 原文：https://openai.com/index/qodo-codex-plugin</description>
+<title>Rewarding defenders with bigger bug bounties</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7467194f96f4</link>
+<guid isPermaLink="false">evt_7467194f96f4</guid>
+<pubDate>Tue, 03 Nov 2026 01:46:55 +0000</pubDate>
+<category>research</category>
+<description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers. — 来源：qbitai · openai_blog · hackernews — 原文：https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</description>
 </item>
 <item>
-<title>Introducing the Grid Protectors Program</title>
+<title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_19244c7aa206</link>
 <guid isPermaLink="false">evt_19244c7aa206</guid>
 <pubDate>Mon, 02 Nov 2026 20:18:26 +0000</pubDate>
 <category>industry</category>
-<description>OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs. — 来源：openai_blog · reddit_ml — 原文：https://openai.com/index/grid-protectors-program</description>
+<description>OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies. — 来源：openai_blog · reddit_ml — 原文：https://openai.com/index/dan-driscoll-joins-openai</description>
 </item>
 <item>
 <title>How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock</title>
@@ -56,14 +56,6 @@
 <description>In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate… — 来源：github · hackernews · simonwillison · latent_space · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/</description>
 </item>
 <item>
-<title>LifeVal</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d42fb1eb3362</link>
-<guid isPermaLink="false">evt_d42fb1eb3362</guid>
-<pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
-<category>research</category>
-<description>Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork. — 来源：openai_blog · arxiv — 原文：https://openai.com/index/lifeval</description>
-</item>
-<item>
 <title>OpenAI is finally merging ChatGPT’s Chat and Work tabs</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1f1bc03a707a</link>
 <guid isPermaLink="false">evt_1f1bc03a707a</guid>
@@ -80,36 +72,52 @@
 <description>Hugging Face 模型 · text-to-speech · 下载 7,259 · 收藏 241 — 来源：huggingface — 原文：https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air</description>
 </item>
 <item>
-<title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_10659eb70d41</link>
-<guid isPermaLink="false">evt_10659eb70d41</guid>
-<pubDate>Mon, 02 Nov 2026 17:51:19 +0000</pubDate>
-<category>open_source</category>
-<description>The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and […] — 来源：aws_ml · hackernews · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</description>
+<title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9fd54443238a</link>
+<guid isPermaLink="false">evt_9fd54443238a</guid>
+<pubDate>Mon, 02 Nov 2026 23:13:53 +0000</pubDate>
+<category>infrastructure</category>
+<description>The one-year-old startup is now valued at $300 million. — 来源：verge_ai · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</description>
 </item>
 <item>
-<title>Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fb9ff410aee0</link>
-<guid isPermaLink="false">evt_fb9ff410aee0</guid>
-<pubDate>Mon, 02 Nov 2026 19:36:37 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews · hn_frontpage — 原文：https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</description>
-</item>
-<item>
-<title>顶级AI翻车的活儿，被这个新出的免费国产AI接住了！</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_73e8678c878e</link>
-<guid isPermaLink="false">evt_73e8678c878e</guid>
-<pubDate>Mon, 02 Nov 2026 13:36:41 +0000</pubDate>
-<category>industry</category>
-<description>商汤SenseNova 6.8 Flash — 来源：huggingface · qbitai — 原文：https://www.qbitai.com/2026/11/507277.html</description>
-</item>
-<item>
-<title>The agentic web is here</title>
+<title>Advances in Agentic Computer Graphics</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_84030884004a</link>
 <guid isPermaLink="false">evt_84030884004a</guid>
 <pubDate>Mon, 02 Nov 2026 09:35:19 +0000</pubDate>
 <category>agents</category>
-<description>In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every… — 来源：arxiv · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/</description>
+<description>Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback. This capability opens the door to a potentially new paradigm of computer graphics, with graphics algorithms increasingly built around agentic systems to automate progressively complex tasks. Over the past years, research on agentic graphics has expanded rapidly across a diverse range of tasks. This rapid growth makes it increasingly difficult for manual literature reviews to keep pace with new developments. At the same time, similar ideas are  — 来源：arxiv · mit_tr_ai — 原文：https://arxiv.org/abs/2611.01860v1</description>
+</item>
+<item>
+<title>Anthropic warns that it’s very close to RSI capability, aka self-building AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e07ec5d69c95</link>
+<guid isPermaLink="false">evt_e07ec5d69c95</guid>
+<pubDate>Mon, 02 Nov 2026 22:14:50 +0000</pubDate>
+<category>infrastructure</category>
+<description>RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return. — 来源：hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</description>
+</item>
+<item>
+<title>The SEC Should Block Anthropic's IPO to Protect the Public</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fb9ff410aee0</link>
+<guid isPermaLink="false">evt_fb9ff410aee0</guid>
+<pubDate>Mon, 02 Nov 2026 22:33:20 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews · hn_frontpage — 原文：https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</description>
+</item>
+<item>
+<title>[Re] Pure Noise to the Rescue of Insufficient Data</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5bf98f75d81a</link>
+<guid isPermaLink="false">evt_5bf98f75d81a</guid>
+<pubDate>Mon, 02 Nov 2026 20:22:30 +0000</pubDate>
+<category>research</category>
+<description>We examine the main claims of Zada, Benou, and Irani (2021), which states that in an image classification task with imbalanced training data, (i) using pure noise to augment minority-class images encourages generalization by improving minority-class accuracy. This method is paired with (ii) a new batch normalization layer that normalizes noise images using affine parameters learned from natural images, which improves the model's performance. Moreover, (iii) this improvement is robust to varying levels of data augmentation. Finally, the authors propose that (iv) adding pure noise images can imp — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.01295v1</description>
+</item>
+<item>
+<title>GraCo: A Unified Toolkit of Graph Coarsening Algorithms and Metrics</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_018c6d96f91f</link>
+<guid isPermaLink="false">evt_018c6d96f91f</guid>
+<pubDate>Mon, 02 Nov 2026 16:25:25 +0000</pubDate>
+<category>research</category>
+<description>Graph coarsening aims to reduce a graph to a smaller one that preserves chosen properties of the original. It is increasingly used to scale graph learning to large graphs, as a non-differentiable step applied once before training. Many coarsening methods have been proposed in recent years, each with its own implementation, notation and evaluation. In this work, we introduce GraCo, a unified toolkit of graph coarsening methods. It relies on a single definition: a coarsening is fixed by a partition of the nodes and by the Laplacian the coarsened graph is consistent with. The coarsened graph, and — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.01200v1</description>
 </item>
 </channel>
 </rss>

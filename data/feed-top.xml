@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 17:14:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 23:17:33 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
@@ -56,6 +56,14 @@
 <description>Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage. — 来源：aws_ml · microsoft_research — 原文：https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/</description>
 </item>
 <item>
+<title>The end of Microsoft Research's AI Frontiers group</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_226920e9034a</link>
+<guid isPermaLink="false">evt_226920e9034a</guid>
+<pubDate>Sat, 07 Nov 2026 18:02:17 +0000</pubDate>
+<category>research</category>
+<description>Comments — 来源：arxiv · verge_ai · hackernews · hn_frontpage — 原文：https://hunch.net/?p=13764006</description>
+</item>
+<item>
 <title>After blocking Muse, Amazon now lets users text Alexa to help them shop</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_298f7ab4fa1c</link>
 <guid isPermaLink="false">evt_298f7ab4fa1c</guid>
@@ -78,46 +86,6 @@
 <pubDate>Fri, 06 Nov 2026 18:44:20 +0000</pubDate>
 <category>agents</category>
 <description>Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. — 来源：techcrunch_ai · verge_ai · arxiv — 原文：https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/</description>
-</item>
-<item>
-<title>ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b409dc7b8493</link>
-<guid isPermaLink="false">evt_b409dc7b8493</guid>
-<pubDate>Sat, 07 Nov 2026 00:03:35 +0000</pubDate>
-<category>research</category>
-<description>ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenReview: 73,410 reviews on 23,759 submissions. A couple of things that surprised us: [1] 57% of all reviews are a 2. Only 1.5% are a 4. [2] The median paper averages exactly 2.0. So a 2, 2, 3 (mean 2.33) is already above most papers. Where 2.5, 2.67 and 3.0 land, and the full histogram, are here: https://draft.scime.ai/iclr-odds?utm\_source=reddit&amp;utm\_medium=social&amp;utm\_campaign=iclr2027 Note: [1] w — 来源：github · arxiv · simonwillison · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/</description>
-</item>
-<item>
-<title>ChatGPT silently passes data between connectors and the bounty wants an ID card</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cb08435a825e</link>
-<guid isPermaLink="false">evt_cb08435a825e</guid>
-<pubDate>Fri, 06 Nov 2026 22:50:43 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：github · openai_blog · hackernews — 原文：https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</description>
-</item>
-<item>
-<title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
-<guid isPermaLink="false">evt_a55665cf4895</guid>
-<pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
-<category>robotics</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/toyblocks</description>
-</item>
-<item>
-<title>jeecgboot/JeecgBoot — 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
-<guid isPermaLink="false">evt_7b187a5bdc28</guid>
-<pubDate>Fri, 06 Nov 2026 23:27:15 +0000</pubDate>
-<category>open_source</category>
-<description>【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。 · topics: activiti, agent, ai, antd, claude-code, cli · ⭐ 48,396 · Java — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/jeecgboot/JeecgBoot</description>
-</item>
-<item>
-<title>Don't Replace, Complement: A Detector-Agnostic Subspace Signal for Near-OOD Detection</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_841ac078d8a4</link>
-<guid isPermaLink="false">evt_841ac078d8a4</guid>
-<pubDate>Fri, 06 Nov 2026 16:34:39 +0000</pubDate>
-<category>research</category>
-<description>Post-hoc out-of-distribution (OOD) detection is mature on far-OOD yet remains weak on near-OOD. These two settings differ in their use of class-characteristic feature directions: far-OOD inputs largely fail to activate those of their predicted class, whereas near-OOD inputs activate them much as in-distribution samples do. Because the axis separating far-OOD leaves near-OOD almost indistinguishable from ID, a score optimized for one setting is misaligned with the other; where a detector already saturates far-OOD, added near-OOD sensitivity is bought partly against it. This divergence motivates — 来源：reddit_ml · arxiv · verge_ai — 原文：https://arxiv.org/abs/2611.06688v1</description>
 </item>
 </channel>
 </rss>

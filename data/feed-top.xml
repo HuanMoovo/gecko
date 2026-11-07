@@ -5,13 +5,13 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 03:57:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 10:50:24 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
 <guid isPermaLink="false">evt_dee4ed090932</guid>
-<pubDate>Sat, 07 Nov 2026 01:59:02 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 06:39:04 +0000</pubDate>
 <category>research</category>
 <description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
 </item>
@@ -104,12 +104,12 @@
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/toyblocks</description>
 </item>
 <item>
-<title>Claude usage credits purchased after Dec 7 will expire 12 months after purchase</title>
+<title>jeecgboot/JeecgBoot — 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
 <guid isPermaLink="false">evt_7b187a5bdc28</guid>
 <pubDate>Fri, 06 Nov 2026 23:27:15 +0000</pubDate>
-<category>foundation_models</category>
-<description>Just received this via email:&lt;p&gt;&amp;gt; Usage credits purchased on or after December 7 will expire 12 months after the purchase date. Any unused amount after 12 months will be removed from your balance. — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://news.ycombinator.com/item?id=50399909</description>
+<category>open_source</category>
+<description>【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。 · topics: activiti, agent, ai, antd, claude-code, cli · ⭐ 48,396 · Java — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/jeecgboot/JeecgBoot</description>
 </item>
 <item>
 <title>Don't Replace, Complement: A Detector-Agnostic Subspace Signal for Near-OOD Detection</title>
@@ -118,6 +118,14 @@
 <pubDate>Fri, 06 Nov 2026 16:34:39 +0000</pubDate>
 <category>research</category>
 <description>Post-hoc out-of-distribution (OOD) detection is mature on far-OOD yet remains weak on near-OOD. These two settings differ in their use of class-characteristic feature directions: far-OOD inputs largely fail to activate those of their predicted class, whereas near-OOD inputs activate them much as in-distribution samples do. Because the axis separating far-OOD leaves near-OOD almost indistinguishable from ID, a score optimized for one setting is misaligned with the other; where a detector already saturates far-OOD, added near-OOD sensitivity is bought partly against it. This divergence motivates — 来源：reddit_ml · arxiv · verge_ai — 原文：https://arxiv.org/abs/2611.06688v1</description>
+</item>
+<item>
+<title>AGENTS.MD，危险危险危险！！！</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ba9c77c3ab3</link>
+<guid isPermaLink="false">evt_1ba9c77c3ab3</guid>
+<pubDate>Sat, 07 Nov 2026 03:43:55 +0000</pubDate>
+<category>agents</category>
+<description>全新的电脑病毒 — 来源：arxiv · qbitai — 原文：https://www.qbitai.com/2026/11/508244.html</description>
 </item>
 <item>
 <title>Microsoft is winding down Oracle deal to rent AI cloud capacity</title>
@@ -142,70 +150,6 @@
 <pubDate>Fri, 06 Nov 2026 21:03:00 +0000</pubDate>
 <category>industry</category>
 <description>来源：arxiv · hackernews — 原文：https://www.youtube.com/watch?v=aenpTk8blIs</description>
-</item>
-<item>
-<title>Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_69ea9035ac18</link>
-<guid isPermaLink="false">evt_69ea9035ac18</guid>
-<pubDate>Fri, 06 Nov 2026 19:10:08 +0000</pubDate>
-<category>research</category>
-<description>Paper: https://arxiv.org/abs/2611.08376 | HF: https://huggingface.co/papers/2611.08376 At 10M tokens, a 1.3B Transformer needs 2.1 TB of KV cache (0.32 TB even at 2.5-bit quantization). Channel-wise gated delta models (like Gated DeltaNet-2 / GDN-2) compress history into a fixed 25 MB state, but hit three bottlenecks across 100B-token training that Muir resolves: 100x slow-channel glare -&gt; Matched-filter readout: Slow-decaying rows accumulate up to 100x more energy than fast rows, swamping query readout and forcing harsh write-time erasure that overwrites early facts. Equalizing rows via an in — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/</description>
-</item>
-<item>
-<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6df21e5a1561</link>
-<guid isPermaLink="false">evt_6df21e5a1561</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage · deepmind_blog — 原文：https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</description>
-</item>
-<item>
-<title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a615edb3fc1</link>
-<guid isPermaLink="false">evt_1a615edb3fc1</guid>
-<pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · hf_blog — 原文：https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</description>
-</item>
-<item>
-<title>Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aecc9a23fd3c</link>
-<guid isPermaLink="false">evt_aecc9a23fd3c</guid>
-<pubDate>Thu, 05 Nov 2026 18:45:36 +0000</pubDate>
-<category>research</category>
-<description>Personal AI agents face social engineering attacks supported by forged multimodal content, but existing evaluations mainly focus on text-based dialogue, leaving their intrinsic security under such attacks insufficiently studied. We introduce Multimodal-SEA, an interactive benchmark comprising 608 expert-designed tasks grounded in real-world fraud cases, covering 14 domains and 152 attack scenarios with prepared multimodal content. The tasks span four difficulty levels and reflect the distinct social and cultural contexts of Chinese and English environments. Agents inspect content, verify reque — 来源：techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2611.08281v1</description>
-</item>
-<item>
-<title>GPU-Accelerated Weight Teleportation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_786981bf015f</link>
-<guid isPermaLink="false">evt_786981bf015f</guid>
-<pubDate>Fri, 06 Nov 2026 16:49:00 +0000</pubDate>
-<category>infrastructure</category>
-<description>来源：hackernews · hn_frontpage — 原文：https://humansand.ai/blog/gpu-accelerated-weight-teleportation</description>
-</item>
-<item>
-<title>Perplexity launches AI agents for work</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a437782712b7</link>
-<guid isPermaLink="false">evt_a437782712b7</guid>
-<pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</description>
-</item>
-<item>
-<title>I watched a humanoid robot clean my apartment. It felt like a taste of the future.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d94f47b36633</link>
-<guid isPermaLink="false">evt_d94f47b36633</guid>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<category>robotics</category>
-<description>I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed… — 来源：techcrunch_ai · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/</description>
-</item>
-<item>
-<title>Aligning Policy Encoders with a Shape Teacher</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_731512acdcc2</link>
-<guid isPermaLink="false">evt_731512acdcc2</guid>
-<pubDate>Thu, 05 Nov 2026 16:44:24 +0000</pubDate>
-<category>research</category>
-<description>3D-aware representations can improve robotic manipulation by providing geometric information that is robust to changes in viewpoint, object position, and occlusion. However, using 3D inputs at deployment requires additional sensing and processing, making image-based policies more practical. We ask whether an image-based policy can acquire 3D shape information during training while retaining a purely image-based interface at deployment. We propose shape-teacher alignment, a training-time mechanism that uses a pretrained 3D shape representation as an alignment target for an image-based policy en — 来源：arxiv · huggingface — 原文：https://arxiv.org/abs/2611.08275v1</description>
 </item>
 </channel>
 </rss>

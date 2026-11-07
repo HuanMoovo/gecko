@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 10:50:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 17:14:05 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
@@ -14,6 +14,14 @@
 <pubDate>Sat, 07 Nov 2026 06:39:04 +0000</pubDate>
 <category>research</category>
 <description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
+</item>
+<item>
+<title>The US let Nvidia sell chips to an empty office in China</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
+<guid isPermaLink="false">evt_588776d5fd50</guid>
+<pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
+<category>infrastructure</category>
+<description>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […] — 来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</description>
 </item>
 <item>
 <title>Setting a new standard for responsible AI infrastructure</title>
@@ -30,14 +38,6 @@
 <pubDate>Fri, 06 Nov 2026 20:22:25 +0000</pubDate>
 <category>research</category>
 <description>A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […] — 来源：arxiv · nvidia_blog · reddit_ml — 原文：https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</description>
-</item>
-<item>
-<title>China reportedly recruited AI exec to spy on Jensen Huang</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
-<guid isPermaLink="false">evt_588776d5fd50</guid>
-<pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
-<category>open_source</category>
-<description>China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "potentially influence the company to push for its most advanced chips to be made available to China." Megaspeed […] — 来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai — 原文：https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</description>
 </item>
 <item>
 <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
@@ -72,6 +72,30 @@
 <description>Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge. — 来源：arxiv · github · hn_frontpage · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</description>
 </item>
 <item>
+<title>Comfy-Org/RelayVSR</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_91f6a2501d68</link>
+<guid isPermaLink="false">evt_91f6a2501d68</guid>
+<pubDate>Sat, 07 Nov 2026 01:46:21 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · unconditional-image-generation · 下载 18,761 · 收藏 82 — 来源：huggingface — 原文：https://huggingface.co/Comfy-Org/RelayVSR</description>
+</item>
+<item>
+<title>NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bb9dc983cfcb</link>
+<guid isPermaLink="false">evt_bb9dc983cfcb</guid>
+<pubDate>Sat, 07 Nov 2026 15:50:00 +0000</pubDate>
+<category>industry</category>
+<description>Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</description>
+</item>
+<item>
+<title>AI broke the cybersecurity world. What’s next?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ac30c3ff268d</link>
+<guid isPermaLink="false">evt_ac30c3ff268d</guid>
+<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […] — 来源：verge_ai — 原文：https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</description>
+</item>
+<item>
 <title>SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1007c961b5d3</link>
 <guid isPermaLink="false">evt_1007c961b5d3</guid>
@@ -104,6 +128,14 @@
 <description>Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</description>
 </item>
 <item>
+<title>Why a new report on Anthropic automating AI development is alarming researchers</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1de98537a9e6</link>
+<guid isPermaLink="false">evt_1de98537a9e6</guid>
+<pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
+<category>research</category>
+<description>Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</description>
+</item>
+<item>
 <title>[Dataset] NousResearch/arete-data-pairs</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ff65d8d52a26</link>
 <guid isPermaLink="false">evt_ff65d8d52a26</guid>
@@ -126,6 +158,14 @@
 <pubDate>Sat, 07 Nov 2026 00:03:35 +0000</pubDate>
 <category>research</category>
 <description>ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenReview: 73,410 reviews on 23,759 submissions. A couple of things that surprised us: [1] 57% of all reviews are a 2. Only 1.5% are a 4. [2] The median paper averages exactly 2.0. So a 2, 2, 3 (mean 2.33) is already above most papers. Where 2.5, 2.67 and 3.0 land, and the full histogram, are here: https://draft.scime.ai/iclr-odds?utm\_source=reddit&amp;utm\_medium=social&amp;utm\_campaign=iclr2027 Note: [1] w — 来源：github · arxiv · simonwillison · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/</description>
+</item>
+<item>
+<title>[Dataset] NousResearch/Propaganda_Eval</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0d09f0c70e5b</link>
+<guid isPermaLink="false">evt_0d09f0c70e5b</guid>
+<pubDate>Fri, 06 Nov 2026 20:39:08 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 212 · 收藏 23 — 来源：huggingface — 原文：https://huggingface.co/datasets/NousResearch/Propaganda_Eval</description>
 </item>
 <item>
 <title>ChatGPT silently passes data between connectors and the bounty wants an ID card</title>
@@ -190,6 +230,14 @@
 <pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
 <category>industry</category>
 <description>The deal highlights the challenges of developing massive AI data centers. — 来源：verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</description>
+</item>
+<item>
+<title>[Dataset] Angais/pixel-art-atlas-1.4m</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f96388c62cbf</link>
+<guid isPermaLink="false">evt_f96388c62cbf</guid>
+<pubDate>Fri, 06 Nov 2026 13:05:13 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 1,050 · 收藏 17 — 来源：huggingface — 原文：https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m</description>
 </item>
 <item>
 <title>Jeff Dean李飞飞最新对谈：全是RSI非共识</title>
@@ -288,20 +336,20 @@
 <description>I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed… — 来源：techcrunch_ai · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/</description>
 </item>
 <item>
-<title>Hundreds of Artex AI hacking tools found publicly exposed to the web</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_29c568495a81</link>
-<guid isPermaLink="false">evt_29c568495a81</guid>
-<pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
-<category>research</category>
-<description>Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/</description>
-</item>
-<item>
 <title>Aligning Policy Encoders with a Shape Teacher</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_731512acdcc2</link>
 <guid isPermaLink="false">evt_731512acdcc2</guid>
 <pubDate>Thu, 05 Nov 2026 16:44:24 +0000</pubDate>
 <category>research</category>
 <description>3D-aware representations can improve robotic manipulation by providing geometric information that is robust to changes in viewpoint, object position, and occlusion. However, using 3D inputs at deployment requires additional sensing and processing, making image-based policies more practical. We ask whether an image-based policy can acquire 3D shape information during training while retaining a purely image-based interface at deployment. We propose shape-teacher alignment, a training-time mechanism that uses a pretrained 3D shape representation as an alignment target for an image-based policy en — 来源：arxiv · huggingface — 原文：https://arxiv.org/abs/2611.08275v1</description>
+</item>
+<item>
+<title>Hundreds of Artex AI hacking tools found publicly exposed to the web</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_29c568495a81</link>
+<guid isPermaLink="false">evt_29c568495a81</guid>
+<pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
+<category>research</category>
+<description>Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/</description>
 </item>
 <item>
 <title>How a Blue Wave midterm might reshape the AI industry</title>
@@ -358,54 +406,6 @@
 <pubDate>Sat, 07 Nov 2026 07:08:01 +0000</pubDate>
 <category>research</category>
 <description>Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton’s forward forward, capsule networks). Ive also replicated dozens of papers during this time. It may seem small to most here, but It would be an amazing dream to do publish a conference quality paper but all my research ideas feel so clunky, inelegant and crude. My ADHD lets me to spawn hundreds of ideas and hyperfocus on a couple, so far all my preliminary work doesnt point to anything really  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/</description>
-</item>
-<item>
-<title>Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1261caced381</link>
-<guid isPermaLink="false">evt_1261caced381</guid>
-<pubDate>Thu, 05 Nov 2026 18:31:24 +0000</pubDate>
-<category>research</category>
-<description>Image classification models often encounter objects in diverse and unpredictable contexts at test time, which may differ substantially from those seen during training. This phenomenon, termed context shift, exposes a key fragility in neural networks: when models rely on non-causal contextual cues for prediction, shifts in context can lead to significant performance degradation. In this paper, we propose a novel training framework to improve the robustness of convolutional neural networks under context shift. Our approach leverages spatial feature attribution to guide models toward making predi — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.08157v1</description>
-</item>
-<item>
-<title>A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4c827bc19d5e</link>
-<guid isPermaLink="false">evt_4c827bc19d5e</guid>
-<pubDate>Fri, 06 Nov 2026 15:21:56 +0000</pubDate>
-<category>industry</category>
-<description>Dario刚喊减速… — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508184.html</description>
-</item>
-<item>
-<title>ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_11a17aff464f</link>
-<guid isPermaLink="false">evt_11a17aff464f</guid>
-<pubDate>Sat, 07 Nov 2026 00:17:47 +0000</pubDate>
-<category>foundation_models</category>
-<description>I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human. When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run experiments A, B, C, and D. The worst part is that these requests are completely minor and miss the main point of the paper. It's an endless, exhausting cycle. Plus, there's a strict 10-page limit! Even when I bend over backwards to finish all those extra experiments and report the results, the reviewers just ghost the discussion. I wish they would discuss the underlying logic and core insights inst — 来源：arxiv · reddit_ml · verge_ai — 原文：https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/</description>
-</item>
-<item>
-<title>Nowcasting of Tropical Cyclone Wind Fields and Intensity from Geostationary Imagery</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5315415b782a</link>
-<guid isPermaLink="false">evt_5315415b782a</guid>
-<pubDate>Thu, 05 Nov 2026 16:52:46 +0000</pubDate>
-<category>research</category>
-<description>High-resolution tropical cyclone surface wind speeds derived from synthetic aperture radar (SAR) observations can support storm structure and intensity modelling, but remain spatially and temporally sparse and unavailable near-real-time. Geostationary satellites capture cloud tops continuously in space and time, but do not directly resolve surface winds. Here, we present simple neural networks to predict 2D wind fields and storm-scale intensity metrics from geostationary imagery. Through a series of ablation studies, we find that joint prediction of 2D fields and scalar metrics from the model  — 来源：reddit_ml · arxiv · techcrunch_ai — 原文：https://arxiv.org/abs/2611.08255v1</description>
-</item>
-<item>
-<title>Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_714a2f12440c</link>
-<guid isPermaLink="false">evt_714a2f12440c</guid>
-<pubDate>Sat, 07 Nov 2026 05:21:18 +0000</pubDate>
-<category>foundation_models</category>
-<description>Ant Ling has released Ling-3.2-flash, a native multimodal MoE with 560B total parameters, 25B activated parameters and a maximum 1M-token context window. The official documentation specifies text, image and video inputs. The release evaluation reports: MathVision(w/CI): 96.80 Humanity's Last Exam-MM: 30.12 ZEROBench / ZEROBench(Sub): 18.00 / 43.71 BabyVision: 69.85 OmniDocBench 1.5: 92.21 CharXiv_RQ: 85.15 GDP.pdf: 22.25 MedXpertQA-MM: 79.93 Vision2Web: 85.86 AndroidWorld: 85.63 BlenderBench: 67.77 AntBench-Medical is reported separately as 89.52% comprehensiveness and 99.22% correctness. HLE- — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/</description>
-</item>
-<item>
-<title>Franklin Templeton uses OpenAI to support investment research</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3d509e27bae2</link>
-<guid isPermaLink="false">evt_3d509e27bae2</guid>
-<pubDate>Thu, 05 Nov 2026 19:12:39 +0000</pubDate>
-<category>research</category>
-<description>Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks. — 来源：openai_blog · techcrunch_ai — 原文：https://openai.com/index/franklin-templeton</description>
 </item>
 </channel>
 </rss>

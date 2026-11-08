@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 08 Nov 2026 03:42:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 10:56:52 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
+<guid isPermaLink="false">evt_dee4ed090932</guid>
+<pubDate>Sun, 08 Nov 2026 10:33:56 +0000</pubDate>
+<category>research</category>
+<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
+</item>
 <item>
 <title>xerj-org/xerj — AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
@@ -16,12 +24,12 @@
 <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. · topics: agent-memory, ai-agents, bm25, claude-code, cli, code-search · ⭐ 18,580 · Rust — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/xerj-org/xerj</description>
 </item>
 <item>
-<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
-<guid isPermaLink="false">evt_dee4ed090932</guid>
-<pubDate>Sat, 07 Nov 2026 06:39:04 +0000</pubDate>
-<category>research</category>
-<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
+<title>Setting a new standard for responsible AI infrastructure</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7467194f96f4</link>
+<guid isPermaLink="false">evt_7467194f96f4</guid>
+<pubDate>Sat, 07 Nov 2026 09:38:56 +0000</pubDate>
+<category>industry</category>
+<description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development. — 来源：qbitai · openai_blog · hackernews · hn_frontpage · techcrunch_ai · verge_ai — 原文：https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</description>
 </item>
 <item>
 <title>The US let Nvidia sell chips to an empty office in China</title>
@@ -32,6 +40,14 @@
 <description>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […] — 来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</description>
 </item>
 <item>
+<title>Don't Replace, Complement: A Detector-Agnostic Subspace Signal for Near-OOD Detection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_841ac078d8a4</link>
+<guid isPermaLink="false">evt_841ac078d8a4</guid>
+<pubDate>Sun, 08 Nov 2026 05:13:11 +0000</pubDate>
+<category>research</category>
+<description>Post-hoc out-of-distribution (OOD) detection is mature on far-OOD yet remains weak on near-OOD. These two settings differ in their use of class-characteristic feature directions: far-OOD inputs largely fail to activate those of their predicted class, whereas near-OOD inputs activate them much as in-distribution samples do. Because the axis separating far-OOD leaves near-OOD almost indistinguishable from ID, a score optimized for one setting is misaligned with the other; where a detector already saturates far-OOD, added near-OOD sensitivity is bought partly against it. This divergence motivates — 来源：reddit_ml · arxiv · verge_ai — 原文：https://arxiv.org/abs/2611.06688v1</description>
+</item>
+<item>
 <title>Changing one letter bypassed an admin API in HuggingFace</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
 <guid isPermaLink="false">evt_a55665cf4895</guid>
@@ -40,60 +56,12 @@
 <description>来源：hf_blog · hackernews — 原文：https://twitter.com/v12sec/status/2118442075574464848</description>
 </item>
 <item>
-<title>Setting a new standard for responsible AI infrastructure</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7467194f96f4</link>
-<guid isPermaLink="false">evt_7467194f96f4</guid>
-<pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
-<category>industry</category>
-<description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development. — 来源：qbitai · openai_blog · hackernews · hn_frontpage · techcrunch_ai · verge_ai — 原文：https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</description>
-</item>
-<item>
 <title>How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5bc0a248a3e1</link>
 <guid isPermaLink="false">evt_5bc0a248a3e1</guid>
 <pubDate>Fri, 06 Nov 2026 20:22:25 +0000</pubDate>
 <category>research</category>
 <description>A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […] — 来源：arxiv · nvidia_blog · reddit_ml — 原文：https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</description>
-</item>
-<item>
-<title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fb9ff410aee0</link>
-<guid isPermaLink="false">evt_fb9ff410aee0</guid>
-<pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
-<category>industry</category>
-<description>AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth. — 来源：hackernews · hn_frontpage · techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</description>
-</item>
-<item>
-<title>How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_841c3ce16d85</link>
-<guid isPermaLink="false">evt_841c3ce16d85</guid>
-<pubDate>Fri, 06 Nov 2026 17:09:23 +0000</pubDate>
-<category>agents</category>
-<description>Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage. — 来源：aws_ml · microsoft_research — 原文：https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/</description>
-</item>
-<item>
-<title>The end of Microsoft Research's AI Frontiers group</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_226920e9034a</link>
-<guid isPermaLink="false">evt_226920e9034a</guid>
-<pubDate>Sat, 07 Nov 2026 18:02:17 +0000</pubDate>
-<category>research</category>
-<description>Comments — 来源：arxiv · verge_ai · hackernews · hn_frontpage — 原文：https://hunch.net/?p=13764006</description>
-</item>
-<item>
-<title>After blocking Muse, Amazon now lets users text Alexa to help them shop</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_298f7ab4fa1c</link>
-<guid isPermaLink="false">evt_298f7ab4fa1c</guid>
-<pubDate>Fri, 06 Nov 2026 14:10:00 +0000</pubDate>
-<category>industry</category>
-<description>Amazon said that the feature will roll out to millions of users in coming weeks. — 来源：verge_ai · arstechnica_ai · aws_ml · techcrunch_ai — 原文：https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/</description>
-</item>
-<item>
-<title>Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3f8f28ad5925</link>
-<guid isPermaLink="false">evt_3f8f28ad5925</guid>
-<pubDate>Fri, 06 Nov 2026 16:45:58 +0000</pubDate>
-<category>foundation_models</category>
-<description>Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge. — 来源：arxiv · github · hn_frontpage · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</description>
 </item>
 </channel>
 </rss>

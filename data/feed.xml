@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 08 Nov 2026 03:42:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 10:56:52 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
+<guid isPermaLink="false">evt_dee4ed090932</guid>
+<pubDate>Sun, 08 Nov 2026 10:33:56 +0000</pubDate>
+<category>research</category>
+<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
+</item>
 <item>
 <title>xerj-org/xerj — AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
@@ -32,12 +40,12 @@
 <description>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · topics: agent, agentic-ai, ai, claude, copilot, cursor · ⭐ 78,336 · Python — 来源：github — 原文：https://github.com/OpenMontageInc/OpenMontage</description>
 </item>
 <item>
-<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
-<guid isPermaLink="false">evt_dee4ed090932</guid>
-<pubDate>Sat, 07 Nov 2026 06:39:04 +0000</pubDate>
-<category>research</category>
-<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
+<title>Setting a new standard for responsible AI infrastructure</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7467194f96f4</link>
+<guid isPermaLink="false">evt_7467194f96f4</guid>
+<pubDate>Sat, 07 Nov 2026 09:38:56 +0000</pubDate>
+<category>industry</category>
+<description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development. — 来源：qbitai · openai_blog · hackernews · hn_frontpage · techcrunch_ai · verge_ai — 原文：https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</description>
 </item>
 <item>
 <title>The US let Nvidia sell chips to an empty office in China</title>
@@ -48,20 +56,28 @@
 <description>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […] — 来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</description>
 </item>
 <item>
+<title>Don't Replace, Complement: A Detector-Agnostic Subspace Signal for Near-OOD Detection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_841ac078d8a4</link>
+<guid isPermaLink="false">evt_841ac078d8a4</guid>
+<pubDate>Sun, 08 Nov 2026 05:13:11 +0000</pubDate>
+<category>research</category>
+<description>Post-hoc out-of-distribution (OOD) detection is mature on far-OOD yet remains weak on near-OOD. These two settings differ in their use of class-characteristic feature directions: far-OOD inputs largely fail to activate those of their predicted class, whereas near-OOD inputs activate them much as in-distribution samples do. Because the axis separating far-OOD leaves near-OOD almost indistinguishable from ID, a score optimized for one setting is misaligned with the other; where a detector already saturates far-OOD, added near-OOD sensitivity is bought partly against it. This divergence motivates — 来源：reddit_ml · arxiv · verge_ai — 原文：https://arxiv.org/abs/2611.06688v1</description>
+</item>
+<item>
+<title>资本正在撤离“世界模型”</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_11d5c12583f3</link>
+<guid isPermaLink="false">evt_11d5c12583f3</guid>
+<pubDate>Sun, 08 Nov 2026 04:09:55 +0000</pubDate>
+<category>industry</category>
+<description>没有永远的夏天 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508466.html</description>
+</item>
+<item>
 <title>Changing one letter bypassed an admin API in HuggingFace</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
 <guid isPermaLink="false">evt_a55665cf4895</guid>
 <pubDate>Sun, 08 Nov 2026 00:06:59 +0000</pubDate>
 <category>industry</category>
 <description>来源：hf_blog · hackernews — 原文：https://twitter.com/v12sec/status/2118442075574464848</description>
-</item>
-<item>
-<title>Setting a new standard for responsible AI infrastructure</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7467194f96f4</link>
-<guid isPermaLink="false">evt_7467194f96f4</guid>
-<pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
-<category>industry</category>
-<description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development. — 来源：qbitai · openai_blog · hackernews · hn_frontpage · techcrunch_ai · verge_ai — 原文：https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</description>
 </item>
 <item>
 <title>How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks</title>
@@ -112,6 +128,14 @@
 <description>A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</description>
 </item>
 <item>
+<title>[Dataset] codepawl/plateau-city-glb</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3450180b19fa</link>
+<guid isPermaLink="false">evt_3450180b19fa</guid>
+<pubDate>Sat, 07 Nov 2026 06:43:50 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 1,850 · 收藏 24 — 来源：huggingface — 原文：https://huggingface.co/datasets/codepawl/plateau-city-glb</description>
+</item>
+<item>
 <title>After blocking Muse, Amazon now lets users text Alexa to help them shop</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_298f7ab4fa1c</link>
 <guid isPermaLink="false">evt_298f7ab4fa1c</guid>
@@ -128,6 +152,14 @@
 <description>Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge. — 来源：arxiv · github · hn_frontpage · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</description>
 </item>
 <item>
+<title>What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b266fba733f5</link>
+<guid isPermaLink="false">evt_b266fba733f5</guid>
+<pubDate>Sun, 08 Nov 2026 07:20:37 +0000</pubDate>
+<category>open_source</category>
+<description>I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity of red , green and blue. What if instead of matrix of colour intensity we train a diffusion model in order to create a neural network, and maybe a drawing NN too. If it works you can ask something like: "create me a neural network that will guide a pen in order to draw a man" "create a NN of a game field  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/</description>
+</item>
+<item>
 <title>Comfy-Org/RelayVSR</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_91f6a2501d68</link>
 <guid isPermaLink="false">evt_91f6a2501d68</guid>
@@ -142,6 +174,14 @@
 <pubDate>Sat, 07 Nov 2026 15:50:00 +0000</pubDate>
 <category>industry</category>
 <description>Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</description>
+</item>
+<item>
+<title>Locally trained VLA model with minimal attention based vision encoder. [p]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1c0a4e906911</link>
+<guid isPermaLink="false">evt_1c0a4e906911</guid>
+<pubDate>Sun, 08 Nov 2026 06:31:08 +0000</pubDate>
+<category>robotics</category>
+<description>Hi y’all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.com/r/learnmachinelearning/comments/1xq23zi/local_rnn_style_vla_model_project/ Video Description: The leftmost display shows what the models sees, The yellow triangle marker on screen shows which shape is NOT the target shape on that run (counter intuitive, I know). Importantly, the model does not see it, it is only to make it easier to see — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/</description>
 </item>
 <item>
 <title>AI broke the cybersecurity world. What’s next?</title>
@@ -176,6 +216,14 @@
 <description>As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</description>
 </item>
 <item>
+<title>Advice needed regarding classical ML conference submission [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_529276f76b38</link>
+<guid isPermaLink="false">evt_529276f76b38</guid>
+<pubDate>Sun, 08 Nov 2026 05:26:57 +0000</pubDate>
+<category>foundation_models</category>
+<description>Hi, I need some advice on submission of classical ML papers in top conferences. During my PhD I made some findings in classical ML (related to SVM and LR) which, on further deep diving, looks like original work (I checked with chatGPT and Gemini too). When I tried to submit them to top conferences, while the reviewers have been reasonable in their reviews (acknowledging the innovation while asking me to run some more experiments and ablation studies), the AC shot down my paper, saying “this is a done and dusted topic”. Only at ACL did the AC ask me to resubmit incorporating the comments. So is — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/</description>
+</item>
+<item>
 <title>Serverless MCP server for AI agent data lake access on Amazon ECS Fargate</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_0f0cb95e5bb0</link>
 <guid isPermaLink="false">evt_0f0cb95e5bb0</guid>
@@ -184,12 +232,28 @@
 <description>Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</description>
 </item>
 <item>
+<title>Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_47acfd08428c</link>
+<guid isPermaLink="false">evt_47acfd08428c</guid>
+<pubDate>Sun, 08 Nov 2026 03:48:04 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：hackernews — 原文：https://github.com/AmSach/maple</description>
+</item>
+<item>
 <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1de98537a9e6</link>
 <guid isPermaLink="false">evt_1de98537a9e6</guid>
 <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
 <category>research</category>
 <description>Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</description>
+</item>
+<item>
+<title>Goodbye Claude, Hello Pi</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
+<guid isPermaLink="false">evt_5186d80b7eef</guid>
+<pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
+<category>foundation_models</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://caleb.software/posts/claude-to-pi.html</description>
 </item>
 <item>
 <title>[Dataset] NousResearch/arete-data-pairs</title>
@@ -206,6 +270,14 @@
 <pubDate>Fri, 06 Nov 2026 21:04:27 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 95 — 来源：huggingface — 原文：https://huggingface.co/NousResearch/Arete-27B</description>
+</item>
+<item>
+<title>Show HN: LLM weight editing tool made by a 15-year-old</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_437a12af215f</link>
+<guid isPermaLink="false">evt_437a12af215f</guid>
+<pubDate>Sun, 08 Nov 2026 02:37:10 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews — 原文：https://github.com/Miyamoto-Renya/LaplacesScissors</description>
 </item>
 <item>
 <title>ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]</title>
@@ -248,28 +320,28 @@
 <description>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: &lt;https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv&gt;; rel="next" This is bad. A tiny fraction of the visitors to one of those pages will click the "next" link, which means their browser is fetching unnecessary data and the D — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/7/link-rel-next/</description>
 </item>
 <item>
-<title>Don't Replace, Complement: A Detector-Agnostic Subspace Signal for Near-OOD Detection</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_841ac078d8a4</link>
-<guid isPermaLink="false">evt_841ac078d8a4</guid>
-<pubDate>Fri, 06 Nov 2026 16:34:39 +0000</pubDate>
-<category>research</category>
-<description>Post-hoc out-of-distribution (OOD) detection is mature on far-OOD yet remains weak on near-OOD. These two settings differ in their use of class-characteristic feature directions: far-OOD inputs largely fail to activate those of their predicted class, whereas near-OOD inputs activate them much as in-distribution samples do. Because the axis separating far-OOD leaves near-OOD almost indistinguishable from ID, a score optimized for one setting is misaligned with the other; where a detector already saturates far-OOD, added near-OOD sensitivity is bought partly against it. This divergence motivates — 来源：reddit_ml · arxiv · verge_ai — 原文：https://arxiv.org/abs/2611.06688v1</description>
+<title>为了去AI味，人类开始主动写烂文章了……</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_927940a6dc37</link>
+<guid isPermaLink="false">evt_927940a6dc37</guid>
+<pubDate>Sat, 07 Nov 2026 07:59:28 +0000</pubDate>
+<category>industry</category>
+<description>需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI....... — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508330.html</description>
 </item>
 <item>
-<title>AGENTS.MD，危险危险危险！！！</title>
+<title>Gemini Omni 1.2 Flash</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6df21e5a1561</link>
+<guid isPermaLink="false">evt_6df21e5a1561</guid>
+<pubDate>Fri, 06 Nov 2026 13:35:27 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage · deepmind_blog — 原文：https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</description>
+</item>
+<item>
+<title>Infisical/infisical — Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1ba9c77c3ab3</link>
 <guid isPermaLink="false">evt_1ba9c77c3ab3</guid>
-<pubDate>Sat, 07 Nov 2026 03:43:55 +0000</pubDate>
-<category>agents</category>
-<description>全新的电脑病毒 — 来源：arxiv · qbitai — 原文：https://www.qbitai.com/2026/11/508244.html</description>
-</item>
-<item>
-<title>Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
-<guid isPermaLink="false">evt_5186d80b7eef</guid>
-<pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
-<category>foundation_models</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</description>
+<pubDate>Sun, 08 Nov 2026 10:47:38 +0000</pubDate>
+<category>open_source</category>
+<description>Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. · topics: acme, agents, ai-agents, certificate-management, devsecops, environment-variables · ⭐ 30,352 · TypeScript — 来源：arxiv · qbitai · github — 原文：https://github.com/Infisical/infisical</description>
 </item>
 <item>
 <title>Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]</title>
@@ -304,6 +376,14 @@
 <description>The deal highlights the challenges of developing massive AI data centers. — 来源：verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</description>
 </item>
 <item>
+<title>浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5443ed91e5d7</link>
+<guid isPermaLink="false">evt_5443ed91e5d7</guid>
+<pubDate>Sat, 07 Nov 2026 03:31:44 +0000</pubDate>
+<category>science</category>
+<description>中国版cosmos再交卷 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508236.html</description>
+</item>
+<item>
 <title>[Dataset] Angais/pixel-art-atlas-1.4m</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f96388c62cbf</link>
 <guid isPermaLink="false">evt_f96388c62cbf</guid>
@@ -326,86 +406,6 @@
 <pubDate>Sat, 07 Nov 2026 17:59:30 +0000</pubDate>
 <category>science</category>
 <description>​ I'm currently pursuing a BS Mathematics with Data Science at COMSATS University in Pakistan. My goal is to become an ML/AI Engineer, eventually specializing in Deep Learning and LLMs. My degree includes Calculus, Linear Algebra, Statistics, Python, OOP, Machine Learning, Deep Learning, Data Science and other computer-related courses. However, since my degree title isn't Computer Science, I'm concerned about how employers might view it. I'd like to ask people working in the industry or studying in this field: Is this degree a good academic foundation for becoming an ML/AI Engineer? Can mathem — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xqcl2h/can_i_become_an_mlai_engineer_with_a_bs/</description>
-</item>
-<item>
-<title>wechaty/wechaty — Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b293031989ae</link>
-<guid isPermaLink="false">evt_b293031989ae</guid>
-<pubDate>Fri, 06 Nov 2026 11:04:54 +0000</pubDate>
-<category>open_source</category>
-<description>Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt · topics: bot, chatbot, conversational-ai, framework, qq, robotics · ⭐ 23,520 · TypeScript — 来源：github — 原文：https://github.com/wechaty/wechaty</description>
-</item>
-<item>
-<title>Title: I struggled to understand RAG, so I built a tutorial from scratch [video]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0f99f7fd87d2</link>
-<guid isPermaLink="false">evt_0f99f7fd87d2</guid>
-<pubDate>Fri, 06 Nov 2026 21:03:00 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · hackernews — 原文：https://www.youtube.com/watch?v=aenpTk8blIs</description>
-</item>
-<item>
-<title>Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_69ea9035ac18</link>
-<guid isPermaLink="false">evt_69ea9035ac18</guid>
-<pubDate>Fri, 06 Nov 2026 19:10:08 +0000</pubDate>
-<category>research</category>
-<description>Paper: https://arxiv.org/abs/2611.08376 | HF: https://huggingface.co/papers/2611.08376 At 10M tokens, a 1.3B Transformer needs 2.1 TB of KV cache (0.32 TB even at 2.5-bit quantization). Channel-wise gated delta models (like Gated DeltaNet-2 / GDN-2) compress history into a fixed 25 MB state, but hit three bottlenecks across 100B-token training that Muir resolves: 100x slow-channel glare -&gt; Matched-filter readout: Slow-decaying rows accumulate up to 100x more energy than fast rows, swamping query readout and forcing harsh write-time erasure that overwrites early facts. Equalizing rows via an in — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/</description>
-</item>
-<item>
-<title>Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f45973610354</link>
-<guid isPermaLink="false">evt_f45973610354</guid>
-<pubDate>Sat, 07 Nov 2026 15:16:01 +0000</pubDate>
-<category>generative</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://github.com/Video-Rebirth/hyperflow-h3-flash</description>
-</item>
-<item>
-<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6df21e5a1561</link>
-<guid isPermaLink="false">evt_6df21e5a1561</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage · deepmind_blog — 原文：https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</description>
-</item>
-<item>
-<title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a615edb3fc1</link>
-<guid isPermaLink="false">evt_1a615edb3fc1</guid>
-<pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · hf_blog — 原文：https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</description>
-</item>
-<item>
-<title>Measuring how AI agents handle everyday wet-lab science</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cfd4354afa14</link>
-<guid isPermaLink="false">evt_cfd4354afa14</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<category>agents</category>
-<description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. — 来源：openai_blog — 原文：https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</description>
-</item>
-<item>
-<title>All the latest updates on AI data centers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f5eee778bf79</link>
-<guid isPermaLink="false">evt_f5eee778bf79</guid>
-<pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
-<category>industry</category>
-<description>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</description>
-</item>
-<item>
-<title>Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aecc9a23fd3c</link>
-<guid isPermaLink="false">evt_aecc9a23fd3c</guid>
-<pubDate>Thu, 05 Nov 2026 18:45:36 +0000</pubDate>
-<category>research</category>
-<description>Personal AI agents face social engineering attacks supported by forged multimodal content, but existing evaluations mainly focus on text-based dialogue, leaving their intrinsic security under such attacks insufficiently studied. We introduce Multimodal-SEA, an interactive benchmark comprising 608 expert-designed tasks grounded in real-world fraud cases, covering 14 domains and 152 attack scenarios with prepared multimodal content. The tasks span four difficulty levels and reflect the distinct social and cultural contexts of Chinese and English environments. Agents inspect content, verify reque — 来源：techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2611.08281v1</description>
-</item>
-<item>
-<title>Perplexity launches AI agents for work</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a437782712b7</link>
-<guid isPermaLink="false">evt_a437782712b7</guid>
-<pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
-<category>agents</category>
-<description>来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</description>
 </item>
 </channel>
 </rss>

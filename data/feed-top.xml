@@ -5,8 +5,40 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 08 Nov 2026 17:26:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 23:20:15 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nvidia launches investigation into CEO's affair with suspected Chinese spy</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
+<guid isPermaLink="false">evt_588776d5fd50</guid>
+<pubDate>Sun, 08 Nov 2026 21:09:42 +0000</pubDate>
+<category>industry</category>
+<description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai · techcrunch_ai — 原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no</description>
+</item>
+<item>
+<title>autotrust/Qwen3.8-Flash-Next-E384-FP4-V2</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4c35a47638c4</link>
+<guid isPermaLink="false">evt_4c35a47638c4</guid>
+<pubDate>Sun, 08 Nov 2026 22:32:57 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 42,718 · 收藏 2,370 — 来源：huggingface — 原文：https://huggingface.co/autotrust/Qwen3.8-Flash-Next-E384-FP4-V2</description>
+</item>
+<item>
+<title>Here’s the full text of Jensen Huang’s memo to Nvidia</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b3a357762c2</link>
+<guid isPermaLink="false">evt_0b3a357762c2</guid>
+<pubDate>Sun, 08 Nov 2026 22:54:50 +0000</pubDate>
+<category>agents</category>
+<description>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […] — 来源：verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</description>
+</item>
+<item>
+<title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
+<guid isPermaLink="false">evt_5186d80b7eef</guid>
+<pubDate>Sun, 08 Nov 2026 22:26:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hn_frontpage · hackernews · simonwillison — 原文：https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</description>
+</item>
 <item>
 <title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
@@ -30,22 +62,6 @@
 <pubDate>Sun, 08 Nov 2026 02:24:49 +0000</pubDate>
 <category>agents</category>
 <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. · topics: agent-memory, ai-agents, bm25, claude-code, cli, code-search · ⭐ 18,580 · Rust — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/xerj-org/xerj</description>
-</item>
-<item>
-<title>US believes Nvidia's Huang had romantic relationship with alleged Chinese spy</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
-<guid isPermaLink="false">evt_588776d5fd50</guid>
-<pubDate>Sun, 08 Nov 2026 17:19:02 +0000</pubDate>
-<category>industry</category>
-<description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai — 原文：https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790</description>
-</item>
-<item>
-<title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1de98537a9e6</link>
-<guid isPermaLink="false">evt_1de98537a9e6</guid>
-<pubDate>Sun, 08 Nov 2026 12:41:25 +0000</pubDate>
-<category>industry</category>
-<description>来源：verge_ai · hackernews — 原文：https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</description>
 </item>
 </channel>
 </rss>

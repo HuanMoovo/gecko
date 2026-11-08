@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 23:17:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 03:42:16 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>xerj-org/xerj — AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
+<guid isPermaLink="false">evt_7b187a5bdc28</guid>
+<pubDate>Sun, 08 Nov 2026 02:24:49 +0000</pubDate>
+<category>agents</category>
+<description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. · topics: agent-memory, ai-agents, bm25, claude-code, cli, code-search · ⭐ 18,580 · Rust — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/xerj-org/xerj</description>
+</item>
 <item>
 <title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
@@ -22,6 +30,14 @@
 <pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
 <category>infrastructure</category>
 <description>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […] — 来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</description>
+</item>
+<item>
+<title>Changing one letter bypassed an admin API in HuggingFace</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
+<guid isPermaLink="false">evt_a55665cf4895</guid>
+<pubDate>Sun, 08 Nov 2026 00:06:59 +0000</pubDate>
+<category>industry</category>
+<description>来源：hf_blog · hackernews — 原文：https://twitter.com/v12sec/status/2118442075574464848</description>
 </item>
 <item>
 <title>Setting a new standard for responsible AI infrastructure</title>
@@ -78,14 +94,6 @@
 <pubDate>Fri, 06 Nov 2026 16:45:58 +0000</pubDate>
 <category>foundation_models</category>
 <description>Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge. — 来源：arxiv · github · hn_frontpage · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</description>
-</item>
-<item>
-<title>Meta introduces Spaces, a new way to collaborate with your Muse agent</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d23caa988630</link>
-<guid isPermaLink="false">evt_d23caa988630</guid>
-<pubDate>Fri, 06 Nov 2026 18:44:20 +0000</pubDate>
-<category>agents</category>
-<description>Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. — 来源：techcrunch_ai · verge_ai · arxiv — 原文：https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/</description>
 </item>
 </channel>
 </rss>

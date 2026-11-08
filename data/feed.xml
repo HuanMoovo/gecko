@@ -5,8 +5,32 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 23:17:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 03:42:16 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>xerj-org/xerj — AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
+<guid isPermaLink="false">evt_7b187a5bdc28</guid>
+<pubDate>Sun, 08 Nov 2026 02:24:49 +0000</pubDate>
+<category>agents</category>
+<description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. · topics: agent-memory, ai-agents, bm25, claude-code, cli, code-search · ⭐ 18,580 · Rust — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/xerj-org/xerj</description>
+</item>
+<item>
+<title>xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4c35a47638c4</link>
+<guid isPermaLink="false">evt_4c35a47638c4</guid>
+<pubDate>Sun, 08 Nov 2026 03:36:29 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 1,369 · 收藏 532 — 来源：huggingface — 原文：https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic</description>
+</item>
+<item>
+<title>OpenMontageInc/OpenMontage — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and pr</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_53d590241935</link>
+<guid isPermaLink="false">evt_53d590241935</guid>
+<pubDate>Sun, 08 Nov 2026 00:41:52 +0000</pubDate>
+<category>agents</category>
+<description>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · topics: agent, agentic-ai, ai, claude, copilot, cursor · ⭐ 78,336 · Python — 来源：github — 原文：https://github.com/OpenMontageInc/OpenMontage</description>
+</item>
 <item>
 <title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
@@ -22,6 +46,14 @@
 <pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
 <category>infrastructure</category>
 <description>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell […] — 来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</description>
+</item>
+<item>
+<title>Changing one letter bypassed an admin API in HuggingFace</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
+<guid isPermaLink="false">evt_a55665cf4895</guid>
+<pubDate>Sun, 08 Nov 2026 00:06:59 +0000</pubDate>
+<category>industry</category>
+<description>来源：hf_blog · hackernews — 原文：https://twitter.com/v12sec/status/2118442075574464848</description>
 </item>
 <item>
 <title>Setting a new standard for responsible AI infrastructure</title>
@@ -200,28 +232,20 @@
 <description>来源：github · openai_blog · hackernews — 原文：https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</description>
 </item>
 <item>
-<title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
-<guid isPermaLink="false">evt_a55665cf4895</guid>
-<pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
-<category>robotics</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/toyblocks</description>
-</item>
-<item>
-<title>jeecgboot/JeecgBoot — 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
-<guid isPermaLink="false">evt_7b187a5bdc28</guid>
-<pubDate>Fri, 06 Nov 2026 23:27:15 +0000</pubDate>
-<category>open_source</category>
-<description>【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。 · topics: activiti, agent, ai, antd, claude-code, cli · ⭐ 48,396 · Java — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/jeecgboot/JeecgBoot</description>
-</item>
-<item>
 <title>Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_786981bf015f</link>
 <guid isPermaLink="false">evt_786981bf015f</guid>
 <pubDate>Sat, 07 Nov 2026 17:01:11 +0000</pubDate>
 <category>infrastructure</category>
 <description>来源：hackernews · hn_frontpage — 原文：https://www.pcmag.com/news/good-luck-getting-a-cheap-gpu-amd-is-a-data-center-first-company-ceo-says</description>
+</item>
+<item>
+<title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f5913b377964</link>
+<guid isPermaLink="false">evt_f5913b377964</guid>
+<pubDate>Sat, 07 Nov 2026 23:57:46 +0000</pubDate>
+<category>research</category>
+<description>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: &lt;https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv&gt;; rel="next" This is bad. A tiny fraction of the visitors to one of those pages will click the "next" link, which means their browser is fetching unnecessary data and the D — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/7/link-rel-next/</description>
 </item>
 <item>
 <title>Don't Replace, Complement: A Detector-Agnostic Subspace Signal for Near-OOD Detection</title>
@@ -382,30 +406,6 @@
 <pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
 <category>agents</category>
 <description>来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</description>
-</item>
-<item>
-<title>I watched a humanoid robot clean my apartment. It felt like a taste of the future.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d94f47b36633</link>
-<guid isPermaLink="false">evt_d94f47b36633</guid>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<category>robotics</category>
-<description>I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed… — 来源：techcrunch_ai · mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/</description>
-</item>
-<item>
-<title>Hundreds of Artex AI hacking tools found publicly exposed to the web</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_29c568495a81</link>
-<guid isPermaLink="false">evt_29c568495a81</guid>
-<pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
-<category>research</category>
-<description>Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/</description>
-</item>
-<item>
-<title>Aligning Policy Encoders with a Shape Teacher</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_731512acdcc2</link>
-<guid isPermaLink="false">evt_731512acdcc2</guid>
-<pubDate>Thu, 05 Nov 2026 16:44:24 +0000</pubDate>
-<category>research</category>
-<description>3D-aware representations can improve robotic manipulation by providing geometric information that is robust to changes in viewpoint, object position, and occlusion. However, using 3D inputs at deployment requires additional sensing and processing, making image-based policies more practical. We ask whether an image-based policy can acquire 3D shape information during training while retaining a purely image-based interface at deployment. We propose shape-teacher alignment, a training-time mechanism that uses a pretrained 3D shape representation as an alignment target for an image-based policy en — 来源：arxiv · huggingface — 原文：https://arxiv.org/abs/2611.08275v1</description>
 </item>
 </channel>
 </rss>

@@ -5,23 +5,151 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 09 Nov 2026 12:23:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 23:55:32 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a24fdfddefa6</link>
-<guid isPermaLink="false">evt_a24fdfddefa6</guid>
-<pubDate>Mon, 09 Nov 2026 08:00:53 +0000</pubDate>
-<category>industry</category>
-<description>Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […] — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/korean-startup-investments-msit/</description>
+<title>Introducing Claude Fable 5.2 on AWS</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
+<guid isPermaLink="false">evt_5186d80b7eef</guid>
+<pubDate>Mon, 09 Nov 2026 20:04:37 +0000</pubDate>
+<category>foundation_models</category>
+<description>Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock. — 来源：hn_frontpage · hackernews · simonwillison · qbitai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/</description>
 </item>
 <item>
-<title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
+<title>Meta releases Muse Ember, a new lightweight model for agent execution</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_0b3a357762c2</link>
 <guid isPermaLink="false">evt_0b3a357762c2</guid>
-<pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
-<category>infrastructure</category>
-<description>NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […] — 来源：verge_ai · hackernews · nvidia_blog · arxiv — 原文：https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</description>
+<pubDate>Mon, 09 Nov 2026 23:47:46 +0000</pubDate>
+<category>agents</category>
+<description>At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna. — 来源：verge_ai · hackernews · nvidia_blog · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</description>
+</item>
+<item>
+<title>CodeRabbit scales agentic software development and ships 20x more</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_01ae94b0daa0</link>
+<guid isPermaLink="false">evt_01ae94b0daa0</guid>
+<pubDate>Mon, 09 Nov 2026 19:05:54 +0000</pubDate>
+<category>agents</category>
+<description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team. — 来源：aws_ml · openai_blog — 原文：https://openai.com/index/coderabbit-codex-daybreak</description>
+</item>
+<item>
+<title>Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a24fdfddefa6</link>
+<guid isPermaLink="false">evt_a24fdfddefa6</guid>
+<pubDate>Mon, 09 Nov 2026 22:23:42 +0000</pubDate>
+<category>robotics</category>
+<description>Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […] — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</description>
+</item>
+<item>
+<title>Anthropic launches new Claude Fable and Mythos 5.2 models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd4da662fab5</link>
+<guid isPermaLink="false">evt_dd4da662fab5</guid>
+<pubDate>Mon, 09 Nov 2026 20:04:55 +0000</pubDate>
+<category>foundation_models</category>
+<description>Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on "daunting" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […] — 来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2</description>
+</item>
+<item>
+<title>Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_586df0c94182</link>
+<guid isPermaLink="false">evt_586df0c94182</guid>
+<pubDate>Mon, 09 Nov 2026 20:13:18 +0000</pubDate>
+<category>agents</category>
+<description>Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant. — 来源：hackernews · arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/</description>
+</item>
+<item>
+<title>NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_51fd6bae6a94</link>
+<guid isPermaLink="false">evt_51fd6bae6a94</guid>
+<pubDate>Mon, 09 Nov 2026 20:01:20 +0000</pubDate>
+<category>foundation_models</category>
+<description>NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/</description>
+</item>
+<item>
+<title>How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_03ab27d2bc45</link>
+<guid isPermaLink="false">evt_03ab27d2bc45</guid>
+<pubDate>Mon, 09 Nov 2026 18:55:43 +0000</pubDate>
+<category>agents</category>
+<description>CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/</description>
+</item>
+<item>
+<title>ChatGPT Enterprise now available in AWS Marketplace</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c331579e229</link>
+<guid isPermaLink="false">evt_9c331579e229</guid>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — 来源：openai_blog — 原文：https://openai.com/index/chatgpt-enterprise-aws-marketplace</description>
+</item>
+<item>
+<title>Professional work deserves professional tools. Meet AWS Quick.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9015c3069685</link>
+<guid isPermaLink="false">evt_9015c3069685</guid>
+<pubDate>Mon, 09 Nov 2026 18:43:30 +0000</pubDate>
+<category>agents</category>
+<description>Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/</description>
+</item>
+<item>
+<title>elder-plinius/CL4R1T4S — LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRA</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a699cca17620</link>
+<guid isPermaLink="false">evt_a699cca17620</guid>
+<pubDate>Mon, 09 Nov 2026 23:48:58 +0000</pubDate>
+<category>foundation_models</category>
+<description>LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐 · topics: agents, ai, chatgpt, gemini, google, grok · ⭐ 51,875 · n/a — 来源：github — 原文：https://github.com/elder-plinius/CL4R1T4S</description>
+</item>
+<item>
+<title>MiniMaxAI/MiniMax-H3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c921ccafb7c</link>
+<guid isPermaLink="false">evt_3c921ccafb7c</guid>
+<pubDate>Mon, 09 Nov 2026 23:28:00 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-video · 下载 6,403,766 · 收藏 6,687 — 来源：huggingface — 原文：https://huggingface.co/MiniMaxAI/MiniMax-H3</description>
+</item>
+<item>
+<title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_057e22ab69c0</link>
+<guid isPermaLink="false">evt_057e22ab69c0</guid>
+<pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
+<category>research</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</description>
+</item>
+<item>
+<title>Nvidia launches investigation into CEO's affair with suspected Chinese spy</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
+<guid isPermaLink="false">evt_588776d5fd50</guid>
+<pubDate>Mon, 09 Nov 2026 22:46:09 +0000</pubDate>
+<category>industry</category>
+<description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai · techcrunch_ai — 原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no</description>
+</item>
+<item>
+<title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
+<guid isPermaLink="false">evt_a55665cf4895</guid>
+<pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
+<category>industry</category>
+<description>来源：hf_blog · hackernews — 原文：https://huggingface.co/blog/amazon/higher-order-pruning-experts</description>
+</item>
+<item>
+<title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
+<guid isPermaLink="false">evt_f37b680abcf7</guid>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<category>research</category>
+<description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise. — 来源：openai_blog — 原文：https://openai.com/index/control-room</description>
+</item>
+<item>
+<title>[Dataset] scenario-labs/3d-collection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a6fcd2745755</link>
+<guid isPermaLink="false">evt_a6fcd2745755</guid>
+<pubDate>Mon, 09 Nov 2026 15:32:58 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 45,687 · 收藏 395 — 来源：huggingface — 原文：https://huggingface.co/datasets/scenario-labs/3d-collection</description>
+</item>
+<item>
+<title>mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4c35a47638c4</link>
+<guid isPermaLink="false">evt_4c35a47638c4</guid>
+<pubDate>Mon, 09 Nov 2026 13:21:31 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · model · 下载 217,408 · 收藏 211 — 来源：huggingface · arxiv — 原文：https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF</description>
 </item>
 <item>
 <title>Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA</title>
@@ -56,28 +184,148 @@
 <description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
 </item>
 <item>
-<title>“AI毁了我的计算机学位”</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
-<guid isPermaLink="false">evt_5186d80b7eef</guid>
-<pubDate>Mon, 09 Nov 2026 08:57:20 +0000</pubDate>
-<category>foundation_models</category>
-<description>教授也用Claude糊弄… — 来源：hn_frontpage · hackernews · simonwillison · qbitai — 原文：https://www.qbitai.com/2026/11/508706.html</description>
-</item>
-<item>
-<title>Nvidia launches investigation into CEO's affair with suspected Chinese spy</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
-<guid isPermaLink="false">evt_588776d5fd50</guid>
-<pubDate>Sun, 08 Nov 2026 21:09:42 +0000</pubDate>
+<title>Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1de98537a9e6</link>
+<guid isPermaLink="false">evt_1de98537a9e6</guid>
+<pubDate>Mon, 09 Nov 2026 16:56:54 +0000</pubDate>
 <category>industry</category>
-<description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai · techcrunch_ai — 原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no</description>
+<description>Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</description>
 </item>
 <item>
-<title>DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4c35a47638c4</link>
-<guid isPermaLink="false">evt_4c35a47638c4</guid>
-<pubDate>Mon, 09 Nov 2026 05:11:25 +0000</pubDate>
+<title>What could China get from Jensen Huang?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7d8b4ae6c27e</link>
+<guid isPermaLink="false">evt_7d8b4ae6c27e</guid>
+<pubDate>Mon, 09 Nov 2026 23:51:58 +0000</pubDate>
+<category>infrastructure</category>
+<description>It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</description>
+</item>
+<item>
+<title>Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9b0466c1eb02</link>
+<guid isPermaLink="false">evt_9b0466c1eb02</guid>
+<pubDate>Mon, 09 Nov 2026 23:28:37 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 2,082,419 · 收藏 1,488 — 来源：huggingface · arxiv — 原文：https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF</description>
+<description>The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</description>
+</item>
+<item>
+<title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_42ec3b43220b</link>
+<guid isPermaLink="false">evt_42ec3b43220b</guid>
+<pubDate>Mon, 09 Nov 2026 18:33:58 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：techcrunch_ai · reddit_ml · arxiv · hackernews · hn_frontpage — 原文：https://github.com/samir-sarwar/samir-vllm</description>
+</item>
+<item>
+<title>Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3541a994b8f0</link>
+<guid isPermaLink="false">evt_3541a994b8f0</guid>
+<pubDate>Mon, 09 Nov 2026 20:09:06 +0000</pubDate>
+<category>industry</category>
+<description>The Nvidia CEO also pulled out of an Anthropic event earlier. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/</description>
+</item>
+<item>
+<title>Vulnerability that lets hackers SSH into Linux devices is under active exploitation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8424b8cbc8e8</link>
+<guid isPermaLink="false">evt_8424b8cbc8e8</guid>
+<pubDate>Mon, 09 Nov 2026 19:41:34 +0000</pubDate>
+<category>industry</category>
+<description>"*sshole" poses a serious threat to Internet security. — 来源：arstechnica_ai — 原文：https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/</description>
+</item>
+<item>
+<title>The backlash about data centers might really just be about electricity</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2969b0807146</link>
+<guid isPermaLink="false">evt_2969b0807146</guid>
+<pubDate>Mon, 09 Nov 2026 19:35:33 +0000</pubDate>
+<category>industry</category>
+<description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where… — 来源：mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/</description>
+</item>
+<item>
+<title>Apple’s $50 Intelligence Usage Packs extend access to some AI features</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b54a5923f7fe</link>
+<guid isPermaLink="false">evt_b54a5923f7fe</guid>
+<pubDate>Mon, 09 Nov 2026 19:09:58 +0000</pubDate>
+<category>industry</category>
+<description>After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to "Buy More Usage" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like "start a new song, set […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</description>
+</item>
+<item>
+<title>Disney and Adobe are building generative AI tools together</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec20d3c1676a</link>
+<guid isPermaLink="false">evt_ec20d3c1676a</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:56 +0000</pubDate>
+<category>generative</category>
+<description>The Walt Disney Company has teamed up with Adobe to develop proprietary "artist-led" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […] — 来源：arxiv · verge_ai — 原文：https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</description>
+</item>
+<item>
+<title>Instagram’s Effect Builder makes new filters from AI prompts</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_24fbdd6b452d</link>
+<guid isPermaLink="false">evt_24fbdd6b452d</guid>
+<pubDate>Mon, 09 Nov 2026 18:07:23 +0000</pubDate>
+<category>industry</category>
+<description>After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters</description>
+</item>
+<item>
+<title>The future of AI hinges on… Jensen Huang’s sex life?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a557b7a372d0</link>
+<guid isPermaLink="false">evt_a557b7a372d0</guid>
+<pubDate>Mon, 09 Nov 2026 17:36:08 +0000</pubDate>
+<category>industry</category>
+<description>I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me</description>
+</item>
+<item>
+<title>Nancy Pelosi’s replacement is ready to regulate AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_da795f292411</link>
+<guid isPermaLink="false">evt_da795f292411</guid>
+<pubDate>Mon, 09 Nov 2026 17:05:43 +0000</pubDate>
+<category>safety</category>
+<description>As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a… — 来源：mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/</description>
+</item>
+<item>
+<title>Medium’s new TK app brings AI assistance directly into the writing process</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dbd9680f73cb</link>
+<guid isPermaLink="false">evt_dbd9680f73cb</guid>
+<pubDate>Mon, 09 Nov 2026 16:12:28 +0000</pubDate>
+<category>industry</category>
+<description>Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/</description>
+</item>
+<item>
+<title>Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7f2312c68d83</link>
+<guid isPermaLink="false">evt_7f2312c68d83</guid>
+<pubDate>Mon, 09 Nov 2026 15:50:38 +0000</pubDate>
+<category>safety</category>
+<description>Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, "I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed." He claimed the DOJ is managing that risk, saying, "We had a situation where somebody […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</description>
+</item>
+<item>
+<title>Hold up — I had a great time talking to the RIAA guy</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5e5298bc2621</link>
+<guid isPermaLink="false">evt_5e5298bc2621</guid>
+<pubDate>Mon, 09 Nov 2026 15:30:00 +0000</pubDate>
+<category>industry</category>
+<description>Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […] — 来源：verge_ai — 原文：https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music</description>
+</item>
+<item>
+<title>Automattic debuts a platform to deploy vibe-coding apps amid a changing internet</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_bd74b7cf0c1b</link>
+<guid isPermaLink="false">evt_bd74b7cf0c1b</guid>
+<pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
+<category>industry</category>
+<description>Automattic aims to compete with the likes of Lovable with Spacefast. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/</description>
+</item>
+<item>
+<title>Innovating with AI in the special chemicals industry</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_05bd9f0351a0</link>
+<guid isPermaLink="false">evt_05bd9f0351a0</guid>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<category>research</category>
+<description>As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed… — 来源：mit_tr_ai — 原文：https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/</description>
+</item>
+<item>
+<title>Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 "newspapers"[P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7edd2e98b132</link>
+<guid isPermaLink="false">evt_7edd2e98b132</guid>
+<pubDate>Mon, 09 Nov 2026 22:39:13 +0000</pubDate>
+<category>research</category>
+<description>A few weeks ago I posted the topic pages we built from 10 years of ICML/NeurIPS/ICLR/CVPR/AAAI papers. A bunch of you pointed out the obvious gap: the benchmark records and ablations stopped at 2025. That's fixed now. We've pulled results out of about 101k full texts (it was 79k when I posted), roughly a million "tried X, got Y" findings. 2026 is mostly covered: almost all of ICML, CVPR and AAAI, and about 4.1k of 5.4k ICLR papers. NeurIPS 2026 is only a bit over half done, mostly because a lot of the PDFs aren't public yet. Same example as last time, compact/efficient Gaussian splatting: http — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/</description>
 </item>
 <item>
 <title>[Dataset] israellaguan/codex-tool-use-trajectories</title>
@@ -104,6 +352,30 @@
 <description>厘清故事与现实的边界，回归投资与产业的底层逻辑。 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508690.html</description>
 </item>
 <item>
+<title>Why Is AI Slop So Frustrating to Read?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_daac70ad2b4a</link>
+<guid isPermaLink="false">evt_daac70ad2b4a</guid>
+<pubDate>Mon, 09 Nov 2026 23:21:45 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://zonderlabs.com/slop</description>
+</item>
+<item>
+<title>Sleep wearables are training AI on your brainwaves without explicit consent</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_731cb5af224f</link>
+<guid isPermaLink="false">evt_731cb5af224f</guid>
+<pubDate>Mon, 09 Nov 2026 18:29:41 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：arxiv · hackernews — 原文：https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested</description>
+</item>
+<item>
+<title>Google Gemini routes personal Drive files and emails to human annotators</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6df21e5a1561</link>
+<guid isPermaLink="false">evt_6df21e5a1561</guid>
+<pubDate>Mon, 09 Nov 2026 18:24:38 +0000</pubDate>
+<category>foundation_models</category>
+<description>Comments — 来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage · deepmind_blog — 原文：https://github.com/thisisme6598/gemini_files/</description>
+</item>
+<item>
 <title>L3大撤退！奔驰宝马官宣不玩了：还没L2好用</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f3a7a7e691b1</link>
 <guid isPermaLink="false">evt_f3a7a7e691b1</guid>
@@ -112,300 +384,28 @@
 <description>最早量产的亲自泼冷水 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508629.html</description>
 </item>
 <item>
-<title>当AI在加速狂奔，什么反而应该“慢”下来？</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_26f46239719c</link>
-<guid isPermaLink="false">evt_26f46239719c</guid>
-<pubDate>Mon, 09 Nov 2026 03:47:12 +0000</pubDate>
+<title>A year after the 100% AI mandate nobody understands our code</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5d3327229121</link>
+<guid isPermaLink="false">evt_5d3327229121</guid>
+<pubDate>Mon, 09 Nov 2026 22:19:12 +0000</pubDate>
 <category>industry</category>
-<description>“让人放心，把人放大。” — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508586.html</description>
+<description>来源：hackernews — 原文：https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/</description>
 </item>
 <item>
-<title>寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_377136af568c</link>
-<guid isPermaLink="false">evt_377136af568c</guid>
-<pubDate>Mon, 09 Nov 2026 02:19:08 +0000</pubDate>
-<category>industry</category>
-<description>11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508566.html</description>
-</item>
-<item>
-<title>Amazon applied science intern interview next week - EU based [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_298f7ab4fa1c</link>
-<guid isPermaLink="false">evt_298f7ab4fa1c</guid>
-<pubDate>Mon, 09 Nov 2026 06:31:34 +0000</pubDate>
-<category>science</category>
-<description>Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How  — 来源：verge_ai · arstechnica_ai · aws_ml · techcrunch_ai · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/</description>
-</item>
-<item>
-<title>黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0e5dccef67ce</link>
-<guid isPermaLink="false">evt_0e5dccef67ce</guid>
-<pubDate>Mon, 09 Nov 2026 00:40:50 +0000</pubDate>
-<category>industry</category>
-<description>英伟达暗盘跌2% — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508498.html</description>
-</item>
-<item>
-<title>When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_60872f7499e5</link>
-<guid isPermaLink="false">evt_60872f7499e5</guid>
-<pubDate>Mon, 09 Nov 2026 04:25:05 +0000</pubDate>
-<category>research</category>
-<description>LLM-based coding agents such as Claude Code are guided by repository instruction files (also called context files or agent configuration files) like AGENTS.md and CLAUDE.md, which are read in every agent session. As any documentation artifact, these files can fall behind the code and become stale (e.g., a test folder moves, but the file still points to the old one). In technical debt terms, such a stale instruction is documentation debt, and its interest is the cost it adds to every later agent session. Evaluations that check only task success can miss this cost, and the stale file can persist — 来源：github · hackernews · arxiv · simonwillison — 原文：https://arxiv.org/abs/2611.09802v1</description>
-</item>
-<item>
-<title>xerj-org/xerj — AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
-<guid isPermaLink="false">evt_7b187a5bdc28</guid>
-<pubDate>Sun, 08 Nov 2026 02:24:49 +0000</pubDate>
+<title>USB: A trust layer for AI skills and MCP servers</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_aecba22a59c0</link>
+<guid isPermaLink="false">evt_aecba22a59c0</guid>
+<pubDate>Mon, 09 Nov 2026 21:42:46 +0000</pubDate>
 <category>agents</category>
-<description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. · topics: agent-memory, ai-agents, bm25, claude-code, cli, code-search · ⭐ 18,580 · Rust — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/xerj-org/xerj</description>
+<description>来源：hackernews — 原文：https://github.com/PeepSick/usbplus</description>
 </item>
 <item>
-<title>ChatGPT Desktop forwards your SSH agent to remote machines</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cb08435a825e</link>
-<guid isPermaLink="false">evt_cb08435a825e</guid>
-<pubDate>Mon, 09 Nov 2026 08:17:49 +0000</pubDate>
-<category>foundation_models</category>
-<description>The agent running on a remote machine can authenticate using your local SSH credentials.&lt;p&gt;That means it can push to your private repos on GitHub, for example.&lt;p&gt;Proof: https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;openai&amp;#x2F;codex&amp;#x2F;pull&amp;#x2F;28131#discussion_r3410013180 — 来源：github · openai_blog · hackernews — 原文：https://news.ycombinator.com/item?id=50422628</description>
-</item>
-<item>
-<title>Apple is racing to make Siri more agentic</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ce0a393f5bc7</link>
-<guid isPermaLink="false">evt_ce0a393f5bc7</guid>
-<pubDate>Sun, 08 Nov 2026 19:18:19 +0000</pubDate>
-<category>agents</category>
-<description>Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</description>
-</item>
-<item>
-<title>Elvis and Eminem rights holders are suing Suno</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_16495ea32bd4</link>
-<guid isPermaLink="false">evt_16495ea32bd4</guid>
-<pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
+<title>M4 Pro vs. M5 Pro (24GB): Qwen 3.8 Flash Next at 374 Tok/S Prefill with MoEShift</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a87dcd02fad1</link>
+<guid isPermaLink="false">evt_a87dcd02fad1</guid>
+<pubDate>Mon, 09 Nov 2026 21:37:55 +0000</pubDate>
 <category>industry</category>
-<description>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […] — 来源：verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</description>
-</item>
-<item>
-<title>Apple capped engineers at a $200 daily AI budget</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa3b92b87c68</link>
-<guid isPermaLink="false">evt_aa3b92b87c68</guid>
-<pubDate>Mon, 09 Nov 2026 05:30:11 +0000</pubDate>
-<category>industry</category>
-<description>来源：techcrunch_ai · hackernews — 原文：https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1</description>
-</item>
-<item>
-<title>OpenMontageInc/OpenMontage — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and pr</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_53d590241935</link>
-<guid isPermaLink="false">evt_53d590241935</guid>
-<pubDate>Sun, 08 Nov 2026 00:41:52 +0000</pubDate>
-<category>agents</category>
-<description>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · topics: agent, agentic-ai, ai, claude, copilot, cursor · ⭐ 78,336 · Python — 来源：github — 原文：https://github.com/OpenMontageInc/OpenMontage</description>
-</item>
-<item>
-<title>The Web Is More Than Enough, by Paul Ford</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2382673acb37</link>
-<guid isPermaLink="false">evt_2382673acb37</guid>
-<pubDate>Mon, 09 Nov 2026 04:32:33 +0000</pubDate>
-<category>foundation_models</category>
-<description>My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it had built it, and got this: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (98KB) They aren't identical - you can see what Claude said about that in the transcript (I don't fully unde — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/9/hn-50421091/</description>
-</item>
-<item>
-<title>ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_983d9f665ef9</link>
-<guid isPermaLink="false">evt_983d9f665ef9</guid>
-<pubDate>Sun, 08 Nov 2026 17:43:26 +0000</pubDate>
-<category>research</category>
-<description>Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypothetical zeolite structures are known, identifying materials optimized for a target application remains challenging because property labels are expensive to obtain and available only for limited structure-molecule pairs. While prior work has demonstrated that 3D neural representations can predict zeolite properties effectively, it remains unclear which representation-learning strategies are most eff — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.09880v1</description>
-</item>
-<item>
-<title>Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_86e5193269dc</link>
-<guid isPermaLink="false">evt_86e5193269dc</guid>
-<pubDate>Mon, 09 Nov 2026 03:41:21 +0000</pubDate>
-<category>agents</category>
-<description>Can the same coding agent build a detailed 3D object, assemble a scene, and make an interactive world actually work? Our team at Einsia released Frontier3DBench to test that progression: 145 tasks across 9 categories, with 11 model–harness configurations producing editable Blender projects and runnable Unreal Engine worlds. Evaluation covers appearance, structure, and behavior through rendered views, scene inspection, and runtime tests. A few results: GPT-6.1-sol leads overall and on objects and scenes, while GPT-6-astra leads interactive worlds. MiniMax-M3.1-Flash ranks sixth overall but seco — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/</description>
-</item>
-<item>
-<title>Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c88eb98b7d5c</link>
-<guid isPermaLink="false">evt_c88eb98b7d5c</guid>
-<pubDate>Mon, 09 Nov 2026 03:06:55 +0000</pubDate>
-<category>open_source</category>
-<description>来源：hackernews — 原文：https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/</description>
-</item>
-<item>
-<title>LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8bbb0e572bc4</link>
-<guid isPermaLink="false">evt_8bbb0e572bc4</guid>
-<pubDate>Mon, 09 Nov 2026 00:30:07 +0000</pubDate>
-<category>infrastructure</category>
-<description>I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026). It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0.6B) with LoRA: a PT adapter that learns the text format, and an SFT adapter that conditions on a caption. The text is one root line ("a &lt;part&gt; | &lt;colour&gt;"), then repeated pairs of a node line and an edge line. Setup: I merge PT, then SFT (peft merge_and_unload, bf16) and prompt with the caption tokens plus a newline token. That matches train.py, which trains on caption + "\n" + path + EOS with loss on the path only. Problem: with short captions (e.g — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/</description>
-</item>
-<item>
-<title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1de98537a9e6</link>
-<guid isPermaLink="false">evt_1de98537a9e6</guid>
-<pubDate>Sun, 08 Nov 2026 12:41:25 +0000</pubDate>
-<category>industry</category>
-<description>来源：verge_ai · hackernews — 原文：https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</description>
-</item>
-<item>
-<title>Six GPUs on One X16 Slot: R9700s and RTX 3090s Behind a PCIe Switch</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_786981bf015f</link>
-<guid isPermaLink="false">evt_786981bf015f</guid>
-<pubDate>Sun, 08 Nov 2026 22:52:07 +0000</pubDate>
-<category>infrastructure</category>
-<description>来源：hackernews · hn_frontpage — 原文：https://doug.sh/posts/six-gpus-one-x16-slot/</description>
-</item>
-<item>
-<title>I'm Not Convinced the AI Bubble Exists</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4717b7762b7</link>
-<guid isPermaLink="false">evt_b4717b7762b7</guid>
-<pubDate>Sun, 08 Nov 2026 23:44:36 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists</description>
-</item>
-<item>
-<title>Autonomous Whole-body Loco-manipulation Using a Snake Robot</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0f99f7fd87d2</link>
-<guid isPermaLink="false">evt_0f99f7fd87d2</guid>
-<pubDate>Fri, 06 Nov 2026 21:03:00 +0000</pubDate>
-<category>robotics</category>
-<description>Snake robots can leverage their hyper-redundant morphology for both locomotion and manipulation through distributed body contact but whole-body loco-manipulation is particularly challenging since the entire body serves simultaneously as propulsive mechanism and manipulation tool Prior work on wheeled legged and snake robot platforms has decoupled these functions through dedicated appendages body segmentation or grippers We present closed-loop loco-manipulation with our snake robot COBRA without this distinction such that any part of the body may make contact We develop a contact-implicit dynam — 来源：arxiv · hackernews · huggingface — 原文：https://arxiv.org/abs/2611.09777v1</description>
-</item>
-<item>
-<title>How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9c7e75a27e82</link>
-<guid isPermaLink="false">evt_9c7e75a27e82</guid>
-<pubDate>Sun, 08 Nov 2026 21:41:44 +0000</pubDate>
-<category>industry</category>
-<description>What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco. — 来源：latent_space — 原文：https://latent.space/p/cs146s/</description>
-</item>
-<item>
-<title>Syn2DRE: Synergistic Dual Teacher-Student Framework for Document-level Relation Extraction</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5bc0a248a3e1</link>
-<guid isPermaLink="false">evt_5bc0a248a3e1</guid>
-<pubDate>Fri, 06 Nov 2026 20:22:25 +0000</pubDate>
-<category>research</category>
-<description>Document-level Relation Extraction (DocRE) aims to identify relations between entities across a document but typically relies on costly large-scale annotations. While pseudo-labelling enables the use of low-quality data, existing methods often suffer from inefficiency and confirmation bias. To address these challenges, we propose Syn2DRE, a semi-supervised framework that combines self-supervised learning with cross-supervision in a lightweight teacher-student architecture to produce more reliable pseudo-labels. Additionally, we introduce a unified end-to-end training strategy to further improv — 来源：arxiv · nvidia_blog · reddit_ml — 原文：https://arxiv.org/abs/2611.09342v1</description>
-</item>
-<item>
-<title>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_233409616a1b</link>
-<guid isPermaLink="false">evt_233409616a1b</guid>
-<pubDate>Mon, 09 Nov 2026 05:11:45 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 1,530,688 · 收藏 2,737 — 来源：huggingface — 原文：https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF</description>
-</item>
-<item>
-<title>How I Fight AI Brain Fry</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_45fb196cb1bb</link>
-<guid isPermaLink="false">evt_45fb196cb1bb</guid>
-<pubDate>Sun, 08 Nov 2026 19:37:42 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://sergeykuhne.com/blog/fighting-ai-brain-fry</description>
-</item>
-<item>
-<title>资本正在撤离“世界模型”</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_11d5c12583f3</link>
-<guid isPermaLink="false">evt_11d5c12583f3</guid>
-<pubDate>Sun, 08 Nov 2026 04:09:55 +0000</pubDate>
-<category>industry</category>
-<description>没有永远的夏天 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/508466.html</description>
-</item>
-<item>
-<title>Etsy changes terms to train AI on your creations, while blocking you doing it [video]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2deccc759682</link>
-<guid isPermaLink="false">evt_2deccc759682</guid>
-<pubDate>Sun, 08 Nov 2026 19:14:41 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.youtube.com/watch?v=zrlLUUdqDJI</description>
-</item>
-<item>
-<title>Changing one letter bypassed an admin API in HuggingFace</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
-<guid isPermaLink="false">evt_a55665cf4895</guid>
-<pubDate>Sun, 08 Nov 2026 00:06:59 +0000</pubDate>
-<category>industry</category>
-<description>来源：hf_blog · hackernews — 原文：https://twitter.com/v12sec/status/2118442075574464848</description>
-</item>
-<item>
-<title>Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_30d0aa07ad36</link>
-<guid isPermaLink="false">evt_30d0aa07ad36</guid>
-<pubDate>Sun, 08 Nov 2026 18:43:07 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</description>
-</item>
-<item>
-<title>Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6a55bde5ae7e</link>
-<guid isPermaLink="false">evt_6a55bde5ae7e</guid>
-<pubDate>Sun, 08 Nov 2026 17:54:43 +0000</pubDate>
-<category>open_source</category>
-<description>hey, its Alti from Nace. we released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are available on hf. We also released a full playbook on how we trained Drex Max in this paper: “ Towards Foundation Decision Models: Drex” hf: https://huggingface.co/papers/2611.07854 arXiv: https://arxiv.org/pdf/2611.07854 https://preview.redd.it/7fcznstvff0i1.png?width=2000&amp;format=png&amp;auto=webp&amp;s=6dc7912679a84164b6e4de9601cd67f41b5ca6a0 Drex Max v1 is weights are a — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/</description>
-</item>
-<item>
-<title>AI stance is not binary</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2be8aaa8f51a</link>
-<guid isPermaLink="false">evt_2be8aaa8f51a</guid>
-<pubDate>Sun, 08 Nov 2026 14:24:58 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://carette.xyz/posts/ai-stance-is-not-binary/</description>
-</item>
-<item>
-<title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_841c3ce16d85</link>
-<guid isPermaLink="false">evt_841c3ce16d85</guid>
-<pubDate>Fri, 06 Nov 2026 17:09:23 +0000</pubDate>
-<category>agents</category>
-<description>An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority. — 来源：aws_ml · microsoft_research — 原文：https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/</description>
-</item>
-<item>
-<title>Intent-Aware Caching for Efficient LLM Serving</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b409dc7b8493</link>
-<guid isPermaLink="false">evt_b409dc7b8493</guid>
-<pubDate>Sat, 07 Nov 2026 00:03:35 +0000</pubDate>
-<category>research</category>
-<description>Modern LLM serving systems use prefix caching to accelerate multi-turn conversational workloads. They cache the key-value states of previous conversation prefixes and reuse them when subsequent requests share the same prefix, to avoid redundant prefill computation and reduce serving latency. However, achieving a high cache hit rate remains challenging because cache reuse depends on whether a conversation continues and how soon the next turn arrives. Our analysis of real workloads shows that user intent is a useful signal for this behavior, as different intents exhibit different continuation pr — 来源：github · arxiv · simonwillison · reddit_ml — 原文：https://arxiv.org/abs/2611.09715v1</description>
-</item>
-<item>
-<title>The end of Microsoft Research's AI Frontiers group</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_226920e9034a</link>
-<guid isPermaLink="false">evt_226920e9034a</guid>
-<pubDate>Sat, 07 Nov 2026 18:02:17 +0000</pubDate>
-<category>research</category>
-<description>Comments — 来源：arxiv · verge_ai · hackernews · hn_frontpage — 原文：https://hunch.net/?p=13764006</description>
-</item>
-<item>
-<title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d44fec61ccb7</link>
-<guid isPermaLink="false">evt_d44fec61ccb7</guid>
-<pubDate>Sat, 07 Nov 2026 22:07:22 +0000</pubDate>
-<category>industry</category>
-<description>On Equity, we unpacked what the midterms mean for the tech industry. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</description>
-</item>
-<item>
-<title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2c93e9013ac1</link>
-<guid isPermaLink="false">evt_2c93e9013ac1</guid>
-<pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
-<category>open_source</category>
-<description>A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</description>
-</item>
-<item>
-<title>[Dataset] codepawl/plateau-city-glb</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3450180b19fa</link>
-<guid isPermaLink="false">evt_3450180b19fa</guid>
-<pubDate>Sat, 07 Nov 2026 06:43:50 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 1,850 · 收藏 24 — 来源：huggingface — 原文：https://huggingface.co/datasets/codepawl/plateau-city-glb</description>
-</item>
-<item>
-<title>[R] Pre-registered replication of "Dreaming neural networks" (Hopfield unlearning, Fachechi et al. 2019) — submitted to ReScience C, code + data + pre-registrations public [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0e1329fcd6f6</link>
-<guid isPermaLink="false">evt_0e1329fcd6f6</guid>
-<pubDate>Sun, 08 Nov 2026 11:20:10 +0000</pubDate>
-<category>open_source</category>
-<description>I re-implemented the dreaming (Hebbian-unlearning) Hopfield kernel J(t) = J(1+t)(1+tJ)^-1 from Fachechi, Agliari &amp; Barra (Neural Networks 2019) in NumPy, at N = 1 000, 10 seeds per condition, with a pre-registered design frozen by git tags before each run. Main result: dreaming at t = 10 multiplies empirical capacity by 3.86 [3.79, 3.93]; 9.06 on correlated patterns (ancestor overlap 0.15). I added a matched uniform-shrink control absent from the original paper, which separates "dreaming works" from "shrinking the coupling works". One registered condition (overlap 0.30) is reported as inconclu — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xqw77i/r_preregistered_replication_of_dreaming_neural/</description>
+<description>来源：hackernews — 原文：https://github.com/davide-troiani/moeshift</description>
 </item>
 </channel>
 </rss>

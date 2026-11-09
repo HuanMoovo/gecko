@@ -5,8 +5,56 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 09 Nov 2026 03:54:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 12:23:35 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a24fdfddefa6</link>
+<guid isPermaLink="false">evt_a24fdfddefa6</guid>
+<pubDate>Mon, 09 Nov 2026 08:00:53 +0000</pubDate>
+<category>industry</category>
+<description>Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […] — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/korean-startup-investments-msit/</description>
+</item>
+<item>
+<title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b3a357762c2</link>
+<guid isPermaLink="false">evt_0b3a357762c2</guid>
+<pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
+<category>infrastructure</category>
+<description>NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […] — 来源：verge_ai · hackernews · nvidia_blog · arxiv — 原文：https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</description>
+</item>
+<item>
+<title>Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_42f4810ce572</link>
+<guid isPermaLink="false">evt_42f4810ce572</guid>
+<pubDate>Mon, 09 Nov 2026 05:00:39 +0000</pubDate>
+<category>agents</category>
+<description>As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […] — 来源：simonwillison · techcrunch_ai · arxiv · nvidia_blog — 原文：https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</description>
+</item>
+<item>
+<title>NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ac7cead62031</link>
+<guid isPermaLink="false">evt_ac7cead62031</guid>
+<pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+<category>infrastructure</category>
+<description>NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […] — 来源：github · nvidia_blog — 原文：https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</description>
+</item>
+<item>
+<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
+<guid isPermaLink="false">evt_dee4ed090932</guid>
+<pubDate>Mon, 09 Nov 2026 08:34:03 +0000</pubDate>
+<category>research</category>
+<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
+</item>
+<item>
+<title>“AI毁了我的计算机学位”</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
+<guid isPermaLink="false">evt_5186d80b7eef</guid>
+<pubDate>Mon, 09 Nov 2026 08:57:20 +0000</pubDate>
+<category>foundation_models</category>
+<description>教授也用Claude糊弄… — 来源：hn_frontpage · hackernews · simonwillison · qbitai — 原文：https://www.qbitai.com/2026/11/508706.html</description>
+</item>
 <item>
 <title>Nvidia launches investigation into CEO's affair with suspected Chinese spy</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
@@ -16,44 +64,20 @@
 <description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai · techcrunch_ai — 原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no</description>
 </item>
 <item>
-<title>autotrust/Qwen3.8-Flash-Next-E384-FP4-V2</title>
+<title>DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4c35a47638c4</link>
 <guid isPermaLink="false">evt_4c35a47638c4</guid>
-<pubDate>Sun, 08 Nov 2026 22:32:57 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 05:11:25 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 42,718 · 收藏 2,370 — 来源：huggingface — 原文：https://huggingface.co/autotrust/Qwen3.8-Flash-Next-E384-FP4-V2</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 2,082,419 · 收藏 1,488 — 来源：huggingface · arxiv — 原文：https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF</description>
 </item>
 <item>
-<title>Here’s the full text of Jensen Huang’s memo to Nvidia</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b3a357762c2</link>
-<guid isPermaLink="false">evt_0b3a357762c2</guid>
-<pubDate>Sun, 08 Nov 2026 22:54:50 +0000</pubDate>
-<category>agents</category>
-<description>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […] — 来源：verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</description>
-</item>
-<item>
-<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
-<guid isPermaLink="false">evt_dee4ed090932</guid>
-<pubDate>Sun, 08 Nov 2026 10:33:56 +0000</pubDate>
-<category>research</category>
-<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
-</item>
-<item>
-<title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
-<guid isPermaLink="false">evt_5186d80b7eef</guid>
-<pubDate>Sun, 08 Nov 2026 22:26:00 +0000</pubDate>
+<title>腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f031b2d28907</link>
+<guid isPermaLink="false">evt_f031b2d28907</guid>
+<pubDate>Mon, 09 Nov 2026 08:44:00 +0000</pubDate>
 <category>foundation_models</category>
-<description>来源：hn_frontpage · hackernews · simonwillison — 原文：https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</description>
-</item>
-<item>
-<title>xerj-org/xerj — AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7b187a5bdc28</link>
-<guid isPermaLink="false">evt_7b187a5bdc28</guid>
-<pubDate>Sun, 08 Nov 2026 02:24:49 +0000</pubDate>
-<category>agents</category>
-<description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. · topics: agent-memory, ai-agents, bm25, claude-code, cli, code-search · ⭐ 18,580 · Rust — 来源：techcrunch_ai · verge_ai · hackernews · github · hn_frontpage — 原文：https://github.com/xerj-org/xerj</description>
+<description>来源：qbitai — 原文：https://www.qbitai.com/2026/11/507843.html</description>
 </item>
 </channel>
 </rss>

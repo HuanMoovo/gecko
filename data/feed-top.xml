@@ -5,15 +5,39 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 10 Nov 2026 15:58:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 21:41:06 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Google Cloud launches Gemini for healthcare.</title>
+<title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_02e4a20d191a</link>
 <guid isPermaLink="false">evt_02e4a20d191a</guid>
-<pubDate>Tue, 10 Nov 2026 15:40:36 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 20:09:44 +0000</pubDate>
 <category>foundation_models</category>
-<description>Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works. — 来源：google_ai_blog · deepmind_blog · github — 原文：https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/</description>
+<description>Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of "cybersecurity defenders" two weeks ago. Google claims Carbon is its "strongest model" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon "pushes […] — 来源：google_ai_blog · deepmind_blog · github · verge_ai · simonwillison — 原文：https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</description>
+</item>
+<item>
+<title>NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a24fdfddefa6</link>
+<guid isPermaLink="false">evt_a24fdfddefa6</guid>
+<pubDate>Tue, 10 Nov 2026 20:26:24 +0000</pubDate>
+<category>open_source</category>
+<description>Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […] — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/</description>
+</item>
+<item>
+<title>Anthropic has its own AI-powered office suite now</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd4da662fab5</link>
+<guid isPermaLink="false">evt_dd4da662fab5</guid>
+<pubDate>Tue, 10 Nov 2026 20:52:13 +0000</pubDate>
+<category>foundation_models</category>
+<description>For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […] — 来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage · simonwillison — 原文：https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</description>
+</item>
+<item>
+<title>Gemini Intelligence: New features, on more devices</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b73105fe4ec5</link>
+<guid isPermaLink="false">evt_b73105fe4ec5</guid>
+<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more. — 来源：google_ai_blog · hackernews — 原文：https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</description>
 </item>
 <item>
 <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
@@ -24,12 +48,60 @@
 <description>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption. — 来源：deepmind_blog · techcrunch_ai — 原文：https://deepmind.google/blog/introducing-alphaproof-code/</description>
 </item>
 <item>
+<title>OpenAI Acquires Odessia, travel startup created by Sonder founder</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
+<guid isPermaLink="false">evt_f37b680abcf7</guid>
+<pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
+<category>industry</category>
+<description>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry. — 来源：openai_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</description>
+</item>
+<item>
+<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
+<guid isPermaLink="false">evt_dee4ed090932</guid>
+<pubDate>Tue, 10 Nov 2026 18:01:15 +0000</pubDate>
+<category>research</category>
+<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
+</item>
+<item>
+<title>How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_03ab27d2bc45</link>
+<guid isPermaLink="false">evt_03ab27d2bc45</guid>
+<pubDate>Tue, 10 Nov 2026 18:11:08 +0000</pubDate>
+<category>agents</category>
+<description>Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/</description>
+</item>
+<item>
+<title>eBay appears to have shut the door on third-party AI agents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b3a357762c2</link>
+<guid isPermaLink="false">evt_0b3a357762c2</guid>
+<pubDate>Tue, 10 Nov 2026 16:20:30 +0000</pubDate>
+<category>agents</category>
+<description>eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […] — 来源：verge_ai · hackernews · nvidia_blog · arxiv · techcrunch_ai — 原文：https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</description>
+</item>
+<item>
+<title>Anthropic to Seek $1.3T Valuation in IPO</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d62fbfe2fc04</link>
+<guid isPermaLink="false">evt_d62fbfe2fc04</guid>
+<pubDate>Tue, 10 Nov 2026 19:56:11 +0000</pubDate>
+<category>industry</category>
+<description>来源：latent_space · techcrunch_ai · verge_ai · hackernews — 原文：https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669</description>
+</item>
+<item>
 <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5186d80b7eef</link>
 <guid isPermaLink="false">evt_5186d80b7eef</guid>
 <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
 <category>foundation_models</category>
 <description>Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today's other big model release, Claude Fable 5.2, is 80x that price at $8/$40. The pricing is — 来源：hn_frontpage · hackernews · simonwillison · qbitai · aws_ml — 原文：https://simonwillison.net/2026/Nov/10/muse-ember/</description>
+</item>
+<item>
+<title>Comfy-Org/MiniMax-H3-Image</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a1ec3870cc46</link>
+<guid isPermaLink="false">evt_a1ec3870cc46</guid>
+<pubDate>Tue, 10 Nov 2026 16:04:39 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-to-image · 下载 18 · 收藏 126 — 来源：arxiv · huggingface — 原文：https://huggingface.co/Comfy-Org/MiniMax-H3-Image</description>
 </item>
 <item>
 <title>Helping caregivers use AI in everyday life</title>
@@ -40,6 +112,14 @@
 <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life. — 来源：openai_blog — 原文：https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</description>
 </item>
 <item>
+<title>Life on Claude Nine</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a699cca17620</link>
+<guid isPermaLink="false">evt_a699cca17620</guid>
+<pubDate>Tue, 10 Nov 2026 17:44:44 +0000</pubDate>
+<category>foundation_models</category>
+<description>Comments — 来源：github · simonwillison · hn_frontpage — 原文：https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html</description>
+</item>
+<item>
 <title>Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f9ddc69f8317</link>
 <guid isPermaLink="false">evt_f9ddc69f8317</guid>
@@ -48,20 +128,28 @@
 <description>Adobe is taking on Figma with a new prototype builder tool in Firefly. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/</description>
 </item>
 <item>
-<title>llm-anthropic 0.31</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd4da662fab5</link>
-<guid isPermaLink="false">evt_dd4da662fab5</guid>
-<pubDate>Mon, 09 Nov 2026 23:58:46 +0000</pubDate>
-<category>foundation_models</category>
-<description>Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 "Generate an SVG of a pelican riding a bicycle" I ran pelicans at all five reasoning levels - low , medium , high , xhigh , and max . You can see them all here - here's the best result I got, from xhigh : max failed to return an image at all, running out of tokens after spending 128,000 thinking about them . That's the — 来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage · simonwillison — 原文：https://simonwillison.net/2026/Nov/9/llm-anthropic/</description>
+<title>unsloth/Qwen3.8-27B-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_233409616a1b</link>
+<guid isPermaLink="false">evt_233409616a1b</guid>
+<pubDate>Tue, 10 Nov 2026 16:25:11 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · model · 下载 5,952,713 · 收藏 5,640 — 来源：huggingface — 原文：https://huggingface.co/unsloth/Qwen3.8-27B-GGUF</description>
 </item>
 <item>
-<title>Meta releases Muse Ember, a new lightweight model for agent execution</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b3a357762c2</link>
-<guid isPermaLink="false">evt_0b3a357762c2</guid>
-<pubDate>Mon, 09 Nov 2026 23:47:46 +0000</pubDate>
+<title>OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_445fc6287a33</link>
+<guid isPermaLink="false">evt_445fc6287a33</guid>
+<pubDate>Tue, 10 Nov 2026 18:49:52 +0000</pubDate>
+<category>foundation_models</category>
+<description>OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that. — 来源：techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/</description>
+</item>
+<item>
+<title>World In-Context Learning for Agentic Robot Manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0c600aca3176</link>
+<guid isPermaLink="false">evt_0c600aca3176</guid>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
 <category>agents</category>
-<description>At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna. — 来源：verge_ai · hackernews · nvidia_blog · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</description>
+<description>Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. Based on this insight, we propose World In-Context Learning (WICL), a paradigm in  — 来源：github · verge_ai · arxiv — 原文：https://arxiv.org/abs/2611.12885v1</description>
 </item>
 <item>
 <title>Introducing Usul - an easier way to express your NN using maths? [P]</title>
@@ -80,52 +168,36 @@
 <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team. — 来源：aws_ml · openai_blog — 原文：https://openai.com/index/coderabbit-codex-daybreak</description>
 </item>
 <item>
-<title>Work at the Frontier: AI’s effect on freelance work</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
-<guid isPermaLink="false">evt_f37b680abcf7</guid>
-<pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
-<category>research</category>
-<description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects. — 来源：openai_blog — 原文：https://openai.com/index/ai-effect-on-freelance-work</description>
-</item>
-<item>
-<title>Anthropic targets $1.4 trillion IPO</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d62fbfe2fc04</link>
-<guid isPermaLink="false">evt_d62fbfe2fc04</guid>
-<pubDate>Tue, 10 Nov 2026 14:06:54 +0000</pubDate>
-<category>industry</category>
-<description>Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Street Journal reports […] — 来源：latent_space · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion</description>
-</item>
-<item>
-<title>RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dee4ed090932</link>
-<guid isPermaLink="false">evt_dee4ed090932</guid>
-<pubDate>Tue, 10 Nov 2026 12:05:13 +0000</pubDate>
-<category>research</category>
-<description>Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled within a Markovian framework. However, they assume a labelling function, a proposition-grounding oracle for observations, which must be manually engineered for each environment, limiting their wider applicability. In this work, we address this limitation by proposing RM-VLM, a novel approach in which a l — 来源：qbitai · hackernews · techcrunch_ai · github · hn_frontpage · arxiv — 原文：https://arxiv.org/abs/2611.08308v1</description>
-</item>
-<item>
-<title>Anthropic launches roadshow for proposed initial public offering</title>
+<title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1de98537a9e6</link>
 <guid isPermaLink="false">evt_1de98537a9e6</guid>
-<pubDate>Tue, 10 Nov 2026 14:01:39 +0000</pubDate>
-<category>industry</category>
-<description>来源：verge_ai · hackernews · techcrunch_ai — 原文：https://www.anthropic.com/news/roadshow-launch</description>
-</item>
-<item>
-<title>Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a24fdfddefa6</link>
-<guid isPermaLink="false">evt_a24fdfddefa6</guid>
-<pubDate>Mon, 09 Nov 2026 22:23:42 +0000</pubDate>
-<category>robotics</category>
-<description>Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […] — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</description>
-</item>
-<item>
-<title>Quoting Prompting Claude Fable 5.2</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a699cca17620</link>
-<guid isPermaLink="false">evt_a699cca17620</guid>
-<pubDate>Tue, 10 Nov 2026 05:34:14 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
 <category>foundation_models</category>
-<description>Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the code is its own: This codebase is yours: what it's for and how it's built are your call, and you'll keep building on it. In Anthropic’s testing on small coding tasks, the model merged repeated code in  — 来源：github · simonwillison — 原文：https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</description>
+<description>As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</description>
+</item>
+<item>
+<title>Nvidia launches investigation into CEO's affair with suspected Chinese spy</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
+<guid isPermaLink="false">evt_588776d5fd50</guid>
+<pubDate>Tue, 10 Nov 2026 17:04:19 +0000</pubDate>
+<category>industry</category>
+<description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai · techcrunch_ai — 原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no</description>
+</item>
+<item>
+<title>Sleep wearables are training AI on your brainwaves without explicit consent</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_731cb5af224f</link>
+<guid isPermaLink="false">evt_731cb5af224f</guid>
+<pubDate>Tue, 10 Nov 2026 18:33:17 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：arxiv · hackernews — 原文：https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested</description>
+</item>
+<item>
+<title>ChatGPT is getting verified AI ‘Business Agents’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cb08435a825e</link>
+<guid isPermaLink="false">evt_cb08435a825e</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
+<category>foundation_models</category>
+<description>ChatGPT is going to let you chat with verified "Business Agents" that represent a brand to help you with things like comparison shopping. The feature, available first to "eligible" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […] — 来源：github · openai_blog · hackernews · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</description>
 </item>
 <item>
 <title>Agentic Attribution of Cloud Resource Ownership</title>
@@ -136,12 +208,12 @@
 <description>Security tools raise findings across cloud environments, and AI agents now investigate and prioritize them. A finding is still resolved by people: it has to reach the people responsible for fixing it and accountable for the resource it concerns. Ownership is the organizational context that decides who that is. Where recorded, it is declared by hand in configuration management databases or owner tags and goes stale unless kept current; accounts are shared, and automation creates much of the infrastructure. The knowledge sits in work records, code history, audit logs and identity directories, en — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.11340v1</description>
 </item>
 <item>
-<title>DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_233409616a1b</link>
-<guid isPermaLink="false">evt_233409616a1b</guid>
-<pubDate>Tue, 10 Nov 2026 06:54:00 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 29,806 · 收藏 85 — 来源：huggingface — 原文：https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF</description>
+<title>Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0f99f7fd87d2</link>
+<guid isPermaLink="false">evt_0f99f7fd87d2</guid>
+<pubDate>Tue, 10 Nov 2026 10:25:58 +0000</pubDate>
+<category>research</category>
+<description>The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two frameworks for extracting disassembly instructions from unstructured information sources, such as disassembly manuals. Our goal is to transform natural language text into a structured, curated and machine-readable format. We implemented and tested a rule-based Natural Language Processing (NLP) framework against a generative AI framework leveraging LLMs. The performance of both — 来源：arxiv · hackernews · huggingface — 原文：https://arxiv.org/abs/2611.12816v1</description>
 </item>
 <item>
 <title>How skills and agents work in AWS Quick</title>
@@ -150,6 +222,14 @@
 <pubDate>Tue, 10 Nov 2026 00:21:34 +0000</pubDate>
 <category>agents</category>
 <description>Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/</description>
+</item>
+<item>
+<title>Pay for Hugging Face Hub with your Google Cloud Account</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3229de0d9192</link>
+<guid isPermaLink="false">evt_3229de0d9192</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<category>open_source</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/hub-gcp-marketplace</description>
 </item>
 <item>
 <title>Meta’s AI agent Muse lands on Apple Watch and Android Wear OS</title>
@@ -166,86 +246,6 @@
 <pubDate>Mon, 09 Nov 2026 23:28:00 +0000</pubDate>
 <category>research</category>
 <description>We study online reinforcement learning for the stochastic shortest path (SSP) problem with unknown transition dynamics. Although existing posterior-sampling methods perform well empirically on SSPs, their regret guarantees do not achieve the minimax-optimal order. We address this limitation by proposing OPSRL-SSP, an optimistic posterior-sampling algorithm for the SSP setting. The algorithm operates in epochs and uses a logarithmic, time-dependent schedule for the number of posterior samples. To induce optimism, we augment the transition model with a pseudo-state assigned an optimistic boundar — 来源：huggingface · arxiv — 原文：https://arxiv.org/abs/2611.11337v1</description>
-</item>
-<item>
-<title>Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_586df0c94182</link>
-<guid isPermaLink="false">evt_586df0c94182</guid>
-<pubDate>Mon, 09 Nov 2026 20:13:18 +0000</pubDate>
-<category>agents</category>
-<description>Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant. — 来源：hackernews · arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/</description>
-</item>
-<item>
-<title>How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_03ab27d2bc45</link>
-<guid isPermaLink="false">evt_03ab27d2bc45</guid>
-<pubDate>Mon, 09 Nov 2026 18:55:43 +0000</pubDate>
-<category>agents</category>
-<description>CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/</description>
-</item>
-<item>
-<title>Unmasking Four Knapsack Problems in the Traveling Thief Benchmark</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7edd2e98b132</link>
-<guid isPermaLink="false">evt_7edd2e98b132</guid>
-<pubDate>Mon, 09 Nov 2026 22:39:13 +0000</pubDate>
-<category>research</category>
-<description>The traveling thief problem (TTP) asks a thief to choose a tour and a packing together, and the benchmark of 9,720 instances of Polyakovskiy et al. (2014) is the standard test set for comparing TTP heuristics. We show that four of these instances are not TTP instances at all. Their files give a renting rate of 0.00, so the tour has no effect on the objective and each instance reduces to a 0-1 knapsack problem. One of them belongs to the 60 categorized instances on which new methods are usually compared, and on it five of nine published methods report exactly the same value. The cause is the fo — 来源：arxiv · reddit_ml — 原文：https://arxiv.org/abs/2611.12597v1</description>
-</item>
-<item>
-<title>Adobe is going all in on agentic AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0c600aca3176</link>
-<guid isPermaLink="false">evt_0c600aca3176</guid>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<category>agents</category>
-<description>Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […] — 来源：github · verge_ai — 原文：https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</description>
-</item>
-<item>
-<title>Nvidia launches investigation into CEO's affair with suspected Chinese spy</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_588776d5fd50</link>
-<guid isPermaLink="false">evt_588776d5fd50</guid>
-<pubDate>Mon, 09 Nov 2026 22:46:09 +0000</pubDate>
-<category>industry</category>
-<description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai · techcrunch_ai — 原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no</description>
-</item>
-<item>
-<title>Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e1c2f84479d3</link>
-<guid isPermaLink="false">evt_e1c2f84479d3</guid>
-<pubDate>Mon, 09 Nov 2026 18:59:54 +0000</pubDate>
-<category>agents</category>
-<description>Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. First, Ground-Drop-GRPO (GD-GRPO) trains spatial and temporal specialists with evidence-aware rewards  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.12886v1</description>
-</item>
-<item>
-<title>More Than Just Style: Benchmarking Personality Influence in Large Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ef4096955370</link>
-<guid isPermaLink="false">evt_ef4096955370</guid>
-<pubDate>Mon, 09 Nov 2026 18:59:36 +0000</pubDate>
-<category>research</category>
-<description>In addition to the effects of explicit input prompts and instructions, large language model outputs are influenced by underlying behavioral preferences similar to human personality tendencies. These tendencies can affect how models interpret situations and make decisions. However, their influence is difficult to disentangle from the effects of model capabilities and instructions. Therefore, we introduce SPACE, a benchmark framework combining a controlled evaluation protocol with complementary datasets for personality verification, capability assessment, and hierarchical situational tasks. Cont — 来源：arxiv — 原文：https://arxiv.org/abs/2611.12392v1</description>
-</item>
-<item>
-<title>Plant Orbiter: 3D Plant Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D Gaussian Splatting</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_512c96a03e06</link>
-<guid isPermaLink="false">evt_512c96a03e06</guid>
-<pubDate>Mon, 09 Nov 2026 18:59:13 +0000</pubDate>
-<category>research</category>
-<description>Modern digital phenotyping pipelines require the precise measurement of a range of 3D morphological plant traits. The accurate, high throughput acquisition of these traits helps breeders and researchers accelerate the development of new varieties, techniques and products. Recent advances in 3D technologies have enabled a rapid transition from 2D to 3D pipelines, but high throughput acquisition of digital 3D twins of plants remains a significant challenge due to complex morphology, thin structures and occlusions. In this paper we present Plant Orbiter, a new approach to generating 3D plants tha — 来源：arxiv — 原文：https://arxiv.org/abs/2611.12739v1</description>
-</item>
-<item>
-<title>LongSCOP: Semantically Consistent Long Video Outpainting</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1e58a99719aa</link>
-<guid isPermaLink="false">evt_1e58a99719aa</guid>
-<pubDate>Mon, 09 Nov 2026 18:57:00 +0000</pubDate>
-<category>research</category>
-<description>Video out-painting is an important problem, yet existing research focuses primarily on short clips, leaving long video out-painting largely underexplored. Extending video out-painting to long videos poses substantial challenges. A natural solution is iterative out-painting, i.e., generating videos chunk by chunk, but this introduces two major issues: generation instability or even failure caused by inter-chunk inconsistencies and error accumulation, and semantic drift over long temporal horizons. In this paper, we propose LongSCOP, short for Semantically Consistent long Video Out-Painting. Fir — 来源：arxiv — 原文：https://arxiv.org/abs/2611.12445v1</description>
-</item>
-<item>
-<title>Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b72da051488f</link>
-<guid isPermaLink="false">evt_b72da051488f</guid>
-<pubDate>Mon, 09 Nov 2026 18:56:15 +0000</pubDate>
-<category>research</category>
-<description>Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sensitive to neighborhood scale, partitioning choices, or restrictive distributional assumptions. In this work, we introduce a new paradigm by formulating anomaly detection from a diversity perspective. We propose the $\textit{Vendi Anomaly Score}$ (VAS), which detects anomalies by quantifying how much a sample changes the diversity of the dataset, as measured  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.12871v1</description>
 </item>
 </channel>
 </rss>

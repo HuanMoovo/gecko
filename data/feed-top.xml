@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 09 Nov 2026 23:55:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 05:28:30 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Introducing Claude Fable 5.2 on AWS</title>
@@ -14,6 +14,14 @@
 <pubDate>Mon, 09 Nov 2026 20:04:37 +0000</pubDate>
 <category>foundation_models</category>
 <description>Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock. — 来源：hn_frontpage · hackernews · simonwillison · qbitai · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/</description>
+</item>
+<item>
+<title>llm-anthropic 0.31</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd4da662fab5</link>
+<guid isPermaLink="false">evt_dd4da662fab5</guid>
+<pubDate>Mon, 09 Nov 2026 23:58:46 +0000</pubDate>
+<category>foundation_models</category>
+<description>Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 "Generate an SVG of a pelican riding a bicycle" I ran pelicans at all five reasoning levels - low , medium , high , xhigh , and max . You can see them all here - here's the best result I got, from xhigh : max failed to return an image at all, running out of tokens after spending 128,000 thinking about them . That's the — 来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage · simonwillison — 原文：https://simonwillison.net/2026/Nov/9/llm-anthropic/</description>
 </item>
 <item>
 <title>Meta releases Muse Ember, a new lightweight model for agent execution</title>
@@ -40,12 +48,28 @@
 <description>Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […] — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</description>
 </item>
 <item>
-<title>Anthropic launches new Claude Fable and Mythos 5.2 models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dd4da662fab5</link>
-<guid isPermaLink="false">evt_dd4da662fab5</guid>
-<pubDate>Mon, 09 Nov 2026 20:04:55 +0000</pubDate>
-<category>foundation_models</category>
-<description>Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on "daunting" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […] — 来源：verge_ai · techcrunch_ai · hackernews · hn_frontpage — 原文：https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2</description>
+<title>Agentic Attribution of Cloud Resource Ownership</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_51fd6bae6a94</link>
+<guid isPermaLink="false">evt_51fd6bae6a94</guid>
+<pubDate>Mon, 09 Nov 2026 20:01:20 +0000</pubDate>
+<category>agents</category>
+<description>Security tools raise findings across cloud environments, and AI agents now investigate and prioritize them. A finding is still resolved by people: it has to reach the people responsible for fixing it and accountable for the resource it concerns. Ownership is the organizational context that decides who that is. Where recorded, it is declared by hand in configuration management databases or owner tags and goes stale unless kept current; accounts are shared, and automation creates much of the infrastructure. The knowledge sits in work records, code history, audit logs and identity directories, en — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.11340v1</description>
+</item>
+<item>
+<title>How skills and agents work in AWS Quick</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9015c3069685</link>
+<guid isPermaLink="false">evt_9015c3069685</guid>
+<pubDate>Tue, 10 Nov 2026 00:21:34 +0000</pubDate>
+<category>agents</category>
+<description>Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/</description>
+</item>
+<item>
+<title>OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3c921ccafb7c</link>
+<guid isPermaLink="false">evt_3c921ccafb7c</guid>
+<pubDate>Mon, 09 Nov 2026 23:28:00 +0000</pubDate>
+<category>research</category>
+<description>We study online reinforcement learning for the stochastic shortest path (SSP) problem with unknown transition dynamics. Although existing posterior-sampling methods perform well empirically on SSPs, their regret guarantees do not achieve the minimax-optimal order. We address this limitation by proposing OPSRL-SSP, an optimistic posterior-sampling algorithm for the SSP setting. The algorithm operates in epochs and uses a logarithmic, time-dependent schedule for the number of posterior samples. To induce optimism, we augment the transition model with a pseudo-state assigned an optimistic boundar — 来源：huggingface · arxiv — 原文：https://arxiv.org/abs/2611.11337v1</description>
 </item>
 <item>
 <title>Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base</title>
@@ -80,14 +104,6 @@
 <description>来源：nvidia_blog · hn_frontpage · huggingface · hackernews · verge_ai · techcrunch_ai — 原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no</description>
 </item>
 <item>
-<title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a55665cf4895</link>
-<guid isPermaLink="false">evt_a55665cf4895</guid>
-<pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
-<category>industry</category>
-<description>来源：hf_blog · hackernews — 原文：https://huggingface.co/blog/amazon/higher-order-pruning-experts</description>
-</item>
-<item>
 <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
 <guid isPermaLink="false">evt_f37b680abcf7</guid>
@@ -96,12 +112,12 @@
 <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise. — 来源：openai_blog — 原文：https://openai.com/index/control-room</description>
 </item>
 <item>
-<title>mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF</title>
+<title>deepseek-ai/DeepSeek-V4.1-Flash-1017</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4c35a47638c4</link>
 <guid isPermaLink="false">evt_4c35a47638c4</guid>
-<pubDate>Mon, 09 Nov 2026 13:21:31 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 02:22:56 +0000</pubDate>
 <category>open_source</category>
-<description>Hugging Face 模型 · model · 下载 217,408 · 收藏 211 — 来源：huggingface · arxiv — 原文：https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 312,293 · 收藏 5,441 — 来源：huggingface · arxiv — 原文：https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</description>
 </item>
 <item>
 <title>Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA</title>
@@ -110,6 +126,14 @@
 <pubDate>Mon, 09 Nov 2026 05:00:39 +0000</pubDate>
 <category>agents</category>
 <description>As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […] — 来源：simonwillison · techcrunch_ai · arxiv · nvidia_blog — 原文：https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</description>
+</item>
+<item>
+<title>Anthropic reportedly plans to move forward with IPO plans</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d62fbfe2fc04</link>
+<guid isPermaLink="false">evt_d62fbfe2fc04</guid>
+<pubDate>Tue, 10 Nov 2026 01:27:12 +0000</pubDate>
+<category>open_source</category>
+<description>The AI company is expected to set its valuation range this week, the Wall Street Journal reported. — 来源：latent_space · techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</description>
 </item>
 <item>
 <title>NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production</title>
@@ -136,28 +160,12 @@
 <description>Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</description>
 </item>
 <item>
-<title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_42ec3b43220b</link>
-<guid isPermaLink="false">evt_42ec3b43220b</guid>
-<pubDate>Mon, 09 Nov 2026 18:33:58 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：techcrunch_ai · reddit_ml · arxiv · hackernews · hn_frontpage — 原文：https://github.com/samir-sarwar/samir-vllm</description>
-</item>
-<item>
 <title>Vulnerability that lets hackers SSH into Linux devices is under active exploitation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8424b8cbc8e8</link>
 <guid isPermaLink="false">evt_8424b8cbc8e8</guid>
 <pubDate>Mon, 09 Nov 2026 19:41:34 +0000</pubDate>
 <category>industry</category>
 <description>"*sshole" poses a serious threat to Internet security. — 来源：arstechnica_ai — 原文：https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/</description>
-</item>
-<item>
-<title>Disney and Adobe are building generative AI tools together</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec20d3c1676a</link>
-<guid isPermaLink="false">evt_ec20d3c1676a</guid>
-<pubDate>Mon, 09 Nov 2026 15:38:56 +0000</pubDate>
-<category>generative</category>
-<description>The Walt Disney Company has teamed up with Adobe to develop proprietary "artist-led" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […] — 来源：arxiv · verge_ai — 原文：https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</description>
 </item>
 </channel>
 </rss>

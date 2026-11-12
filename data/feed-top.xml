@@ -5,15 +5,31 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 12 Nov 2026 01:45:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 12:00:57 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
+<title>[AINews] D-Day (Decision Models Day)</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_14eef01dc0f4</link>
 <guid isPermaLink="false">evt_14eef01dc0f4</guid>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 05:26:54 +0000</pubDate>
 <category>industry</category>
-<description>Predicting how DNA sequences and their variations impact specific human cell types and disease. — 来源：google_ai_blog · deepmind_blog · verge_ai — 原文：https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</description>
+<description>November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers. — 来源：google_ai_blog · deepmind_blog · verge_ai · latent_space — 原文：https://latent.space/p/ainews-d-day-decision-models-day/</description>
+</item>
+<item>
+<title>Holiday Extras is rethinking what it can build with Codex</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
+<guid isPermaLink="false">evt_f37b680abcf7</guid>
+<pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
+<category>industry</category>
+<description>With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth. — 来源：openai_blog · techcrunch_ai · latent_space — 原文：https://openai.com/business/customer-stories/holidays-extras-codex</description>
+</item>
+<item>
+<title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a24fdfddefa6</link>
+<guid isPermaLink="false">evt_a24fdfddefa6</guid>
+<pubDate>Thu, 12 Nov 2026 11:24:22 +0000</pubDate>
+<category>open_source</category>
+<description>As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years. — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</description>
 </item>
 <item>
 <title>Build autonomous AI agents with Amazon Bedrock and Spring AI</title>
@@ -22,6 +38,22 @@
 <pubDate>Thu, 12 Nov 2026 01:18:23 +0000</pubDate>
 <category>agents</category>
 <description>Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore. — 来源：aws_ml · hackernews — 原文：https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/</description>
+</item>
+<item>
+<title>NousResearch/hermes-agent — The agent that grows with you</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_930dd1342c71</link>
+<guid isPermaLink="false">evt_930dd1342c71</guid>
+<pubDate>Thu, 12 Nov 2026 12:00:13 +0000</pubDate>
+<category>open_source</category>
+<description>The agent that grows with you · topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude · ⭐ 262,866 · Python — 来源：github — 原文：https://github.com/NousResearch/hermes-agent</description>
+</item>
+<item>
+<title>Anthropic启动IPO路演，估值已缩水6000亿美元</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fcd75d626dd</link>
+<guid isPermaLink="false">evt_6fcd75d626dd</guid>
+<pubDate>Thu, 12 Nov 2026 10:11:29 +0000</pubDate>
+<category>industry</category>
+<description>全世界都在踩刹车，达里奥一个人踩油门 — 来源：techcrunch_ai · hn_frontpage · hackernews · qbitai — 原文：https://www.qbitai.com/2026/11/509381.html</description>
 </item>
 <item>
 <title>Semantic diffing of formal policies with anti-unification</title>
@@ -48,20 +80,20 @@
 <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. — 来源：google_ai_blog · hackernews · latent_space — 原文：https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</description>
 </item>
 <item>
+<title>Supporting research on AI and children’s safety</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_01a8528fa117</link>
+<guid isPermaLink="false">evt_01a8528fa117</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<category>safety</category>
+<description>OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people. — 来源：openai_blog — 原文：https://openai.com/index/children-first-declaration</description>
+</item>
+<item>
 <title>OpenAI Codex on Amazon Bedrock</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_52c1a0c9377c</link>
 <guid isPermaLink="false">evt_52c1a0c9377c</guid>
 <pubDate>Wed, 11 Nov 2026 23:35:47 +0000</pubDate>
 <category>industry</category>
 <description>A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/</description>
-</item>
-<item>
-<title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a24fdfddefa6</link>
-<guid isPermaLink="false">evt_a24fdfddefa6</guid>
-<pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
-<category>open_source</category>
-<description>As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years. — 来源：hackernews · nvidia_blog · techcrunch_ai — 原文：https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</description>
 </item>
 <item>
 <title>The attendee’s guide to the AWS re:Invent 2026 AI/ML track</title>
@@ -80,28 +112,36 @@
 <description>Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate. — 来源：verge_ai · hackernews · nvidia_blog · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</description>
 </item>
 <item>
+<title>Who could replace Jensen Huang? A highly unscientific list of possible successors</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7d8b4ae6c27e</link>
+<guid isPermaLink="false">evt_7d8b4ae6c27e</guid>
+<pubDate>Thu, 12 Nov 2026 03:13:10 +0000</pubDate>
+<category>industry</category>
+<description>Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist. — 来源：verge_ai · hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/</description>
+</item>
+<item>
+<title>马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c3e82675d569</link>
+<guid isPermaLink="false">evt_c3e82675d569</guid>
+<pubDate>Thu, 12 Nov 2026 10:08:24 +0000</pubDate>
+<category>industry</category>
+<description>Grok在让人破绷这件事上，从来不会让人失望。 — 来源：arstechnica_ai · qbitai — 原文：https://www.qbitai.com/2026/11/509355.html</description>
+</item>
+<item>
+<title>rohitg00/ai-engineering-from-scratch — Learn AI Engineering! Learn it. Build it. Ship it for others.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d8ee9ab549e4</link>
+<guid isPermaLink="false">evt_d8ee9ab549e4</guid>
+<pubDate>Thu, 12 Nov 2026 11:59:59 +0000</pubDate>
+<category>open_source</category>
+<description>Learn AI Engineering! Learn it. Build it. Ship it for others. · topics: agents, ai, ai-agents, ai-engineering, computer-vision, course · ⭐ 78,550 · Python — 来源：verge_ai · hackernews · github — 原文：https://github.com/rohitg00/ai-engineering-from-scratch</description>
+</item>
+<item>
 <title>The unfolding Jensen Huang scandal: a timeline</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4619475f4b8c</link>
 <guid isPermaLink="false">evt_4619475f4b8c</guid>
 <pubDate>Wed, 11 Nov 2026 23:50:00 +0000</pubDate>
 <category>industry</category>
 <description>The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure. — 来源：reddit_ml · techcrunch_ai — 原文：https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</description>
-</item>
-<item>
-<title>OpenAI’s quarterly revenue reportedly crosses $10B for the first time</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
-<guid isPermaLink="false">evt_f37b680abcf7</guid>
-<pubDate>Wed, 11 Nov 2026 16:14:44 +0000</pubDate>
-<category>industry</category>
-<description>Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter. — 来源：openai_blog · techcrunch_ai · latent_space — 原文：https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</description>
-</item>
-<item>
-<title>United won’t let your AI agent book your flight</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d8ee9ab549e4</link>
-<guid isPermaLink="false">evt_d8ee9ab549e4</guid>
-<pubDate>Wed, 11 Nov 2026 23:22:29 +0000</pubDate>
-<category>agents</category>
-<description>United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […] — 来源：verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</description>
 </item>
 <item>
 <title>Anthropic's IPO roadshow video</title>
@@ -120,12 +160,28 @@
 <description>Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of "cybersecurity defenders" two weeks ago. Google claims Carbon is its "strongest model" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon "pushes […] — 来源：google_ai_blog · deepmind_blog · github · verge_ai · simonwillison — 原文：https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</description>
 </item>
 <item>
+<title>JuliusBrussee/caveman — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_76d223099ffe</link>
+<guid isPermaLink="false">evt_76d223099ffe</guid>
+<pubDate>Thu, 12 Nov 2026 11:53:21 +0000</pubDate>
+<category>open_source</category>
+<description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. · topics: ai, anthropic, caveman, claude, claude-code, llm · ⭐ 119,258 · Go — 来源：github — 原文：https://github.com/JuliusBrussee/caveman</description>
+</item>
+<item>
 <title>Huawei releases MACaQ, its internal quantizer for local inference</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a5749ddac123</link>
 <guid isPermaLink="false">evt_a5749ddac123</guid>
 <pubDate>Wed, 11 Nov 2026 20:23:57 +0000</pubDate>
 <category>infrastructure</category>
 <description>来源：hn_frontpage · arxiv · hackernews — 原文：https://github.com/huawei-csl/MACaQ</description>
+</item>
+<item>
+<title>onyx-dot-app/onyx — Open Source AI Platform - AI Chat with advanced features that works with every LLM</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_80b38ea7da37</link>
+<guid isPermaLink="false">evt_80b38ea7da37</guid>
+<pubDate>Thu, 12 Nov 2026 10:59:37 +0000</pubDate>
+<category>open_source</category>
+<description>Open Source AI Platform - AI Chat with advanced features that works with every LLM · topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai · ⭐ 33,353 · Python — 来源：openai_blog · github — 原文：https://github.com/onyx-dot-app/onyx</description>
 </item>
 <item>
 <title>Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</title>
@@ -144,12 +200,12 @@
 <description>Autonomous systems increasingly monitor physical kinematics, environmental states and task completion outcomes. While existing work provides methods to plan information seeking actions and interpret acquired observations, current approaches do not monitor whether the live process of information gathering is functioning properly. Consequently, such systems can remain operationally active without resolving outstanding mission requirements. To address this limitation, we introduce Acquisition-State Telemetry (AST), a model free architecture that evaluates ongoing information acquisition from obse — 来源：arxiv · verge_ai — 原文：https://arxiv.org/abs/2611.14111v1</description>
 </item>
 <item>
-<title>Mintplex-Labs/anything-llm — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience</title>
+<title>langgenius/dify — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_4f2a1452fe6e</link>
 <guid isPermaLink="false">evt_4f2a1452fe6e</guid>
-<pubDate>Wed, 11 Nov 2026 06:18:57 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 11:57:58 +0000</pubDate>
 <category>agents</category>
-<description>Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  · topics: agent-computer, agent-harness, agent-orchestration, agentic-ai, agentic-workflow, ai-agents · ⭐ 68,175 · JavaScript — 来源：arxiv · github — 原文：https://github.com/Mintplex-Labs/anything-llm</description>
+<description>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. · topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation · ⭐ 161,029 · Python — 来源：arxiv · github — 原文：https://github.com/langgenius/dify</description>
 </item>
 <item>
 <title>nexu-io/openmotion — The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: re</title>
@@ -160,76 +216,12 @@
 <description>The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music &amp; Voice. · topics: agent-skills, agentic-ai, ai-agents, ai-video, byok, claude-code · ⭐ 9,503 · TypeScript — 来源：github — 原文：https://github.com/nexu-io/openmotion</description>
 </item>
 <item>
-<title>"Zlibrary my beloved": Anthropic staff chats extolling piracy cited in Sony suit</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fcd75d626dd</link>
-<guid isPermaLink="false">evt_6fcd75d626dd</guid>
-<pubDate>Wed, 11 Nov 2026 21:58:52 +0000</pubDate>
-<category>industry</category>
-<description>来源：techcrunch_ai · hn_frontpage · hackernews — 原文：https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/</description>
-</item>
-<item>
-<title>MiniMaxAI/MiniMax-H3-Image</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a1ec3870cc46</link>
-<guid isPermaLink="false">evt_a1ec3870cc46</guid>
-<pubDate>Wed, 11 Nov 2026 07:10:27 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-to-image · 下载 142,989 · 收藏 574 — 来源：arxiv · huggingface — 原文：https://huggingface.co/MiniMaxAI/MiniMax-H3-Image</description>
-</item>
-<item>
-<title>MouldIt: Data Efficiency of Multi-Task Temporal Representation Learning in Injection Moulding</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec20d3c1676a</link>
-<guid isPermaLink="false">evt_ec20d3c1676a</guid>
-<pubDate>Tue, 10 Nov 2026 16:01:11 +0000</pubDate>
-<category>research</category>
-<description>Smart industrial solutions that can address multiple tasks require models that understand the underlying processes. We examine representation learning for modeling the injection moulding process as an example of such solutions. We consider its data efficiency and multi-modal benefit compared to classical machine learning alternatives. To this end, we synthesize a process-informed dataset based on a real reference cycle of an Erlanger Träger part. We then introduce MouldIt, a temporal convolution and attention based variational autoencoder that reconstructs in-mould signals, while classifying p — 来源：arxiv · verge_ai · reddit_ml · techcrunch_ai — 原文：https://arxiv.org/abs/2611.13646v1</description>
-</item>
-<item>
-<title>huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_233409616a1b</link>
-<guid isPermaLink="false">evt_233409616a1b</guid>
-<pubDate>Wed, 11 Nov 2026 08:08:53 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 3,989,650 · 收藏 1,920 — 来源：huggingface — 原文：https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF</description>
-</item>
-<item>
-<title>Why the data center you dread might never even be built</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_42e54021116f</link>
-<guid isPermaLink="false">evt_42e54021116f</guid>
-<pubDate>Wed, 11 Nov 2026 20:15:15 +0000</pubDate>
-<category>industry</category>
-<description>The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […] — 来源：arxiv · techcrunch_ai — 原文：https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/</description>
-</item>
-<item>
-<title>Nvidia is reportedly preparing to fire Jensen Huang</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7d8b4ae6c27e</link>
-<guid isPermaLink="false">evt_7d8b4ae6c27e</guid>
-<pubDate>Wed, 11 Nov 2026 23:15:25 +0000</pubDate>
-<category>open_source</category>
-<description>来源：verge_ai · hackernews — 原文：https://www.theverge.com/tech/1031652/jensen-huang-rumor</description>
-</item>
-<item>
-<title>Verifiable Agentic Traffic Class: A Policed Quality-of-Service Mechanism for Agentic AI Traffic, Evaluated from Simulation to Real-Kernel Adversarial Testing</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ce0a393f5bc7</link>
-<guid isPermaLink="false">evt_ce0a393f5bc7</guid>
-<pubDate>Tue, 10 Nov 2026 15:33:22 +0000</pubDate>
+<title>harvard-edge/cs249r_book — Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsys</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b22522d14a17</link>
+<guid isPermaLink="false">evt_b22522d14a17</guid>
+<pubDate>Thu, 12 Nov 2026 11:49:52 +0000</pubDate>
 <category>agents</category>
-<description>Software agents built on large language models generate traffic unlike human web traffic, yet routers have no class for it and cannot verify a sender's claim to be an agent. This paper proposes the Verifiable Agentic Traffic Class (VATC), which combines a reserved Differentiated Services Code Point (DSCP) value declaring agent traffic, a router-side classifier that demotes flows contradicting the declaration to a class served after best-effort traffic, and a rate-limited priority queue. VATC was compared with static Differentiated Services (DiffServ), a dedicated class that trusts the marking, — 来源：verge_ai · techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2611.14211v1</description>
-</item>
-<item>
-<title>ccch1mneyyy/dsh-Go — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a3451625ee4</link>
-<guid isPermaLink="false">evt_4a3451625ee4</guid>
-<pubDate>Wed, 11 Nov 2026 03:53:41 +0000</pubDate>
-<category>open_source</category>
-<description>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 · topics: ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness · ⭐ 18,872 · Dart — 来源：qbitai · github — 原文：https://github.com/ccch1mneyyy/dsh-Go</description>
-</item>
-<item>
-<title>How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_03ab27d2bc45</link>
-<guid isPermaLink="false">evt_03ab27d2bc45</guid>
-<pubDate>Tue, 10 Nov 2026 18:11:08 +0000</pubDate>
-<category>agents</category>
-<description>Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/</description>
+<description>Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai · topics: agentic-ai, ai-agents, artificial-intelligence, cloud-ml, computer-systems, courseware · ⭐ 30,162 · Python — 来源：hf_blog · github — 原文：https://github.com/harvard-edge/cs249r_book</description>
 </item>
 </channel>
 </rss>

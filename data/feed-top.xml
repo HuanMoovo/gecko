@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 14:40:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 20:16:15 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
@@ -16,20 +16,20 @@
 <description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
+<title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
+<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
+<pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
+<category>infrastructure</category>
+<description>Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations. — 来源：techcrunch_ai · hackernews · verge_ai — 原文：https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</description>
+</item>
+<item>
 <title>Introducing ChatGPT Wallet</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_930dd1342c71</link>
 <guid isPermaLink="false">evt_930dd1342c71</guid>
 <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
 <category>foundation_models</category>
 <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — 来源：github · openai_blog · arxiv · verge_ai · techcrunch_ai — 原文：https://openai.com/index/introducing-chatgpt-wallet</description>
-</item>
-<item>
-<title>Jensen Huang and the decline of the visionary showman founder CEO</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
-<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
-<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-<category>industry</category>
-<description>On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […] — 来源：techcrunch_ai · hackernews · verge_ai — 原文：https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</description>
 </item>
 <item>
 <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
@@ -54,6 +54,22 @@
 <pubDate>Fri, 13 Nov 2026 13:00:42 +0000</pubDate>
 <category>research</category>
 <description>From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […] — 来源：arxiv · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</description>
+</item>
+<item>
+<title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f28f90d2895a</link>
+<guid isPermaLink="false">evt_f28f90d2895a</guid>
+<pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+<category>safety</category>
+<description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […] — 来源：openai_blog · verge_ai — 原文：https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</description>
+</item>
+<item>
+<title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3e1919c777ea</link>
+<guid isPermaLink="false">evt_3e1919c777ea</guid>
+<pubDate>Sat, 14 Nov 2026 15:04:15 +0000</pubDate>
+<category>industry</category>
+<description>来源：latent_space · hackernews · qbitai — 原文：https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</description>
 </item>
 <item>
 <title>Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard</title>
@@ -88,20 +104,20 @@
 <description>Simplified swarm optimisation (SSO) updates each variable by one draw that copies the global or personal best, keeps the current value or redraws uniformly, with probabilities $c_g$, $c_p$, $c_w$ and $c_r$. As a finite Markov chain under frozen memory, its coordinate kernel $c_w I + (1 - c_w)Π$ has an explicit stationary law and exact convergence rate $c_w^t$. The elitist chain has a geometric hitting-time bound, from a non-optimal start a fixed $c_r$ needs at least $\exp(nc_r/2)$ expected evaluations to reach a unique optimum, and a coupling under changing memories gives $O(n\log n)$ and $O(n — 来源：techcrunch_ai · aws_ml · verge_ai · arxiv — 原文：https://arxiv.org/abs/2611.16541v1</description>
 </item>
 <item>
+<title>Nvidia board urged to consider 'return of Jensen Huang' by two major investors</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3541a994b8f0</link>
+<guid isPermaLink="false">evt_3541a994b8f0</guid>
+<pubDate>Sat, 14 Nov 2026 18:38:56 +0000</pubDate>
+<category>industry</category>
+<description>来源：techcrunch_ai · hackernews · latent_space — 原文：https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html</description>
+</item>
+<item>
 <title>Why is Google cutting off Search from AI-free schools? Here are some theories</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_14eef01dc0f4</link>
 <guid isPermaLink="false">evt_14eef01dc0f4</guid>
 <pubDate>Fri, 13 Nov 2026 15:29:10 +0000</pubDate>
 <category>industry</category>
 <description>来源：google_ai_blog · deepmind_blog · verge_ai · latent_space · huggingface · github — 原文：https://text.npr.org/nx-s1-6029408</description>
-</item>
-<item>
-<title>突发！DeepSeek开放全家桶API</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3e1919c777ea</link>
-<guid isPermaLink="false">evt_3e1919c777ea</guid>
-<pubDate>Sat, 14 Nov 2026 02:39:56 +0000</pubDate>
-<category>industry</category>
-<description>官方App功能均可自由组合调用 — 来源：latent_space · hackernews · qbitai — 原文：https://www.qbitai.com/2026/11/510003.html</description>
 </item>
 <item>
 <title>[Dataset] laion/laion-audio-xl</title>
@@ -120,52 +136,28 @@
 <description>Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. OpenAI can handle text and images. Gemini Decision 1 is fully multi-model: it covers text, images, audio — 来源：google_ai_blog · hackernews · latent_space · deepmind_blog · techcrunch_ai · hn_frontpage — 原文：https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</description>
 </item>
 <item>
+<title>Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8f9f9cd8ff8a</link>
+<guid isPermaLink="false">evt_8f9f9cd8ff8a</guid>
+<pubDate>Sat, 14 Nov 2026 16:23:34 +0000</pubDate>
+<category>research</category>
+<description>been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and report a better RMSE. what i rarely see is a comparison against what the market already expects. options implied vol for the range, or a crowd forecast where people put money on outcomes. those already use alot of public info, so beating a random walk doesnt say much if you cant beat the market's own forecast. also most papers only score the point forecast. for something like btc the interval matt — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/</description>
+</item>
+<item>
+<title>New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_92eefcb0aa10</link>
+<guid isPermaLink="false">evt_92eefcb0aa10</guid>
+<pubDate>Sat, 14 Nov 2026 14:10:31 +0000</pubDate>
+<category>research</category>
+<description>来源：hackernews · arxiv — 原文：https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical</description>
+</item>
+<item>
 <title>Gemini 4 Hydrogen</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_02e4a20d191a</link>
 <guid isPermaLink="false">evt_02e4a20d191a</guid>
 <pubDate>Thu, 12 Nov 2026 22:55:19 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：google_ai_blog · deepmind_blog · github · verge_ai · simonwillison · hackernews — 原文：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</description>
-</item>
-<item>
-<title>Ex-OpenAI researcher finds Blackwell signatures in open-weight models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
-<guid isPermaLink="false">evt_f37b680abcf7</guid>
-<pubDate>Sat, 14 Nov 2026 06:50:21 +0000</pubDate>
-<category>research</category>
-<description>来源：openai_blog · techcrunch_ai · latent_space · hackernews — 原文：https://twitter.com/willdepue/status/2120992457630326841</description>
-</item>
-<item>
-<title>Near-Optimal Regret for Oracle-Efficient Adversarial Contextual Bandits</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6a3f83479816</link>
-<guid isPermaLink="false">evt_6a3f83479816</guid>
-<pubDate>Thu, 12 Nov 2026 22:03:34 +0000</pubDate>
-<category>research</category>
-<description>We study contextual bandits with $K$ actions, a class of $N$ policies, and i.i.d.\ contexts from a distribution that the learner can sample. For any sequence of loss functions fixed before play, we give an oracle-efficient algorithm with expected regret $O(\sqrt{KT\log(2N)}\,\log(2KT))$ against the best policy in hindsight on the realized contexts. This improves the $T^{2/3}$ dependence on the horizon in prior oracle-efficient bounds and achieves the optimal regret rate in this setting up to logarithmic factors. Our algorithm perturbs policy scores using a Poisson sample of auxiliary contexts. — 来源：arxiv · aws_ml — 原文：https://arxiv.org/abs/2611.17109v1</description>
-</item>
-<item>
-<title>[AINews] The No AI Slop Manifesto</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9f3952a424ef</link>
-<guid isPermaLink="false">evt_9f3952a424ef</guid>
-<pubDate>Sat, 14 Nov 2026 08:31:02 +0000</pubDate>
-<category>industry</category>
-<description>November 13, 2026 — AIE speakers unite to lay out how to fight slop. — 来源：hackernews · latent_space — 原文：https://latent.space/p/ainews-the-no-ai-slop-manifesto/</description>
-</item>
-<item>
-<title>Most affairs don't matter much. Nvidia Jensen's blunder will rock the world</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4619475f4b8c</link>
-<guid isPermaLink="false">evt_4619475f4b8c</guid>
-<pubDate>Fri, 13 Nov 2026 19:47:08 +0000</pubDate>
-<category>industry</category>
-<description>来源：reddit_ml · techcrunch_ai · verge_ai · hackernews — 原文：https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649</description>
-</item>
-<item>
-<title>Shield helps technicians hand off legacy portal work with OpenAI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a1e2c5f2d56a</link>
-<guid isPermaLink="false">evt_a1e2c5f2d56a</guid>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-<category>agents</category>
-<description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment. — 来源：github · openai_blog — 原文：https://openai.com/business/customer-stories/shield</description>
 </item>
 </channel>
 </rss>

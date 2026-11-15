@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 04:03:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 15:09:34 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Dataset] nvidia/PhysicalAI-Autonomous-Vehicles</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
+<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
+<pubDate>Sun, 15 Nov 2026 09:26:06 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 274,195 · 收藏 1,208 — 来源：techcrunch_ai · hackernews · verge_ai · huggingface — 原文：https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles</description>
+</item>
 <item>
 <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d8ee9ab549e4</link>
@@ -16,84 +24,20 @@
 <description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
-<title>Where was Nvidia’s security team?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
-<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
-<pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
-<category>infrastructure</category>
-<description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch. — 来源：techcrunch_ai · hackernews · verge_ai — 原文：https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</description>
-</item>
-<item>
-<title>Introducing ChatGPT Wallet</title>
+<title>shareAI-lab/learn-claude-code — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_930dd1342c71</link>
 <guid isPermaLink="false">evt_930dd1342c71</guid>
-<pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 13:41:46 +0000</pubDate>
+<category>open_source</category>
+<description>Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 · topics: agent, agent-development, ai-agent, claude, claude-code, educational · ⭐ 80,437 · Python — 来源：github · openai_blog · arxiv · verge_ai · techcrunch_ai — 原文：https://github.com/shareAI-lab/learn-claude-code</description>
+</item>
+<item>
+<title>Understanding Positional Embeddings in Modern LLMs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_590c3b7fdb61</link>
+<guid isPermaLink="false">evt_590c3b7fdb61</guid>
+<pubDate>Sun, 15 Nov 2026 12:14:06 +0000</pubDate>
 <category>foundation_models</category>
-<description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — 来源：github · openai_blog · arxiv · verge_ai · techcrunch_ai — 原文：https://openai.com/index/introducing-chatgpt-wallet</description>
-</item>
-<item>
-<title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_44722bd03025</link>
-<guid isPermaLink="false">evt_44722bd03025</guid>
-<pubDate>Sat, 14 Nov 2026 02:21:36 +0000</pubDate>
-<category>industry</category>
-<description>Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations. — 来源：techcrunch_ai · verge_ai · hackernews — 原文：https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</description>
-</item>
-<item>
-<title>Detection Is Not Early Warning: Evaluating Token-Level Alarms on Language Model Failures</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a88bddb17214</link>
-<guid isPermaLink="false">evt_a88bddb17214</guid>
-<pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
-<category>research</category>
-<description>Many failures of language models begin at a specific token, the onset. A monitor that reads the model during generation can classify the finished response, detect the failure once it is under way, or warn before it begins, and only a warning leaves time to stop or steer the generation. Monitors are usually evaluated with response-level metrics such as AUROC, which ignore when the monitor fires. We introduce PREWARN, an evaluation protocol for any failure with an annotated onset. It calibrates each monitor's threshold on validation data to an error rate chosen for the application, runs the moni — 来源：hf_blog · arxiv — 原文：https://arxiv.org/abs/2611.16803v1</description>
-</item>
-<item>
-<title>How AI Is Helping Care Teams Get Patients the Right Care, Sooner</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_25fc174d12cf</link>
-<guid isPermaLink="false">evt_25fc174d12cf</guid>
-<pubDate>Fri, 13 Nov 2026 13:00:42 +0000</pubDate>
-<category>research</category>
-<description>From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […] — 来源：arxiv · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</description>
-</item>
-<item>
-<title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f28f90d2895a</link>
-<guid isPermaLink="false">evt_f28f90d2895a</guid>
-<pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
-<category>safety</category>
-<description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […] — 来源：openai_blog · verge_ai — 原文：https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</description>
-</item>
-<item>
-<title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3e1919c777ea</link>
-<guid isPermaLink="false">evt_3e1919c777ea</guid>
-<pubDate>Sat, 14 Nov 2026 15:04:15 +0000</pubDate>
-<category>industry</category>
-<description>来源：latent_space · hackernews · qbitai — 原文：https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</description>
-</item>
-<item>
-<title>Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_51fd6bae6a94</link>
-<guid isPermaLink="false">evt_51fd6bae6a94</guid>
-<pubDate>Fri, 13 Nov 2026 22:30:12 +0000</pubDate>
-<category>agents</category>
-<description>Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/</description>
-</item>
-<item>
-<title>Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8b208eddf6e2</link>
-<guid isPermaLink="false">evt_8b208eddf6e2</guid>
-<pubDate>Fri, 13 Nov 2026 22:02:39 +0000</pubDate>
-<category>agents</category>
-<description>Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/</description>
-</item>
-<item>
-<title>OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e9b2308e4ac3</link>
-<guid isPermaLink="false">evt_e9b2308e4ac3</guid>
-<pubDate>Fri, 13 Nov 2026 21:53:40 +0000</pubDate>
-<category>infrastructure</category>
-<description>Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/</description>
+<description>来源：arxiv · reddit_ml · hackernews — 原文：https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</description>
 </item>
 </channel>
 </rss>

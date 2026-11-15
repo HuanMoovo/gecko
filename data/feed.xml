@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 04:03:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 15:09:34 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Dataset] nvidia/PhysicalAI-Autonomous-Vehicles</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
+<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
+<pubDate>Sun, 15 Nov 2026 09:26:06 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 274,195 · 收藏 1,208 — 来源：techcrunch_ai · hackernews · verge_ai · huggingface — 原文：https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles</description>
+</item>
 <item>
 <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d8ee9ab549e4</link>
@@ -16,20 +24,20 @@
 <description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
-<title>Where was Nvidia’s security team?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
-<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
-<pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
-<category>infrastructure</category>
-<description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch. — 来源：techcrunch_ai · hackernews · verge_ai — 原文：https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</description>
+<title>An overview of Jensen Huang’s messy days</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
+<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
+<pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
+<category>industry</category>
+<description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […] — 来源：verge_ai — 原文：https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</description>
 </item>
 <item>
-<title>Introducing ChatGPT Wallet</title>
+<title>shareAI-lab/learn-claude-code — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_930dd1342c71</link>
 <guid isPermaLink="false">evt_930dd1342c71</guid>
-<pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
-<category>foundation_models</category>
-<description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — 来源：github · openai_blog · arxiv · verge_ai · techcrunch_ai — 原文：https://openai.com/index/introducing-chatgpt-wallet</description>
+<pubDate>Sun, 15 Nov 2026 13:41:46 +0000</pubDate>
+<category>open_source</category>
+<description>Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 · topics: agent, agent-development, ai-agent, claude, claude-code, educational · ⭐ 80,437 · Python — 来源：github · openai_blog · arxiv · verge_ai · techcrunch_ai — 原文：https://github.com/shareAI-lab/learn-claude-code</description>
 </item>
 <item>
 <title>drumih/turbo-fieldfare — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook</title>
@@ -38,6 +46,22 @@
 <pubDate>Sat, 14 Nov 2026 16:38:01 +0000</pubDate>
 <category>infrastructure</category>
 <description>Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook · topics: apple-silicon, gemma, gemma4, gemma4-26b-a4b, gpgpu, llm · ⭐ 7,374 · Swift — 来源：github — 原文：https://github.com/drumih/turbo-fieldfare</description>
+</item>
+<item>
+<title>Understanding Positional Embeddings in Modern LLMs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_590c3b7fdb61</link>
+<guid isPermaLink="false">evt_590c3b7fdb61</guid>
+<pubDate>Sun, 15 Nov 2026 12:14:06 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：arxiv · reddit_ml · hackernews — 原文：https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</description>
+</item>
+<item>
+<title>Codex + Astra fails at Kaggle Titanic [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2732fee73e83</link>
+<guid isPermaLink="false">evt_2732fee73e83</guid>
+<pubDate>Sun, 15 Nov 2026 14:50:30 +0000</pubDate>
+<category>agents</category>
+<description>I expected Codex + Astra to do better on Kaggle Titanic. With a one-hour limit, the best result from two runs was 72.96% accuracy . I then explicitly suggested XGBoost and let it spend roughly 90–100 minutes optimizing the solution. The best result reached 77.27% . For a task as familiar as Titanic, that felt disappointing. Giving the agent a strong model, access to tools, and more time had not produced the result I expected. So we tried changing the workflow guiding the agent. We used Gear to evolve a DSH harness , with Astra at max reasoning effort. Starting from a harness that already incor — 来源：github · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xwxcwm/codex_astra_fails_at_kaggle_titanic_p/</description>
 </item>
 <item>
 <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
@@ -78,6 +102,14 @@
 <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
 <category>safety</category>
 <description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […] — 来源：openai_blog · verge_ai — 原文：https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</description>
+</item>
+<item>
+<title>Jensen Huang allegedly manufactured the GPU shortage</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d096a8a420fb</link>
+<guid isPermaLink="false">evt_d096a8a420fb</guid>
+<pubDate>Sun, 15 Nov 2026 10:53:50 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：hackernews — 原文：https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/</description>
 </item>
 <item>
 <title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
@@ -166,6 +198,14 @@
 <pubDate>Thu, 12 Nov 2026 19:27:45 +0000</pubDate>
 <category>foundation_models</category>
 <description>Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. OpenAI can handle text and images. Gemini Decision 1 is fully multi-model: it covers text, images, audio — 来源：google_ai_blog · hackernews · latent_space · deepmind_blog · techcrunch_ai · hn_frontpage — 原文：https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</description>
+</item>
+<item>
+<title>SuperMimic: Compute is no longer the bottleneck to robotics</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b3f59ddfd9f2</link>
+<guid isPermaLink="false">evt_b3f59ddfd9f2</guid>
+<pubDate>Sun, 15 Nov 2026 03:59:45 +0000</pubDate>
+<category>robotics</category>
+<description>来源：hackernews — 原文：https://supermimic.github.io/</description>
 </item>
 <item>
 <title>Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]</title>
@@ -288,6 +328,14 @@
 <description>来源：reddit_ml · techcrunch_ai · verge_ai · hackernews — 原文：https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649</description>
 </item>
 <item>
+<title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a1e2c5f2d56a</link>
+<guid isPermaLink="false">evt_a1e2c5f2d56a</guid>
+<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+<category>agents</category>
+<description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment. — 来源：github · openai_blog — 原文：https://openai.com/business/customer-stories/shield</description>
+</item>
+<item>
 <title>Edge0/Edge0-145B-NVFP4</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_68431e57dcdc</link>
 <guid isPermaLink="false">evt_68431e57dcdc</guid>
@@ -302,14 +350,6 @@
 <pubDate>Sat, 14 Nov 2026 17:51:13 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：simonwillison · hn_frontpage · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</description>
-</item>
-<item>
-<title>Shield helps technicians hand off legacy portal work with OpenAI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a1e2c5f2d56a</link>
-<guid isPermaLink="false">evt_a1e2c5f2d56a</guid>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-<category>agents</category>
-<description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment. — 来源：github · openai_blog — 原文：https://openai.com/business/customer-stories/shield</description>
 </item>
 <item>
 <title>AI Company Employees Should Unionize</title>
@@ -344,14 +384,6 @@
 <description>We study data poisoning attacks on logistic regression with $\ell_2$-regularization, where an attacker chooses the features of a fixed number of injected observations with prescribed labels to maximize the logistic loss on the clean training data. Strong convexity of the defender's problem yields an exact reformulation through its first-order optimality conditions. Using convex conjugacy of the softplus function, we replace the sigmoid relations by a single convex optimality-gap inequality and express the attacker's objective as a concave function. A change of variables makes the stationarity  — 来源：arxiv · hackernews — 原文：https://arxiv.org/abs/2611.17143v1</description>
 </item>
 <item>
-<title>Smuggling of 1.5M AI GPUs could be the cause of Huang's departure</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d096a8a420fb</link>
-<guid isPermaLink="false">evt_d096a8a420fb</guid>
-<pubDate>Sat, 14 Nov 2026 15:58:57 +0000</pubDate>
-<category>infrastructure</category>
-<description>来源：hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls</description>
-</item>
-<item>
 <title>Anthropic upgrades Claude Code Projects to run parallel AI workers</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6fcd75d626dd</link>
 <guid isPermaLink="false">evt_6fcd75d626dd</guid>
@@ -374,38 +406,6 @@
 <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：hackernews — 原文：https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</description>
-</item>
-<item>
-<title>Great Video for Understanding How Cosine Similarity Works [D]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_590c3b7fdb61</link>
-<guid isPermaLink="false">evt_590c3b7fdb61</guid>
-<pubDate>Sat, 14 Nov 2026 11:39:39 +0000</pubDate>
-<category>industry</category>
-<description>This video does a great job of explaining dot products from both algebraic POV and geometric POV, using that to derive cosine similarity and how it applies to embeddings. submitted by /u/johnolafenwa [link] [comments] — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xw0dgg/great_video_for_understanding_how_cosine/</description>
-</item>
-<item>
-<title>Data Archive for 2D and 3D Electrical Impedance Tomography with moderate conductivity contrast phantoms</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b67abad1121</link>
-<guid isPermaLink="false">evt_0b67abad1121</guid>
-<pubDate>Fri, 13 Nov 2026 15:08:44 +0000</pubDate>
-<category>research</category>
-<description>This document describes open Electrical Impedance Tomography (EIT) measurement data that were collected from biomedical imaging inspired phantoms with moderate conductivity contrasts. The data were collected with the KIT4 and KIT5 EIT measurement devices at the University of Eastern Finland, and are intended for EIT image reconstruction algorithm development and testing. The data from thoracic imaging inspired cylindrical and chest-shaped phantoms are suitable for 2D algorithms, and the data from an intracerebral hemorrhage imaging inspired head-shaped phantom with resistive skull are suitable — 来源：hackernews · arxiv — 原文：https://arxiv.org/abs/2611.17225v1</description>
-</item>
-<item>
-<title>tt-a1i/archify — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_61f4d6ad2c7f</link>
-<guid isPermaLink="false">evt_61f4d6ad2c7f</guid>
-<pubDate>Sat, 14 Nov 2026 13:36:17 +0000</pubDate>
-<category>open_source</category>
-<description>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. · topics: agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills, codex · ⭐ 96,366 · JavaScript — 来源：github · hackernews — 原文：https://github.com/tt-a1i/archify</description>
-</item>
-<item>
-<title>Why platform teams fail (and AI makes it worse)</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_faf7cab47812</link>
-<guid isPermaLink="false">evt_faf7cab47812</guid>
-<pubDate>Sat, 14 Nov 2026 12:32:36 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://willdady.com/why-platform-teams-fail</description>
 </item>
 </channel>
 </rss>

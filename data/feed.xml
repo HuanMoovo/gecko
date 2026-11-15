@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 20:16:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 04:03:52 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
@@ -16,12 +16,12 @@
 <description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
-<title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
+<title>Where was Nvidia’s security team?</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
 <guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
-<pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
 <category>infrastructure</category>
-<description>Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations. — 来源：techcrunch_ai · hackernews · verge_ai — 原文：https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</description>
+<description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch. — 来源：techcrunch_ai · hackernews · verge_ai — 原文：https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</description>
 </item>
 <item>
 <title>Introducing ChatGPT Wallet</title>
@@ -232,6 +232,30 @@
 <description>年产2000万亿Token，成本狂降70% — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/510094.html</description>
 </item>
 <item>
+<title>Nvidia deliberately kept GPU prices high through circular financing deals</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_38995d3fca35</link>
+<guid isPermaLink="false">evt_38995d3fca35</guid>
+<pubDate>Sat, 14 Nov 2026 22:26:30 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：nvidia_blog · arxiv · hackernews — 原文：https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</description>
+</item>
+<item>
+<title>datasette-llm 0.1a11</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f9a3c449e598</link>
+<guid isPermaLink="false">evt_f9a3c449e598</guid>
+<pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
+<category>foundation_models</category>
+<description>Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.io/content.db uvx --with datasette-agent datasette \ --root --secret 1 \ -s plugins.datasette-llm.de — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/14/datasette-llm/</description>
+</item>
+<item>
+<title>ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d8042cbd2f3f</link>
+<guid isPermaLink="false">evt_d8042cbd2f3f</guid>
+<pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
+<category>research</category>
+<description>Hey all, I wanted to share TimeCues Studio with you. It's part of my PhD work (ACM Multimedia 2026), and I thought you might find it useful. It's an open-source web app for annotating music on a beat-locked timeline and comparing algorithms against your annotations. If you need to annotate songs (sections, cues, spans, riffs, lyrics and loops), you're building a music-analysis model and want to test it against real labels, you need labeled music for training music-to-dance or video-sync models, or you're syncing visuals to audio, TimeCues Studio might be useful to you. Under your marks you see — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/</description>
+</item>
+<item>
 <title>Ex-OpenAI researcher finds Blackwell signatures in open-weight models</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
 <guid isPermaLink="false">evt_f37b680abcf7</guid>
@@ -304,12 +328,12 @@
 <description>狂揽3000万播放量 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/510013.html</description>
 </item>
 <item>
-<title>Jensen Huang was having a third affair, Reuters reports</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0b3a357762c2</link>
-<guid isPermaLink="false">evt_0b3a357762c2</guid>
-<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-<category>open_source</category>
-<description>Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia. — 来源：verge_ai · hackernews · nvidia_blog · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/</description>
+<title>datasette-vega 0.7</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5acb9d3d7e18</link>
+<guid isPermaLink="false">evt_5acb9d3d7e18</guid>
+<pubDate>Sat, 14 Nov 2026 17:09:09 +0000</pubDate>
+<category>research</category>
+<description>Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live demo in the README now links to this demo on Datasette Lite . Tags: datasette , visualisation , datase — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/14/datasette-vega/</description>
 </item>
 <item>
 <title>A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression</title>
@@ -382,30 +406,6 @@
 <pubDate>Sat, 14 Nov 2026 12:32:36 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://willdady.com/why-platform-teams-fail</description>
-</item>
-<item>
-<title>Open-source AI without Jensen</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_812c54fee2cd</link>
-<guid isPermaLink="false">evt_812c54fee2cd</guid>
-<pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
-<category>industry</category>
-<description>A decapitation. It’s time to rebuild. — 来源：interconnects — 原文：https://www.interconnects.ai/p/open-source-ai-without-jensen</description>
-</item>
-<item>
-<title>App like GitHub for your conversations with AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_234a37a27289</link>
-<guid isPermaLink="false">evt_234a37a27289</guid>
-<pubDate>Sat, 14 Nov 2026 12:09:08 +0000</pubDate>
-<category>open_source</category>
-<description>来源：hackernews — 原文：http://ainiconva.com</description>
-</item>
-<item>
-<title>Global Optimization for Combinatorial Geometry Problems Revisited in Era of LLMs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8d620e63ec0b</link>
-<guid isPermaLink="false">evt_8d620e63ec0b</guid>
-<pubDate>Sat, 14 Nov 2026 11:53:06 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews — 原文：https://arxiv.org/abs/2601.05943</description>
 </item>
 </channel>
 </rss>

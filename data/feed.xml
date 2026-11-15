@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 15:09:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 20:41:36 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>FareedKhan-dev/kimi-k3-in-c — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framewo</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cd998f720303</link>
+<guid isPermaLink="false">evt_cd998f720303</guid>
+<pubDate>Sun, 15 Nov 2026 17:03:29 +0000</pubDate>
+<category>open_source</category>
+<description>A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. · topics: avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine · ⭐ 12,134 · C — 来源：github — 原文：https://github.com/FareedKhan-dev/kimi-k3-in-c</description>
+</item>
 <item>
 <title>[Dataset] nvidia/PhysicalAI-Autonomous-Vehicles</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
@@ -16,20 +24,36 @@
 <description>Hugging Face 数据集 · 下载 274,195 · 收藏 1,208 — 来源：techcrunch_ai · hackernews · verge_ai · huggingface — 原文：https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles</description>
 </item>
 <item>
+<title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_25fc174d12cf</link>
+<guid isPermaLink="false">evt_25fc174d12cf</guid>
+<pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
+<category>infrastructure</category>
+<description>Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […] — 来源：arxiv · nvidia_blog · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</description>
+</item>
+<item>
+<title>Jensen Huang discusses comeback as Nvidia CEO with allies</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
+<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
+<pubDate>Sun, 15 Nov 2026 19:31:11 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1</description>
+</item>
+<item>
 <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d8ee9ab549e4</link>
 <guid isPermaLink="false">evt_d8ee9ab549e4</guid>
-<pubDate>Sat, 14 Nov 2026 14:26:24 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 20:11:05 +0000</pubDate>
 <category>industry</category>
 <description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
-<title>An overview of Jensen Huang’s messy days</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
-<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
-<pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
+<title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1a811a22b701</link>
+<guid isPermaLink="false">evt_1a811a22b701</guid>
+<pubDate>Sun, 15 Nov 2026 20:20:57 +0000</pubDate>
 <category>industry</category>
-<description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […] — 来源：verge_ai — 原文：https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</description>
+<description>While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</description>
 </item>
 <item>
 <title>shareAI-lab/learn-claude-code — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1</title>
@@ -56,12 +80,84 @@
 <description>来源：arxiv · reddit_ml · hackernews — 原文：https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</description>
 </item>
 <item>
+<title>We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6e09eb3c54ce</link>
+<guid isPermaLink="false">evt_6e09eb3c54ce</guid>
+<pubDate>Sun, 15 Nov 2026 19:46:49 +0000</pubDate>
+<category>infrastructure</category>
+<description>We trained a world model on our open dataset of 10-player CS:GO bot matches (~3,958 hours, with all POVs and inputs aligned at 16 Hz), which we released last month. Now you can actually play it with other people. A lightweight server keeps the game state in sync, while each player runs the model locally to generate their own view based on that state and their inputs. Server states, player actions and previous frames are fed into diffusion transformers to draw the next frame. It's still pretty limited: one small map, pistols only, and fine details aren't great yet. Nothing close to the original — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/</description>
+</item>
+<item>
+<title>Parents pay $75k for Alpha's AI school. Half of its students missed math target</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_da5a45ac447a</link>
+<guid isPermaLink="false">evt_da5a45ac447a</guid>
+<pubDate>Sun, 15 Nov 2026 19:39:46 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/</description>
+</item>
+<item>
+<title>Making cudaMemcpy 5x faster on a B300 [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_743df5f4d175</link>
+<guid isPermaLink="false">evt_743df5f4d175</guid>
+<pubDate>Sun, 15 Nov 2026 18:20:27 +0000</pubDate>
+<category>infrastructure</category>
+<description>https://preview.redd.it/cjz9xy3rht1i1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=0eea8a5d9e53d5ea4593ce1a629bc7342a049ffa Hi everyone, I made a tool that can speed up pageable transfers for cudaMemcpy. For example: # B300, copying a 1 GB tensor to the GPU and back: import time, torch x = torch.ones(1 &lt;&lt; 30, dtype=torch.uint8) y = x.to("cuda"); y.cpu() for name, copy in [("CPU -&gt; GPU", lambda: (x.to("cuda"), torch.cuda.synchronize()))]: t = time.perf_counter() for _ in range(5): copy() print(f"{name}: {5 * x.nbytes / (time.perf_counter() - t) / 1e9:.1f} GB/s") $ python bench.py CPU -&gt; GPU: 10.2 GB/s — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/</description>
+</item>
+<item>
+<title>Training-free early exit for reasoning models: a linear probe folded into the row of the output layer [p]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_aded4406ca76</link>
+<guid isPermaLink="false">evt_aded4406ca76</guid>
+<pubDate>Sun, 15 Nov 2026 17:52:41 +0000</pubDate>
+<category>infrastructure</category>
+<description>Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs anywhere. Processing img 5yk991rjlt1i1... Background, Reasoning models (DeepSeek, Qwen, and so on) "think" in a scratchpad before answering. The scratchpad ends when the model writes a special token, &lt;/think&gt;. To pick each next token, the model first computes a summary of everything so far: a long list — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/</description>
+</item>
+<item>
+<title>[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cea3f174f4c6</link>
+<guid isPermaLink="false">evt_cea3f174f4c6</guid>
+<pubDate>Sun, 15 Nov 2026 17:38:16 +0000</pubDate>
+<category>foundation_models</category>
+<description>X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now. Gemma 4 12B dropped the encoder, Kimi K3 trains its encoder from scratch, and Inkling 2 Small brought an encoder back. Published models can't settle this, because they differ in data and compute and rarely account for encoder pretraining. A standard encoder also bundles three choices: separate pretraining, parameters that only vision  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/</description>
+</item>
+<item>
+<title>Marimba: a System One model for speech [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_16de5ad1f961</link>
+<guid isPermaLink="false">evt_16de5ad1f961</guid>
+<pubDate>Sun, 15 Nov 2026 16:30:09 +0000</pubDate>
+<category>research</category>
+<description>Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and language questions use zero-shot scores from the ASR decoder's hypotheses, followed by calibration. Small readouts on the frozen encoder handle voice activity, turn endings, speaker changes and speaker count. Watch the 60 s demo · Try it live Open weights (Apache-2.0), pip install marimba-audio . Paper on arXiv this week. Code · Model · Benchmark submitted by /u/solanotodesch [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/</description>
+</item>
+<item>
+<title>Ask HN: What does building hardware with AI look like?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7111165f5951</link>
+<guid isPermaLink="false">evt_7111165f5951</guid>
+<pubDate>Sun, 15 Nov 2026 16:17:53 +0000</pubDate>
+<category>industry</category>
+<description>Is it 3D printing or just CAD? What will it look like in the future ? AI-native 3d printers? — 来源：hackernews — 原文：https://news.ycombinator.com/item?id=50508089</description>
+</item>
+<item>
+<title>A Human Reads the Anthropic IPO Filing</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2ea12ce1088e</link>
+<guid isPermaLink="false">evt_2ea12ce1088e</guid>
+<pubDate>Sun, 15 Nov 2026 15:18:06 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</description>
+</item>
+<item>
 <title>Codex + Astra fails at Kaggle Titanic [P]</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2732fee73e83</link>
 <guid isPermaLink="false">evt_2732fee73e83</guid>
 <pubDate>Sun, 15 Nov 2026 14:50:30 +0000</pubDate>
 <category>agents</category>
 <description>I expected Codex + Astra to do better on Kaggle Titanic. With a one-hour limit, the best result from two runs was 72.96% accuracy . I then explicitly suggested XGBoost and let it spend roughly 90–100 minutes optimizing the solution. The best result reached 77.27% . For a task as familiar as Titanic, that felt disappointing. Giving the agent a strong model, access to tools, and more time had not produced the result I expected. So we tried changing the workflow guiding the agent. We used Gear to evolve a DSH harness , with Astra at max reasoning effort. Starting from a harness that already incor — 来源：github · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xwxcwm/codex_astra_fails_at_kaggle_titanic_p/</description>
+</item>
+<item>
+<title>All AI-generated code should be Open Source</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_de1b04aef218</link>
+<guid isPermaLink="false">evt_de1b04aef218</guid>
+<pubDate>Sun, 15 Nov 2026 14:46:58 +0000</pubDate>
+<category>open_source</category>
+<description>Comments — 来源：hn_frontpage — 原文：https://jakub.jankiewicz.org/blog/ai-code-open-source/</description>
 </item>
 <item>
 <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
@@ -86,14 +182,6 @@
 <pubDate>Fri, 13 Nov 2026 23:22:09 +0000</pubDate>
 <category>infrastructure</category>
 <description>GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/</description>
-</item>
-<item>
-<title>How AI Is Helping Care Teams Get Patients the Right Care, Sooner</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_25fc174d12cf</link>
-<guid isPermaLink="false">evt_25fc174d12cf</guid>
-<pubDate>Fri, 13 Nov 2026 13:00:42 +0000</pubDate>
-<category>research</category>
-<description>From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […] — 来源：arxiv · nvidia_blog · techcrunch_ai — 原文：https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</description>
 </item>
 <item>
 <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
@@ -318,94 +406,6 @@
 <pubDate>Sat, 14 Nov 2026 08:31:02 +0000</pubDate>
 <category>industry</category>
 <description>November 13, 2026 — AIE speakers unite to lay out how to fight slop. — 来源：hackernews · latent_space — 原文：https://latent.space/p/ainews-the-no-ai-slop-manifesto/</description>
-</item>
-<item>
-<title>Most affairs don't matter much. Nvidia Jensen's blunder will rock the world</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4619475f4b8c</link>
-<guid isPermaLink="false">evt_4619475f4b8c</guid>
-<pubDate>Fri, 13 Nov 2026 19:47:08 +0000</pubDate>
-<category>industry</category>
-<description>来源：reddit_ml · techcrunch_ai · verge_ai · hackernews — 原文：https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649</description>
-</item>
-<item>
-<title>Shield helps technicians hand off legacy portal work with OpenAI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a1e2c5f2d56a</link>
-<guid isPermaLink="false">evt_a1e2c5f2d56a</guid>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-<category>agents</category>
-<description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment. — 来源：github · openai_blog — 原文：https://openai.com/business/customer-stories/shield</description>
-</item>
-<item>
-<title>Edge0/Edge0-145B-NVFP4</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_68431e57dcdc</link>
-<guid isPermaLink="false">evt_68431e57dcdc</guid>
-<pubDate>Fri, 13 Nov 2026 14:37:59 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 14,134 · 收藏 161 — 来源：huggingface — 原文：https://huggingface.co/Edge0/Edge0-145B-NVFP4</description>
-</item>
-<item>
-<title>Claude asked to renumber pages deletes professor's syllabus, year of notes</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa9d06fdcfe1</link>
-<guid isPermaLink="false">evt_aa9d06fdcfe1</guid>
-<pubDate>Sat, 14 Nov 2026 17:51:13 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：simonwillison · hn_frontpage · hackernews — 原文：https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</description>
-</item>
-<item>
-<title>AI Company Employees Should Unionize</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_65f845ae976e</link>
-<guid isPermaLink="false">evt_65f845ae976e</guid>
-<pubDate>Sat, 14 Nov 2026 19:47:33 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.astralcodexten.com/p/ai-company-employees-should-unionize</description>
-</item>
-<item>
-<title>中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_943bbe3227f0</link>
-<guid isPermaLink="false">evt_943bbe3227f0</guid>
-<pubDate>Sat, 14 Nov 2026 02:59:35 +0000</pubDate>
-<category>industry</category>
-<description>狂揽3000万播放量 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/510013.html</description>
-</item>
-<item>
-<title>datasette-vega 0.7</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5acb9d3d7e18</link>
-<guid isPermaLink="false">evt_5acb9d3d7e18</guid>
-<pubDate>Sat, 14 Nov 2026 17:09:09 +0000</pubDate>
-<category>research</category>
-<description>Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live demo in the README now links to this demo on Datasette Lite . Tags: datasette , visualisation , datase — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/14/datasette-vega/</description>
-</item>
-<item>
-<title>A Convex-Analytic Reformulation for Poisoning Attacks on Logistic Regression</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_37478186fc53</link>
-<guid isPermaLink="false">evt_37478186fc53</guid>
-<pubDate>Fri, 13 Nov 2026 22:06:35 +0000</pubDate>
-<category>research</category>
-<description>We study data poisoning attacks on logistic regression with $\ell_2$-regularization, where an attacker chooses the features of a fixed number of injected observations with prescribed labels to maximize the logistic loss on the clean training data. Strong convexity of the defender's problem yields an exact reformulation through its first-order optimality conditions. Using convex conjugacy of the softplus function, we replace the sigmoid relations by a single convex optimality-gap inequality and express the attacker's objective as a concave function. A change of variables makes the stationarity  — 来源：arxiv · hackernews — 原文：https://arxiv.org/abs/2611.17143v1</description>
-</item>
-<item>
-<title>Anthropic upgrades Claude Code Projects to run parallel AI workers</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fcd75d626dd</link>
-<guid isPermaLink="false">evt_6fcd75d626dd</guid>
-<pubDate>Sat, 14 Nov 2026 00:28:11 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：techcrunch_ai · hn_frontpage · hackernews · qbitai — 原文：https://claude.com/resources/articles/projects-redesigned</description>
-</item>
-<item>
-<title>VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_196c0edf93f9</link>
-<guid isPermaLink="false">evt_196c0edf93f9</guid>
-<pubDate>Fri, 13 Nov 2026 23:52:21 +0000</pubDate>
-<category>robotics</category>
-<description>Vision-based dexterous in-hand manipulation requires knowing not only where an object is, but also how it moves. However, most robotic manipulation systems rely on off-the-shelf visual perception models whose outputs are limited to static object masks, geometry, or 6D poses, leaving downstream controllers to infer object dynamics implicitly from noisy visual observations. We present VOKE, a kinematics-aware perception framework that augments existing object and hand-object pose estimators to recover a complete object kinematic state comprising pose, linear and angular velocity, and linear and  — 来源：techcrunch_ai · arxiv · reddit_ml — 原文：https://arxiv.org/abs/2611.16423v1</description>
-</item>
-<item>
-<title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8f2daa11c505</link>
-<guid isPermaLink="false">evt_8f2daa11c505</guid>
-<pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews — 原文：https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</description>
 </item>
 </channel>
 </rss>

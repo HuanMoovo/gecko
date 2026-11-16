@@ -5,39 +5,31 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 20:41:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 04:03:57 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>FareedKhan-dev/kimi-k3-in-c — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framewo</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_cd998f720303</link>
-<guid isPermaLink="false">evt_cd998f720303</guid>
-<pubDate>Sun, 15 Nov 2026 17:03:29 +0000</pubDate>
-<category>open_source</category>
-<description>A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. · topics: avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine · ⭐ 12,134 · C — 来源：github — 原文：https://github.com/FareedKhan-dev/kimi-k3-in-c</description>
-</item>
 <item>
 <title>[Dataset] nvidia/PhysicalAI-Autonomous-Vehicles</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
 <guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
-<pubDate>Sun, 15 Nov 2026 09:26:06 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 23:55:55 +0000</pubDate>
 <category>research</category>
 <description>Hugging Face 数据集 · 下载 274,195 · 收藏 1,208 — 来源：techcrunch_ai · hackernews · verge_ai · huggingface — 原文：https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles</description>
 </item>
 <item>
-<title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_25fc174d12cf</link>
-<guid isPermaLink="false">evt_25fc174d12cf</guid>
-<pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
-<category>infrastructure</category>
-<description>Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […] — 来源：arxiv · nvidia_blog · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</description>
+<title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_46b48e728e81</link>
+<guid isPermaLink="false">evt_46b48e728e81</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:28 +0000</pubDate>
+<category>agents</category>
+<description>Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</description>
 </item>
 <item>
-<title>Jensen Huang discusses comeback as Nvidia CEO with allies</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
-<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
-<pubDate>Sun, 15 Nov 2026 19:31:11 +0000</pubDate>
+<title>Apple launches new app to study how people use AI for health</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10ab37804642</link>
+<guid isPermaLink="false">evt_10ab37804642</guid>
+<pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
 <category>industry</category>
-<description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1</description>
+<description>Apple's new app for a study will answer everyday medical questions — 来源：hackernews · techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</description>
 </item>
 <item>
 <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
@@ -48,6 +40,46 @@
 <description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
+<title>Our new blog for science</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b0fc5b701ff</link>
+<guid isPermaLink="false">evt_4b0fc5b701ff</guid>
+<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+<category>research</category>
+<description>The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery. — 来源：openai_blog — 原文：https://openai.com/index/our-new-blog-for-science</description>
+</item>
+<item>
+<title>Ebony-Vinyl/dsh-our-free-model — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugi</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f2155f2e5494</link>
+<guid isPermaLink="false">evt_f2155f2e5494</guid>
+<pubDate>Mon, 16 Nov 2026 03:20:57 +0000</pubDate>
+<category>open_source</category>
+<description>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap. · topics: ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin · ⭐ 76,082 · JavaScript — 来源：github — 原文：https://github.com/Ebony-Vinyl/dsh-our-free-model</description>
+</item>
+<item>
+<title>Jensen Huang might be plotting a return and more of the latest Nvidia drama</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
+<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
+<pubDate>Sun, 15 Nov 2026 23:24:53 +0000</pubDate>
+<category>industry</category>
+<description>The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […] — 来源：verge_ai · hn_frontpage · hackernews — 原文：https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</description>
+</item>
+<item>
+<title>FareedKhan-dev/kimi-k3-in-c — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framewo</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_cd998f720303</link>
+<guid isPermaLink="false">evt_cd998f720303</guid>
+<pubDate>Sun, 15 Nov 2026 17:03:29 +0000</pubDate>
+<category>open_source</category>
+<description>A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. · topics: avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine · ⭐ 12,134 · C — 来源：github — 原文：https://github.com/FareedKhan-dev/kimi-k3-in-c</description>
+</item>
+<item>
+<title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fc91828979fb</link>
+<guid isPermaLink="false">evt_fc91828979fb</guid>
+<pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
+<category>infrastructure</category>
+<description>Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</description>
+</item>
+<item>
 <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1a811a22b701</link>
 <guid isPermaLink="false">evt_1a811a22b701</guid>
@@ -56,12 +88,124 @@
 <description>While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</description>
 </item>
 <item>
+<title>Hands-on ML Orchestration Tutorial with Airflow3 [P]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa9d06fdcfe1</link>
+<guid isPermaLink="false">evt_aa9d06fdcfe1</guid>
+<pubDate>Sun, 15 Nov 2026 23:28:01 +0000</pubDate>
+<category>foundation_models</category>
+<description>It's available in English and Spanish . A couple of months ago I was looking for a good ML orchestration tutorial, and I found Made With ML's orchestration lesson , part of its full MLOps tutorial. There were only two problems. First, it was written for Airflow 2, and from what I had gathered at the time, Airflow 3 has some differences. Second, my brain doesn't retain a tutorial I only read for long: I can read it and understand it, and it will soon be gone. So I was looking for something a bit more interactive. Since I couldn't find one (and since I had some tokens for Claude Fable 5.1), I de — 来源：simonwillison · hn_frontpage · hackernews · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/</description>
+</item>
+<item>
 <title>shareAI-lab/learn-claude-code — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_930dd1342c71</link>
 <guid isPermaLink="false">evt_930dd1342c71</guid>
 <pubDate>Sun, 15 Nov 2026 13:41:46 +0000</pubDate>
 <category>open_source</category>
 <description>Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 · topics: agent, agent-development, ai-agent, claude, claude-code, educational · ⭐ 80,437 · Python — 来源：github · openai_blog · arxiv · verge_ai · techcrunch_ai — 原文：https://github.com/shareAI-lab/learn-claude-code</description>
+</item>
+<item>
+<title>The efficient frontier of LLM inference</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a5749ddac123</link>
+<guid isPermaLink="false">evt_a5749ddac123</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:50 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hn_frontpage · arxiv · hackernews — 原文：https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization</description>
+</item>
+<item>
+<title>Top Institutions for Artificial Intelligence &amp; Image Processing (Top 2% Scientists List) [N]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b749a052f6c5</link>
+<guid isPermaLink="false">evt_b749a052f6c5</guid>
+<pubDate>Mon, 16 Nov 2026 03:28:51 +0000</pubDate>
+<category>industry</category>
+<description>submitted by /u/NegotiationOk7535 [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xxf0r6/top_institutions_for_artificial_intelligence/</description>
+</item>
+<item>
+<title>"Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3b862515bade</link>
+<guid isPermaLink="false">evt_3b862515bade</guid>
+<pubDate>Mon, 16 Nov 2026 01:31:30 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.hntrends.com/2026/november.html</description>
+</item>
+<item>
+<title>Agentic AI Designs an Analog Synthesizer</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_44e5714027a5</link>
+<guid isPermaLink="false">evt_44e5714027a5</guid>
+<pubDate>Mon, 16 Nov 2026 01:28:10 +0000</pubDate>
+<category>agents</category>
+<description>来源：github · hackernews — 原文：https://cpldcpu.github.io/2026/11/14/touchsynth/</description>
+</item>
+<item>
+<title>Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b59d004928e4</link>
+<guid isPermaLink="false">evt_b59d004928e4</guid>
+<pubDate>Mon, 16 Nov 2026 01:07:01 +0000</pubDate>
+<category>foundation_models</category>
+<description>Say you simulate a population of LLM agents and get polarization, norm formation or an information cascade. How do you know the population produced it, and not the prompt, the base model or something memorized from pretraining? That attribution problem is the focus of the 3rd Workshop on Social Simulation with LLMs (Social Sim’27), held at AAAI-27 in Montréal (Feb 22 or 23, 2027). We’re looking for work on three axes: Population construction: data-grounded populations and calibration, persona modeling, heterogeneity and bias, human-AI hybrid simulations Collective dynamics: separating emergenc — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/</description>
+</item>
+<item>
+<title>Direction or Magnitude? Learning Scalars over Task-Calibrated Directions</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_aded4406ca76</link>
+<guid isPermaLink="false">evt_aded4406ca76</guid>
+<pubDate>Sun, 15 Nov 2026 17:52:41 +0000</pubDate>
+<category>research</category>
+<description>Parameter-efficient fine-tuning (PEFT) aims to preserve adaptation quality while reducing training costs. We propose SCALAR, which achieves performance comparable to LoRA with substantially fewer trainable parameters, lower peak training memory, and higher throughput. SCALAR constructs a fixed input basis from task activations and assigns a random output dictionary to each input direction. Fine-tuning learns only layer-specific scalar coefficients, reducing gradient and optimizer-state storage. Grouped computation aggregates output atoms before applying the adapter to token activations, while  — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.17784v1</description>
+</item>
+<item>
+<title>'It's like the Wild West': how AI has rocked the literary world</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_623a16c44827</link>
+<guid isPermaLink="false">evt_623a16c44827</guid>
+<pubDate>Mon, 16 Nov 2026 00:52:00 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world</description>
+</item>
+<item>
+<title>UltraBERT-JEV: Encoder models for System One Applications</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_16de5ad1f961</link>
+<guid isPermaLink="false">evt_16de5ad1f961</guid>
+<pubDate>Sun, 15 Nov 2026 16:30:09 +0000</pubDate>
+<category>research</category>
+<description>We study encoder models that pick one of several options in a single forward pass, without generating text. This technical report compares recipes for fine-tuning UltraBERT-380M with one mask per option. The four recipes differ in how an option is scored and how the scores become probabilities; one follows the expert gate of DeepSeek-V3. Trained on the same data as Qwen3-0.6B with the LLM-as-Jev recipe (67.6% test accuracy), the encoder reaches 69.7% to 72.1%. Scoring an option by "yes" minus "no" instead of "yes" alone gives the larger gain, from 69.7% to 71.3% on the test set and from 57.8%  — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.17867v1</description>
+</item>
+<item>
+<title>datasette-apps 0.4a0</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9ae934d441da</link>
+<guid isPermaLink="false">evt_9ae934d441da</guid>
+<pubDate>Sun, 15 Nov 2026 23:58:36 +0000</pubDate>
+<category>research</category>
+<description>Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other. This means you can have e.g. an app that shows details about a specific record, and a completely separate app that searches those records and links to their representati — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/15/datasette-apps/</description>
+</item>
+<item>
+<title>Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3ddbc267fcff</link>
+<guid isPermaLink="false">evt_3ddbc267fcff</guid>
+<pubDate>Sun, 15 Nov 2026 23:25:39 +0000</pubDate>
+<category>industry</category>
+<description>Hi everyone, I’m a data analyst on a financial crime team, and I’m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I’d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has used ML in practice. Some context: like most teams in this space, we rely mostly on rule-based systems, which generate a lot of false positives and take up a lot of analyst time on alert review. I’d like to explore whether ML can help, but I want to start with something realistic rather than overpromisi — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/</description>
+</item>
+<item>
+<title>datasette 0.65.6</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7c04761a4076</link>
+<guid isPermaLink="false">evt_7c04761a4076</guid>
+<pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
+<category>research</category>
+<description>Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tags: security , datasette — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/15/datasette-2/</description>
+</item>
+<item>
+<title>Show HN: Skillset: Easily curate and install agent skills collection</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_061f46e2c19b</link>
+<guid isPermaLink="false">evt_061f46e2c19b</guid>
+<pubDate>Sun, 15 Nov 2026 22:53:37 +0000</pubDate>
+<category>agents</category>
+<description>Hi everyone!&lt;p&gt;Installing skills globally in ~&amp;#x2F;.agents or ~&amp;#x2F;.claude consumes too much context, yet manually installing specific skills for every project is tedious. Wouldn&amp;#x27;t it be better to group skills for programming, backend architecture, or graphic design into collections, and install them with a single command only when needed?&lt;p&gt;To solve this, I built Skillset. It acts as a wrapper around the Vercel Skill CLI that batch-installs sets of skills from multiple sources using a single JSON file, essentially npm for skills!&lt;p&gt;While similar tools exist, most are written from scra — 来源：hackernews — 原文：https://github.com/itsmeyaw/skillset</description>
+</item>
+<item>
+<title>Logically Consistent Accurate Forecasts</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_2732fee73e83</link>
+<guid isPermaLink="false">evt_2732fee73e83</guid>
+<pubDate>Sun, 15 Nov 2026 14:50:30 +0000</pubDate>
+<category>research</category>
+<description>Agentic forecasting systems based on large language models (LLMs) are now competitive with expert human forecasters, but these systems still suffer from a critical limitation: the inability to produce forecasts that are logically consistent. For example, forecasts for related events often fail to satisfy the axioms of probability, which in turn implies that related forecasts cannot simultaneously be correct and undermines their utility for decision makers. Enforcing consistency is not trivial -- naive approaches (e.g., projection onto the set of consistent forecasts) can degrade accuracy. We a — 来源：github · reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.17735v1</description>
 </item>
 <item>
 <title>drumih/turbo-fieldfare — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook</title>
@@ -104,28 +248,12 @@
 <description>https://preview.redd.it/cjz9xy3rht1i1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=0eea8a5d9e53d5ea4593ce1a629bc7342a049ffa Hi everyone, I made a tool that can speed up pageable transfers for cudaMemcpy. For example: # B300, copying a 1 GB tensor to the GPU and back: import time, torch x = torch.ones(1 &lt;&lt; 30, dtype=torch.uint8) y = x.to("cuda"); y.cpu() for name, copy in [("CPU -&gt; GPU", lambda: (x.to("cuda"), torch.cuda.synchronize()))]: t = time.perf_counter() for _ in range(5): copy() print(f"{name}: {5 * x.nbytes / (time.perf_counter() - t) / 1e9:.1f} GB/s") $ python bench.py CPU -&gt; GPU: 10.2 GB/s — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/</description>
 </item>
 <item>
-<title>Training-free early exit for reasoning models: a linear probe folded into the row of the output layer [p]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aded4406ca76</link>
-<guid isPermaLink="false">evt_aded4406ca76</guid>
-<pubDate>Sun, 15 Nov 2026 17:52:41 +0000</pubDate>
-<category>infrastructure</category>
-<description>Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs anywhere. Processing img 5yk991rjlt1i1... Background, Reasoning models (DeepSeek, Qwen, and so on) "think" in a scratchpad before answering. The scratchpad ends when the model writes a special token, &lt;/think&gt;. To pick each next token, the model first computes a summary of everything so far: a long list — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/</description>
-</item>
-<item>
 <title>[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_cea3f174f4c6</link>
 <guid isPermaLink="false">evt_cea3f174f4c6</guid>
 <pubDate>Sun, 15 Nov 2026 17:38:16 +0000</pubDate>
 <category>foundation_models</category>
 <description>X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now. Gemma 4 12B dropped the encoder, Kimi K3 trains its encoder from scratch, and Inkling 2 Small brought an encoder back. Published models can't settle this, because they differ in data and compute and rarely account for encoder pretraining. A standard encoder also bundles three choices: separate pretraining, parameters that only vision  — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/</description>
-</item>
-<item>
-<title>Marimba: a System One model for speech [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_16de5ad1f961</link>
-<guid isPermaLink="false">evt_16de5ad1f961</guid>
-<pubDate>Sun, 15 Nov 2026 16:30:09 +0000</pubDate>
-<category>research</category>
-<description>Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and language questions use zero-shot scores from the ASR decoder's hypotheses, followed by calibration. Small readouts on the frozen encoder handle voice activity, turn endings, speaker changes and speaker count. Watch the 60 s demo · Try it live Open weights (Apache-2.0), pip install marimba-audio . Paper on arXiv this week. Code · Model · Benchmark submitted by /u/solanotodesch [link] [comments] — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/</description>
 </item>
 <item>
 <title>Ask HN: What does building hardware with AI look like?</title>
@@ -142,14 +270,6 @@
 <pubDate>Sun, 15 Nov 2026 15:18:06 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</description>
-</item>
-<item>
-<title>Codex + Astra fails at Kaggle Titanic [P]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2732fee73e83</link>
-<guid isPermaLink="false">evt_2732fee73e83</guid>
-<pubDate>Sun, 15 Nov 2026 14:50:30 +0000</pubDate>
-<category>agents</category>
-<description>I expected Codex + Astra to do better on Kaggle Titanic. With a one-hour limit, the best result from two runs was 72.96% accuracy . I then explicitly suggested XGBoost and let it spend roughly 90–100 minutes optimizing the solution. The best result reached 77.27% . For a task as familiar as Titanic, that felt disappointing. Giving the agent a strong model, access to tools, and more time had not produced the result I expected. So we tried changing the workflow guiding the agent. We used Gear to evolve a DSH harness , with Astra at max reasoning effort. Starting from a harness that already incor — 来源：github · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xwxcwm/codex_astra_fails_at_kaggle_titanic_p/</description>
 </item>
 <item>
 <title>All AI-generated code should be Open Source</title>
@@ -208,14 +328,6 @@
 <description>来源：latent_space · hackernews · qbitai — 原文：https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</description>
 </item>
 <item>
-<title>Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_51fd6bae6a94</link>
-<guid isPermaLink="false">evt_51fd6bae6a94</guid>
-<pubDate>Fri, 13 Nov 2026 22:30:12 +0000</pubDate>
-<category>agents</category>
-<description>Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/</description>
-</item>
-<item>
 <title>Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8b208eddf6e2</link>
 <guid isPermaLink="false">evt_8b208eddf6e2</guid>
@@ -240,12 +352,12 @@
 <description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</description>
 </item>
 <item>
-<title>A Finite Markov Chain Analysis of the Simplified Swarm Optimisation Update Rule</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_661f340c132f</link>
-<guid isPermaLink="false">evt_661f340c132f</guid>
-<pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
-<category>research</category>
-<description>Simplified swarm optimisation (SSO) updates each variable by one draw that copies the global or personal best, keeps the current value or redraws uniformly, with probabilities $c_g$, $c_p$, $c_w$ and $c_r$. As a finite Markov chain under frozen memory, its coordinate kernel $c_w I + (1 - c_w)Π$ has an explicit stationary law and exact convergence rate $c_w^t$. The elitist chain has a geometric hitting-time bound, from a non-optimal start a fixed $c_r$ needs at least $\exp(nc_r/2)$ expected evaluations to reach a unique optimum, and a coupling under changing memories gives $O(n\log n)$ and $O(n — 来源：techcrunch_ai · aws_ml · verge_ai · arxiv — 原文：https://arxiv.org/abs/2611.16541v1</description>
+<title>datasette-agent 0.6a0</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_75c5b732efee</link>
+<guid isPermaLink="false">evt_75c5b732efee</guid>
+<pubDate>Sun, 15 Nov 2026 03:49:47 +0000</pubDate>
+<category>agents</category>
+<description>Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai — 来源：arxiv · simonwillison — 原文：https://simonwillison.net/2026/Nov/15/datasette-agent/</description>
 </item>
 <item>
 <title>Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture</title>
@@ -256,12 +368,12 @@
 <description>Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/</description>
 </item>
 <item>
-<title>Nvidia board urged to consider 'return of Jensen Huang' by two major investors</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3541a994b8f0</link>
-<guid isPermaLink="false">evt_3541a994b8f0</guid>
-<pubDate>Sat, 14 Nov 2026 18:38:56 +0000</pubDate>
-<category>industry</category>
-<description>来源：techcrunch_ai · hackernews · latent_space — 原文：https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html</description>
+<title>A Finite Markov Chain Analysis of the Simplified Swarm Optimisation Update Rule</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_661f340c132f</link>
+<guid isPermaLink="false">evt_661f340c132f</guid>
+<pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+<category>research</category>
+<description>Simplified swarm optimisation (SSO) updates each variable by one draw that copies the global or personal best, keeps the current value or redraws uniformly, with probabilities $c_g$, $c_p$, $c_w$ and $c_r$. As a finite Markov chain under frozen memory, its coordinate kernel $c_w I + (1 - c_w)Π$ has an explicit stationary law and exact convergence rate $c_w^t$. The elitist chain has a geometric hitting-time bound, from a non-optimal start a fixed $c_r$ needs at least $\exp(nc_r/2)$ expected evaluations to reach a unique optimum, and a coupling under changing memories gives $O(n\log n)$ and $O(n — 来源：techcrunch_ai · aws_ml · verge_ai · arxiv — 原文：https://arxiv.org/abs/2611.16541v1</description>
 </item>
 <item>
 <title>Why is Google cutting off Search from AI-free schools? Here are some theories</title>
@@ -270,14 +382,6 @@
 <pubDate>Fri, 13 Nov 2026 15:29:10 +0000</pubDate>
 <category>industry</category>
 <description>来源：google_ai_blog · deepmind_blog · verge_ai · latent_space · huggingface · github — 原文：https://text.npr.org/nx-s1-6029408</description>
-</item>
-<item>
-<title>[Dataset] laion/laion-audio-xl</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_85e4a4c90821</link>
-<guid isPermaLink="false">evt_85e4a4c90821</guid>
-<pubDate>Fri, 13 Nov 2026 22:42:47 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 8,394 · 收藏 20 — 来源：arxiv · huggingface — 原文：https://huggingface.co/datasets/laion/laion-audio-xl</description>
 </item>
 <item>
 <title>Gemini Decisions API</title>
@@ -302,110 +406,6 @@
 <pubDate>Sat, 14 Nov 2026 16:23:34 +0000</pubDate>
 <category>research</category>
 <description>been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and report a better RMSE. what i rarely see is a comparison against what the market already expects. options implied vol for the range, or a crowd forecast where people put money on outcomes. those already use alot of public info, so beating a random walk doesnt say much if you cant beat the market's own forecast. also most papers only score the point forecast. for something like btc the interval matt — 来源：arxiv · reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/</description>
-</item>
-<item>
-<title>New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_92eefcb0aa10</link>
-<guid isPermaLink="false">evt_92eefcb0aa10</guid>
-<pubDate>Sat, 14 Nov 2026 14:10:31 +0000</pubDate>
-<category>research</category>
-<description>来源：hackernews · arxiv — 原文：https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical</description>
-</item>
-<item>
-<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_40e78db6601d</link>
-<guid isPermaLink="false">evt_40e78db6601d</guid>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/ggml-org/llama-cpp-v1</description>
-</item>
-<item>
-<title>Gemini 4 Hydrogen</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_02e4a20d191a</link>
-<guid isPermaLink="false">evt_02e4a20d191a</guid>
-<pubDate>Thu, 12 Nov 2026 22:55:19 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：google_ai_blog · deepmind_blog · github · verge_ai · simonwillison · hackernews — 原文：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</description>
-</item>
-<item>
-<title>英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0bcca453470d</link>
-<guid isPermaLink="false">evt_0bcca453470d</guid>
-<pubDate>Sat, 14 Nov 2026 10:08:08 +0000</pubDate>
-<category>industry</category>
-<description>马斯克也签名了 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/510297.html</description>
-</item>
-<item>
-<title>「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0563f648c822</link>
-<guid isPermaLink="false">evt_0563f648c822</guid>
-<pubDate>Sat, 14 Nov 2026 09:58:22 +0000</pubDate>
-<category>infrastructure</category>
-<description>斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/510232.html</description>
-</item>
-<item>
-<title>程序员集体沉迷折纸飞机！最长滞空31.2秒</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_94b4d3764c12</link>
-<guid isPermaLink="false">evt_94b4d3764c12</guid>
-<pubDate>Sat, 14 Nov 2026 09:48:34 +0000</pubDate>
-<category>industry</category>
-<description>童年的纸飞机，现在终于飞回我手里～ — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/510150.html</description>
-</item>
-<item>
-<title>绿电进Token出！联想重新定义词元工厂</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ef364eb212fb</link>
-<guid isPermaLink="false">evt_ef364eb212fb</guid>
-<pubDate>Sat, 14 Nov 2026 09:41:02 +0000</pubDate>
-<category>industry</category>
-<description>年产2000万亿Token，成本狂降70% — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/510094.html</description>
-</item>
-<item>
-<title>Nvidia deliberately kept GPU prices high through circular financing deals</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_38995d3fca35</link>
-<guid isPermaLink="false">evt_38995d3fca35</guid>
-<pubDate>Sat, 14 Nov 2026 22:26:30 +0000</pubDate>
-<category>infrastructure</category>
-<description>来源：nvidia_blog · arxiv · hackernews — 原文：https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</description>
-</item>
-<item>
-<title>datasette-llm 0.1a11</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f9a3c449e598</link>
-<guid isPermaLink="false">evt_f9a3c449e598</guid>
-<pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
-<category>foundation_models</category>
-<description>Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.io/content.db uvx --with datasette-agent datasette \ --root --secret 1 \ -s plugins.datasette-llm.de — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/14/datasette-llm/</description>
-</item>
-<item>
-<title>ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d8042cbd2f3f</link>
-<guid isPermaLink="false">evt_d8042cbd2f3f</guid>
-<pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
-<category>research</category>
-<description>Hey all, I wanted to share TimeCues Studio with you. It's part of my PhD work (ACM Multimedia 2026), and I thought you might find it useful. It's an open-source web app for annotating music on a beat-locked timeline and comparing algorithms against your annotations. If you need to annotate songs (sections, cues, spans, riffs, lyrics and loops), you're building a music-analysis model and want to test it against real labels, you need labeled music for training music-to-dance or video-sync models, or you're syncing visuals to audio, TimeCues Studio might be useful to you. Under your marks you see — 来源：reddit_ml — 原文：https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/</description>
-</item>
-<item>
-<title>Ex-OpenAI researcher finds Blackwell signatures in open-weight models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f37b680abcf7</link>
-<guid isPermaLink="false">evt_f37b680abcf7</guid>
-<pubDate>Sat, 14 Nov 2026 06:50:21 +0000</pubDate>
-<category>research</category>
-<description>来源：openai_blog · techcrunch_ai · latent_space · hackernews — 原文：https://twitter.com/willdepue/status/2120992457630326841</description>
-</item>
-<item>
-<title>Near-Optimal Regret for Oracle-Efficient Adversarial Contextual Bandits</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6a3f83479816</link>
-<guid isPermaLink="false">evt_6a3f83479816</guid>
-<pubDate>Thu, 12 Nov 2026 22:03:34 +0000</pubDate>
-<category>research</category>
-<description>We study contextual bandits with $K$ actions, a class of $N$ policies, and i.i.d.\ contexts from a distribution that the learner can sample. For any sequence of loss functions fixed before play, we give an oracle-efficient algorithm with expected regret $O(\sqrt{KT\log(2N)}\,\log(2KT))$ against the best policy in hindsight on the realized contexts. This improves the $T^{2/3}$ dependence on the horizon in prior oracle-efficient bounds and achieves the optimal regret rate in this setting up to logarithmic factors. Our algorithm perturbs policy scores using a Poisson sample of auxiliary contexts. — 来源：arxiv · aws_ml — 原文：https://arxiv.org/abs/2611.17109v1</description>
-</item>
-<item>
-<title>[AINews] The No AI Slop Manifesto</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9f3952a424ef</link>
-<guid isPermaLink="false">evt_9f3952a424ef</guid>
-<pubDate>Sat, 14 Nov 2026 08:31:02 +0000</pubDate>
-<category>industry</category>
-<description>November 13, 2026 — AIE speakers unite to lay out how to fight slop. — 来源：hackernews · latent_space — 原文：https://latent.space/p/ainews-the-no-ai-slop-manifesto/</description>
 </item>
 </channel>
 </rss>

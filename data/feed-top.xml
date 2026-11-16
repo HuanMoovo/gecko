@@ -5,31 +5,23 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 20:41:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 04:03:57 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[Dataset] nvidia/PhysicalAI-Autonomous-Vehicles</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
 <guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
-<pubDate>Sun, 15 Nov 2026 09:26:06 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 23:55:55 +0000</pubDate>
 <category>research</category>
 <description>Hugging Face 数据集 · 下载 274,195 · 收藏 1,208 — 来源：techcrunch_ai · hackernews · verge_ai · huggingface — 原文：https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles</description>
 </item>
 <item>
-<title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_25fc174d12cf</link>
-<guid isPermaLink="false">evt_25fc174d12cf</guid>
-<pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
-<category>infrastructure</category>
-<description>Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […] — 来源：arxiv · nvidia_blog · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</description>
-</item>
-<item>
-<title>Jensen Huang discusses comeback as Nvidia CEO with allies</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
-<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
-<pubDate>Sun, 15 Nov 2026 19:31:11 +0000</pubDate>
+<title>Apple launches new app to study how people use AI for health</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_10ab37804642</link>
+<guid isPermaLink="false">evt_10ab37804642</guid>
+<pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
 <category>industry</category>
-<description>Comments — 来源：verge_ai · hn_frontpage — 原文：https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1</description>
+<description>Apple's new app for a study will answer everyday medical questions — 来源：hackernews · techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</description>
 </item>
 <item>
 <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
@@ -40,12 +32,20 @@
 <description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
-<title>shareAI-lab/learn-claude-code — Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_930dd1342c71</link>
-<guid isPermaLink="false">evt_930dd1342c71</guid>
-<pubDate>Sun, 15 Nov 2026 13:41:46 +0000</pubDate>
-<category>open_source</category>
-<description>Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 · topics: agent, agent-development, ai-agent, claude, claude-code, educational · ⭐ 80,437 · Python — 来源：github · openai_blog · arxiv · verge_ai · techcrunch_ai — 原文：https://github.com/shareAI-lab/learn-claude-code</description>
+<title>Our new blog for science</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b0fc5b701ff</link>
+<guid isPermaLink="false">evt_4b0fc5b701ff</guid>
+<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+<category>research</category>
+<description>The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery. — 来源：openai_blog — 原文：https://openai.com/index/our-new-blog-for-science</description>
+</item>
+<item>
+<title>Jensen Huang might be plotting a return and more of the latest Nvidia drama</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
+<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
+<pubDate>Sun, 15 Nov 2026 23:24:53 +0000</pubDate>
+<category>industry</category>
+<description>The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […] — 来源：verge_ai · hn_frontpage · hackernews — 原文：https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</description>
 </item>
 </channel>
 </rss>

@@ -5,23 +5,71 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 16 Nov 2026 17:43:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 02:42:39 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_661f340c132f</link>
-<guid isPermaLink="false">evt_661f340c132f</guid>
-<pubDate>Mon, 16 Nov 2026 17:29:29 +0000</pubDate>
+<title>[Dataset] nvidia/PhysicalAI-Autonomous-Vehicles</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
+<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:34 +0000</pubDate>
 <category>research</category>
-<description>Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applications on AWS. — 来源：techcrunch_ai · aws_ml · verge_ai · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/</description>
+<description>Hugging Face 数据集 · 下载 274,195 · 收藏 1,208 — 来源：techcrunch_ai · hackernews · verge_ai · huggingface · nvidia_blog — 原文：https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles</description>
 </item>
 <item>
-<title>Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base</title>
+<title>At Holiday Extras, dots get to work before anyone asks</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b0fc5b701ff</link>
+<guid isPermaLink="false">evt_4b0fc5b701ff</guid>
+<pubDate>Mon, 16 Nov 2026 19:23:45 +0000</pubDate>
+<category>open_source</category>
+<description>Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work. — 来源：openai_blog · techcrunch_ai · verge_ai — 原文：https://openai.com/business/customer-stories/holiday-extras-dots</description>
+</item>
+<item>
+<title>Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_75c5b732efee</link>
 <guid isPermaLink="false">evt_75c5b732efee</guid>
-<pubDate>Mon, 16 Nov 2026 16:12:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 22:43:30 +0000</pubDate>
 <category>agents</category>
-<description>Amazon Bedrock Managed Knowledge Base now supports tabular search, so agentic retrieval can answer questions over CSV, XLSX, and XLS files. It looks up values and runs calculations across every relevant row, then combines the results with facts from related documents to answer multi-step analytical questions. — 来源：arxiv · simonwillison · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/</description>
+<description>Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private. — 来源：arxiv · simonwillison · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/</description>
+</item>
+<item>
+<title>Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
+<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
+<pubDate>Mon, 16 Nov 2026 18:43:35 +0000</pubDate>
+<category>open_source</category>
+<description>Nvidia's board of directors "isn't considering" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board "is focused on an investigation into Huang, and is not in discussions to bring him back." Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, […] — 来源：verge_ai · hn_frontpage · hackernews · mit_tr_ai — 原文：https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back</description>
+</item>
+<item>
+<title>NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0be2ab6226e7</link>
+<guid isPermaLink="false">evt_0be2ab6226e7</guid>
+<pubDate>Mon, 16 Nov 2026 23:00:05 +0000</pubDate>
+<category>infrastructure</category>
+<description>At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […] — 来源：nvidia_blog — 原文：https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/</description>
+</item>
+<item>
+<title>Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b831a9780b6e</link>
+<guid isPermaLink="false">evt_b831a9780b6e</guid>
+<pubDate>Mon, 16 Nov 2026 21:53:46 +0000</pubDate>
+<category>agents</category>
+<description>Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS. — 来源：arxiv · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/</description>
+</item>
+<item>
+<title>How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9567fc17c1fd</link>
+<guid isPermaLink="false">evt_9567fc17c1fd</guid>
+<pubDate>Mon, 16 Nov 2026 22:06:08 +0000</pubDate>
+<category>agents</category>
+<description>MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/</description>
+</item>
+<item>
+<title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d8ee9ab549e4</link>
+<guid isPermaLink="false">evt_d8ee9ab549e4</guid>
+<pubDate>Tue, 17 Nov 2026 02:12:13 +0000</pubDate>
+<category>industry</category>
+<description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
 </item>
 <item>
 <title>TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient</title>
@@ -30,6 +78,14 @@
 <pubDate>Mon, 16 Nov 2026 17:01:35 +0000</pubDate>
 <category>agents</category>
 <description>AI coding agents are increasingly help developers fix bugs and build features largely on their own, but every interaction with their models consumes tokens. In each session, an agent sends instructions, tool descriptions, and session history to its model. Most efforts to reduce this cost focus on individual tasks. Yet developers return to the same […] The post TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient appeared first on Microsoft Research . — 来源：arxiv · microsoft_research — 原文：https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/</description>
+</item>
+<item>
+<title>California state AG sues OpenAI over rogue agent incidents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_773cc78ee17a</link>
+<guid isPermaLink="false">evt_773cc78ee17a</guid>
+<pubDate>Mon, 16 Nov 2026 20:46:01 +0000</pubDate>
+<category>agents</category>
+<description>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident. — 来源：techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</description>
 </item>
 <item>
 <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
@@ -48,20 +104,12 @@
 <description>Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery. — 来源：openai_blog — 原文：https://openai.com/index/science-at-the-frontier</description>
 </item>
 <item>
-<title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d8ee9ab549e4</link>
-<guid isPermaLink="false">evt_d8ee9ab549e4</guid>
-<pubDate>Mon, 16 Nov 2026 17:27:02 +0000</pubDate>
+<title>Sam Altman says he wants everyone ‘to have a lot of RAM’</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f28f90d2895a</link>
+<guid isPermaLink="false">evt_f28f90d2895a</guid>
+<pubDate>Mon, 16 Nov 2026 20:41:28 +0000</pubDate>
 <category>industry</category>
-<description>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. — 来源：verge_ai · hackernews · github · techcrunch_ai · hn_frontpage · qbitai — 原文：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</description>
-</item>
-<item>
-<title>The King’s Trust and OpenAI launch £1m partnership</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b0fc5b701ff</link>
-<guid isPermaLink="false">evt_4b0fc5b701ff</guid>
-<pubDate>Mon, 16 Nov 2026 17:02:43 +0000</pubDate>
-<category>industry</category>
-<description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work. — 来源：openai_blog · techcrunch_ai — 原文：https://openai.com/index/the-kings-trust-and-openai</description>
+<description>OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. "I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer," Altman said today. "I think the home tinkering is great." […] — 来源：openai_blog · verge_ai · techcrunch_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor</description>
 </item>
 <item>
 <title>NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics</title>
@@ -96,30 +144,6 @@
 <description>Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […] — 来源：verge_ai · techcrunch_ai — 原文：https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</description>
 </item>
 <item>
-<title>Advancing computer-use agents for healthcare teams</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_a1e2c5f2d56a</link>
-<guid isPermaLink="false">evt_a1e2c5f2d56a</guid>
-<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
-<category>agents</category>
-<description>来源：github · openai_blog — 原文：https://openai.com/index/advancing-computer-use-for-healthcare-teams</description>
-</item>
-<item>
-<title>[Dataset] nvidia/PhysicalAI-Autonomous-Vehicles</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_5c8a7e2ce9e4</link>
-<guid isPermaLink="false">evt_5c8a7e2ce9e4</guid>
-<pubDate>Mon, 16 Nov 2026 17:42:49 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 274,195 · 收藏 1,208 — 来源：techcrunch_ai · hackernews · verge_ai · huggingface — 原文：https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles</description>
-</item>
-<item>
-<title>Nvidia Was in Trouble Before the Jensen Huang Mess</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fdb9cf64c8f</link>
-<guid isPermaLink="false">evt_6fdb9cf64c8f</guid>
-<pubDate>Mon, 16 Nov 2026 15:24:09 +0000</pubDate>
-<category>industry</category>
-<description>来源：verge_ai · hn_frontpage · hackernews — 原文：https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/</description>
-</item>
-<item>
 <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_a88bddb17214</link>
 <guid isPermaLink="false">evt_a88bddb17214</guid>
@@ -128,28 +152,12 @@
 <description>来源：hf_blog · arxiv — 原文：https://huggingface.co/blog/openrouter</description>
 </item>
 <item>
-<title>OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f28f90d2895a</link>
-<guid isPermaLink="false">evt_f28f90d2895a</guid>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-<category>foundation_models</category>
-<description>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning — 来源：openai_blog · verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</description>
-</item>
-<item>
 <title>Apple launches new app to study how people use AI for health</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_10ab37804642</link>
 <guid isPermaLink="false">evt_10ab37804642</guid>
 <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
 <category>industry</category>
 <description>Apple's new app for a study will answer everyday medical questions — 来源：hackernews · techcrunch_ai · verge_ai — 原文：https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</description>
-</item>
-<item>
-<title>阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7e8ec09429d0</link>
-<guid isPermaLink="false">evt_7e8ec09429d0</guid>
-<pubDate>Mon, 16 Nov 2026 07:51:57 +0000</pubDate>
-<category>agents</category>
-<description>11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max — 来源：huggingface · qbitai — 原文：https://www.qbitai.com/2026/11/510486.html</description>
 </item>
 </channel>
 </rss>

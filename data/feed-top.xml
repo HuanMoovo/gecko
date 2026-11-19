@@ -5,8 +5,32 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 19 Nov 2026 01:35:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:22:23 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Introducing Gemini 4 Neon</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_94350bd30999</link>
+<guid isPermaLink="false">evt_94350bd30999</guid>
+<pubDate>Thu, 19 Nov 2026 07:07:43 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：verge_ai · techcrunch_ai · google_ai_blog · hackernews · qbitai · deepmind_blog — 原文：https://deepmind.google/blog/introducing-gemini-4-neon/</description>
+</item>
+<item>
+<title>Unified Law for Visual Tasks (The Four Laws of Computer Vision)</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_eacbd26a911f</link>
+<guid isPermaLink="false">evt_eacbd26a911f</guid>
+<pubDate>Wed, 18 Nov 2026 23:03:29 +0000</pubDate>
+<category>research</category>
+<description>In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly all visual tasks. Our starting point is an inspiration and hypothesis: if the world information is encoded into image, which we call World Snapshots, then image processing is world processing, and image generation is World Snapshot generation. Furthermore, if all visual and visualization tasks can be reformulated as generation tasks, then a unified method, World Snapshot Models — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.24917v1</description>
+</item>
+<item>
+<title>Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a8eb0ed9ef43</link>
+<guid isPermaLink="false">evt_a8eb0ed9ef43</guid>
+<pubDate>Wed, 18 Nov 2026 21:38:22 +0000</pubDate>
+<category>foundation_models</category>
+<description>Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where the answers could be checked. From the International Stroke Trial we trained four kinds of model (logistic regression, explainable boosting machine, gradient-boosted trees, neural network) for two outcomes on patients randomised earlier, planted one flaw in each of 24 copies (an under-predicted subgroup, a reversed risk factor or an implausible step) and mixed them with the 8  — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.24877v1</description>
+</item>
 <item>
 <title>Introducing the Amazon SageMaker JumpStart Model Leaderboard</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_663fa60cff59</link>
@@ -14,6 +38,14 @@
 <pubDate>Wed, 18 Nov 2026 22:31:04 +0000</pubDate>
 <category>foundation_models</category>
 <description>The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model. — 来源：aws_ml · verge_ai — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/</description>
+</item>
+<item>
+<title>Fincept-Corporation/FinceptTerminal — FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic da</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_c2d28ea46889</link>
+<guid isPermaLink="false">evt_c2d28ea46889</guid>
+<pubDate>Thu, 19 Nov 2026 10:39:29 +0000</pubDate>
+<category>open_source</category>
+<description>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. · topics: agent, agents, ai-agents, algorithmic-trading, bloomberg-terminal, finance · ⭐ 33,975 · C++ — 来源：arxiv · github — 原文：https://github.com/Fincept-Corporation/FinceptTerminal</description>
 </item>
 <item>
 <title>How Social Department built culture-aware video discovery</title>
@@ -24,12 +56,28 @@
 <description>Social Department, an AI operating system for entertainment marketing, worked with TrackIt and AWS to build QuickSearch: single-action queries that surface shareable scenes, quotable lines, memeable frames, and trend-aligned moments across large video libraries, using TwelveLabs models on Amazon Bedrock and Amazon OpenSearch Serverless. — 来源：aws_ml · verge_ai — 原文：https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/</description>
 </item>
 <item>
+<title>KORMo-VL/KORMo-Web-9B</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_fa058b1e86e7</link>
+<guid isPermaLink="false">evt_fa058b1e86e7</guid>
+<pubDate>Thu, 19 Nov 2026 10:23:50 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 445 · 收藏 63 — 来源：huggingface — 原文：https://huggingface.co/KORMo-VL/KORMo-Web-9B</description>
+</item>
+<item>
 <title>Reson8/Rumble-2-Flash</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_679cee5ea146</link>
 <guid isPermaLink="false">evt_679cee5ea146</guid>
 <pubDate>Wed, 18 Nov 2026 19:34:02 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · automatic-speech-recognition · 下载 453 · 收藏 76 — 来源：hf_blog · huggingface — 原文：https://huggingface.co/Reson8/Rumble-2-Flash</description>
+</item>
+<item>
+<title>影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e15c0f88ad15</link>
+<guid isPermaLink="false">evt_e15c0f88ad15</guid>
+<pubDate>Thu, 19 Nov 2026 08:43:10 +0000</pubDate>
+<category>industry</category>
+<description>「Revaluation 价值，另有答案」 — 来源：github · arxiv · simonwillison · qbitai — 原文：https://www.qbitai.com/2026/11/511258.html</description>
 </item>
 <item>
 <title>The First Nvidia RTX Spark Mini PCs Launch Today from Asus, Dell, and MSI</title>
@@ -40,12 +88,36 @@
 <description>来源：hackernews · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops</description>
 </item>
 <item>
-<title>Gemini 4 Neon</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_94350bd30999</link>
-<guid isPermaLink="false">evt_94350bd30999</guid>
-<pubDate>Wed, 18 Nov 2026 21:34:07 +0000</pubDate>
+<title>llm-gemini 0.38</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8e6075d168e0</link>
+<guid isPermaLink="false">evt_8e6075d168e0</guid>
+<pubDate>Wed, 18 Nov 2026 23:59:20 +0000</pubDate>
 <category>foundation_models</category>
-<description>来源：verge_ai · techcrunch_ai · google_ai_blog · hackernews · qbitai — 原文：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</description>
+<description>Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st December once their initial discount pricing expires. The Neon announcement pretends that Argon doesn't exist. Here's their new image explaining the model line-up: So the lineup now, from most to least exp — 来源：google_ai_blog · simonwillison — 原文：https://simonwillison.net/2026/Nov/18/llm-gemini/</description>
+</item>
+<item>
+<title>DrawScore: Evaluating Generated CAD Models against Engineering Drawings</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_acb7f96633bb</link>
+<guid isPermaLink="false">evt_acb7f96633bb</guid>
+<pubDate>Wed, 18 Nov 2026 22:58:11 +0000</pubDate>
+<category>research</category>
+<description>Automatic CAD generation is commonly evaluated with volumetric IoU, Chamfer Distance, and surface F-score, which barely penalize local errors that occupy only a small fraction of a part's volume or surface area, such as a misplaced hole or a slot on the wrong face, even though such errors are critical to manufacturing. We formalize these metrics in a unified integral form and show that the weight of a local error decays as the $(k+q)$-th power of its size, where $k$ is the dimension of the integration domain and $q$ is determined by the penalty function. Guided by this analysis, we propose Dra — 来源：techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2611.24681v1</description>
+</item>
+<item>
+<title>SenseNova U1 Pro获Design Arena双榜中国第一、全球第六</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f054a54f8228</link>
+<guid isPermaLink="false">evt_f054a54f8228</guid>
+<pubDate>Thu, 19 Nov 2026 08:10:19 +0000</pubDate>
+<category>generative</category>
+<description>商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一 — 来源：openai_blog · huggingface · arxiv · qbitai — 原文：https://www.qbitai.com/2026/11/511179.html</description>
+</item>
+<item>
+<title>Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0be2ab6226e7</link>
+<guid isPermaLink="false">evt_0be2ab6226e7</guid>
+<pubDate>Thu, 19 Nov 2026 08:23:41 +0000</pubDate>
+<category>infrastructure</category>
+<description>来源：nvidia_blog · techcrunch_ai · hackernews · verge_ai — 原文：https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal</description>
 </item>
 <item>
 <title>[Dataset] Trelis/duplex-pre-training-yodas3-mimi</title>
@@ -96,20 +168,28 @@
 <description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions. — 来源：openai_blog · hackernews — 原文：https://openai.com/index/the-silent-consensus</description>
 </item>
 <item>
+<title>Who are you? The Personal Imitation Game</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e3ae44df58fa</link>
+<guid isPermaLink="false">evt_e3ae44df58fa</guid>
+<pubDate>Wed, 18 Nov 2026 18:32:14 +0000</pubDate>
+<category>research</category>
+<description>Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establish a human baseline and report the identity signals interrogators rely on: stylometric features, personality traits, and biographical facts. To demonstrate the framework, we design an LLM-based system that plays the game for one of the paper's authors, drawing on an autoethnographic dataset spannin — 来源：arxiv · hackernews — 原文：https://arxiv.org/abs/2611.24888v1</description>
+</item>
+<item>
+<title>Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4420b34b762</link>
+<guid isPermaLink="false">evt_b4420b34b762</guid>
+<pubDate>Wed, 18 Nov 2026 16:39:44 +0000</pubDate>
+<category>research</category>
+<description>Gradient-based meta-learners such as model-agnostic meta-learning (MAML) adapt to a new task with an inner loop of gradient descent that has to be differentiated through, and they meta-learn every network weight. Meta-LSQ instead fits each task with one regularised least-squares solve over a fixed random Fourier basis and meta-learns only three scalars, a bandwidth, a ridge and a derivative weight. Since the derivative of a sinusoid is again a sinusoid, the same solve can also take derivative observations, and the fitted model has exact closed-form derivatives of any order. On 10-shot sinusoid — 来源：verge_ai · arxiv — 原文：https://arxiv.org/abs/2611.24718v1</description>
+</item>
+<item>
 <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
 <guid isPermaLink="false">evt_582c2a1dac6a</guid>
 <pubDate>Wed, 18 Nov 2026 19:24:35 +0000</pubDate>
 <category>agents</category>
 <description>Hi HN, we&amp;#x27;re Ary and Maria, co-founders of Maritime (&lt;a href="https:&amp;#x2F;&amp;#x2F;maritime.sh"&gt;https:&amp;#x2F;&amp;#x2F;maritime.sh&lt;/a&gt;). We&amp;#x27;re building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.&lt;p&gt;Demo: &lt;a href="https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=lCWMdBQ96rY" rel="nofollow"&gt;https:&amp;#x2F;&amp;#x2F;www.youtube.com&amp;#x2F;watch?v=lCWMdBQ96rY&lt;/a&gt;&lt;p&gt;There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing compa — 来源：github · techcrunch_ai · hackernews · simonwillison — 原文：https://news.ycombinator.com/item?id=50549188</description>
-</item>
-<item>
-<title>Nvidia isn’t selling any more AI chips to China</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0be2ab6226e7</link>
-<guid isPermaLink="false">evt_0be2ab6226e7</guid>
-<pubDate>Wed, 18 Nov 2026 13:01:05 +0000</pubDate>
-<category>infrastructure</category>
-<description>Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, […] — 来源：nvidia_blog · techcrunch_ai · hackernews · verge_ai — 原文：https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling</description>
 </item>
 <item>
 <title>Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
@@ -160,92 +240,12 @@
 <description>Lidar-inertial odometry (LIO) has an efficiency problem. High-resolution lidars produce millions of points per second that must be processed online on the resource-constrained hardware of robots, cars, or drones, yet most LIO methods neither bound their memory nor report their compute footprint. We introduce Pelorus, a resource-aware LIO with a fixed-capacity multiresolution map of voxelized normal distributions and an iterated equivariant state estimator. A relevance-based eviction keeps the map memory bounded, and a maturity-weighted map update suppresses inconsistent observations. The pipel — 来源：techcrunch_ai · verge_ai · hackernews · arxiv — 原文：https://arxiv.org/abs/2611.22850v1</description>
 </item>
 <item>
-<title>Research acceleration: The jagged frontier</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b2955c38ff71</link>
-<guid isPermaLink="false">evt_b2955c38ff71</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+<title>Jailbreak Detection on Large Language Models via Contrastive Prototype Structures</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0622a47e446d</link>
+<guid isPermaLink="false">evt_0622a47e446d</guid>
+<pubDate>Wed, 18 Nov 2026 18:56:12 +0000</pubDate>
 <category>research</category>
-<description>OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement. — 来源：mit_tr_ai · openai_blog — 原文：https://openai.com/index/research-acceleration-jagged-frontier</description>
-</item>
-<item>
-<title>Google’s AI feature in Search gets its own incognito mode</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f378d4ace0f3</link>
-<guid isPermaLink="false">evt_f378d4ace0f3</guid>
-<pubDate>Wed, 18 Nov 2026 21:41:16 +0000</pubDate>
-<category>industry</category>
-<description>Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations. — 来源：techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/</description>
-</item>
-<item>
-<title>The nation’s largest school districts consider ditching Google Search</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ed47f6db4915</link>
-<guid isPermaLink="false">evt_ed47f6db4915</guid>
-<pubDate>Wed, 18 Nov 2026 23:18:35 +0000</pubDate>
-<category>foundation_models</category>
-<description>New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […] — 来源：techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google</description>
-</item>
-<item>
-<title>How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4a34fe45dcb6</link>
-<guid isPermaLink="false">evt_4a34fe45dcb6</guid>
-<pubDate>Wed, 18 Nov 2026 13:36:04 +0000</pubDate>
-<category>foundation_models</category>
-<description>Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption. — 来源：github · openai_blog — 原文：https://openai.com/business/customer-stories/sumitomo-life</description>
-</item>
-<item>
-<title>Making Future-Predictive Representations Actionable</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6cca12c62ea2</link>
-<guid isPermaLink="false">evt_6cca12c62ea2</guid>
-<pubDate>Wed, 18 Nov 2026 09:29:32 +0000</pubDate>
-<category>research</category>
-<description>Recent world action models (WAMs) drop future prediction at inference, assuming that representations learned through auxiliary future supervision still benefit action generation. However, our layerwise analysis of Fast-WAM reveals a depth-dependent mismatch: while probes decode future state transitions more accurately from deeper visual layers, the gradients and visual focuses of the future and action objectives increasingly diverge with depth, leaving much of this predictive information unused by the action pathway. To address this issue, we introduce RelayWAM, which adds an explicit transiti — 来源：arxiv · github · hackernews — 原文：https://arxiv.org/abs/2611.22994v1</description>
-</item>
-<item>
-<title>Managing frontier AI risk: From training to deployment</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ebd9eb949639</link>
-<guid isPermaLink="false">evt_ebd9eb949639</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<category>safety</category>
-<description>OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring. — 来源：openai_blog — 原文：https://openai.com/index/managing-frontier-ai-risk</description>
-</item>
-<item>
-<title>GPT‑6.2 Astra and GPT‑6.2 Sol</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b0fc5b701ff</link>
-<guid isPermaLink="false">evt_4b0fc5b701ff</guid>
-<pubDate>Tue, 17 Nov 2026 22:38:52 +0000</pubDate>
-<category>foundation_models</category>
-<description>GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as Claude Fable 5.2 (which was also 80% of its predecessor). 6 Astra and Fable 5 were both $10/$50. The cached price is an even bigger discount - $0.40/million compared to $1/million for the older model. — 来源：openai_blog · techcrunch_ai · verge_ai · hackernews · simonwillison — 原文：https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</description>
-</item>
-<item>
-<title>virgiliojr94/book-to-skill — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3429c7218e4f</link>
-<guid isPermaLink="false">evt_3429c7218e4f</guid>
-<pubDate>Wed, 18 Nov 2026 22:28:06 +0000</pubDate>
-<category>open_source</category>
-<description>Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. · topics: agent-skills, ai-agents, book-to-skill, context-engineering, document-processing, edtech · ⭐ 38,406 · Python — 来源：github · arxiv · hackernews · techcrunch_ai — 原文：https://github.com/virgiliojr94/book-to-skill</description>
-</item>
-<item>
-<title>Event-Based Dynamic Lip Region Estimation During Speech</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6ebd9bdd2b21</link>
-<guid isPermaLink="false">evt_6ebd9bdd2b21</guid>
-<pubDate>Wed, 18 Nov 2026 14:42:25 +0000</pubDate>
-<category>research</category>
-<description>Event cameras offer high temporal resolution and low power consumption, making them promising for speech-related applications. These include automatic lip reading, audiovisual speech analysis, and human-robot interaction, particularly in challenging environments characterized by low illumination or high dynamic range. Event-based lip reading, speaker recognition, and voice activity detection, however, mostly operate on a cropped region of interest (ROI), by hand or by the dataset, and no event-based method supplies that ROI as a spatial region; existing event-based face analysis gives the mout — 来源：arxiv · hackernews — 原文：https://arxiv.org/abs/2611.23111v1</description>
-</item>
-<item>
-<title>[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_811a21e55819</link>
-<guid isPermaLink="false">evt_811a21e55819</guid>
-<pubDate>Wed, 18 Nov 2026 10:19:04 +0000</pubDate>
-<category>foundation_models</category>
-<description>November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with. — 来源：hackernews · qbitai · latent_space — 原文：https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</description>
-</item>
-<item>
-<title>Colombo: A Frontier-to-Frontier Autoresearch System for Oracle-Based Optimization</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e15c0f88ad15</link>
-<guid isPermaLink="false">evt_e15c0f88ad15</guid>
-<pubDate>Wed, 18 Nov 2026 14:44:48 +0000</pubDate>
-<category>research</category>
-<description>Science advances from frontier to frontier as discoveries reshape what is known and create the basis for further discovery. We present Colombo, a self-organizing AI researcher that drives this renewal, first instantiated in oracle-based optimization. Here, the central question is how efficiently a problem class can be solved through a prescribed information interface and what costs no admissible algorithm can avoid. The gap between achievable guarantees and unavoidable limits defines the frontier recorded in its Complexity Atlas, a living map of frontier settings and the current state of knowl — 来源：github · arxiv · simonwillison — 原文：https://arxiv.org/abs/2611.23080v1</description>
+<description>Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the clas — 来源：arxiv — 原文：https://arxiv.org/abs/2611.24936v1</description>
 </item>
 </channel>
 </rss>

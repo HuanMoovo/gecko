@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 16:32:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 01:00:15 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
@@ -16,12 +16,60 @@
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
 </item>
 <item>
+<title>Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6dbfd2c16f1d</link>
+<guid isPermaLink="false">evt_6dbfd2c16f1d</guid>
+<pubDate>Fri, 20 Nov 2026 23:07:03 +0000</pubDate>
+<category>infrastructure</category>
+<description>Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them. — 来源：aws_ml · verge_ai — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/</description>
+</item>
+<item>
+<title>Announcing Amazon Textract Insights: Verifiable generative AI for documents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_eacbd26a911f</link>
+<guid isPermaLink="false">evt_eacbd26a911f</guid>
+<pubDate>Fri, 20 Nov 2026 20:22:00 +0000</pubDate>
+<category>generative</category>
+<description>Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/</description>
+</item>
+<item>
+<title>Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8e21326b778b</link>
+<guid isPermaLink="false">evt_8e21326b778b</guid>
+<pubDate>Fri, 20 Nov 2026 22:35:24 +0000</pubDate>
+<category>infrastructure</category>
+<description>Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/</description>
+</item>
+<item>
+<title>thinkingmachines/Inkling-2-Mini</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
+<guid isPermaLink="false">evt_99ccc673a30f</guid>
+<pubDate>Sat, 21 Nov 2026 00:46:48 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 136 · 收藏 599 — 来源：huggingface — 原文：https://huggingface.co/thinkingmachines/Inkling-2-Mini</description>
+</item>
+<item>
 <title>Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b053ddc62c52</link>
 <guid isPermaLink="false">evt_b053ddc62c52</guid>
 <pubDate>Thu, 19 Nov 2026 22:20:23 +0000</pubDate>
 <category>agents</category>
 <description>First-principles structural relaxation and band calculations require substantial computation and expertise. Here we present Perfumer, a large language model-based agentic framework that couples Quantum ESPRESSO with two predictive models. Across tested structures, pre-relaxation with Perfumer-relax model followed by QE refinement yielded a 2.75-fold overall speedup over QE alone. Perfumer-band model combines a periodic graph neural network with a latent Hermitian spectral head returns 12 band energies at any requested wavevector, preserving reciprocal lattice periodicity and time-reversal symm — 来源：huggingface · hackernews · github · aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.26349v1</description>
+</item>
+<item>
+<title>Can AI help scientists identify promising drug candidates?</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
+<guid isPermaLink="false">evt_e683d40fba10</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<category>science</category>
+<description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery. — 来源：openai_blog · hackernews · arxiv — 原文：https://openai.com/index/introducing-medchembench</description>
+</item>
+<item>
+<title>Nvidia accounting under SEC investigation, sources say</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
+<guid isPermaLink="false">evt_0fd739db34db</guid>
+<pubDate>Fri, 20 Nov 2026 20:22:41 +0000</pubDate>
+<category>industry</category>
+<description>Comments — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html</description>
 </item>
 <item>
 <title>Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments</title>
@@ -38,6 +86,14 @@
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 <category>foundation_models</category>
 <description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — 来源：verge_ai · techcrunch_ai · google_ai_blog · hackernews · qbitai · deepmind_blog — 原文：https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</description>
+</item>
+<item>
+<title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
+<guid isPermaLink="false">evt_d4875a92aea8</guid>
+<pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
+<category>foundation_models</category>
+<description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […] — 来源：hackernews · verge_ai · simonwillison — 原文：https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</description>
 </item>
 <item>
 <title>Signal is blocking Gemini and Siri AI from reading your screen</title>
@@ -67,9 +123,17 @@
 <title>With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2ea12ce1088e</link>
 <guid isPermaLink="false">evt_2ea12ce1088e</guid>
-<pubDate>Fri, 20 Nov 2026 14:16:21 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 21:18:46 +0000</pubDate>
 <category>industry</category>
 <description>Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […] — 来源：hackernews · techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</description>
+</item>
+<item>
+<title>[Dataset] JaimeMaLangue/JML-fon-speech-v1</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ef5dd7e24ecb</link>
+<guid isPermaLink="false">evt_ef5dd7e24ecb</guid>
+<pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
+<category>research</category>
+<description>Hugging Face 数据集 · 下载 293 · 收藏 39 — 来源：huggingface · techcrunch_ai — 原文：https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1</description>
 </item>
 <item>
 <title>apple/DepthPro2</title>
@@ -88,28 +152,28 @@
 <description>This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26. — 来源：aws_ml · verge_ai — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/</description>
 </item>
 <item>
-<title>Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
-<guid isPermaLink="false">evt_0fd739db34db</guid>
-<pubDate>Thu, 19 Nov 2026 14:00:12 +0000</pubDate>
+<title>Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f378d4ace0f3</link>
+<guid isPermaLink="false">evt_f378d4ace0f3</guid>
+<pubDate>Fri, 20 Nov 2026 16:59:27 +0000</pubDate>
 <category>industry</category>
-<description>GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […] — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/</description>
+<description>Comments — 来源：techcrunch_ai · hackernews · verge_ai · hn_frontpage — 原文：https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/</description>
 </item>
 <item>
-<title>Run your whole selling business in AWS Quick</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6dbfd2c16f1d</link>
-<guid isPermaLink="false">evt_6dbfd2c16f1d</guid>
-<pubDate>Thu, 19 Nov 2026 22:16:22 +0000</pubDate>
-<category>industry</category>
-<description>Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it. — 来源：aws_ml · verge_ai — 原文：https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/</description>
-</item>
-<item>
-<title>The Depth of a Prediction: Where Language Models Resolve a Word Predicts Human Reading Time</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
-<guid isPermaLink="false">evt_e683d40fba10</guid>
-<pubDate>Thu, 19 Nov 2026 14:20:08 +0000</pubDate>
+<title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4faa14b90f84</link>
+<guid isPermaLink="false">evt_4faa14b90f84</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <category>foundation_models</category>
-<description>Surprisal from a language model's final layer predicts how long people read a word, yet the model computes its prediction across many layers. We read each word's prediction at every layer with the tuned lens and summarize this layerwise surprisal trajectory by its resolution depth, the depth around which its change is centered. On eight English eye-tracking and self-paced reading corpora (81,957 words) and ten GPT-2, OPT and Pythia models, words that a model resolves later, and the words after them, are read more slowly than equally surprising words. Resolution depth improves held-out predicti — 来源：openai_blog · hackernews · arxiv — 原文：https://arxiv.org/abs/2611.25970v1</description>
+<description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. — 来源：qbitai · openai_blog — 原文：https://openai.com/business/customer-stories/hebbia</description>
+</item>
+<item>
+<title>AI is giving everyone the same advice</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_def6d217eec4</link>
+<guid isPermaLink="false">evt_def6d217eec4</guid>
+<pubDate>Fri, 20 Nov 2026 16:58:05 +0000</pubDate>
+<category>industry</category>
+<description>来源：arxiv · hackernews — 原文：https://a90.com/experiments/same-advice/</description>
 </item>
 <item>
 <title>Use Kimi Code CLI with models on Amazon Bedrock</title>
@@ -150,102 +214,6 @@
 <pubDate>Fri, 20 Nov 2026 03:05:49 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · image-text-to-text · 下载 89 · 收藏 99 — 来源：huggingface — 原文：https://huggingface.co/tencent/Hy4</description>
-</item>
-<item>
-<title>Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8e21326b778b</link>
-<guid isPermaLink="false">evt_8e21326b778b</guid>
-<pubDate>Thu, 19 Nov 2026 18:20:54 +0000</pubDate>
-<category>infrastructure</category>
-<description>Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/</description>
-</item>
-<item>
-<title>TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_46b48e728e81</link>
-<guid isPermaLink="false">evt_46b48e728e81</guid>
-<pubDate>Thu, 19 Nov 2026 18:58:31 +0000</pubDate>
-<category>foundation_models</category>
-<description>Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Transparent Cache Pool redistributes physical pages among cache components behind fixed virtual addresses, preserving cache layouts and backend interfaces. The Cache Streamer uses computation intervals p — 来源：nvidia_blog · arxiv — 原文：https://arxiv.org/abs/2611.26619v1</description>
-</item>
-<item>
-<title>Using NVIDIA Run:ai GPU Fractioning on Amazon EKS</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_206b86c970ea</link>
-<guid isPermaLink="false">evt_206b86c970ea</guid>
-<pubDate>Thu, 19 Nov 2026 16:13:51 +0000</pubDate>
-<category>infrastructure</category>
-<description>Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod GPU-memory contracts with enforcement and metrics. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/</description>
-</item>
-<item>
-<title>Fixing the Last Mile: Failure-Aware Image Restoration with Region-Specific Guidance</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6021b9270138</link>
-<guid isPermaLink="false">evt_6021b9270138</guid>
-<pubDate>Thu, 19 Nov 2026 17:21:15 +0000</pubDate>
-<category>research</category>
-<description>Recent advances in image restoration have greatly improved global image fidelity, producing visually plausible results across most regions of an image. Nevertheless, even high-quality restorations often exhibit localized failures, including artifacts in semantically important regions such as faces and text, structural inconsistencies, and texture mismatches. Although these errors typically affect only a small portion of the image, they often dominate the overall perceptual quality of the result. In this work, we propose Failure-Aware Image Restoration (FAIR) to address the "last-mile" problem  — 来源：qbitai · arxiv — 原文：https://arxiv.org/abs/2611.26456v1</description>
-</item>
-<item>
-<title>Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e3ae44df58fa</link>
-<guid isPermaLink="false">evt_e3ae44df58fa</guid>
-<pubDate>Thu, 19 Nov 2026 17:54:04 +0000</pubDate>
-<category>research</category>
-<description>Continual reinforcement learning requires agents to adapt when the task changes while reusing what they know about the environment. Successor features separate dynamics from task-specific reward, but their effectiveness depends on the choice of base features. Taking the identification of entorhinal grid cells with eigenvectors of the successor representation as a design principle, we build this basis from eigenvectors of the transition matrix of a fixed reference policy. With such a basis, the successor features at a state-action pair are a linear combination of the base features at that same  — 来源：arxiv · hackernews — 原文：https://arxiv.org/abs/2611.26504v1</description>
-</item>
-<item>
-<title>[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b397f013e77f</link>
-<guid isPermaLink="false">evt_b397f013e77f</guid>
-<pubDate>Fri, 20 Nov 2026 07:12:24 +0000</pubDate>
-<category>industry</category>
-<description>November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers. — 来源：techcrunch_ai · latent_space — 原文：https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/</description>
-</item>
-<item>
-<title>Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2c5319b5933f</link>
-<guid isPermaLink="false">evt_2c5319b5933f</guid>
-<pubDate>Thu, 19 Nov 2026 18:59:53 +0000</pubDate>
-<category>research</category>
-<description>Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, from vecset and triplanes to structured sparse voxels. Despite their architectural differences, these methods all share the same premise: geometry is first compressed into a latent space and only then modeled by the generator. We take a different route and propose Direct3D-V3, a latent-free diffusion transformer (DiT) framework that discards the VAE altogether and operates in the native voxel domain — 来源：arxiv — 原文：https://arxiv.org/abs/2611.26511v1</description>
-</item>
-<item>
-<title>One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3511773416a6</link>
-<guid isPermaLink="false">evt_3511773416a6</guid>
-<pubDate>Thu, 19 Nov 2026 18:58:14 +0000</pubDate>
-<category>generative</category>
-<description>Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics. We introduce O$^{2}$LaF, built on a simple principle: one prior, two dynamics. We initialize both models from the same pretrained video DiT and adapt them to their distinct roles: a feed-forward transition encoder with learnable action queries for inverse dynamics — 来源：arxiv — 原文：https://arxiv.org/abs/2611.26617v1</description>
-</item>
-<item>
-<title>Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c9c5a9f41911</link>
-<guid isPermaLink="false">evt_c9c5a9f41911</guid>
-<pubDate>Thu, 19 Nov 2026 18:12:04 +0000</pubDate>
-<category>research</category>
-<description>Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipeline cost and serving throughput (QPS), respectively. In this system, LLM agents propose hypotheses, and deterministic tools execute experiments and verify them. For each model, an LLM generates and shortlists cross features from a combinatorial candidate space, and all features are then ranked by se — 来源：reddit_ml · arxiv — 原文：https://arxiv.org/abs/2611.26531v1</description>
-</item>
-<item>
-<title>Coda-DaVinci: Reimagining Video Generation with Code2Video</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_74e67a6fd471</link>
-<guid isPermaLink="false">evt_74e67a6fd471</guid>
-<pubDate>Thu, 19 Nov 2026 18:51:58 +0000</pubDate>
-<category>agents</category>
-<description>Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompting. The results reveal task-dependent trade-offs: coarse proxies favor natural motion, while medium-grained proxies favor consistency. Physics simulation and proxy-aligned prompting further improve a — 来源：arxiv — 原文：https://arxiv.org/abs/2611.26595v1</description>
-</item>
-<item>
-<title>Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d2f7f7c95131</link>
-<guid isPermaLink="false">evt_d2f7f7c95131</guid>
-<pubDate>Thu, 19 Nov 2026 18:46:50 +0000</pubDate>
-<category>foundation_models</category>
-<description>Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states to a shared semantic space defined by the decoder's output vocabulary to compare  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.26590v1</description>
-</item>
-<item>
-<title>Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_eacbd26a911f</link>
-<guid isPermaLink="false">evt_eacbd26a911f</guid>
-<pubDate>Wed, 18 Nov 2026 23:03:29 +0000</pubDate>
-<category>research</category>
-<description>We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model is a linear combination of equivariant polynomial features whose coefficients are arbitrary learnable functions of invariant polynomial features. We take as features minimal homogeneous generators for the invariant algebra and the covariant module over the invariant algebra, up to prescribed degrees. We provide a Python package that automatically computes these features and fits — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.24896v1</description>
 </item>
 </channel>
 </rss>

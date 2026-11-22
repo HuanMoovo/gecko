@@ -5,15 +5,23 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 23:59:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 05:56:45 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
 <guid isPermaLink="false">evt_582c2a1dac6a</guid>
-<pubDate>Sat, 21 Nov 2026 21:11:08 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 05:53:19 +0000</pubDate>
 <category>open_source</category>
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
+</item>
+<item>
+<title>Meta ads is now available in AWS Quick</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1796857b9a1b</link>
+<guid isPermaLink="false">evt_1796857b9a1b</guid>
+<pubDate>Sun, 22 Nov 2026 01:59:13 +0000</pubDate>
+<category>agents</category>
+<description>AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</description>
 </item>
 <item>
 <title>A tale of two Nvidias</title>
@@ -40,14 +48,6 @@
 <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […] — 来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</description>
 </item>
 <item>
-<title>New in AWS Quick: More capable flows, an updated web experience, and agents that work together</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1796857b9a1b</link>
-<guid isPermaLink="false">evt_1796857b9a1b</guid>
-<pubDate>Sat, 21 Nov 2026 01:06:42 +0000</pubDate>
-<category>agents</category>
-<description>AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/</description>
-</item>
-<item>
 <title>Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_6dbfd2c16f1d</link>
 <guid isPermaLink="false">evt_6dbfd2c16f1d</guid>
@@ -62,46 +62,6 @@
 <pubDate>Fri, 20 Nov 2026 20:22:00 +0000</pubDate>
 <category>generative</category>
 <description>Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/</description>
-</item>
-<item>
-<title>Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8e21326b778b</link>
-<guid isPermaLink="false">evt_8e21326b778b</guid>
-<pubDate>Fri, 20 Nov 2026 22:35:24 +0000</pubDate>
-<category>infrastructure</category>
-<description>Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/</description>
-</item>
-<item>
-<title>nvidia/Qwen3.8-27B-NVFP4-QAD</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e3aee91fe9b8</link>
-<guid isPermaLink="false">evt_e3aee91fe9b8</guid>
-<pubDate>Sat, 21 Nov 2026 04:31:27 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 1,351 · 收藏 64 — 来源：huggingface — 原文：https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4-QAD</description>
-</item>
-<item>
-<title>姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b4f1a99333cf</link>
-<guid isPermaLink="false">evt_b4f1a99333cf</guid>
-<pubDate>Sat, 21 Nov 2026 06:30:55 +0000</pubDate>
-<category>infrastructure</category>
-<description>还透露了不少训练背后的秘诀 — 来源：huggingface · qbitai — 原文：https://www.qbitai.com/2026/11/511757.html</description>
-</item>
-<item>
-<title>sensenova/SenseNova-Loop-9B-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2adef6bfeca0</link>
-<guid isPermaLink="false">evt_2adef6bfeca0</guid>
-<pubDate>Fri, 20 Nov 2026 11:08:59 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 68,559 · 收藏 108 — 来源：google_ai_blog · huggingface — 原文：https://huggingface.co/sensenova/SenseNova-Loop-9B-GGUF</description>
-</item>
-<item>
-<title>Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b053ddc62c52</link>
-<guid isPermaLink="false">evt_b053ddc62c52</guid>
-<pubDate>Thu, 19 Nov 2026 22:20:23 +0000</pubDate>
-<category>agents</category>
-<description>First-principles structural relaxation and band calculations require substantial computation and expertise. Here we present Perfumer, a large language model-based agentic framework that couples Quantum ESPRESSO with two predictive models. Across tested structures, pre-relaxation with Perfumer-relax model followed by QE refinement yielded a 2.75-fold overall speedup over QE alone. Perfumer-band model combines a periodic graph neural network with a latent Hermitian spectral head returns 12 band energies at any requested wavevector, preserving reciprocal lattice periodicity and time-reversal symm — 来源：huggingface · hackernews · github · aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.26349v1</description>
 </item>
 </channel>
 </rss>

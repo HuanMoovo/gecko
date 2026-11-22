@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 15:49:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 21:26:09 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
@@ -14,6 +14,14 @@
 <pubDate>Sun, 22 Nov 2026 14:32:16 +0000</pubDate>
 <category>open_source</category>
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
+</item>
+<item>
+<title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
+<guid isPermaLink="false">evt_e683d40fba10</guid>
+<pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+<category>industry</category>
+<description>To establish a speed limit on AI development, you need to agree on how to measure speed. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</description>
 </item>
 <item>
 <title>Meta ads is now available in AWS Quick</title>
@@ -38,14 +46,6 @@
 <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
 <category>open_source</category>
 <description>We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</description>
-</item>
-<item>
-<title>AtomicChat/Inkling-2-Mini-Uncensored-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
-<guid isPermaLink="false">evt_99ccc673a30f</guid>
-<pubDate>Sat, 21 Nov 2026 17:57:39 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 9,540 · 收藏 148 — 来源：huggingface — 原文：https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF</description>
 </item>
 </channel>
 </rss>

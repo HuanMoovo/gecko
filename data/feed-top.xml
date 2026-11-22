@@ -5,13 +5,13 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 05:56:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 15:49:24 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
 <guid isPermaLink="false">evt_582c2a1dac6a</guid>
-<pubDate>Sun, 22 Nov 2026 05:53:19 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 14:32:16 +0000</pubDate>
 <category>open_source</category>
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
 </item>
@@ -22,6 +22,14 @@
 <pubDate>Sun, 22 Nov 2026 01:59:13 +0000</pubDate>
 <category>agents</category>
 <description>AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</description>
+</item>
+<item>
+<title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
+<guid isPermaLink="false">evt_d4875a92aea8</guid>
+<pubDate>Sun, 22 Nov 2026 06:03:54 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://www.qbitai.com/2026/11/511870.html</description>
 </item>
 <item>
 <title>A tale of two Nvidias</title>
@@ -38,30 +46,6 @@
 <pubDate>Sat, 21 Nov 2026 17:57:39 +0000</pubDate>
 <category>open_source</category>
 <description>Hugging Face 模型 · image-text-to-text · 下载 9,540 · 收藏 148 — 来源：huggingface — 原文：https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF</description>
-</item>
-<item>
-<title>Can Anthropic afford to put safety first?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
-<guid isPermaLink="false">evt_d4875a92aea8</guid>
-<pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
-<category>safety</category>
-<description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […] — 来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</description>
-</item>
-<item>
-<title>Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6dbfd2c16f1d</link>
-<guid isPermaLink="false">evt_6dbfd2c16f1d</guid>
-<pubDate>Fri, 20 Nov 2026 23:07:03 +0000</pubDate>
-<category>infrastructure</category>
-<description>Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them. — 来源：aws_ml · verge_ai — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/</description>
-</item>
-<item>
-<title>Announcing Amazon Textract Insights: Verifiable generative AI for documents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_eacbd26a911f</link>
-<guid isPermaLink="false">evt_eacbd26a911f</guid>
-<pubDate>Fri, 20 Nov 2026 20:22:00 +0000</pubDate>
-<category>generative</category>
-<description>Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/</description>
 </item>
 </channel>
 </rss>

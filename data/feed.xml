@@ -5,15 +5,23 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 05:56:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 15:49:24 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
 <guid isPermaLink="false">evt_582c2a1dac6a</guid>
-<pubDate>Sun, 22 Nov 2026 05:53:19 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 14:32:16 +0000</pubDate>
 <category>open_source</category>
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
+</item>
+<item>
+<title>bojieli/ai-infra-book — 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_57b1afbc3b00</link>
+<guid isPermaLink="false">evt_57b1afbc3b00</guid>
+<pubDate>Sun, 22 Nov 2026 14:11:19 +0000</pubDate>
+<category>infrastructure</category>
+<description>《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验 · topics: accelerator, ai-infra, ai-infrastructure, book, datacenter-network, deepseek · ⭐ 8,200 · Python — 来源：github — 原文：https://github.com/bojieli/ai-infra-book</description>
 </item>
 <item>
 <title>Meta ads is now available in AWS Quick</title>
@@ -22,6 +30,22 @@
 <pubDate>Sun, 22 Nov 2026 01:59:13 +0000</pubDate>
 <category>agents</category>
 <description>AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</description>
+</item>
+<item>
+<title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
+<guid isPermaLink="false">evt_d4875a92aea8</guid>
+<pubDate>Sun, 22 Nov 2026 06:03:54 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://www.qbitai.com/2026/11/511870.html</description>
+</item>
+<item>
+<title>The vibe-coding revolution is coming to all the gadgets</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0c81fa30a9f6</link>
+<guid isPermaLink="false">evt_0c81fa30a9f6</guid>
+<pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
+<category>industry</category>
+<description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […] — 来源：verge_ai — 原文：https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</description>
 </item>
 <item>
 <title>A tale of two Nvidias</title>
@@ -40,12 +64,12 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 9,540 · 收藏 148 — 来源：huggingface — 原文：https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF</description>
 </item>
 <item>
-<title>Can Anthropic afford to put safety first?</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
-<guid isPermaLink="false">evt_d4875a92aea8</guid>
-<pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
-<category>safety</category>
-<description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […] — 来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</description>
+<title>Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b60bcb35a6db</link>
+<guid isPermaLink="false">evt_b60bcb35a6db</guid>
+<pubDate>Sun, 22 Nov 2026 06:21:47 +0000</pubDate>
+<category>industry</category>
+<description>用葡萄糖发电控制血糖。 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/511904.html</description>
 </item>
 <item>
 <title>Lakonik/pi-H3</title>
@@ -120,6 +144,14 @@
 <description>Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/</description>
 </item>
 <item>
+<title>AI People Are Extremely Rich</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4408e9de333f</link>
+<guid isPermaLink="false">evt_4408e9de333f</guid>
+<pubDate>Sun, 22 Nov 2026 10:35:49 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.noahpinion.blog/p/ai-people-are-very-very-very-very</description>
+</item>
+<item>
 <title>nvidia/Qwen3.8-27B-NVFP4-QAD</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e3aee91fe9b8</link>
 <guid isPermaLink="false">evt_e3aee91fe9b8</guid>
@@ -136,12 +168,36 @@
 <description>还透露了不少训练背后的秘诀 — 来源：huggingface · qbitai — 原文：https://www.qbitai.com/2026/11/511757.html</description>
 </item>
 <item>
+<title>Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_77bc9c5c53f0</link>
+<guid isPermaLink="false">evt_77bc9c5c53f0</guid>
+<pubDate>Sun, 22 Nov 2026 09:18:36 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews — 原文：https://arxiv.org/abs/2606.14068</description>
+</item>
+<item>
+<title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
+<guid isPermaLink="false">evt_38c61351fe0d</guid>
+<pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</description>
+</item>
+<item>
 <title>Data Processing Incidents on Inference Providers</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f0fcd2d8fa86</link>
 <guid isPermaLink="false">evt_f0fcd2d8fa86</guid>
 <pubDate>Sun, 22 Nov 2026 02:14:14 +0000</pubDate>
 <category>infrastructure</category>
 <description>来源：hackernews · hn_frontpage — 原文：https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</description>
+</item>
+<item>
+<title>A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_604c32380442</link>
+<guid isPermaLink="false">evt_604c32380442</guid>
+<pubDate>Sun, 22 Nov 2026 07:31:41 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews — 原文：https://morethanamachine.com/posts/slinky-escalator-benchmark/</description>
 </item>
 <item>
 <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
@@ -168,6 +224,22 @@
 <description>Hugging Face 模型 · image-text-to-text · 下载 68,559 · 收藏 108 — 来源：google_ai_blog · huggingface — 原文：https://huggingface.co/sensenova/SenseNova-Loop-9B-GGUF</description>
 </item>
 <item>
+<title>AI给乐队现场搓MV，这是黑客松还是音乐节啊</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_7dff434595e4</link>
+<guid isPermaLink="false">evt_7dff434595e4</guid>
+<pubDate>Sat, 21 Nov 2026 14:14:09 +0000</pubDate>
+<category>industry</category>
+<description>来源：qbitai — 原文：https://www.qbitai.com/2026/11/511855.html</description>
+</item>
+<item>
+<title>中国计算，走出新的登峰之路</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_80748fb88a5d</link>
+<guid isPermaLink="false">evt_80748fb88a5d</guid>
+<pubDate>Sat, 21 Nov 2026 14:09:59 +0000</pubDate>
+<category>industry</category>
+<description>来源：qbitai — 原文：https://www.qbitai.com/2026/11/511849.html</description>
+</item>
+<item>
 <title>Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_b053ddc62c52</link>
 <guid isPermaLink="false">evt_b053ddc62c52</guid>
@@ -192,6 +264,22 @@
 <description>来源：techcrunch_ai · hackernews · verge_ai · hn_frontpage — 原文：https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/</description>
 </item>
 <item>
+<title>全网疯传！Grok一姐教你如何月提交3000个PR</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_82a0f3f37665</link>
+<guid isPermaLink="false">evt_82a0f3f37665</guid>
+<pubDate>Sat, 21 Nov 2026 11:34:18 +0000</pubDate>
+<category>industry</category>
+<description>来源：arstechnica_ai · qbitai — 原文：https://www.qbitai.com/2026/11/511830.html</description>
+</item>
+<item>
+<title>Current Efforts Aren't Enough to Slow the AI Cyber Virus</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_351e2cbe4caa</link>
+<guid isPermaLink="false">evt_351e2cbe4caa</guid>
+<pubDate>Sun, 22 Nov 2026 03:28:48 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus</description>
+</item>
+<item>
 <title>Since last year, we asked: "What if AI solved the Riemann Hypothesis?"</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_bbc83ef27996</link>
 <guid isPermaLink="false">evt_bbc83ef27996</guid>
@@ -206,6 +294,22 @@
 <pubDate>Sun, 22 Nov 2026 03:07:27 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews — 原文：https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</description>
+</item>
+<item>
+<title>8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e77bdf850617</link>
+<guid isPermaLink="false">evt_e77bdf850617</guid>
+<pubDate>Sat, 21 Nov 2026 11:40:11 +0000</pubDate>
+<category>agents</category>
+<description>来源：qbitai — 原文：https://www.qbitai.com/2026/11/511841.html</description>
+</item>
+<item>
+<title>反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_988e7bb2ac94</link>
+<guid isPermaLink="false">evt_988e7bb2ac94</guid>
+<pubDate>Sat, 21 Nov 2026 11:24:29 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：github · qbitai — 原文：https://www.qbitai.com/2026/11/511791.html</description>
 </item>
 <item>
 <title>The Mythology of Conscious AI</title>
@@ -296,116 +400,12 @@
 <description>还实现可变形物体操控全球首通 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/511779.html</description>
 </item>
 <item>
-<title>Backtracking Agent Applications Security Incidents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a78f7986a82</link>
-<guid isPermaLink="false">evt_8a78f7986a82</guid>
-<pubDate>Thu, 19 Nov 2026 21:58:06 +0000</pubDate>
-<category>research</category>
-<description>Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, and prevent its recurrence. The main artifacts available for backtracking are trajectory logs, which record agent functionalities, and source code; app(lication)-specific function call logs are often fairly limited. However, trajectory logs are at the agent functionality abstraction layer, while the CEP candidates are function calls at the app code execution layer. Due to this se — 来源：verge_ai · techcrunch_ai · arxiv — 原文：https://arxiv.org/abs/2611.26525v1</description>
-</item>
-<item>
 <title>AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8a14aef6a1d3</link>
 <guid isPermaLink="false">evt_8a14aef6a1d3</guid>
 <pubDate>Thu, 19 Nov 2026 21:23:20 +0000</pubDate>
 <category>research</category>
 <description>Large language models (LLMs) are increasingly used as judges and graders to replace human annotators, raising the question of when such replacement is statistically justified. To support such decisions, the Alternative Annotator Test (Alt-Test) was introduced for dense settings where all items are annotated by the same annotators. However, in many large-scale annotation settings, items are annotated by different subsets of annotators. We therefore propose the Alternative Annotator Test with Resampled Annotations (AltRA-Test), a statistical test that does not require that all items are annotate — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.26073v1</description>
-</item>
-<item>
-<title>Pandex – Official European Law for AI Agents, over MCP</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3d1bee2216f8</link>
-<guid isPermaLink="false">evt_3d1bee2216f8</guid>
-<pubDate>Sat, 21 Nov 2026 20:47:41 +0000</pubDate>
-<category>agents</category>
-<description>Comments — 来源：hn_frontpage — 原文：https://www.pandex.io</description>
-</item>
-<item>
-<title>Countries open path towards 'killer robots' pact</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e46badd43777</link>
-<guid isPermaLink="false">evt_e46badd43777</guid>
-<pubDate>Sat, 21 Nov 2026 18:32:56 +0000</pubDate>
-<category>robotics</category>
-<description>来源：hackernews — 原文：https://www.afp.com/en/countries-open-path-towards-killer-robots-pact</description>
-</item>
-<item>
-<title>[Dataset] JaimeMaLangue/JML-fon-speech-v1</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ef5dd7e24ecb</link>
-<guid isPermaLink="false">evt_ef5dd7e24ecb</guid>
-<pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 293 · 收藏 39 — 来源：huggingface · techcrunch_ai — 原文：https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1</description>
-</item>
-<item>
-<title>apple/DepthPro2</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bc6264277ce2</link>
-<guid isPermaLink="false">evt_bc6264277ce2</guid>
-<pubDate>Fri, 20 Nov 2026 11:28:24 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · depth-estimation · 下载 0 · 收藏 74 — 来源：github · huggingface — 原文：https://huggingface.co/apple/DepthPro2</description>
-</item>
-<item>
-<title>Amazon SageMaker Inference: 2026 launches in review, part 2</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_663fa60cff59</link>
-<guid isPermaLink="false">evt_663fa60cff59</guid>
-<pubDate>Fri, 20 Nov 2026 00:34:07 +0000</pubDate>
-<category>infrastructure</category>
-<description>This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26. — 来源：aws_ml · verge_ai — 原文：https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/</description>
-</item>
-<item>
-<title>AI is giving everyone the same advice</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_def6d217eec4</link>
-<guid isPermaLink="false">evt_def6d217eec4</guid>
-<pubDate>Fri, 20 Nov 2026 16:58:05 +0000</pubDate>
-<category>industry</category>
-<description>来源：arxiv · hackernews — 原文：https://a90.com/experiments/same-advice/</description>
-</item>
-<item>
-<title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4faa14b90f84</link>
-<guid isPermaLink="false">evt_4faa14b90f84</guid>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<category>foundation_models</category>
-<description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. — 来源：qbitai · openai_blog — 原文：https://openai.com/business/customer-stories/hebbia</description>
-</item>
-<item>
-<title>Use Kimi Code CLI with models on Amazon Bedrock</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f2155f2e5494</link>
-<guid isPermaLink="false">evt_f2155f2e5494</guid>
-<pubDate>Fri, 20 Nov 2026 00:33:30 +0000</pubDate>
-<category>agents</category>
-<description>Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request. — 来源：github · aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/</description>
-</item>
-<item>
-<title>NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0e23395eb734</link>
-<guid isPermaLink="false">evt_0e23395eb734</guid>
-<pubDate>Thu, 19 Nov 2026 20:00:15 +0000</pubDate>
-<category>industry</category>
-<description>NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to […] — 来源：techcrunch_ai · nvidia_blog — 原文：https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/</description>
-</item>
-<item>
-<title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6e086317ffb3</link>
-<guid isPermaLink="false">evt_6e086317ffb3</guid>
-<pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
-<category>research</category>
-<description>Test using prompts with unique, trackable secrets proves that data doesn't stay private. — 来源：arstechnica_ai — 原文：https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</description>
-</item>
-<item>
-<title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_211fbe8009a4</link>
-<guid isPermaLink="false">evt_211fbe8009a4</guid>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<category>industry</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/harness-adapters-at-scale</description>
-</item>
-<item>
-<title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_80d31a6dee29</link>
-<guid isPermaLink="false">evt_80d31a6dee29</guid>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<category>industry</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/inkling2mini</description>
 </item>
 </channel>
 </rss>

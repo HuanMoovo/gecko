@@ -5,15 +5,31 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 21:26:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 04:58:39 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
 <guid isPermaLink="false">evt_582c2a1dac6a</guid>
-<pubDate>Sun, 22 Nov 2026 14:32:16 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 21:53:45 +0000</pubDate>
 <category>open_source</category>
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
+</item>
+<item>
+<title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
+<guid isPermaLink="false">evt_38c61351fe0d</guid>
+<pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+<category>industry</category>
+<description>Three significant backers share what gave them conviction to bet billions on Anthropic. — 来源：hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</description>
+</item>
+<item>
+<title>Select Styling Specimens</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
+<guid isPermaLink="false">evt_d4875a92aea8</guid>
+<pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
+<category>foundation_models</category>
+<description>Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ; border : 1 px solid # c4cbd3 ; bord — 来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://simonwillison.net/2026/Nov/22/select-styling/</description>
 </item>
 <item>
 <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
@@ -30,22 +46,6 @@
 <pubDate>Sun, 22 Nov 2026 01:59:13 +0000</pubDate>
 <category>agents</category>
 <description>AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</description>
-</item>
-<item>
-<title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
-<guid isPermaLink="false">evt_d4875a92aea8</guid>
-<pubDate>Sun, 22 Nov 2026 06:03:54 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://www.qbitai.com/2026/11/511870.html</description>
-</item>
-<item>
-<title>A tale of two Nvidias</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
-<guid isPermaLink="false">evt_0fd739db34db</guid>
-<pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
-<category>open_source</category>
-<description>We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</description>
 </item>
 </channel>
 </rss>

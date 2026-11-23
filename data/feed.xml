@@ -5,15 +5,47 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 21:26:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 04:58:39 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
 <guid isPermaLink="false">evt_582c2a1dac6a</guid>
-<pubDate>Sun, 22 Nov 2026 14:32:16 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 21:53:45 +0000</pubDate>
 <category>open_source</category>
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
+</item>
+<item>
+<title>voyager-so/shot-reader-8b</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ce51055002db</link>
+<guid isPermaLink="false">evt_ce51055002db</guid>
+<pubDate>Sun, 22 Nov 2026 21:29:40 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 417 · 收藏 66 — 来源：huggingface — 原文：https://huggingface.co/voyager-so/shot-reader-8b</description>
+</item>
+<item>
+<title>inclusionAI/LingSante-3.1-flash</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4f1b4d5d72a4</link>
+<guid isPermaLink="false">evt_4f1b4d5d72a4</guid>
+<pubDate>Sun, 22 Nov 2026 17:58:08 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 60 — 来源：huggingface — 原文：https://huggingface.co/inclusionAI/LingSante-3.1-flash</description>
+</item>
+<item>
+<title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
+<guid isPermaLink="false">evt_38c61351fe0d</guid>
+<pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+<category>industry</category>
+<description>Three significant backers share what gave them conviction to bet billions on Anthropic. — 来源：hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</description>
+</item>
+<item>
+<title>Select Styling Specimens</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
+<guid isPermaLink="false">evt_d4875a92aea8</guid>
+<pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
+<category>foundation_models</category>
+<description>Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ; border : 1 px solid # c4cbd3 ; bord — 来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://simonwillison.net/2026/Nov/22/select-styling/</description>
 </item>
 <item>
 <title>bojieli/ai-infra-book — 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验</title>
@@ -32,6 +64,14 @@
 <description>To establish a speed limit on AI development, you need to agree on how to measure speed. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</description>
 </item>
 <item>
+<title>We haven’t seen the last of the major tech outages</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4b4d8e1532ef</link>
+<guid isPermaLink="false">evt_4b4d8e1532ef</guid>
+<pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
+<category>industry</category>
+<description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The American people should be […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1039851/major-tech-outages</description>
+</item>
+<item>
 <title>Meta ads is now available in AWS Quick</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_1796857b9a1b</link>
 <guid isPermaLink="false">evt_1796857b9a1b</guid>
@@ -48,20 +88,20 @@
 <description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities. — 来源：openai_blog — 原文：https://openai.com/index/perplexity-and-intelligence</description>
 </item>
 <item>
-<title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
-<guid isPermaLink="false">evt_d4875a92aea8</guid>
-<pubDate>Sun, 22 Nov 2026 06:03:54 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://www.qbitai.com/2026/11/511870.html</description>
-</item>
-<item>
 <title>Why data centers are at the center of the Big Tech backlash</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_bed82431ae1f</link>
 <guid isPermaLink="false">evt_bed82431ae1f</guid>
 <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
 <category>industry</category>
 <description>Journalist Paris Marx unpacks his new book "Hyperscale." — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</description>
+</item>
+<item>
+<title>Localcode, open source agentic coding on your Mac with one command</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b053ddc62c52</link>
+<guid isPermaLink="false">evt_b053ddc62c52</guid>
+<pubDate>Sun, 22 Nov 2026 22:18:48 +0000</pubDate>
+<category>agents</category>
+<description>来源：huggingface · hackernews · github · aws_ml · arxiv — 原文：https://github.com/mjwsolo/localcode</description>
 </item>
 <item>
 <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
@@ -88,6 +128,22 @@
 <description>We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</description>
 </item>
 <item>
+<title>LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_200e378430a5</link>
+<guid isPermaLink="false">evt_200e378430a5</guid>
+<pubDate>Mon, 23 Nov 2026 01:23:15 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.phoronix.com/news/LiberNT</description>
+</item>
+<item>
+<title>0rwx – A simple model of AI usage, inspired by Unix permissions</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d7b15f2f905f</link>
+<guid isPermaLink="false">evt_d7b15f2f905f</guid>
+<pubDate>Sun, 22 Nov 2026 23:53:00 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://0rwx.com/</description>
+</item>
+<item>
 <title>AtomicChat/Inkling-2-Mini-Uncensored-GGUF</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
 <guid isPermaLink="false">evt_99ccc673a30f</guid>
@@ -102,6 +158,22 @@
 <pubDate>Sun, 22 Nov 2026 06:21:47 +0000</pubDate>
 <category>industry</category>
 <description>用葡萄糖发电控制血糖。 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/511904.html</description>
+</item>
+<item>
+<title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ba4d31258de</link>
+<guid isPermaLink="false">evt_1ba4d31258de</guid>
+<pubDate>Sun, 22 Nov 2026 21:01:16 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</description>
+</item>
+<item>
+<title>What Happened in Fall 2026: AI and P vs. NP</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_61a9838b6d84</link>
+<guid isPermaLink="false">evt_61a9838b6d84</guid>
+<pubDate>Sun, 22 Nov 2026 19:50:36 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np</description>
 </item>
 <item>
 <title>AI and hiring: bad for employees, bad for employers</title>
@@ -176,20 +248,20 @@
 <description>Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/</description>
 </item>
 <item>
-<title>Announcing Amazon Textract Insights: Verifiable generative AI for documents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_eacbd26a911f</link>
-<guid isPermaLink="false">evt_eacbd26a911f</guid>
-<pubDate>Fri, 20 Nov 2026 20:22:00 +0000</pubDate>
-<category>generative</category>
-<description>Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/</description>
-</item>
-<item>
 <title>The UN fails to agree on rules regulating ‘killer robots’</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2cb10b95a79b</link>
 <guid isPermaLink="false">evt_2cb10b95a79b</guid>
 <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
 <category>robotics</category>
 <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […] — 来源：verge_ai — 原文：https://www.theverge.com/tech/1039554/un-regulations-killer-robots</description>
+</item>
+<item>
+<title>Announcing Amazon Textract Insights: Verifiable generative AI for documents</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_eacbd26a911f</link>
+<guid isPermaLink="false">evt_eacbd26a911f</guid>
+<pubDate>Fri, 20 Nov 2026 20:22:00 +0000</pubDate>
+<category>generative</category>
+<description>Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/</description>
 </item>
 <item>
 <title>Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters</title>
@@ -232,14 +304,6 @@
 <description>来源：hackernews — 原文：https://arxiv.org/abs/2606.14068</description>
 </item>
 <item>
-<title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
-<guid isPermaLink="false">evt_38c61351fe0d</guid>
-<pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</description>
-</item>
-<item>
 <title>Data Processing Incidents on Inference Providers</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_f0fcd2d8fa86</link>
 <guid isPermaLink="false">evt_f0fcd2d8fa86</guid>
@@ -270,14 +334,6 @@
 <pubDate>Fri, 20 Nov 2026 18:24:06 +0000</pubDate>
 <category>infrastructure</category>
 <description>Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/</description>
-</item>
-<item>
-<title>Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_b053ddc62c52</link>
-<guid isPermaLink="false">evt_b053ddc62c52</guid>
-<pubDate>Thu, 19 Nov 2026 22:20:23 +0000</pubDate>
-<category>agents</category>
-<description>First-principles structural relaxation and band calculations require substantial computation and expertise. Here we present Perfumer, a large language model-based agentic framework that couples Quantum ESPRESSO with two predictive models. Across tested structures, pre-relaxation with Perfumer-relax model followed by QE refinement yielded a 2.75-fold overall speedup over QE alone. Perfumer-band model combines a periodic graph neural network with a latent Hermitian spectral head returns 12 band energies at any requested wavevector, preserving reciprocal lattice periodicity and time-reversal symm — 来源：huggingface · hackernews · github · aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.26349v1</description>
 </item>
 <item>
 <title>sensenova/SenseNova-Loop-9B-GGUF</title>
@@ -320,6 +376,14 @@
 <description>来源：techcrunch_ai · hackernews · verge_ai · hn_frontpage — 原文：https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/</description>
 </item>
 <item>
+<title>thinkingmachines/TML-d24-varloop-research</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a0037359831f</link>
+<guid isPermaLink="false">evt_a0037359831f</guid>
+<pubDate>Fri, 20 Nov 2026 22:02:20 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · image-text-to-text · 下载 1,200 · 收藏 52 — 来源：huggingface — 原文：https://huggingface.co/thinkingmachines/TML-d24-varloop-research</description>
+</item>
+<item>
 <title>全网疯传！Grok一姐教你如何月提交3000个PR</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_82a0f3f37665</link>
 <guid isPermaLink="false">evt_82a0f3f37665</guid>
@@ -336,76 +400,12 @@
 <description>来源：hackernews — 原文：https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus</description>
 </item>
 <item>
-<title>Together.ai: Prompt Leakage for Requests</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_7bac73473e11</link>
-<guid isPermaLink="false">evt_7bac73473e11</guid>
-<pubDate>Sun, 22 Nov 2026 03:07:27 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</description>
-</item>
-<item>
-<title>8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e77bdf850617</link>
-<guid isPermaLink="false">evt_e77bdf850617</guid>
-<pubDate>Sat, 21 Nov 2026 11:40:11 +0000</pubDate>
-<category>agents</category>
-<description>来源：qbitai — 原文：https://www.qbitai.com/2026/11/511841.html</description>
-</item>
-<item>
-<title>Since last year, we asked: "What if AI solved the Riemann Hypothesis?"</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bbc83ef27996</link>
-<guid isPermaLink="false">evt_bbc83ef27996</guid>
-<pubDate>Sun, 22 Nov 2026 03:06:35 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.youtube.com/watch?v=zqzk43bSdDI</description>
-</item>
-<item>
-<title>反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_988e7bb2ac94</link>
-<guid isPermaLink="false">evt_988e7bb2ac94</guid>
-<pubDate>Sat, 21 Nov 2026 11:24:29 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：github · qbitai — 原文：https://www.qbitai.com/2026/11/511791.html</description>
-</item>
-<item>
-<title>The Mythology of Conscious AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_528d6924cf9a</link>
-<guid isPermaLink="false">evt_528d6924cf9a</guid>
-<pubDate>Sun, 22 Nov 2026 02:10:02 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews — 原文：https://www.noemamag.com/the-mythology-of-conscious-ai/</description>
-</item>
-<item>
-<title>llm-gemini 0.38.1</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8e6075d168e0</link>
-<guid isPermaLink="false">evt_8e6075d168e0</guid>
-<pubDate>Fri, 20 Nov 2026 12:30:47 +0000</pubDate>
-<category>foundation_models</category>
-<description>Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive with Gemini 4 Neon: Tags: gemini , — 来源：google_ai_blog · simonwillison · verge_ai · techcrunch_ai — 原文：https://simonwillison.net/2026/Nov/20/llm-gemini/</description>
-</item>
-<item>
-<title>Nebsh/Seedreamstyle-H3-6K</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1f0f82ca0556</link>
-<guid isPermaLink="false">evt_1f0f82ca0556</guid>
-<pubDate>Fri, 20 Nov 2026 19:14:36 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-to-image · 下载 4,246 · 收藏 81 — 来源：huggingface — 原文：https://huggingface.co/Nebsh/Seedreamstyle-H3-6K</description>
-</item>
-<item>
-<title>Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_59cfeb6a6aab</link>
-<guid isPermaLink="false">evt_59cfeb6a6aab</guid>
-<pubDate>Thu, 19 Nov 2026 23:02:16 +0000</pubDate>
-<category>agents</category>
-<description>Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with sources. — 来源：aws_ml · arxiv — 原文：https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/</description>
-</item>
-<item>
-<title>Muru</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_21bd1d482ae2</link>
-<guid isPermaLink="false">evt_21bd1d482ae2</guid>
-<pubDate>Sat, 21 Nov 2026 23:56:28 +0000</pubDate>
-<category>open_source</category>
-<description>Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process. Here's everything he's published so far, all in the last three weeks: 2026-11-04 — Twenty years of mod_wsgi, and what comes next 202 — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/21/muru/</description>
+<title>Trailblazer-F: Speculative Action-Flow Inference for Autonomous Driving</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_206b86c970ea</link>
+<guid isPermaLink="false">evt_206b86c970ea</guid>
+<pubDate>Fri, 20 Nov 2026 07:24:51 +0000</pubDate>
+<category>research</category>
+<description>Driving world-action models generate planned trajectories through iterative action denoising, with each update depending on the preceding state. This sequential dependency incurs substantial inference latency, limiting timely planning. Speculative inference offers an opportunity to reduce this latency by predicting future denoising states for parallel target evaluation, but requires efficient proposal generation and suitable verification for continuous actions. We present Trailblazer-F, a speculative action-flow inference framework in which a lightweight drafter acts as a trailblazer, charting — 来源：aws_ml · arxiv — 原文：https://arxiv.org/abs/2611.27226v1</description>
 </item>
 </channel>
 </rss>

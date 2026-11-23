@@ -5,47 +5,95 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 23 Nov 2026 04:58:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 19:42:00 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A more tailored Google Search that’s uniquely yours</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_39c2da17cef6</link>
+<guid isPermaLink="false">evt_39c2da17cef6</guid>
+<pubDate>Mon, 23 Nov 2026 19:14:46 +0000</pubDate>
+<category>foundation_models</category>
+<description>Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode. — 来源：google_ai_blog · techcrunch_ai — 原文：https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</description>
+</item>
+<item>
+<title>Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e63c50b367bc</link>
+<guid isPermaLink="false">evt_e63c50b367bc</guid>
+<pubDate>Mon, 23 Nov 2026 18:12:22 +0000</pubDate>
+<category>industry</category>
+<description>The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy. — 来源：techcrunch_ai · verge_ai · hackernews — 原文：https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/</description>
+</item>
+<item>
+<title>Finding faster quantum algorithms with agents and formal verification</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_988e7bb2ac94</link>
+<guid isPermaLink="false">evt_988e7bb2ac94</guid>
+<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+<category>agents</category>
+<description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry. — 来源：github · qbitai · deepmind_blog — 原文：https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</description>
+</item>
+<item>
+<title>RoboTrack: Point tracking for real-world robotic manipulation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_211fbe8009a4</link>
+<guid isPermaLink="false">evt_211fbe8009a4</guid>
+<pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
+<category>robotics</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/robotrack</description>
+</item>
+<item>
+<title>Connected intelligence for in-house legal</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
+<guid isPermaLink="false">evt_e683d40fba10</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>agents</category>
+<description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai — 原文：https://openai.com/business/learn/connected-intelligence-for-in-house-legal</description>
+</item>
 <item>
 <title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
 <guid isPermaLink="false">evt_582c2a1dac6a</guid>
-<pubDate>Sun, 22 Nov 2026 21:53:45 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 14:17:20 +0000</pubDate>
 <category>open_source</category>
 <description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
 </item>
 <item>
-<title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
-<guid isPermaLink="false">evt_38c61351fe0d</guid>
-<pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+<title>Trump reportedly called into Nvidia board meeting to advocate for Huang’s return</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
+<guid isPermaLink="false">evt_0fd739db34db</guid>
+<pubDate>Mon, 23 Nov 2026 18:03:59 +0000</pubDate>
+<category>open_source</category>
+<description>"I spoke to them, let me put it that way … And I convinced them," the president told CNBC. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/</description>
+</item>
+<item>
+<title>Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6dbfd2c16f1d</link>
+<guid isPermaLink="false">evt_6dbfd2c16f1d</guid>
+<pubDate>Mon, 23 Nov 2026 17:14:23 +0000</pubDate>
+<category>infrastructure</category>
+<description>Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal. — 来源：aws_ml · verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/</description>
+</item>
+<item>
+<title>Tech leaders are celebrating Jensen Huang’s return</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6021b9270138</link>
+<guid isPermaLink="false">evt_6021b9270138</guid>
+<pubDate>Mon, 23 Nov 2026 16:14:04 +0000</pubDate>
 <category>industry</category>
-<description>Three significant backers share what gave them conviction to bet billions on Anthropic. — 来源：hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</description>
+<description>Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) "terrorized" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […] — 来源：qbitai · arxiv · verge_ai — 原文：https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay</description>
 </item>
 <item>
-<title>Select Styling Specimens</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d4875a92aea8</link>
-<guid isPermaLink="false">evt_d4875a92aea8</guid>
-<pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
-<category>foundation_models</category>
-<description>Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ; border : 1 px solid # c4cbd3 ; bord — 来源：hackernews · verge_ai · simonwillison · qbitai — 原文：https://simonwillison.net/2026/Nov/22/select-styling/</description>
-</item>
-<item>
-<title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
-<guid isPermaLink="false">evt_e683d40fba10</guid>
-<pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+<title>Nvidia reverses course and brings Jensen Huang back as CEO</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ecab1061c917</link>
+<guid isPermaLink="false">evt_ecab1061c917</guid>
+<pubDate>Mon, 23 Nov 2026 15:04:01 +0000</pubDate>
 <category>industry</category>
-<description>To establish a speed limit on AI development, you need to agree on how to measure speed. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai — 原文：https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</description>
+<description>The stunning reversal was supported by senior officials in the U.S. government. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/</description>
 </item>
 <item>
-<title>Meta ads is now available in AWS Quick</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_1796857b9a1b</link>
-<guid isPermaLink="false">evt_1796857b9a1b</guid>
-<pubDate>Sun, 22 Nov 2026 01:59:13 +0000</pubDate>
+<title>Meta Muse can do your Black Friday shopping at Walmart</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a78f7986a82</link>
+<guid isPermaLink="false">evt_8a78f7986a82</guid>
+<pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
 <category>agents</category>
-<description>AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows. — 来源：aws_ml — 原文：https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</description>
+<description>Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your […] — 来源：verge_ai · techcrunch_ai · arxiv — 原文：https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</description>
 </item>
 </channel>
 </rss>

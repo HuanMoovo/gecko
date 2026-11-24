@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 23 Nov 2026 19:42:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 04:32:22 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
+<guid isPermaLink="false">evt_9a65825a20a4</guid>
+<pubDate>Tue, 24 Nov 2026 02:36:08 +0000</pubDate>
+<category>agents</category>
+<description>来源：hackernews · techcrunch_ai · qbitai — 原文：https://github.com/SandeepAi369/Agent-first-browse</description>
+</item>
 <item>
 <title>A more tailored Google Search that’s uniquely yours</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_39c2da17cef6</link>
@@ -16,12 +24,28 @@
 <description>Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode. — 来源：google_ai_blog · techcrunch_ai — 原文：https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</description>
 </item>
 <item>
-<title>Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</title>
+<title>Trump engineered a risky comeback for Jensen Huang</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_e63c50b367bc</link>
 <guid isPermaLink="false">evt_e63c50b367bc</guid>
-<pubDate>Mon, 23 Nov 2026 18:12:22 +0000</pubDate>
-<category>industry</category>
-<description>The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy. — 来源：techcrunch_ai · verge_ai · hackernews — 原文：https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/</description>
+<pubDate>Mon, 23 Nov 2026 22:25:12 +0000</pubDate>
+<category>safety</category>
+<description>After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would "end up on his feet." […] — 来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated</description>
+</item>
+<item>
+<title>Ladybird's first alpha release</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_1ee9f5994a81</link>
+<guid isPermaLink="false">evt_1ee9f5994a81</guid>
+<pubDate>Mon, 23 Nov 2026 21:46:35 +0000</pubDate>
+<category>open_source</category>
+<description>Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, or code brought in from Ladybird's even more ambitious predecessor project SerenityOS . This morning the Ladybird project released their first alpha , which means you can now install the browser (on m — 来源：mit_tr_ai · simonwillison · verge_ai — 原文：https://simonwillison.net/2026/Nov/23/ladybird/</description>
+</item>
+<item>
+<title>Connected intelligence for in-house legal</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
+<guid isPermaLink="false">evt_e683d40fba10</guid>
+<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
+<category>agents</category>
+<description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai — 原文：https://openai.com/business/learn/connected-intelligence-for-in-house-legal</description>
 </item>
 <item>
 <title>Finding faster quantum algorithms with agents and formal verification</title>
@@ -40,60 +64,36 @@
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/robotrack</description>
 </item>
 <item>
-<title>Connected intelligence for in-house legal</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
-<guid isPermaLink="false">evt_e683d40fba10</guid>
-<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-<category>agents</category>
-<description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai — 原文：https://openai.com/business/learn/connected-intelligence-for-in-house-legal</description>
-</item>
-<item>
-<title>Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_582c2a1dac6a</link>
-<guid isPermaLink="false">evt_582c2a1dac6a</guid>
-<pubDate>Mon, 23 Nov 2026 14:17:20 +0000</pubDate>
-<category>open_source</category>
-<description>Pre-trained models can read screens and reason about games, yet on an unfamiliar game, an agent still has to learn to play. We ask how an agent can self-improve on such a game from a few of its own attempts, in real-time visual games where the agent sees only the screen and the game keeps running while the agent thinks. We study two kinds of policy that can carry this improvement. In model as policy, a model selects actions during play; we adapt real-time chunking so that committed actions keep executing while the model reasons, and train a 2B controller for this interface. In code as policy,  — 来源：github · techcrunch_ai · hackernews · simonwillison · arxiv · latent_space — 原文：https://arxiv.org/abs/2611.24590v1</description>
-</item>
-<item>
-<title>Trump reportedly called into Nvidia board meeting to advocate for Huang’s return</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
-<guid isPermaLink="false">evt_0fd739db34db</guid>
-<pubDate>Mon, 23 Nov 2026 18:03:59 +0000</pubDate>
-<category>open_source</category>
-<description>"I spoke to them, let me put it that way … And I convinced them," the president told CNBC. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/</description>
-</item>
-<item>
-<title>Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6dbfd2c16f1d</link>
-<guid isPermaLink="false">evt_6dbfd2c16f1d</guid>
-<pubDate>Mon, 23 Nov 2026 17:14:23 +0000</pubDate>
-<category>infrastructure</category>
-<description>Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal. — 来源：aws_ml · verge_ai · techcrunch_ai — 原文：https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/</description>
-</item>
-<item>
-<title>Tech leaders are celebrating Jensen Huang’s return</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6021b9270138</link>
-<guid isPermaLink="false">evt_6021b9270138</guid>
-<pubDate>Mon, 23 Nov 2026 16:14:04 +0000</pubDate>
-<category>industry</category>
-<description>Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) "terrorized" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […] — 来源：qbitai · arxiv · verge_ai — 原文：https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay</description>
-</item>
-<item>
-<title>Nvidia reverses course and brings Jensen Huang back as CEO</title>
+<title>Welcome to elite impunity, Jensen Huang</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_ecab1061c917</link>
 <guid isPermaLink="false">evt_ecab1061c917</guid>
-<pubDate>Mon, 23 Nov 2026 15:04:01 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 22:09:26 +0000</pubDate>
 <category>industry</category>
-<description>The stunning reversal was supported by senior officials in the U.S. government. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/</description>
+<description>I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a "free market" is might […] — 来源：techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</description>
 </item>
 <item>
-<title>Meta Muse can do your Black Friday shopping at Walmart</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a78f7986a82</link>
-<guid isPermaLink="false">evt_8a78f7986a82</guid>
-<pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
-<category>agents</category>
-<description>Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your […] — 来源：verge_ai · techcrunch_ai · arxiv — 原文：https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</description>
+<title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d00d272b2b99</link>
+<guid isPermaLink="false">evt_d00d272b2b99</guid>
+<pubDate>Tue, 24 Nov 2026 02:07:18 +0000</pubDate>
+<category>foundation_models</category>
+<description>As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals. — 来源：github · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</description>
+</item>
+<item>
+<title>Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
+<guid isPermaLink="false">evt_0fd739db34db</guid>
+<pubDate>Mon, 23 Nov 2026 23:36:26 +0000</pubDate>
+<category>industry</category>
+<description>"I'm going to be a better CEO the second time around," Huang told employees. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/</description>
+</item>
+<item>
+<title>The Brother-Sister Duo Who Want to Keep Anthropic Weird</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
+<guid isPermaLink="false">evt_38c61351fe0d</guid>
+<pubDate>Tue, 24 Nov 2026 02:46:57 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews · techcrunch_ai — 原文：https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11</description>
 </item>
 </channel>
 </rss>

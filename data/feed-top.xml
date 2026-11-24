@@ -5,15 +5,71 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 04:32:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 19:14:52 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph</title>
+<title>How Gemini is changing the game for Golden State's organization and fans.</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_988e7bb2ac94</link>
+<guid isPermaLink="false">evt_988e7bb2ac94</guid>
+<pubDate>Tue, 24 Nov 2026 18:47:41 +0000</pubDate>
+<category>foundation_models</category>
+<description>Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news. — 来源：github · qbitai · deepmind_blog · google_ai_blog — 原文：https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</description>
+</item>
+<item>
+<title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_211fbe8009a4</link>
+<guid isPermaLink="false">evt_211fbe8009a4</guid>
+<pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+<category>agents</category>
+<description>来源：hf_blog — 原文：https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</description>
+</item>
+<item>
+<title>Jensen Huang deepfakes are the hot new AI slop</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e63c50b367bc</link>
+<guid isPermaLink="false">evt_e63c50b367bc</guid>
+<pubDate>Tue, 24 Nov 2026 16:30:00 +0000</pubDate>
+<category>industry</category>
+<description>Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […] — 来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</description>
+</item>
+<item>
+<title>Connected intelligence for in-house legal</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
+<guid isPermaLink="false">evt_e683d40fba10</guid>
+<pubDate>Tue, 24 Nov 2026 16:53:59 +0000</pubDate>
+<category>agents</category>
+<description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai · simonwillison — 原文：https://openai.com/business/learn/connected-intelligence-for-in-house-legal</description>
+</item>
+<item>
+<title>Anthropic shares fall below IPO price, a worrying sign for AI startups</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
+<guid isPermaLink="false">evt_38c61351fe0d</guid>
+<pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
+<category>industry</category>
+<description>Anthropic’s post-IPO slump could put pressure on AI startup valuations. — 来源：hackernews · techcrunch_ai — 原文：https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</description>
+</item>
+<item>
+<title>Raising the stakes for enterprise networks with AI modernization</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6e3711f339b6</link>
+<guid isPermaLink="false">evt_6e3711f339b6</guid>
+<pubDate>Tue, 24 Nov 2026 15:15:16 +0000</pubDate>
+<category>agents</category>
+<description>Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As… — 来源：arxiv · mit_tr_ai · simonwillison — 原文：https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/</description>
+</item>
+<item>
+<title>LLM agents work for their parent companies, not for you</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
 <guid isPermaLink="false">evt_9a65825a20a4</guid>
-<pubDate>Tue, 24 Nov 2026 02:36:08 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 12:40:15 +0000</pubDate>
+<category>foundation_models</category>
+<description>来源：hackernews · techcrunch_ai · qbitai · github — 原文：https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</description>
+</item>
+<item>
+<title>Meta brings its Muse AI assistant directly into Instagram DMs</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8a78f7986a82</link>
+<guid isPermaLink="false">evt_8a78f7986a82</guid>
+<pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
 <category>agents</category>
-<description>来源：hackernews · techcrunch_ai · qbitai — 原文：https://github.com/SandeepAi369/Agent-first-browse</description>
+<description>The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent. — 来源：verge_ai · techcrunch_ai · arxiv — 原文：https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</description>
 </item>
 <item>
 <title>A more tailored Google Search that’s uniquely yours</title>
@@ -24,12 +80,12 @@
 <description>Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode. — 来源：google_ai_blog · techcrunch_ai — 原文：https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</description>
 </item>
 <item>
-<title>Trump engineered a risky comeback for Jensen Huang</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e63c50b367bc</link>
-<guid isPermaLink="false">evt_e63c50b367bc</guid>
-<pubDate>Mon, 23 Nov 2026 22:25:12 +0000</pubDate>
-<category>safety</category>
-<description>After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would "end up on his feet." […] — 来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated</description>
+<title>How iFood scales coding agents across 15,000 repositories</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_680b35173b97</link>
+<guid isPermaLink="false">evt_680b35173b97</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<category>agents</category>
+<description>来源：openai_blog — 原文：https://openai.com/index/ifood</description>
 </item>
 <item>
 <title>Ladybird's first alpha release</title>
@@ -40,28 +96,28 @@
 <description>Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, or code brought in from Ladybird's even more ambitious predecessor project SerenityOS . This morning the Ladybird project released their first alpha , which means you can now install the browser (on m — 来源：mit_tr_ai · simonwillison · verge_ai — 原文：https://simonwillison.net/2026/Nov/23/ladybird/</description>
 </item>
 <item>
-<title>Connected intelligence for in-house legal</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e683d40fba10</link>
-<guid isPermaLink="false">evt_e683d40fba10</guid>
-<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
-<category>agents</category>
-<description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. — 来源：openai_blog · hackernews · arxiv · techcrunch_ai — 原文：https://openai.com/business/learn/connected-intelligence-for-in-house-legal</description>
+<title>Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
+<guid isPermaLink="false">evt_0fd739db34db</guid>
+<pubDate>Tue, 24 Nov 2026 16:08:29 +0000</pubDate>
+<category>industry</category>
+<description>"I'm going to be a better CEO the second time around," Huang told employees. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/</description>
 </item>
 <item>
-<title>Finding faster quantum algorithms with agents and formal verification</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_988e7bb2ac94</link>
-<guid isPermaLink="false">evt_988e7bb2ac94</guid>
-<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+<title>Amazon says hackers' AI agents found and exploited 0-day with little human input</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_b053ddc62c52</link>
+<guid isPermaLink="false">evt_b053ddc62c52</guid>
+<pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
 <category>agents</category>
-<description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry. — 来源：github · qbitai · deepmind_blog — 原文：https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</description>
+<description>The Cairn AI framework is proving to be a boon for defenders and attackers. — 来源：huggingface · hackernews · github · aws_ml · arxiv · arstechnica_ai — 原文：https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</description>
 </item>
 <item>
-<title>RoboTrack: Point tracking for real-world robotic manipulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_211fbe8009a4</link>
-<guid isPermaLink="false">evt_211fbe8009a4</guid>
-<pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
-<category>robotics</category>
-<description>来源：hf_blog — 原文：https://huggingface.co/blog/allenai/robotrack</description>
+<title>Hard to Translate, Harder to Detect: Human Analysis Remains Essential in AI Meme Translation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a94eb7b8008</link>
+<guid isPermaLink="false">evt_0a94eb7b8008</guid>
+<pubDate>Tue, 24 Nov 2026 03:16:58 +0000</pubDate>
+<category>research</category>
+<description>We present a dataset and evaluation setup for a problem in creative machine translation: translating culturally loaded passages that carry much of a text's meaning and humor that may depend on subtle or implicit discourse. We study Soviet comedy quotations that function as memes in Russian-language communication. Off-the-shelf difficulty estimators do not find these passages; current models searching the web find most but not all of them, but their own analyses of the difficulty do not help translation as well as a human-validated one. Given a brief human-validated analysis of why each passage — 来源：hackernews · arxiv — 原文：https://arxiv.org/abs/2611.30710v1</description>
 </item>
 <item>
 <title>Welcome to elite impunity, Jensen Huang</title>
@@ -72,28 +128,84 @@
 <description>I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a "free market" is might […] — 来源：techcrunch_ai · verge_ai — 原文：https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</description>
 </item>
 <item>
-<title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
+<title>Claude Code Mode Internals</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_d00d272b2b99</link>
 <guid isPermaLink="false">evt_d00d272b2b99</guid>
 <pubDate>Tue, 24 Nov 2026 02:07:18 +0000</pubDate>
 <category>foundation_models</category>
-<description>As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals. — 来源：github · techcrunch_ai · hackernews — 原文：https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</description>
+<description>来源：github · techcrunch_ai · hackernews — 原文：https://muthuishere.medium.com/code-mode-internals-and-adapting-them-for-your-clis-and-agent-skills-3a9ae4c9782f</description>
 </item>
 <item>
-<title>Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0fd739db34db</link>
-<guid isPermaLink="false">evt_0fd739db34db</guid>
-<pubDate>Mon, 23 Nov 2026 23:36:26 +0000</pubDate>
-<category>industry</category>
-<description>"I'm going to be a better CEO the second time around," Huang told employees. — 来源：hackernews · techcrunch_ai · verge_ai · nvidia_blog · hn_frontpage — 原文：https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/</description>
+<title>Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_08061a4a4f5e</link>
+<guid isPermaLink="false">evt_08061a4a4f5e</guid>
+<pubDate>Mon, 23 Nov 2026 18:58:52 +0000</pubDate>
+<category>research</category>
+<description>Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the model to repair its error?). We evaluated four open-weights models (Qwen2.5-7B, Llama-3.1-8B, Mistral-7B, and Phi-4, 14.7B) across 15,200 math benchmark attempts, isolating 2,017 reasoning errors within  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.31228v1</description>
 </item>
 <item>
-<title>The Brother-Sister Duo Who Want to Keep Anthropic Weird</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
-<guid isPermaLink="false">evt_38c61351fe0d</guid>
-<pubDate>Tue, 24 Nov 2026 02:46:57 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews · techcrunch_ai — 原文：https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11</description>
+<title>Uncovering the Tells: Efficient Black-Box Audits for LLM Data Contamination</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_45778da1dca2</link>
+<guid isPermaLink="false">evt_45778da1dca2</guid>
+<pubDate>Mon, 23 Nov 2026 18:55:06 +0000</pubDate>
+<category>research</category>
+<description>Existing methods for assessing training data contamination in Large Language Models achieve high accuracy, but fundamentally rely on gray-box access, rendering them inapplicable to fully black-box environments. This limitation forces auditors to rely on full-sequence sampling or rigid heuristics, both of which incur prohibitive inference costs and struggle to isolate the underlying memorization signal. To overcome this, we propose a generation-based black-box framework that infers context-induced information gain from targeted token discrepancies. We introduce a budget-constrained auditing reg — 来源：arxiv — 原文：https://arxiv.org/abs/2611.30639v1</description>
+</item>
+<item>
+<title>ACAP: Asynchronous Coding Agents for Efficient Robot Control</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_afb5725a5878</link>
+<guid isPermaLink="false">evt_afb5725a5878</guid>
+<pubDate>Mon, 23 Nov 2026 18:53:25 +0000</pubDate>
+<category>robotics</category>
+<description>Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchronous framework that organizes one robot as a team of persistent agents. Each member reasons and acts for a configurable control group, such as an arm with its gripper or the torso and chassis, enabling asynchronous reasoning and execution. However, different robot components often have physical dependencies that require coordination. To address this challenge, ACAP introduces a  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.31205v1</description>
+</item>
+<item>
+<title>Bridging Continuous-Time MAPF and Industrial AGV Fleet Coordination with Lazy Priority-Based Search</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f46afddc039f</link>
+<guid isPermaLink="false">evt_f46afddc039f</guid>
+<pubDate>Mon, 23 Nov 2026 18:48:02 +0000</pubDate>
+<category>research</category>
+<description>Continuous-time multi-agent path finding on roadmaps (MAPF$_R$) offers a principled way to coordinate robot fleets with geometric collision avoidance, yet its deployment on industrial automated guided vehicle (AGV) infrastructures remains challenging, as highly connected and redundant roadmaps amplify both safe-interval reasoning and multi-agent interaction handling. To bridge this gap, we formalize AGV-MAPF$_R$-CTC, a configuration-space variant of MAPF$_R$ with precomputed continuous-time conflicts that enables the reuse of MAPF$_R$ solvers for AGV fleet coordination with minimal changes. We — 来源：arxiv — 原文：https://arxiv.org/abs/2611.30874v1</description>
+</item>
+<item>
+<title>Learning Neurovascular Codes for EEG-to-fMRI Synthesis</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_6f673040903c</link>
+<guid isPermaLink="false">evt_6f673040903c</guid>
+<pubDate>Mon, 23 Nov 2026 18:45:35 +0000</pubDate>
+<category>research</category>
+<description>In this paper, we introduce Neurovascular Codes as shared EEG representations for fMRI generation. We first train a separate EEG encoder to predict each fMRI signal, learning target-specific temporal and spectral features from the same EEG window. After training, we freeze the encoders and project their concatenated hidden features into a shared neurovascular code. Conditioned on this code, stochastic interpolant transforms Gaussian noise into a vector of fMRI signals, allowing different responses to be sampled for the same EEG window. We evaluate our approach on eight public simultaneous EEG- — 来源：arxiv — 原文：https://arxiv.org/abs/2611.31194v1</description>
+</item>
+<item>
+<title>Reinforcing Diffusion Models by Instantaneous Trajectory Distribution Matching</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_41434b201aa6</link>
+<guid isPermaLink="false">evt_41434b201aa6</guid>
+<pubDate>Mon, 23 Nov 2026 18:46:15 +0000</pubDate>
+<category>research</category>
+<description>Forward diffusion reinforcement learning (RL)---enabling deterministic ODE sampling without trajectory backpropagation---has grown increasingly popular for efficiently aligning diffusion models. However, we reveal that existing methods essentially rely on signed reward-weighted regression (RWR), regressing the \emph{trainable policy} velocity onto rollouts from a \emph{behavior distribution}. Unbiased baseline subtraction implicitly assumes that the policy velocity equals the behavior marginal velocity---an idealized assumption violated under classifier-free guidance (CFG) rollouts, offline/of — 来源：arxiv — 原文：https://arxiv.org/abs/2611.30986v1</description>
+</item>
+<item>
+<title>CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_5590260dd65f</link>
+<guid isPermaLink="false">evt_5590260dd65f</guid>
+<pubDate>Mon, 23 Nov 2026 18:38:53 +0000</pubDate>
+<category>research</category>
+<description>Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL initializations, yet overall accuracy gains do not identify which underlying functional capabilities improve or interact during training. We introduce CO-GRAFT, a reward-agnostic interventional attribution framework in which an RL-trained agent and its pre-RL initialization jointly generate a single trajectory under closed-loop execution with live retrieval. Each policy controls a mutually exclusive subset of four functional roles: intermediate reasoning, search-or-answ — 来源：arxiv — 原文：https://arxiv.org/abs/2611.31185v1</description>
+</item>
+<item>
+<title>Beyond Self-Consistency: Recursive Self-Improvement at Test Time</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e68637ac4884</link>
+<guid isPermaLink="false">evt_e68637ac4884</guid>
+<pubDate>Mon, 23 Nov 2026 18:31:54 +0000</pubDate>
+<category>research</category>
+<description>Large language models (LLMs) that continue improving after deployment (e.g., recursive self-improvement) offer a promising path toward general intelligence. Current test-time methods pursue this goal on unlabeled questions, primarily relying on self-consistency: they generate independent solutions and use majority voting to select an answer or construct training targets. This leaves earlier reasoning unused at inference and can reinforce an incorrect majority during training. Humans instead build on earlier attempts to preserve useful reasoning, correct mistakes and improve their problem-solvi — 来源：arxiv — 原文：https://arxiv.org/abs/2611.30965v1</description>
+</item>
+<item>
+<title>Analyzing and Improving FlowMap Distillation of Autoregressive Video Models</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9d4ca4abb384</link>
+<guid isPermaLink="false">evt_9d4ca4abb384</guid>
+<pubDate>Mon, 23 Nov 2026 18:24:33 +0000</pubDate>
+<category>research</category>
+<description>FlowMap distillation offers a natural route to few-step generative modeling by directly learning a teacher's denoising trajectories. Yet for autoregressive (AR) video generation, existing few-step models still rely on distribution matching distillation (DMD) to remain competitive, sacrificing sample diversity and requiring a large bidirectional teacher. In this work, we analyze what limits standalone AR FlowMap distillation and introduce two complementary guidance mechanisms to close this gap: (1) anti-drifting guidance, which helps the AR teacher correct drifted student rollouts by training a — 来源：arxiv — 原文：https://arxiv.org/abs/2611.31164v1</description>
 </item>
 </channel>
 </rss>

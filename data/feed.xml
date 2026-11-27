@@ -5,15 +5,23 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 18:00:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 02:35:03 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Come for the Games, Stay for the Community With GeForce NOW</title>
+<title>Nvidia hits pause on chip shipments to Southeast Asia</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9134491ec669</link>
 <guid isPermaLink="false">evt_9134491ec669</guid>
-<pubDate>Thu, 26 Nov 2026 14:00:22 +0000</pubDate>
-<category>industry</category>
-<description>Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […] — 来源：verge_ai · huggingface · hackernews · techcrunch_ai · nvidia_blog · arxiv — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/</description>
+<pubDate>Thu, 26 Nov 2026 21:56:28 +0000</pubDate>
+<category>infrastructure</category>
+<description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China. — 来源：verge_ai · huggingface · hackernews · techcrunch_ai · nvidia_blog · arxiv — 原文：https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</description>
+</item>
+<item>
+<title>earthtojake/text-to-cad — Design physical products with AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
+<guid isPermaLink="false">evt_9a65825a20a4</guid>
+<pubDate>Fri, 27 Nov 2026 02:34:42 +0000</pubDate>
+<category>open_source</category>
+<description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
 </item>
 <item>
 <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -22,6 +30,22 @@
 <pubDate>Thu, 26 Nov 2026 17:11:29 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：hf_blog · hackernews — 原文：https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</description>
+</item>
+<item>
+<title>ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
+<guid isPermaLink="false">evt_99ccc673a30f</guid>
+<pubDate>Thu, 26 Nov 2026 21:53:17 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 115 — 来源：huggingface — 原文：https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF</description>
+</item>
+<item>
+<title>ai-sage/GigaChat4-708B-A41B</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_f99ebfacf98c</link>
+<guid isPermaLink="false">evt_f99ebfacf98c</guid>
+<pubDate>Thu, 26 Nov 2026 17:48:04 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 3 · 收藏 48 — 来源：huggingface — 原文：https://huggingface.co/ai-sage/GigaChat4-708B-A41B</description>
 </item>
 <item>
 <title>OpenAI may be in cost control mode</title>
@@ -62,6 +86,14 @@
 <pubDate>Wed, 25 Nov 2026 18:45:35 +0000</pubDate>
 <category>research</category>
 <description>Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategies range from axis-parallel and oblique splits based on feature values to proximity-based splits using exemplar instances and more complex hybrid approaches. However, no single method has emerged as universally superior. In this work, we present two key contributions to the construction of greedy dec — 来源：techcrunch_ai · arxiv · arstechnica_ai — 原文：https://arxiv.org/abs/2611.34887v1</description>
+</item>
+<item>
+<title>Nvidia was right to bring back Jensen Huang, writes Sarah Guo</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e63c50b367bc</link>
+<guid isPermaLink="false">evt_e63c50b367bc</guid>
+<pubDate>Thu, 26 Nov 2026 20:39:05 +0000</pubDate>
+<category>industry</category>
+<description>来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo</description>
 </item>
 <item>
 <title>sensenova/SenseNova-U1.6-8B-MoT</title>
@@ -152,20 +184,20 @@
 <description>Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia and uses sampled subgraphs to generate research queries and evidence-grounded rubrics. Each rubric c — 来源：arxiv · mit_tr_ai · simonwillison — 原文：https://arxiv.org/abs/2611.34852v1</description>
 </item>
 <item>
-<title>381个AI直播冲刺证明P=NP！把GitHub干崩了</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e8640fffdb30</link>
-<guid isPermaLink="false">evt_e8640fffdb30</guid>
-<pubDate>Thu, 26 Nov 2026 13:56:01 +0000</pubDate>
-<category>open_source</category>
-<description>已跑了超过一万次会话，在Lean4里验证通过了2400多条引理 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/513021.html</description>
-</item>
-<item>
 <title>[Dataset] google/physical-engineerings-last-exam</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2495a6fc7462</link>
 <guid isPermaLink="false">evt_2495a6fc7462</guid>
 <pubDate>Thu, 26 Nov 2026 17:43:45 +0000</pubDate>
 <category>research</category>
 <description>Hugging Face 数据集 · 下载 512,659 · 收藏 308 — 来源：qbitai · deepmind_blog · verge_ai · huggingface · github — 原文：https://huggingface.co/datasets/google/physical-engineerings-last-exam</description>
+</item>
+<item>
+<title>381个AI直播冲刺证明P=NP！把GitHub干崩了</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e8640fffdb30</link>
+<guid isPermaLink="false">evt_e8640fffdb30</guid>
+<pubDate>Thu, 26 Nov 2026 13:56:01 +0000</pubDate>
+<category>open_source</category>
+<description>已跑了超过一万次会话，在Lean4里验证通过了2400多条引理 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/513021.html</description>
 </item>
 <item>
 <title>AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用</title>
@@ -200,12 +232,12 @@
 <description>A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off "the private chat histories of more than 21 million U.S. accounts - […] — 来源：verge_ai — 原文：https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</description>
 </item>
 <item>
-<title>earthtojake/text-to-cad — Design physical products with AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
-<guid isPermaLink="false">evt_9a65825a20a4</guid>
-<pubDate>Thu, 26 Nov 2026 17:58:56 +0000</pubDate>
+<title>deepset-ai/haystack — Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_dba5a2ecd3d4</link>
+<guid isPermaLink="false">evt_dba5a2ecd3d4</guid>
+<pubDate>Thu, 26 Nov 2026 17:18:09 +0000</pubDate>
 <category>open_source</category>
-<description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
+<description>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. · topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents · ⭐ 27,118 · Python — 来源：arxiv · github — 原文：https://github.com/deepset-ai/haystack</description>
 </item>
 <item>
 <title>Tracking Any Point with Agentic Visual Reasoning</title>
@@ -214,78 +246,6 @@
 <pubDate>Wed, 25 Nov 2026 18:59:58 +0000</pubDate>
 <category>agents</category>
 <description>A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappears and later reappears. In this paper, we introduce AgenTAP, a VLM-based agent that directly predicts point coordinates and visibility and actively reasons over videos. Starting from its own estimate — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34943v1</description>
-</item>
-<item>
-<title>LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8afca3ae775f</link>
-<guid isPermaLink="false">evt_8afca3ae775f</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:46 +0000</pubDate>
-<category>research</category>
-<description>We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we factorize avatar synthesis into an animatable 3D intrinsic Gaussian proxy and a causal autoregressive neural shader. This proxy disentangles canonical geometry and reflectance attributes, rapidly rasterizing deformed Gaussians into view- and motion-consistent PBR buffers. Conditioned on these buffers, our neural shader formulates forward rendering as a conditional video diffusion process, bypassing ex — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34940v1</description>
-</item>
-<item>
-<title>Can image generation help visual reasoning? An empirical study</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_606c9eca0385</link>
-<guid isPermaLink="false">evt_606c9eca0385</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:31 +0000</pubDate>
-<category>foundation_models</category>
-<description>Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten tasks. Two unified models, BAGEL and Janus-Pro-7B, each lose accuracy on eight tasks. On VSTAR, adding a generated image to the same planning hint lowers accuracy by 10.47 points. Repeated image edits — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34935v1</description>
-</item>
-<item>
-<title>Technical Report MEG2text: Beyond Alignment in Non-Invasive Brain-to-Text</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d9c7c7711b36</link>
-<guid isPermaLink="false">evt_d9c7c7711b36</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:45 +0000</pubDate>
-<category>research</category>
-<description>Non-invasive brain-to-text seeks to recover language from brain activity without surgery. A central challenge is turning learned brain-language representations into accurate word predictions. We present MEG2text, a decoding system that combines corrected training and evaluation, brain-text alignment, a class-balanced word readout, and target-word language-model fusion. On LibriBrain100's word-ranking task, MEG2text reaches 64.12% mean Top-10 balanced accuracy, improving on published MEG-XL by 16.92 percentage points across four corpora, with gains on each corpus. Controlled comparisons show th — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34686v1</description>
-</item>
-<item>
-<title>Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d89d47a6bc7d</link>
-<guid isPermaLink="false">evt_d89d47a6bc7d</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:57 +0000</pubDate>
-<category>research</category>
-<description>End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions, we  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34942v1</description>
-</item>
-<item>
-<title>Improving and Expanding Video Editing Capabilities Without Videos</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3b6fd983cf53</link>
-<guid isPermaLink="false">evt_3b6fd983cf53</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:55 +0000</pubDate>
-<category>research</category>
-<description>Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce Image-to-Video Transfer (I2VT), which improves pretrained video editors and expands them to new editing tasks using an image editor. It enables efficient post-training with no architectural changes and no new videos, using only individual images. Our key idea is to let the video editor role-pl — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34941v1</description>
-</item>
-<item>
-<title>AnyCam: Anything Can Represent Camera for Video Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_636acdf41dd5</link>
-<guid isPermaLink="false">evt_636acdf41dd5</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:59 +0000</pubDate>
-<category>research</category>
-<description>Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguous in monocular video, or on explicit geometry such as warped point clouds or depth, which breaks down under large viewpoint changes. We present AnyCam, a method that represents the camera with an anchor object in the scene: we reconstruct it in 3D and render it along the target trajectory, a camera  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34944v1</description>
-</item>
-<item>
-<title>Tokenisation is not in APX</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa2ae51b7bdf</link>
-<guid isPermaLink="false">evt_aa2ae51b7bdf</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:38 +0000</pubDate>
-<category>research</category>
-<description>In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets. We further show that, even over unary alphabets, direct tokenisation is APX-hard, and thus admits no polynomial-time approximation scheme. — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34938v1</description>
-</item>
-<item>
-<title>DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_247ac2991685</link>
-<guid isPermaLink="false">evt_247ac2991685</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:36 +0000</pubDate>
-<category>research</category>
-<description>Synthesizing diverse dexterous manipulation policies is challenging: existing simulation-based approaches rely on human demonstrations which are difficult to scale, or use generic reward functions, which provide limited control over the hand-object interactions. We propose DexLink, which addresses these limitations by synthesizing diverse dexterous behaviors from sparse, reusable hand-object interaction templates. Given key task waypoints, DexLink retargets static interaction templates to target objects using an optimization that preserves spatial hand-object relationships. It then links the r — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34936v1</description>
-</item>
-<item>
-<title>deepset-ai/haystack — Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dba5a2ecd3d4</link>
-<guid isPermaLink="false">evt_dba5a2ecd3d4</guid>
-<pubDate>Thu, 26 Nov 2026 17:18:09 +0000</pubDate>
-<category>open_source</category>
-<description>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. · topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents · ⭐ 27,118 · Python — 来源：arxiv · github — 原文：https://github.com/deepset-ai/haystack</description>
 </item>
 <item>
 <title>Diverse Alternative Reasoning Traces for Hard Math Problems</title>
@@ -344,6 +304,14 @@
 <description>Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the reference. A sparse autoencoder splits the encoder's patch embeddings into sparse features, which we cluster into a fixed number of groups. BioScore then measures, for each of 52 cell identities defined by — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34930v1</description>
 </item>
 <item>
+<title>LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_8afca3ae775f</link>
+<guid isPermaLink="false">evt_8afca3ae775f</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:46 +0000</pubDate>
+<category>research</category>
+<description>We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we factorize avatar synthesis into an animatable 3D intrinsic Gaussian proxy and a causal autoregressive neural shader. This proxy disentangles canonical geometry and reflectance attributes, rapidly rasterizing deformed Gaussians into view- and motion-consistent PBR buffers. Conditioned on these buffers, our neural shader formulates forward rendering as a conditional video diffusion process, bypassing ex — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34940v1</description>
+</item>
+<item>
 <title>MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_8d353a0c413e</link>
 <guid isPermaLink="false">evt_8d353a0c413e</guid>
@@ -352,12 +320,68 @@
 <description>Robots operating in previously mapped spaces must localize accurately despite moving people and rearranged objects. Most localization pipelines match the query against a sparse set of captured reference images retrieved by appearance, which is brittle under scene change and repeating structures. We present MERLoc, which turns a single metric 3D Gaussian Splatting scan into a dense Functional Reference Memory. Reference views are sampled over the navigable space for the robot's morphology and sensors at a target density and rendered offline. Pre-encoding them for the chosen off-the-shelf locali — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34932v1</description>
 </item>
 <item>
+<title>Can image generation help visual reasoning? An empirical study</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_606c9eca0385</link>
+<guid isPermaLink="false">evt_606c9eca0385</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:31 +0000</pubDate>
+<category>foundation_models</category>
+<description>Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten tasks. Two unified models, BAGEL and Janus-Pro-7B, each lose accuracy on eight tasks. On VSTAR, adding a generated image to the same planning hint lowers accuracy by 10.47 points. Repeated image edits — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34935v1</description>
+</item>
+<item>
 <title>Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2a4e9ca5f100</link>
 <guid isPermaLink="false">evt_2a4e9ca5f100</guid>
 <pubDate>Wed, 25 Nov 2026 18:57:52 +0000</pubDate>
 <category>research</category>
 <description>Vision-language models (VLMs) enable robots to reason about semantic and spatio-temporal context, verify task-relevant objects, and guide sensing and navigation. Persistent memory can reduce redundant search for field robots, but when should a memory continue to guide behavior? Repeated misses may suggest that a memory is stale. Our experiments show why this evidence can remain ambiguous under VLM-based perception. Using a Boston Dynamics Spot with four fixed cameras and a persistent spatio-temporal visual memory, we measure negative-verification behavior across targets, viewpoints, language q — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34915v1</description>
+</item>
+<item>
+<title>Technical Report MEG2text: Beyond Alignment in Non-Invasive Brain-to-Text</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d9c7c7711b36</link>
+<guid isPermaLink="false">evt_d9c7c7711b36</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:45 +0000</pubDate>
+<category>research</category>
+<description>Non-invasive brain-to-text seeks to recover language from brain activity without surgery. A central challenge is turning learned brain-language representations into accurate word predictions. We present MEG2text, a decoding system that combines corrected training and evaluation, brain-text alignment, a class-balanced word readout, and target-word language-model fusion. On LibriBrain100's word-ranking task, MEG2text reaches 64.12% mean Top-10 balanced accuracy, improving on published MEG-XL by 16.92 percentage points across four corpora, with gains on each corpus. Controlled comparisons show th — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34686v1</description>
+</item>
+<item>
+<title>Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_d89d47a6bc7d</link>
+<guid isPermaLink="false">evt_d89d47a6bc7d</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:57 +0000</pubDate>
+<category>research</category>
+<description>End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions, we  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34942v1</description>
+</item>
+<item>
+<title>Improving and Expanding Video Editing Capabilities Without Videos</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_3b6fd983cf53</link>
+<guid isPermaLink="false">evt_3b6fd983cf53</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:55 +0000</pubDate>
+<category>research</category>
+<description>Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce Image-to-Video Transfer (I2VT), which improves pretrained video editors and expands them to new editing tasks using an image editor. It enables efficient post-training with no architectural changes and no new videos, using only individual images. Our key idea is to let the video editor role-pl — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34941v1</description>
+</item>
+<item>
+<title>AnyCam: Anything Can Represent Camera for Video Generation</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_636acdf41dd5</link>
+<guid isPermaLink="false">evt_636acdf41dd5</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:59 +0000</pubDate>
+<category>research</category>
+<description>Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguous in monocular video, or on explicit geometry such as warped point clouds or depth, which breaks down under large viewpoint changes. We present AnyCam, a method that represents the camera with an anchor object in the scene: we reconstruct it in 3D and render it along the target trajectory, a camera  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34944v1</description>
+</item>
+<item>
+<title>Tokenisation is not in APX</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_aa2ae51b7bdf</link>
+<guid isPermaLink="false">evt_aa2ae51b7bdf</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:38 +0000</pubDate>
+<category>research</category>
+<description>In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets. We further show that, even over unary alphabets, direct tokenisation is APX-hard, and thus admits no polynomial-time approximation scheme. — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34938v1</description>
+</item>
+<item>
+<title>DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_247ac2991685</link>
+<guid isPermaLink="false">evt_247ac2991685</guid>
+<pubDate>Wed, 25 Nov 2026 18:59:36 +0000</pubDate>
+<category>research</category>
+<description>Synthesizing diverse dexterous manipulation policies is challenging: existing simulation-based approaches rely on human demonstrations which are difficult to scale, or use generic reward functions, which provide limited control over the hand-object interactions. We propose DexLink, which addresses these limitations by synthesizing diverse dexterous behaviors from sparse, reusable hand-object interaction templates. Given key task waypoints, DexLink retargets static interaction templates to target objects using an optimization that preserves spatial hand-object relationships. It then links the r — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34936v1</description>
 </item>
 <item>
 <title>ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration</title>
@@ -382,30 +406,6 @@
 <pubDate>Wed, 25 Nov 2026 18:47:56 +0000</pubDate>
 <category>research</category>
 <description>How an object deforms when it hits the ground reveals what it is made of. From a single real video of a drop, we estimate a deformable object's density-normalized stiffness $E/ρ$, and its yield stress $σ_Y/ρ$ when the impact causes plastic deformation, with a feed-forward predictor trained only in simulation. Real videos carry no material labels, so such predictors are developed and validated on synthetic data alone. We show that synthetic validation ranks their geometric inputs in the wrong order. Material acts through 3D deformation, and tracklets lifted to 3D with estimated depth are indeed — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34894v1</description>
-</item>
-<item>
-<title>FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c21072e8a8e1</link>
-<guid isPermaLink="false">evt_c21072e8a8e1</guid>
-<pubDate>Wed, 25 Nov 2026 18:40:47 +0000</pubDate>
-<category>robotics</category>
-<description>Dexterity is, at its core, finger-level control, yet existing dexterous manipulation and human-object interaction (HOI) generation methods rarely let one specify how an interaction is performed: five-fingered hands are often reduced to grippers, or finger usage is copied from individual human demonstrations. We present FineDex, a framework that makes finger-level intent both expressible and executable. FineDex learns coordinated human body, hand, and object motions that follow fine-grained instructions on hand selection, individual fingers, and contacts with articulated objects. To bridge gene — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34884v1</description>
-</item>
-<item>
-<title>How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9090f2c5d419</link>
-<guid isPermaLink="false">evt_9090f2c5d419</guid>
-<pubDate>Wed, 25 Nov 2026 18:37:06 +0000</pubDate>
-<category>research</category>
-<description>Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether the extra edits are needed, what they are, or where they come from. We introduce Delta Residue Attribution (DRA), which replays agent trajectories, traces every block (unit) of the final patch to the step that wrote it, reverts each unit, and reruns the task tests to decide whether the unit is needed. We apply DRA to 7,660 resolved GitHub Copilot CLI trajectories from 18 frontier models on SWE-bench Verified (6,728) and DeepSWE (932), and grade developer patches using the same m — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34875v1</description>
-</item>
-<item>
-<title>Towards Closing the Performance Gap in Cross-Modal Place Recognition</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e75d0817c404</link>
-<guid isPermaLink="false">evt_e75d0817c404</guid>
-<pubDate>Wed, 25 Nov 2026 18:38:09 +0000</pubDate>
-<category>research</category>
-<description>Cross-modal place recognition (CMPR) matches natural language descriptions against databases of geo-tagged reference images, enabling localization without visual queries. Despite its potential for language-guided navigation, existing vision-language models lag far behind visual place recognition (VPR) baselines, even after task adaptation. Unlike general-purpose text-to-image retrieval, place recognition relies on subtle local cues to distinguish visually similar locations. We therefore hypothesize that a primary bottleneck in CMPR is capturing fine-grained correspondences between image region — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34877v1</description>
 </item>
 </channel>
 </rss>

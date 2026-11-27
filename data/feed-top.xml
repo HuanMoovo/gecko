@@ -5,15 +5,23 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 18:00:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 02:35:03 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Come for the Games, Stay for the Community With GeForce NOW</title>
+<title>Nvidia hits pause on chip shipments to Southeast Asia</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9134491ec669</link>
 <guid isPermaLink="false">evt_9134491ec669</guid>
-<pubDate>Thu, 26 Nov 2026 14:00:22 +0000</pubDate>
-<category>industry</category>
-<description>Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […] — 来源：verge_ai · huggingface · hackernews · techcrunch_ai · nvidia_blog · arxiv — 原文：https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/</description>
+<pubDate>Thu, 26 Nov 2026 21:56:28 +0000</pubDate>
+<category>infrastructure</category>
+<description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China. — 来源：verge_ai · huggingface · hackernews · techcrunch_ai · nvidia_blog · arxiv — 原文：https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</description>
+</item>
+<item>
+<title>earthtojake/text-to-cad — Design physical products with AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
+<guid isPermaLink="false">evt_9a65825a20a4</guid>
+<pubDate>Fri, 27 Nov 2026 02:34:42 +0000</pubDate>
+<category>open_source</category>
+<description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
 </item>
 <item>
 <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -22,6 +30,14 @@
 <pubDate>Thu, 26 Nov 2026 17:11:29 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：hf_blog · hackernews — 原文：https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</description>
+</item>
+<item>
+<title>ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
+<guid isPermaLink="false">evt_99ccc673a30f</guid>
+<pubDate>Thu, 26 Nov 2026 21:53:17 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 115 — 来源：huggingface — 原文：https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF</description>
 </item>
 <item>
 <title>OpenAI may be in cost control mode</title>
@@ -46,6 +62,14 @@
 <pubDate>Wed, 25 Nov 2026 18:45:35 +0000</pubDate>
 <category>research</category>
 <description>Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategies range from axis-parallel and oblique splits based on feature values to proximity-based splits using exemplar instances and more complex hybrid approaches. However, no single method has emerged as universally superior. In this work, we present two key contributions to the construction of greedy dec — 来源：techcrunch_ai · arxiv · arstechnica_ai — 原文：https://arxiv.org/abs/2611.34887v1</description>
+</item>
+<item>
+<title>Nvidia was right to bring back Jensen Huang, writes Sarah Guo</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_e63c50b367bc</link>
+<guid isPermaLink="false">evt_e63c50b367bc</guid>
+<pubDate>Thu, 26 Nov 2026 20:39:05 +0000</pubDate>
+<category>industry</category>
+<description>来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo</description>
 </item>
 <item>
 <title>sensenova/SenseNova-U1.6-8B-MoT</title>
@@ -86,166 +110,6 @@
 <pubDate>Thu, 26 Nov 2026 16:55:15 +0000</pubDate>
 <category>industry</category>
 <description>来源：hackernews · techcrunch_ai — 原文：https://twitter.com/ElliotC1/status/2125689373337489419</description>
-</item>
-<item>
-<title>Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_04f0d95eea48</link>
-<guid isPermaLink="false">evt_04f0d95eea48</guid>
-<pubDate>Wed, 25 Nov 2026 18:18:53 +0000</pubDate>
-<category>research</category>
-<description>We study risk-sensitive reinforcement learning in finite discounted infinite-horizon Markov Decision Processes with recursive entropic risk measures (ERM), parameterized by $β\neq 0$. We consider both risk-averse ($β&gt;0$) and risk-seeking ($β&lt;0$) settings. We consider the offline RL setting, where the agent is provided with a fixed dataset and wishes to learn a near-optimal policy using this dataset. We introduce a model-based algorithm, called ERM Value Iteration Lower Confidence Bound (ERM-VI-LCB) and derive a PAC-type bound on its sample complexity. We also establish a corresponding lower bo — 来源：arxiv · simonwillison — 原文：https://arxiv.org/abs/2611.34840v1</description>
-</item>
-<item>
-<title>Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4e8170e6aa5a</link>
-<guid isPermaLink="false">evt_4e8170e6aa5a</guid>
-<pubDate>Wed, 25 Nov 2026 18:54:03 +0000</pubDate>
-<category>agents</category>
-<description>Real-time autoregressive video generators stream minutes of video and accept new prompts on the fly, but struggle to keep people, objects, and places consistent over a long interactive story. Agent systems provide such memory for offline multi-shot generation, yet they read the whole script in advance, plan each shot before generating it, and regenerate failed shots, which a live stream does not allow. We present Agentic LongLive, an asynchronous agentic memory for long video generation. A memory agent on separate GPUs reads only the prompts revealed so far, never the generated video, and keep — 来源：arxiv · techcrunch_ai — 原文：https://arxiv.org/abs/2611.34907v1</description>
-</item>
-<item>
-<title>DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6e3711f339b6</link>
-<guid isPermaLink="false">evt_6e3711f339b6</guid>
-<pubDate>Wed, 25 Nov 2026 18:25:30 +0000</pubDate>
-<category>research</category>
-<description>Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia and uses sampled subgraphs to generate research queries and evidence-grounded rubrics. Each rubric c — 来源：arxiv · mit_tr_ai · simonwillison — 原文：https://arxiv.org/abs/2611.34852v1</description>
-</item>
-<item>
-<title>[Dataset] google/physical-engineerings-last-exam</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_2495a6fc7462</link>
-<guid isPermaLink="false">evt_2495a6fc7462</guid>
-<pubDate>Thu, 26 Nov 2026 17:43:45 +0000</pubDate>
-<category>research</category>
-<description>Hugging Face 数据集 · 下载 512,659 · 收藏 308 — 来源：qbitai · deepmind_blog · verge_ai · huggingface · github — 原文：https://huggingface.co/datasets/google/physical-engineerings-last-exam</description>
-</item>
-<item>
-<title>One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_c866b8c28610</link>
-<guid isPermaLink="false">evt_c866b8c28610</guid>
-<pubDate>Wed, 25 Nov 2026 18:58:56 +0000</pubDate>
-<category>research</category>
-<description>Simulation is essential for marine robotics, yet existing platforms often trade off between visually realistic worlds, high-throughput experimentation, and ocean-condition realism grounded in real data. We present OneOcean, a data-grounded simulation suite and benchmark built around a unified spatiotemporal ocean-environment product that harmonizes bathymetry with data-driven currents and tides, with optional pollution fields for cleanup-related evaluation. On top of this environment representation, OneOcean defines a task ladder spanning navigation and station-keeping under currents, waypoint — 来源：hackernews · arxiv — 原文：https://arxiv.org/abs/2611.34925v1</description>
-</item>
-<item>
-<title>earthtojake/text-to-cad — Design physical products with AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
-<guid isPermaLink="false">evt_9a65825a20a4</guid>
-<pubDate>Thu, 26 Nov 2026 17:58:56 +0000</pubDate>
-<category>open_source</category>
-<description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
-</item>
-<item>
-<title>Tracking Any Point with Agentic Visual Reasoning</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3aac42001255</link>
-<guid isPermaLink="false">evt_3aac42001255</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:58 +0000</pubDate>
-<category>agents</category>
-<description>A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappears and later reappears. In this paper, we introduce AgenTAP, a VLM-based agent that directly predicts point coordinates and visibility and actively reasons over videos. Starting from its own estimate — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34943v1</description>
-</item>
-<item>
-<title>Technical Report MEG2text: Beyond Alignment in Non-Invasive Brain-to-Text</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d9c7c7711b36</link>
-<guid isPermaLink="false">evt_d9c7c7711b36</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:45 +0000</pubDate>
-<category>research</category>
-<description>Non-invasive brain-to-text seeks to recover language from brain activity without surgery. A central challenge is turning learned brain-language representations into accurate word predictions. We present MEG2text, a decoding system that combines corrected training and evaluation, brain-text alignment, a class-balanced word readout, and target-word language-model fusion. On LibriBrain100's word-ranking task, MEG2text reaches 64.12% mean Top-10 balanced accuracy, improving on published MEG-XL by 16.92 percentage points across four corpora, with gains on each corpus. Controlled comparisons show th — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34686v1</description>
-</item>
-<item>
-<title>Improving and Expanding Video Editing Capabilities Without Videos</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_3b6fd983cf53</link>
-<guid isPermaLink="false">evt_3b6fd983cf53</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:55 +0000</pubDate>
-<category>research</category>
-<description>Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce Image-to-Video Transfer (I2VT), which improves pretrained video editors and expands them to new editing tasks using an image editor. It enables efficient post-training with no architectural changes and no new videos, using only individual images. Our key idea is to let the video editor role-pl — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34941v1</description>
-</item>
-<item>
-<title>AnyCam: Anything Can Represent Camera for Video Generation</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_636acdf41dd5</link>
-<guid isPermaLink="false">evt_636acdf41dd5</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:59 +0000</pubDate>
-<category>research</category>
-<description>Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguous in monocular video, or on explicit geometry such as warped point clouds or depth, which breaks down under large viewpoint changes. We present AnyCam, a method that represents the camera with an anchor object in the scene: we reconstruct it in 3D and render it along the target trajectory, a camera  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34944v1</description>
-</item>
-<item>
-<title>deepset-ai/haystack — Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dba5a2ecd3d4</link>
-<guid isPermaLink="false">evt_dba5a2ecd3d4</guid>
-<pubDate>Thu, 26 Nov 2026 17:18:09 +0000</pubDate>
-<category>open_source</category>
-<description>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. · topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents · ⭐ 27,118 · Python — 来源：arxiv · github — 原文：https://github.com/deepset-ai/haystack</description>
-</item>
-<item>
-<title>Mixture-of-Loops Transformer</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6e701db78da3</link>
-<guid isPermaLink="false">evt_6e701db78da3</guid>
-<pubDate>Wed, 25 Nov 2026 18:58:53 +0000</pubDate>
-<category>research</category>
-<description>Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from embeddings — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34923v1</description>
-</item>
-<item>
-<title>A gene informed benchmark for BioScoring of pathology foundation models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e275704c1aaa</link>
-<guid isPermaLink="false">evt_e275704c1aaa</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:13 +0000</pubDate>
-<category>research</category>
-<description>Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the reference. A sparse autoencoder splits the encoder's patch embeddings into sparse features, which we cluster into a fixed number of groups. BioScore then measures, for each of 52 cell identities defined by — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34930v1</description>
-</item>
-<item>
-<title>MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_8d353a0c413e</link>
-<guid isPermaLink="false">evt_8d353a0c413e</guid>
-<pubDate>Wed, 25 Nov 2026 18:59:23 +0000</pubDate>
-<category>research</category>
-<description>Robots operating in previously mapped spaces must localize accurately despite moving people and rearranged objects. Most localization pipelines match the query against a sparse set of captured reference images retrieved by appearance, which is brittle under scene change and repeating structures. We present MERLoc, which turns a single metric 3D Gaussian Splatting scan into a dense Functional Reference Memory. Reference views are sampled over the navigable space for the robot's morphology and sensors at a target density and rendered offline. Pre-encoding them for the chosen off-the-shelf locali — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34932v1</description>
-</item>
-<item>
-<title>ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_0a1404dd227b</link>
-<guid isPermaLink="false">evt_0a1404dd227b</guid>
-<pubDate>Wed, 25 Nov 2026 18:53:10 +0000</pubDate>
-<category>foundation_models</category>
-<description>Processing long videos with multimodal large language models (MLLMs) is prohibitively expensive, making informative frame selection essential for accurate video understanding. The default uniform sampling often misses task-relevant keyframes, while recent training-free selectors instead pick frames by how well each one matches the question under an image-text alignment (ITA) score. However, we show that ITA signals correspond poorly with the MLLM's true needs: their rankings correlate weakly with downstream accuracy and are even negatively correlated on over 40% of questions, whereas the MLLM' — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34903v1</description>
-</item>
-<item>
-<title>What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_fe3cfb54eb76</link>
-<guid isPermaLink="false">evt_fe3cfb54eb76</guid>
-<pubDate>Wed, 25 Nov 2026 18:47:56 +0000</pubDate>
-<category>research</category>
-<description>How an object deforms when it hits the ground reveals what it is made of. From a single real video of a drop, we estimate a deformable object's density-normalized stiffness $E/ρ$, and its yield stress $σ_Y/ρ$ when the impact causes plastic deformation, with a feed-forward predictor trained only in simulation. Real videos carry no material labels, so such predictors are developed and validated on synthetic data alone. We show that synthetic validation ranks their geometric inputs in the wrong order. Material acts through 3D deformation, and tracklets lifted to 3D with estimated depth are indeed — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34894v1</description>
-</item>
-<item>
-<title>RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_4555564fedca</link>
-<guid isPermaLink="false">evt_4555564fedca</guid>
-<pubDate>Wed, 25 Nov 2026 18:30:43 +0000</pubDate>
-<category>research</category>
-<description>Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additional speed-selection module at deployment. Several offline speedup methods have focused on identifying segments that require less precision and assigning predefined speedup factors to the segments. However, even within a single segment, a speedup factor suitable for steady motion may be too high when precise alignment is required. To this end, this paper presents RePace, an offline reasoning framewor — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34864v1</description>
-</item>
-<item>
-<title>DocDUR-Net: Degradation-Aware Unified Document Image Restoration</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_bbc20e937657</link>
-<guid isPermaLink="false">evt_bbc20e937657</guid>
-<pubDate>Wed, 25 Nov 2026 18:29:14 +0000</pubDate>
-<category>research</category>
-<description>Captured document images often suffer from diverse degradations caused by uncontrolled imaging conditions, which reduce readability and obscure fine text structures. Single-degradation restoration methods are usually trained and deployed for individual degradation types, and therefore require model selection before restoration. Unified restoration models alleviate the need to maintain multiple restoration networks by sharing one network across tasks, but representative unified document image restoration methods still depend on external task selection. This dependency limits automatic document  — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34860v1</description>
-</item>
-<item>
-<title>Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_68a868500911</link>
-<guid isPermaLink="false">evt_68a868500911</guid>
-<pubDate>Wed, 25 Nov 2026 18:28:20 +0000</pubDate>
-<category>research</category>
-<description>The Guidelines 02/2026 on anonymisation of the European Data Protection Board (EDPB), published for consultation in July 2026, assess anonymity relative to the entities that may access data. They bring AI models into scope and call for testing, but do not say how a re-identification test should be designed or validated, or how far its result counts as evidence. Building on our reply to the consultation, we describe a framework based on a secure processing environment whose outputs are reviewed before release (an airlock), and distinguish forms of release and three types of evidence: formal, em — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34859v1</description>
-</item>
-<item>
-<title>Probing Visual Idiosyncrasies in Text-to-Image Models</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e06655b1179a</link>
-<guid isPermaLink="false">evt_e06655b1179a</guid>
-<pubDate>Wed, 25 Nov 2026 18:20:18 +0000</pubDate>
-<category>research</category>
-<description>Text-to-Image (T2I) models turn short text descriptions into images, and the leading models now produce images of comparable visual quality. Whether their outputs still carry model-specific characteristics matters for attribution, for model comparison beyond aggregate quality, and for evaluations that assume anonymity. We ask whether images from frontier T2I models can still be classified by source, and which visual properties make this possible. Here we show that a standard ResNet-50 identifies the source of an image among HiDream-O1-Dev, FLUX.2-dev, HunyuanImage-3.0, and Qwen-Image-2512, the — 来源：arxiv — 原文：https://arxiv.org/abs/2611.34843v1</description>
 </item>
 </channel>
 </rss>

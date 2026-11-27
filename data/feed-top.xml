@@ -5,8 +5,16 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 02:35:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 23:51:05 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>earthtojake/text-to-cad — Design physical products with AI</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
+<guid isPermaLink="false">evt_9a65825a20a4</guid>
+<pubDate>Fri, 27 Nov 2026 21:07:34 +0000</pubDate>
+<category>open_source</category>
+<description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
+</item>
 <item>
 <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9134491ec669</link>
@@ -16,12 +24,28 @@
 <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China. — 来源：verge_ai · huggingface · hackernews · techcrunch_ai · nvidia_blog · arxiv — 原文：https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</description>
 </item>
 <item>
-<title>earthtojake/text-to-cad — Design physical products with AI</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_9a65825a20a4</link>
-<guid isPermaLink="false">evt_9a65825a20a4</guid>
-<pubDate>Fri, 27 Nov 2026 02:34:42 +0000</pubDate>
+<title>nokeepai/Inkling-2-Mini-Unbound-GGUF</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
+<guid isPermaLink="false">evt_99ccc673a30f</guid>
+<pubDate>Fri, 27 Nov 2026 05:41:24 +0000</pubDate>
 <category>open_source</category>
-<description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
+<description>Hugging Face 模型 · image-text-to-text · 下载 157,746 · 收藏 148 — 来源：huggingface — 原文：https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF</description>
+</item>
+<item>
+<title>Inside the AI Training Data Market — Gabe Greenberg, G2i</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_197dc8b3ac4d</link>
+<guid isPermaLink="false">evt_197dc8b3ac4d</guid>
+<pubDate>Fri, 27 Nov 2026 22:19:18 +0000</pubDate>
+<category>infrastructure</category>
+<description>A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger... — 来源：hackernews · mit_tr_ai · arxiv · latent_space — 原文：https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/</description>
+</item>
+<item>
+<title>Dungeons and Dragons maker will pass AI settlement money to authors</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_70f3d3a63449</link>
+<guid isPermaLink="false">evt_70f3d3a63449</guid>
+<pubDate>Fri, 27 Nov 2026 17:05:45 +0000</pubDate>
+<category>industry</category>
+<description>来源：techcrunch_ai · arxiv · arstechnica_ai · hackernews — 原文：https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/</description>
 </item>
 <item>
 <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -30,86 +54,6 @@
 <pubDate>Thu, 26 Nov 2026 17:11:29 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：hf_blog · hackernews — 原文：https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</description>
-</item>
-<item>
-<title>ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
-<guid isPermaLink="false">evt_99ccc673a30f</guid>
-<pubDate>Thu, 26 Nov 2026 21:53:17 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-generation · 下载 0 · 收藏 115 — 来源：huggingface — 原文：https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF</description>
-</item>
-<item>
-<title>OpenAI may be in cost control mode</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec442b764e04</link>
-<guid isPermaLink="false">evt_ec442b764e04</guid>
-<pubDate>Thu, 26 Nov 2026 07:33:12 +0000</pubDate>
-<category>industry</category>
-<description>来源：openai_blog · qbitai · arxiv · latent_space · hackernews — 原文：https://micjm.com/blog/openai-is-in-cost-control-mode/</description>
-</item>
-<item>
-<title>Testers believe they're from Claude Opus 5.6 via 5.5 Extra</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_f3f6304a8cca</link>
-<guid isPermaLink="false">evt_f3f6304a8cca</guid>
-<pubDate>Thu, 26 Nov 2026 15:09:31 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：aws_ml · hackernews · qbitai · simonwillison — 原文：https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/</description>
-</item>
-<item>
-<title>Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_70f3d3a63449</link>
-<guid isPermaLink="false">evt_70f3d3a63449</guid>
-<pubDate>Wed, 25 Nov 2026 18:45:35 +0000</pubDate>
-<category>research</category>
-<description>Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategies range from axis-parallel and oblique splits based on feature values to proximity-based splits using exemplar instances and more complex hybrid approaches. However, no single method has emerged as universally superior. In this work, we present two key contributions to the construction of greedy dec — 来源：techcrunch_ai · arxiv · arstechnica_ai — 原文：https://arxiv.org/abs/2611.34887v1</description>
-</item>
-<item>
-<title>Nvidia was right to bring back Jensen Huang, writes Sarah Guo</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_e63c50b367bc</link>
-<guid isPermaLink="false">evt_e63c50b367bc</guid>
-<pubDate>Thu, 26 Nov 2026 20:39:05 +0000</pubDate>
-<category>industry</category>
-<description>来源：techcrunch_ai · verge_ai · hackernews — 原文：https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo</description>
-</item>
-<item>
-<title>sensenova/SenseNova-U1.6-8B-MoT</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_500926209d0c</link>
-<guid isPermaLink="false">evt_500926209d0c</guid>
-<pubDate>Wed, 25 Nov 2026 20:50:24 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · text-to-image · 下载 297 · 收藏 67 — 来源：qbitai · huggingface — 原文：https://huggingface.co/sensenova/SenseNova-U1.6-8B-MoT</description>
-</item>
-<item>
-<title>career-ops-hq/career-ops — Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_28f9393549e3</link>
-<guid isPermaLink="false">evt_28f9393549e3</guid>
-<pubDate>Thu, 26 Nov 2026 16:53:59 +0000</pubDate>
-<category>open_source</category>
-<description>Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin. · topics: agent-skills, ai-agent, ai-job-search, ats, career, career-ops · ⭐ 85,016 · JavaScript — 来源：arxiv · github — 原文：https://github.com/career-ops-hq/career-ops</description>
-</item>
-<item>
-<title>Who Is Ego? Scaling Cross-View Camera Wearer Identification and Segmentation beyond Humans</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_197dc8b3ac4d</link>
-<guid isPermaLink="false">evt_197dc8b3ac4d</guid>
-<pubDate>Wed, 25 Nov 2026 18:10:24 +0000</pubDate>
-<category>research</category>
-<description>A first-person (ego) image reveals what a camera sees, but not who or what carries it. Given a synchronized third-person (exo) image, camera wearer identification asks who is ego: which candidate carries the ego camera? We extend this task beyond humans to robots, vehicles, animals, and drones, and broaden its spatial scope (where is ego) from selecting a provided candidate mask to wearer segmentation with absence prediction and mutual camera localization across ego-exo views. We introduce FindEgo-1M, comprising 1.16M real and simulated ego-exo pairs across 12 wearer types, 17 domains, and 111 — 来源：hackernews · mit_tr_ai · arxiv — 原文：https://arxiv.org/abs/2611.34489v1</description>
-</item>
-<item>
-<title>Where scientists draw the line on AI agents</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_6fd4c32fe34a</link>
-<guid isPermaLink="false">evt_6fd4c32fe34a</guid>
-<pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
-<category>agents</category>
-<description>来源：hf_blog · github · arxiv — 原文：https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</description>
-</item>
-<item>
-<title>One guy is doing an hunger strike at Anthropic, currently in his 3rd day</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_38c61351fe0d</link>
-<guid isPermaLink="false">evt_38c61351fe0d</guid>
-<pubDate>Thu, 26 Nov 2026 16:55:15 +0000</pubDate>
-<category>industry</category>
-<description>来源：hackernews · techcrunch_ai — 原文：https://twitter.com/ElliotC1/status/2125689373337489419</description>
 </item>
 </channel>
 </rss>

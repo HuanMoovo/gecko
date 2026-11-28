@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>按事件热度筛选：独立来源越多越靠前（半衰期 18h）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:51:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 05:43:06 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed-top.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>earthtojake/text-to-cad — Design physical products with AI</title>
@@ -16,6 +16,14 @@
 <description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
 </item>
 <item>
+<title>Alissonerdx/TE-PK-Minimax-H3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a5e9f5c182ff</link>
+<guid isPermaLink="false">evt_a5e9f5c182ff</guid>
+<pubDate>Sat, 28 Nov 2026 01:53:23 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · model · 下载 994 · 收藏 82 — 来源：arxiv · huggingface · github — 原文：https://huggingface.co/Alissonerdx/TE-PK-Minimax-H3</description>
+</item>
+<item>
 <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_9134491ec669</link>
 <guid isPermaLink="false">evt_9134491ec669</guid>
@@ -24,36 +32,12 @@
 <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China. — 来源：verge_ai · huggingface · hackernews · techcrunch_ai · nvidia_blog · arxiv — 原文：https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</description>
 </item>
 <item>
-<title>nokeepai/Inkling-2-Mini-Unbound-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
-<guid isPermaLink="false">evt_99ccc673a30f</guid>
-<pubDate>Fri, 27 Nov 2026 05:41:24 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 157,746 · 收藏 148 — 来源：huggingface — 原文：https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF</description>
-</item>
-<item>
-<title>Inside the AI Training Data Market — Gabe Greenberg, G2i</title>
+<title>[AINews] Inside the exploding Coding Data Market</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_197dc8b3ac4d</link>
 <guid isPermaLink="false">evt_197dc8b3ac4d</guid>
-<pubDate>Fri, 27 Nov 2026 22:19:18 +0000</pubDate>
+<pubDate>Sat, 28 Nov 2026 03:45:59 +0000</pubDate>
 <category>infrastructure</category>
-<description>A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger... — 来源：hackernews · mit_tr_ai · arxiv · latent_space — 原文：https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/</description>
-</item>
-<item>
-<title>Dungeons and Dragons maker will pass AI settlement money to authors</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_70f3d3a63449</link>
-<guid isPermaLink="false">evt_70f3d3a63449</guid>
-<pubDate>Fri, 27 Nov 2026 17:05:45 +0000</pubDate>
-<category>industry</category>
-<description>来源：techcrunch_ai · arxiv · arstechnica_ai · hackernews — 原文：https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/</description>
-</item>
-<item>
-<title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_02a088434703</link>
-<guid isPermaLink="false">evt_02a088434703</guid>
-<pubDate>Thu, 26 Nov 2026 17:11:29 +0000</pubDate>
-<category>foundation_models</category>
-<description>来源：hf_blog · hackernews — 原文：https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</description>
+<description>November 27, 2026 — How frontier labs buy training data. — 来源：hackernews · mit_tr_ai · arxiv · latent_space — 原文：https://latent.space/p/ainews-inside-the-exploding-coding-data-market/</description>
 </item>
 </channel>
 </rss>

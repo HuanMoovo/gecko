@@ -5,7 +5,7 @@
 <link>https://HuanMoovo.github.io/gecko/</link>
 <description>AI 前沿情报聚合 · 事件追踪 · 趋势雷达 · 每日智能报告（中/英/日）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:51:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 05:43:06 +0000</lastBuildDate>
 <atom:link href="https://HuanMoovo.github.io/gecko/data/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>earthtojake/text-to-cad — Design physical products with AI</title>
@@ -14,6 +14,14 @@
 <pubDate>Fri, 27 Nov 2026 21:07:34 +0000</pubDate>
 <category>open_source</category>
 <description>Design physical products with AI · topics: agents, ai-agents, cad, mechanical-engineering, robotics, step · ⭐ 27,536 · Python — 来源：hackernews · techcrunch_ai · qbitai · github · verge_ai · arxiv — 原文：https://github.com/earthtojake/text-to-cad</description>
+</item>
+<item>
+<title>Alissonerdx/TE-PK-Minimax-H3</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_a5e9f5c182ff</link>
+<guid isPermaLink="false">evt_a5e9f5c182ff</guid>
+<pubDate>Sat, 28 Nov 2026 01:53:23 +0000</pubDate>
+<category>open_source</category>
+<description>Hugging Face 模型 · model · 下载 994 · 收藏 82 — 来源：arxiv · huggingface · github — 原文：https://huggingface.co/Alissonerdx/TE-PK-Minimax-H3</description>
 </item>
 <item>
 <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
@@ -32,28 +40,20 @@
 <description>Hugging Face 模型 · text-generation · 下载 348 · 收藏 88 — 来源：huggingface — 原文：https://huggingface.co/ai-sage/GigaChat4-37B-A4B</description>
 </item>
 <item>
+<title>[AINews] Inside the exploding Coding Data Market</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_197dc8b3ac4d</link>
+<guid isPermaLink="false">evt_197dc8b3ac4d</guid>
+<pubDate>Sat, 28 Nov 2026 03:45:59 +0000</pubDate>
+<category>infrastructure</category>
+<description>November 27, 2026 — How frontier labs buy training data. — 来源：hackernews · mit_tr_ai · arxiv · latent_space — 原文：https://latent.space/p/ainews-inside-the-exploding-coding-data-market/</description>
+</item>
+<item>
 <title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_2d7f8b4f8454</link>
 <guid isPermaLink="false">evt_2d7f8b4f8454</guid>
 <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
 <category>industry</category>
 <description>来源：hf_blog — 原文：https://huggingface.co/blog/video-trainium3</description>
-</item>
-<item>
-<title>nokeepai/Inkling-2-Mini-Unbound-GGUF</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_99ccc673a30f</link>
-<guid isPermaLink="false">evt_99ccc673a30f</guid>
-<pubDate>Fri, 27 Nov 2026 05:41:24 +0000</pubDate>
-<category>open_source</category>
-<description>Hugging Face 模型 · image-text-to-text · 下载 157,746 · 收藏 148 — 来源：huggingface — 原文：https://huggingface.co/nokeepai/Inkling-2-Mini-Unbound-GGUF</description>
-</item>
-<item>
-<title>Inside the AI Training Data Market — Gabe Greenberg, G2i</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_197dc8b3ac4d</link>
-<guid isPermaLink="false">evt_197dc8b3ac4d</guid>
-<pubDate>Fri, 27 Nov 2026 22:19:18 +0000</pubDate>
-<category>infrastructure</category>
-<description>A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger... — 来源：hackernews · mit_tr_ai · arxiv · latent_space — 原文：https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/</description>
 </item>
 <item>
 <title>Dungeons and Dragons maker will pass AI settlement money to authors</title>
@@ -102,6 +102,22 @@
 <pubDate>Fri, 27 Nov 2026 08:28:08 +0000</pubDate>
 <category>foundation_models</category>
 <description>来源：aws_ml · hackernews · qbitai · simonwillison — 原文：https://twitter.com/RealAstropulse/status/2126119408997466389</description>
+</item>
+<item>
+<title>Woman evicted after landlord's AI assistant told her she could delay rent</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_4e825df2be8b</link>
+<guid isPermaLink="false">evt_4e825df2be8b</guid>
+<pubDate>Sat, 28 Nov 2026 01:32:56 +0000</pubDate>
+<category>industry</category>
+<description>来源：hackernews — 原文：https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</description>
+</item>
+<item>
+<title>datasette-charts 0.4a0</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_68cfb35a007a</link>
+<guid isPermaLink="false">evt_68cfb35a007a</guid>
+<pubDate>Fri, 27 Nov 2026 23:57:17 +0000</pubDate>
+<category>research</category>
+<description>Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic. I've also added a website for the plugin, at charts.datasette.io . The new website includes a tutorial for plugin authors , and a gallery showing all of the core cha — 来源：simonwillison — 原文：https://simonwillison.net/2026/Nov/27/datasette-charts/</description>
 </item>
 <item>
 <title>ai-sage/GigaChat4-708B-A41B</title>
@@ -312,20 +328,20 @@
 <description>来源：hackernews · techcrunch_ai — 原文：https://twitter.com/ElliotC1/status/2125689373337489419</description>
 </item>
 <item>
-<title>As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec74e9ba2187</link>
-<guid isPermaLink="false">evt_ec74e9ba2187</guid>
-<pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
-<category>industry</category>
-<description>On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</description>
-</item>
-<item>
 <title>Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk</title>
 <link>https://HuanMoovo.github.io/gecko/#/event/evt_04f0d95eea48</link>
 <guid isPermaLink="false">evt_04f0d95eea48</guid>
 <pubDate>Wed, 25 Nov 2026 18:18:53 +0000</pubDate>
 <category>research</category>
 <description>We study risk-sensitive reinforcement learning in finite discounted infinite-horizon Markov Decision Processes with recursive entropic risk measures (ERM), parameterized by $β\neq 0$. We consider both risk-averse ($β&gt;0$) and risk-seeking ($β&lt;0$) settings. We consider the offline RL setting, where the agent is provided with a fixed dataset and wishes to learn a near-optimal policy using this dataset. We introduce a model-based algorithm, called ERM Value Iteration Lower Confidence Bound (ERM-VI-LCB) and derive a PAC-type bound on its sample complexity. We also establish a corresponding lower bo — 来源：arxiv · simonwillison — 原文：https://arxiv.org/abs/2611.34840v1</description>
+</item>
+<item>
+<title>As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+<link>https://HuanMoovo.github.io/gecko/#/event/evt_ec74e9ba2187</link>
+<guid isPermaLink="false">evt_ec74e9ba2187</guid>
+<pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+<category>industry</category>
+<description>On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time. — 来源：techcrunch_ai — 原文：https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</description>
 </item>
 <item>
 <title>Group chat where your AI talks behind your back</title>
@@ -390,22 +406,6 @@
 <pubDate>Thu, 26 Nov 2026 10:07:55 +0000</pubDate>
 <category>robotics</category>
 <description>全栈方案破解工业机器人连续作业难题 — 来源：qbitai — 原文：https://www.qbitai.com/2026/11/512972.html</description>
-</item>
-<item>
-<title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_d73563559186</link>
-<guid isPermaLink="false">evt_d73563559186</guid>
-<pubDate>Thu, 26 Nov 2026 09:54:40 +0000</pubDate>
-<category>agents</category>
-<description>A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off "the private chat histories of more than 21 million U.S. accounts - […] — 来源：verge_ai — 原文：https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</description>
-</item>
-<item>
-<title>deepset-ai/haystack — Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula</title>
-<link>https://HuanMoovo.github.io/gecko/#/event/evt_dba5a2ecd3d4</link>
-<guid isPermaLink="false">evt_dba5a2ecd3d4</guid>
-<pubDate>Thu, 26 Nov 2026 17:18:09 +0000</pubDate>
-<category>open_source</category>
-<description>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems. · topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents · ⭐ 27,118 · Python — 来源：arxiv · github — 原文：https://github.com/deepset-ai/haystack</description>
 </item>
 </channel>
 </rss>
